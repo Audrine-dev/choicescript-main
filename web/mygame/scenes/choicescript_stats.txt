@@ -1,0 +1,99 @@
+You are ${name}, a soul carved by silence and shadow, caught between what you are and what you’ve yet to remember.
+Your ${hair_structure} ${hair_color} hair falls ${hair_length}, clinging to you like whispers from a forgotten past.
+Eyes—${eye_color}, unreadable—carry echoes of something ancient, something lost.
+You stand ${height}, clothed in ${appearance}, though nothing you wear quite masks the strange stillness you carry.
+A crescent-shaped birthmark marks your ${birthmark}, as though the moon itself once laid claim to you.
+And in the way you move—${posture}, quiet, deliberate—there’s a sense that the world might shift when you do.
+
+*if magic_awakened
+	*stat_chart
+		text echoweaving
+		text whisperbinding
+		text soulrooting
+		text bloodspell
+
+*if not(magic_awakened)
+	You feel... strange. Something is coming.
+
+*stat_chart
+	text willpower
+*if willpower = 1
+	[i]You are fragile, easily overwhelmed by the world around you.[/i]
+
+*if willpower = 2
+	[i]You're shaken—still cracking under pressure but holding on.[/i]
+
+*if willpower = 3
+	[i]You’re grounded. Fear doesn’t control you anymore.[/i]
+
+*if willpower = 4
+	[i]You're unyielding. The world can't break you.[/i]
+
+*if willpower = 5
+	[i]You're ironhearted. You decide what breaks you. Nothing else does.[/i]
+
+*stat_chart	
+	text empathy
+*if empathy = 1
+	[i]You feel distant, unable to connect with the emotions of others.[/i]
+
+*if empathy = 2
+	[i]You’re aware. You can pick up on the basic emotions around you.[/i]
+
+*if empathy = 3
+	[i]Compassion flows naturally. You can comfort and connect with ease.[/i]
+
+*if empathy = 4
+	[i]You're soul-touched. You feel others' emotions as though they're your own.[/i]
+
+*if empathy = 5
+	[i]You become a mirror to others. They see themselves in you—and that gives you power.[/i]
+
+*stat_chart	
+	text veilsense
+*if veilsense = 1
+	[i]The world feels flat, mundane, like you can’t see anything beyond the obvious.[/i]
+
+*if veilsense = 2
+	[i]Something stirs at the edge of your senses. You feel a presence, a shift.[/i]
+
+*if veilsense = 3
+	[i]You see what others miss—ghosts, hidden truths, intentions.[/i]
+
+*if veilsense = 4
+	[i]The veil responds to you. You hear whispers, have vivid dreams, receive warnings.[/i]
+
+*if veilsense = 5
+	[i]You no longer look at the world—you look through it. You see beyond the veil itself.[/i]
+
+*stat_chart
+	text stoneveil
+*if stoneveil = 1
+	[i]You are open, too open—your heart spills before you can stop it, and it leaves you raw.[/i]
+
+*if stoneveil = 2
+	[i]You try to hold back, but your emotions slip through the cracks. You’re learning restraint, slowly.[/i]
+
+*if stoneveil = 3
+	[i]You keep your heart guarded, but not locked. You know when to speak, and when to stay silent.[/i]
+
+*if stoneveil = 4
+	[i]You are the quiet wall others lean against—strong, composed, unreadable.[/i]
+
+*if stoneveil = 5
+	[i]You are impenetrable. Nothing escapes unless you choose it to. You’ve become the fortress, the storm held still behind stone.[/i]
+
+*choice
+	#Relationships
+		*goto relationship_stats
+
+*label relationship_stats
+[b]Family Relationships[/b]
+
+Your relationships with your family shape who you are.
+
+*stat_chart
+	percent mother_rel Relationship with Mother
+	percent father_rel Relationship with Father
+
+

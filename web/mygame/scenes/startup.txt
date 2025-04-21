@@ -1,0 +1,108 @@
+*title The Last Witch: Shadows of the Ashwood Trials
+*author Audrine
+*scene_list
+  startup
+  chapter1
+  chapter2
+
+*create echoweaving 0
+*create whisperbinding 0
+*create soulrooting 0
+*create bloodspell 0
+*create willpower 1
+*create empathy 1
+*create veilsense 1
+*create stoneveil 1
+*create magic_awakened false
+*create name ""
+*create gender ""
+*create person_word ""
+*create hair_color ""
+*create hair_length ""
+*create eye_color ""
+*create height ""
+*create pronouns ""
+*create hair_structure ""
+*create appearance ""
+*create birthmark ""
+*create posture ""
+*create mother_rel 0
+*create father_rel 0
+
+*label prologue
+
+[b]Prologue[/b]
+
+Run! [i]Run[/i]! [b]RUN[/b]!!
+
+That was the only coherent thought pulsing through your head like a drumbeat, loud and frantic, drowning out everything else—every sob, every aching step, 
+every scream you'd left behind.
+
+You could hear them.
+
+The thunder of hooves pounding into the mud, the crack and snap of branches breaking beneath the weight of beasts and men, 
+the savage howls of the hunting dogs hungry for your scent.
+
+[i]They[/i] were close—closer than before. So close that you swore you could feel their breath on the back of your neck.
+
+Your tiny feet stumbled over roots and slipped on slick, rain-soaked leaves. Each step was agony, each breath a blade in your lungs. You were soaked to the bone, 
+hair plastered to your face, legs burning.
+
+But you kept going. You had to.
+
+Stopping wasn’t an option.
+
+Stopping meant death.
+
+You didn’t know how long you’d been running. The world had blurred into dark shapes and cold rain, into panic and the deafening roar of your heartbeat. 
+All you knew was that behind you were the people who wanted you dead—and in front of you, only the unknown.
+
+*page_break Keep running...
+
+Your body screamed for rest, for mercy, for a warm hand to pull you into safety. But all you had was terror. Cold, suffocating terror.
+
+And then — her face.
+
+Through the panic, through the pain, she broke through like sunlight in a storm: your mother. Her warm smile, her voice like honey and lullabies, 
+the gentle way her fingers brushed the hair from your face when you cried.
+
+You could still feel the ghost of her touch, could almost hear her whisper:
+
+[i]"It’s going to be alright, little star. I’ll keep you safe."[/i]
+
+And she did. She kept her promise.
+
+She gave everything—[i]everything[/i]—to buy you this one chance to live.
+
+You didn’t understand it then. Not really. How could a child possibly understand that kind of love? That kind of sacrifice?
+
+But deep down, even in your fear-clouded, rain-soaked mind, you knew.
+
+That was the last time you would ever see her.
+
+And you ran with that grief carved into your bones.
+
+A low branch slashed across your forehead, snapping you back to the moment. Hot blood spilled down your brow, mixing with rain and tears, 
+stinging your eyes. You wiped it away with trembling fingers.
+
+You pressed yourself against a tree, chest heaving, heart pounding.
+
+You were alone now. No one left to carry you. No one left to hold your hand. Only you, your fear, and the bloodied legacy of a 
+mother who had once called you her light, 
+her [i]little star[/i].
+
+And in that moment, you had to choose.
+
+[i]Hide… or run.
+
+Fight… or fall.[/i]
+
+Because [i]they[/i] were coming.
+
+And this night would be the night that changed [i]everything[/i].
+
+*page_break End of Prologue
+*goto_scene chapter1
+
+
+

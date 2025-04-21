@@ -1,0 +1,501 @@
+*label chapter1
+
+[b]Chapter 1 - The Dream’s End[/b]
+
+The world shifts, the edges of the nightmare fading like smoke as you gasp for breath, the cold air sharp against your skin. 
+You wake, the remnants of the dream still clinging to you, a dark fog that refuses to lift. The remnants of pain linger a deep ache that spreads through your body.
+The sheets are tangled around you, damp with sweat, clinging to your skin like chains. The silence of the small, dimly lit room presses down on you. 
+
+You don't know where you are—not anymore. The only thing that feels familiar is the cold that seeps into your bones, 
+and the disorienting ache that twists your stomach. 
+Your pulse races, heart still hammering from the horror of the dream. Your fingers tremble as you reach up, brushing the tangled strands of hair from your face. 
+Your hair is damp, sticking to your forehead, and your skin feels clammy to the touch.
+The nightmare lingers, fading slowly, but its shadows cling to the edges of your thoughts. 
+You don’t know what’s real anymore. The pain. The loss. Your mother’s face is too blurry to be sure. 
+A fragment. Only a ghost. Was she [i]real[/i]? Did she even [i]exist[/i]?
+
+You shake your head, trying to push away the weight of it all. But it’s still there, pressing at the back of your mind, clawing at the fragile walls of your sanity.
+
+Your bare feet meet the cold wooden floor, grounding you in reality for just a moment. 
+The faint smell of damp earth lingers in the air—the scent of the forest that you’ve learned to live in. 
+The rain outside taps softly against the window, the rhythm soothing in its own way.
+
+You sit for a moment in the dim light, your heart still racing. You can feel the tension in your body, the tightness in your chest, 
+the feeling that something is watching. 
+Or maybe that’s just your mind playing tricks on you again.
+
+Slowly, you push yourself to your feet, muscles stiff, as if your body hasn't fully woken up yet. The floor creaks beneath you, a constant reminder of your solitude. 
+You take a deep breath and look down at your own reflection in the cracked mirror hanging crookedly on the wall.
+Now, as your eyes meet your reflection, you’re left to wonder—[b]who are you?[/b]
+
+*page_break
+
+*label gender
+What is your gender?
+
+*choice
+	#Female
+		*set gender "female"
+		*set person_word "woman"
+		You are female, a young woman of striking beauty and strength, but with a mystery lingering in her eyes.
+		*goto female_name
+
+	#Male
+		*set gender "male"
+		*set person_word "man"
+		You are male, a young man marked by quiet strength and sharp features, with a storm of questions hidden behind his eyes.
+		*goto male_name
+
+	#Non-binary
+		*set gender "non-binary"
+		*set person_word "person"
+		You are non-binary, embracing an identity that exists beyond the conventional. Your strength is not defined by gender.
+		*goto nb_name
+
+	#Custom
+		*set gender "custom"
+		*set person_word "person"
+		What is your gender identity? 
+		*input_text gender
+		Your gender identity is ${gender}. It’s something unique to you.
+		*goto nb_name
+
+*page_break
+
+*label female_name
+What is [i]your[/i] name?
+
+*choice
+	#Elara
+		*set name "Elara"
+		Your name is Elara, a name that carries the weight of mysteries yet to be uncovered.
+		*goto pronouns
+
+	#Aeris
+		*set name "Aeris"
+		Your name is Aeris, a slightly softer tone, but still steeped in the same heavy legacy.
+		*goto pronouns
+
+	#Nyx
+		*set name "Nyx"
+		Her name is Nyx, mysterious and ancient, evoking the feeling of shadows long forgotten.
+		*goto pronouns
+
+	#Lira
+		*set name "Lira"
+		Your name is Lira, light and melodic, but with a hidden depth.
+		*goto pronouns
+
+	#Custom Name
+		*set name ""
+		What is your name? 
+		*input_text name
+		Your name is ${name}, a name you’ve chosen for yourself. It feels uniquely yours.
+		*goto pronouns
+
+*page_break
+
+*label male_name
+What is [i]your[/i] name?
+
+*choice
+	#Alden
+		*set name "Alden"
+		Your name is Alden, a name that echoes like a forgotten oath, sturdy and quiet, with roots buried deep in lost history.
+		*goto pronouns
+
+	#Cael
+		*set name "Cael"
+		Your name is Cael, a name that drifts like smoke through the trees—soft, strange, and born beneath a restless sky.
+		*goto pronouns
+
+	#Thorne
+		*set name "Thorne"
+		Your name is Thorne, a name that cuts as much as it protects, rough around the edges and wrapped in warning.
+		*goto pronouns
+
+	#Custom Name
+		*set name ""
+		What is your name? 
+		*input_text name
+		Your name is ${name}, a name you’ve chosen for yourself. It feels uniquely yours.
+		*goto pronouns
+
+*page_break
+
+*label nb_name
+What is [i]your[/i] name?
+
+*choice
+	#Riven
+		*set name "Riven"
+		Your name is Riven, a name split by sorrow and sharpened by survival, like a blade broken once and reforged in fire.
+		*goto pronouns
+
+	#Marin
+		*set name "Marin"
+		Your name is Marin, a name that moves like water—gentle on the surface, but hiding depths no one has dared to reach.
+		*goto pronouns
+
+	#Sage
+		*set name "Sage"
+		Your name is Sage, a name whispered in quiet places, carrying the weight of wisdom not yet understood.
+		*goto pronouns
+
+	#Custom Name
+		*set name ""
+		What is your name? 
+		*input_text name
+		Your name is ${name}, a name you’ve chosen for yourself. It feels uniquely yours.
+		*goto pronouns
+
+*page_break
+
+*label pronouns
+
+What pronouns do you use?
+
+*choice
+	#She/Her
+		*set pronouns "she/her"
+		You use she/her pronouns, fitting your feminine presentation and the way others perceive you.
+		*goto hair_color
+
+	#He/Him
+		*set pronouns "he/him"
+		You use he/him pronouns, expressing a masculinity that suits your name and appearance.
+		*goto hair_color
+
+	#They/Them
+		*set pronouns "they/them"
+		You use they/them pronouns, embracing a non-binary identity that’s unique to you.
+		*goto hair_color
+
+	#Custom Pronouns
+		*set pronouns ""
+		What pronouns do you use? 
+		*input_text pronouns
+		You use ${pronouns} pronouns, as chosen by you.
+		*goto hair_color
+
+*page_break
+
+*label hair_color
+What color is your hair?
+
+*choice
+	#Blonde, shining like the sun.
+		*set hair_color "blonde"
+		Your hair is blonde, shining like golden sunlight, cascading in soft waves down her back.
+		*goto hair_structure
+
+	#Dark brown, almost black, as if dipped in dusk and quiet mystery.
+		*set hair_color "dark brown"
+		Your hair is dark brown, almost black, as if dipped in dusk and quiet mystery, framing your face with an aura of mystery.
+		*goto hair_structure
+
+	#Light brown, the color of quiet paths and whispered stories.
+		*set hair_color "light brown"
+		Your hair is a light brown, soft and natural, flowing like the autumn breeze, with a quiet beauty that carries a hint of grounded strength and effortless grace.
+		*goto hair_structure
+
+	#Black, as dark as the midnight sky, untouched by moonlight.
+		*set hair_color "black"
+		Your hair is black, deep and rich like the night sky, giving you an enigmatic presence.
+		*goto hair_structure
+
+	#Red, the color of passion, peril, and ancient magic.
+		*set hair_color "red"
+		Your hair is a fiery red, bold and unmistakable, with magical allure that add to your wild beauty.
+		*goto hair_structure
+	
+	#White, like frosted glass—cold, beautiful, and untouchable.
+		*set hair_color "white"
+		Your hair is a radiant white, like untouched snow or the first light of dawn, carrying an ethereal beauty that whispers of mysteries untold.
+		*goto hair_structure
+
+	#Silver, soft and luminous, like threads of starlight captured in time.
+		*set hair_color "silver"
+		Your hair is a shimmering silver, like starlight on a cloudless night, both ancient and timeless, with an air of quiet mystery and regal allure.
+		*goto hair_structure
+
+
+*page_break
+
+*label hair_structure
+What is the structure of your hair?
+
+*choice
+	#Straight, sleek and smooth.
+		*set hair_structure "straight"
+		Your hair is straight, sleek, and smooth, falling softly around your face in perfect alignment.
+		*goto hair_length
+
+	#Wavy, wild and untamed.
+		*set hair_structure "wavy"
+		Your hair is wavy, wild and untamed, flowing around your shoulders in a cascade of natural movement.
+		*goto hair_length
+
+	#Curly, thick and voluminous.
+		*set hair_structure "curly"
+		Your hair is curly, thick and voluminous, with a life of its own, bouncing with every step.
+		*goto hair_length
+
+	#Messy, unkempt, like you’ve just come from a storm.
+		*set hair_structure "messy"
+		Your hair is messy and unkempt, as though you’ve just emerged from a storm—wild and free.
+		*goto hair_length
+
+*page_break
+
+*label hair_length
+What is the length of your hair?
+
+*choice
+	#Extremely short, not even reaching your ears.
+		*set hair_length "extremely short"
+		Your hair is cropped close, barely more than a whisper against your skin—sharp, clean, deliberate. 
+		There’s no softness to hide behind, no curtain to shield you from the world. And yet, that’s its power. 
+		It lays everything bare: the curve of your skull, the fierceness in your eyes, the strength you don’t speak of. 
+		Every inch of it says survival. Every shadow it casts is a choice. You wear it like armor, and it suits you.
+		*goto eye_color
+
+	#Short, barely reaching your shoulders.
+		*set hair_length "short"
+		Your hair is short, barely reaching your shoulders, styled simply and without fuss. 
+		The strands barely reach your shoulders like whispers of who you used to be—soft, tangled memories catching the light in fleeting glimmers. 
+		Each lock, whether windblown or wet with rain, carries the weight of days survived and secrets buried too deep to speak. 
+		There is something untamed about it, something the world tried to break but couldn't. 
+		Whether shining like sunlight, shadowed like midnight, or gleaming like silver thread, your hair is not just part of you—it’s a story, 
+		written strand by strand, in silence and storm.
+		*goto eye_color
+
+	#Medium, falling just past your shoulders.
+		*set hair_length "medium"
+		Your hair is medium lenght, falling just past your shoulders, styled quite simply and without too much fuss. 
+		The strands fall over your shoulders like whispers of who you used to be—soft, tangled memories catching the light in fleeting glimmers. 
+		Each lock, whether windblown or wet with rain, carries the weight of days survived and secrets buried too deep to speak. 
+		There is something untamed about it, something the world tried to break but couldn't. 
+		Whether shining like sunlight, shadowed like midnight, or gleaming like silver thread, your hair is not just part of you—it’s a story, 
+		written strand by strand, in silence and storm.
+		*goto eye_color
+
+	#Long, cascading all the way down your back.
+		*set hair_length "long"
+		Your hair is long, cascading down your back. 
+		The strands fall over your shoulders like whispers of who you used to be—soft, tangled memories catching the light in fleeting glimmers. 
+		Each lock, whether windblown or wet with rain, carries the weight of days survived and secrets buried too deep to speak. 
+		There is something untamed about it, something the world tried to break but couldn't. 
+		Whether shining like sunlight, shadowed like midnight, or gleaming like silver thread, your hair is not just part of you—it’s a story, 
+		written strand by strand, in silence and storm.		
+		*goto eye_color
+
+	#Very long, reaching to your waist or beyond.
+		*set hair_length "very long"
+		Your hair is long and flows like a river untamed, cascading down your back in waves that catch the light like woven silk. 
+		It moves with you—trailing, whispering, a living veil of memories and untold stories. 
+		There’s something almost mythical about the way it drapes around you, as if it remembers a time before you did. 
+		People notice it first, but they remember the way it made you look like something out of a dream—or a warning.	
+		*goto eye_color
+
+*page_break
+
+*label eye_color
+What color are your eyes?
+
+*choice
+	#Green, piercing and sharp.
+		*set eye_color "green"
+		Your eyes are a striking shade of green, sharp and piercing, as though they can see right through the world. There is something untamed, 
+		like the heart of a deep forest untouched by man. They glint with secrets—half-truths and wild things that don’t like to be seen. 
+		There’s something ancient behind them, something that waits, watches, and remembers.
+		*goto height
+
+	#Amber, warm and comforting.
+		*set eye_color "amber"
+		Your eyes are amber, warm and comforting, radiating kindness and a deep understanding. They are somewhat strange, like sunlight filtered through smoke. 
+		There’s comfort in them, yes—but also something otherworldly. A flicker of fire caught behind glass, hinting at a soul both kind and dangerous.
+		*goto height
+
+	#Grey, distant and cold.
+		*set eye_color "grey"
+		Your eyes are grey, distant and cold, as though lost in thought, separated from the world around you. They are like stormclouds gathering on the horizon. 
+		They give nothing away, a mirror to the world’s shadows. But in that stillness lies a power, patient and waiting, like a blade hidden beneath velvet.
+		*goto height
+
+	#Blue, as deep as the ocean.
+		*set eye_color "blue"
+		Your eyes are blue, deep like the ocean before a storm, mysterious and calm with an unspoken depth. 
+		They hold both calm and chaos, a stillness that could shift at any moment. People often get lost in them, unaware they've been seen before they even spoke.
+		*goto height
+
+	#Hazel, a mix of green and brown.
+		*set eye_color "hazel"
+		Your eyes are hazel, a blend of green and brown that shifts with the light, always somewhere in between, reflecting your emotions.  
+		They are the color of change, of dusk and dawn, never quite revealing all at once. They see more than they should, and reveal less than they know.
+		*goto height
+	
+	#Heterochromia — one eye with a different color from the other.
+		*set eye_color "heterochromia"
+		*goto heterochromia_choice
+
+*label heterochromia_choice
+Which two colors are your eyes?
+
+*choice
+	#One blue, one green.
+		*set eye_color "one blue, one green"
+		Your eyes are strikingly different—one a deep blue, the other a vivid green. Few can forget them once they’ve met your gaze.
+		*goto height
+
+	#One grey, one amber.
+		*set eye_color "one grey, one amber"
+		You bear one cool grey eye and one warm amber eye—a pairing that feels like ice and fire.
+		*goto height
+
+	#One hazel, one brown.
+		*set eye_color "one hazel, one brown"
+		Your eyes—one hazel, one brown—carry a natural balance, both grounded and curious.
+		*goto height
+
+	#Custom heterochromia colors.
+		*set eye_color ""
+		Describe your eye colors: 
+		*input_text eye_color
+		Your eyes are ${eye_color}, uniquely yours and unforgettable.
+		*goto height
+
+
+*page_break
+
+*label height
+What is your height?
+
+*choice
+	#Short, around 5'0" (152 cm).
+		*set height "short"
+		You stand at 5'0" (152 cm), small yet unyielding. Your presence is far greater than your height suggests. 
+		There’s a coiled power in the way you move—like a storm held in a bottle. People underestimate you, and that’s their first mistake.  
+		*goto appearance
+
+	#Average height, around 5'5" (165 cm).
+		*set height "average"
+		You are of average height, around 5'5" (165 cm), easily blending into the crowd but carrying an unmistakable aura. 
+		People tent to overlook you until you speak, or simply look their way. Something about you hums beneath the surface, quiet but impossible to ignore.  
+		*goto appearance
+
+	#Tall, standing at 6'0" (183 cm).
+		*set height "tall"
+		You stand tall, around 6'0" (183 cm), your presence commanding and unmistakable. 
+		You have that kind of presence that draws attention before you even say a word. 
+		There’s strength in your silence and clarity in your stride—like someone born to walk into fire.  
+		*goto appearance
+
+	#Very tall, over 6'3" (190 cm).
+		*set height "very tall"
+		You are very tall, over 6'3" (190 cm), your height a striking feature that makes you impossible to miss. 
+		The world seems to shift around you. People part without realizing it. 
+		Your height is not just a feature—it’s a warning, a promise, and a shadow that stretches long.  
+		*goto appearance
+
+*page_break
+
+*label appearance
+What is your general appearance?
+
+*choice
+	#Worn clothes that speak of your struggles—frayed edges and faded colors.
+		*set appearance "worn clothes"
+		You wear worn clothes—frayed edges, faded colors. They speak of your struggles and survival, marking the hardships you’ve endured.
+		*goto birthmark
+
+	#Refined, practical clothes—neat and tidy, but not overly extravagant.
+		*set appearance "refined clothes"
+		Your clothes are practical and refined, neat and tidy without being overly extravagant—well-worn but cared for.
+		*goto birthmark
+
+	#Simple, rugged clothes—fit for travel and adventure.
+		*set appearance "rugged clothes"
+		You wear simple, rugged clothes, meant for travel and adventure—nothing fancy, just functional and weathered.
+		*goto birthmark
+
+	#Elegant attire—finely made with intricate details.
+		*set appearance "elegant clothes"
+		You wear elegant attire, finely made with intricate details. There’s a dignity to the way you dress, graceful and proud.
+		*goto birthmark
+
+*page_break
+
+*label birthmark
+Where do you have your birthmark?
+
+*choice
+	#A faint crescent-shaped birthmark on your wrist.
+		*set birthmark "wrist"
+		A faint crescent-shaped birthmark is visible on your wrist, a small yet mysterious mark that hints at a hidden history.
+		*goto posture
+
+	#A small crescent-shaped birthmark on your neck, hidden beneath your hair.
+		*set birthmark "neck"
+		A small crescent-shaped birthmark rests on your neck, hidden beneath your hair. It’s subtle but undeniably there.
+		*goto posture
+
+	#A crescent-shaped birthmark on your collarbone.
+		*set birthmark "collarbone"
+		A crescent-shaped birthmark rests just above your collarbone—easily hidden, yet it seems to draw attention when revealed.
+		*goto posture
+
+	#A subtle birthmark on your lower back.
+		*set birthmark "lower back"
+		You have a subtle, crescent-shaped birthmark on your lower back. Most wouldn’t know it’s there, but you’ve always felt it meant something.
+		*goto posture
+
+	#A visible birthmark on your ankle.
+		*set birthmark "ankle"
+		A visible crescent-shaped birthmark wraps gently around your ankle. It’s delicate, but unmistakable—a mark you’ve carried since birth.
+		*goto posture
+
+*page_break
+
+*label posture
+How do you carry yourself?
+
+*choice
+	#With quiet intensity, like you’re always on the edge of something dangerous or magical.
+		*set posture "with quiet intensity"
+		You move with quiet intensity, always seeming to be on the edge of something—something dangerous or magical.
+		*goto chapter1_end
+
+	#Graceful and composed, exuding an air of serene confidence.
+		*set posture "with such a grace"
+		You move gracefully, composed and serene, with a quiet confidence that speaks of inner strength.
+		*goto chapter1_end
+
+	#With a slight slouch, as though the weight of the world rests on your shoulders.
+		*set posture "with a slouch"
+		You move with a slight slouch, burdened by the weight of the world—a quiet strength wrapped in sorrow.
+		*goto chapter1_end
+
+	#Straight and tall, walking with purpose and determination.
+		*set posture "with a purpose"
+		You walk straight and tall, every step filled with purpose and determination, always moving toward something just out of reach.
+		*goto chapter1_end
+
+*page_break
+
+*label chapter1_end
+You are ${name}, a soul carved by silence and shadow, caught between what you are and what you’ve yet to remember.
+Your ${hair_structure} ${hair_color} hair falls ${hair_length}, clinging to you like whispers from a forgotten past.
+Eyes—${eye_color}, unreadable—carry echoes of something ancient, something lost.
+You stand ${height}, clothed in ${appearance}, though nothing you wear quite masks the strange stillness you carry.
+A crescent-shaped birthmark marks your ${birthmark}, as though the moon itself once laid claim to you.
+And in the way you move—${posture}, quiet, deliberate—there’s a sense that the world might shift when you do.
+
+Is that correct?
+*choice
+	#Yes, I’m ready to begin the story.
+		*page_break
+		*goto_scene chapter2
+
+	#No, I want to change my character.
+		*goto gender
