@@ -59,9 +59,6 @@ What is your gender?
 		*input_text gender
 		Your gender identity is ${gender}. It’s something unique to you.
 		*goto nb_name
-	
-	#Skip
-		*goto_scene chapter2
 
 *page_break
 
