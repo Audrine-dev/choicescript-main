@@ -34,12 +34,15 @@ Her hair’s pulled back, wisps escaping at her temples, streaked silver where t
 	#Warm response
 		You step into the kitchen to find the scent of sage and broth thick in the air. Your father stands at the stove, humming tunelessly, 
 		while your mother carefully arranges herbs along the window.
+		
 		“Smells good,” you say, rubbing the sleep from your eyes.
+		
 		Your mother smiles, not looking up.
 		“You always say that when you want the first taste.”
-		“She always gets the first taste,” your father adds with mock offense.
+		
+		“${capital_pronouns} always gets the first taste,” your father adds with mock offense.
 		You lean on the counter, smirking. “Perks of being the favorite.”
-		“Hah! I’m the one who taught her how to cook,” your mother says, nudging a sprig of thyme toward you. “Go on, make yourself useful.”
+		“Hah! I’m the one who taught ${possessive_pronouns} how to cook,” your mother says, nudging a sprig of thyme toward you. “Go on, make yourself useful.”
 		*set mother_rel +95
 		*set father_rel +95
 		*set empathy +2
@@ -51,6 +54,7 @@ Her hair’s pulled back, wisps escaping at her temples, streaked silver where t
 		Your mother gives you a soft smile. “Did you sleep at all?”
 		You shrug. “Some.”
 		Your father watches you, his gaze a little too careful.
+		
 		“We were thinking of heading into town later. Thought you might want to come.”
 		You shake your head. “Not today.”
 		Silence settles. It’s the kind that means they’re worried, but trying not to press.
@@ -65,10 +69,12 @@ Her hair’s pulled back, wisps escaping at her temples, streaked silver where t
 		Your father’s trying to fix the loose leg on one of the chairs again, muttering under his breath like the thing personally insulted him.
 		“That chair’s survived three winters and a bar fight,” you say. “Pretty sure it’s just being dramatic at this point.”
 		He glances up. “If I had a coin for every time you said that about something broken, I could buy us a new one.”
+		
 		Your mother walks in with a basket of folded laundry. “Stop encouraging each other.”
+		
 		You grab an apple from the counter, tossing it from hand to hand.
 		“Wouldn’t dream of it.”
-		“We’re heading out soon to check the traps near the south edge,” your father says. “Storm’s coming in. Stay close today.”
+		“We’re heading out soon to check the traps near the south edge,” your father says. “Bigger storm’s coming in. Stay close today.”
 		You nod, biting into the apple. “I’ll just be around the trees.”
 		They trust that. They always have.
 		*set mother_rel +95
@@ -374,4 +380,3 @@ And thank you for walking with me into the dark.
 Until soon.
 
 [i]Your Audrine[/i]
-

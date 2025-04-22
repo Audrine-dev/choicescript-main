@@ -59,6 +59,9 @@ What is your gender?
 		*input_text gender
 		Your gender identity is ${gender}. It’s something unique to you.
 		*goto nb_name
+	
+	#Skip
+		*goto_scene chapter2
 
 *page_break
 
@@ -157,25 +160,27 @@ What pronouns do you use?
 
 *choice
 	#She/Her
-		*set pronouns "she/her"
+		*set pronouns "she"
+		*set possessive_pronouns "her"
+		*set capital_pronouns "She"
+		*set capital_possessive_pronouns "Her"
 		You use she/her pronouns, fitting your feminine presentation and the way others perceive you.
 		*goto hair_color
 
 	#He/Him
-		*set pronouns "he/him"
+		*set pronouns "he"
+		*set possessive_pronouns "him"
+		*set capital_pronouns "He"
+		*set capital_possessive_pronouns "Him"
 		You use he/him pronouns, expressing a masculinity that suits your name and appearance.
 		*goto hair_color
 
 	#They/Them
-		*set pronouns "they/them"
+		*set pronouns "they"
+		*set possessive_pronouns "them"
+		*set capital_pronouns "They"
+		*set capital_possessive_pronouns "Them"
 		You use they/them pronouns, embracing a non-binary identity that’s unique to you.
-		*goto hair_color
-
-	#Custom Pronouns
-		*set pronouns ""
-		What pronouns do you use? 
-		*input_text pronouns
-		You use ${pronouns} pronouns, as chosen by you.
 		*goto hair_color
 
 *page_break
