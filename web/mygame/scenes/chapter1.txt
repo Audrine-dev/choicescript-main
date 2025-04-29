@@ -497,7 +497,121 @@ Is that correct?
 *choice
 	#Yes, I’m ready to begin the story.
 		*page_break
-		*goto_scene chapter2
+		*goto love_interests
 
 	#No, I want to change my character.
 		*goto gender
+
+*label love_interests
+What about love interests?
+*choice
+	#All of the selectable ones are men.
+		*set sol_pron "he"
+		*set sol_big_pron "He"
+		*set sol_pronp "him"
+		*set sol_pronpp "his"
+		*set sol_big_pronpp "His"
+		*set sol_worm "man"
+		*set elden_pron "he"
+		*set elden_big_pron "He"
+		*set elden_pronp "him"
+		*set elden_pronpp "his"
+		*set elden_big_pronpp "His"
+		*set elden_worm "man"
+		*set cass_pron "he"
+		*set cass_big_pron "He"
+		*set cass_pronp "him"
+		*set cass_pronpp "his"
+		*set cass_big_pronpp "His"
+		*set cass_worm "man"
+		All selectable love interests are now men.
+		*goto_scene chapter2
+
+	#All of the selectable ones are women.
+		*set sol_pron "she"
+		*set sol_big_pron "She"
+		*set sol_pronp "her"
+		*set sol_pronpp "her"
+		*set sol_big_pronpp "Her"
+		*set sol_worm "woman"
+		*set elden_pron "she"
+		*set elden_big_pron "She"
+		*set elden_pronp "her"
+		*set elden_pronpp "her"
+		*set elden_big_pronpp "Her"
+		*set elden_worm "woman"
+		*set cass_pron "she"
+		*set cass_big_pron "She"
+		*set cass_pronp "her"
+		*set cass_pronpp "her"
+		*set cass_big_pronpp "Her"
+		*set cass_worm "woman"
+		All selectable love interests are now women.
+		*goto_scene chapter2
+	
+	#Neither. I want to set them manually. 
+		[b]Enjoy![/b]
+		*goto manually
+	
+*label manually
+Is Solian he/she?
+*choice
+	#Prince Solian – The Honorable Protector - He
+		*set sol_pron "he"
+		*set sol_big_pron "He"
+		*set sol_pronp "him"
+		*set sol_pronpp "his"
+		*set sol_big_pronpp "His"
+		*set sol_worm "man"
+		*goto elden_sett
+
+	#Princess Solian – The Honorable Protector - She
+		*set sol_pron "she"
+		*set sol_big_pron "She"
+		*set sol_pronp "her"
+		*set sol_pronpp "her"
+		*set sol_big_pronpp "Her"
+		*set sol_worm "woman"
+		*goto elden_sett
+
+*label elden_sett
+Is Elden he/she?
+*choice
+	#Elden – The Quiet Protector - He
+		*set elden_pron "he"
+		*set elden_big_pron "He"
+		*set elden_pronp "him"
+		*set elden_pronpp "his"
+		*set elden_big_pronpp "His"
+		*set elden_worm "man"
+		*goto cass_sett
+
+	#Elden – The Quiet Protector - She
+		*set elden_pron "she"
+		*set elden_big_pron "She"
+		*set elden_pronp "her"
+		*set elden_pronpp "her"
+		*set elden_big_pronpp "Her"
+		*set elden_worm "woman"
+		*goto cass_sett
+
+*label cass_sett
+Is Cassariel he/she?
+*choice
+	#Cassariel - The Devouted Blade - He
+		*set cass_pron "he"
+		*set cass_big_pron "He"
+		*set cass_pronp "him"
+		*set cass_pronpp "his"
+		*set cass_big_pronpp "His"
+		*set cass_worm "man"
+		*goto_scene chapter2
+
+	#Cassariel - The Devouted Blade - She
+		*set cass_pron "she"
+		*set cass_big_pron "She"
+		*set cass_pronp "her"
+		*set cass_pronpp "her"
+		*set cass_big_pronpp "Her"
+		*set cass_worm "woman"
+		*goto_scene chapter2

@@ -7,81 +7,144 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 
 *if magic_awakened
 	*stat_chart
-		text echoweaving
-		text whisperbinding
-		text soulrooting
-		text bloodspell
+		text Echoweaving
+		text Whisperbinding
+		text Soulrooting
+		text Bloodspell
 
 *if not(magic_awakened)
-	You feel... strange. Something is coming.
+	[i]You feel... strange. Something is coming.[/i]
 
 *stat_chart
-	text willpower
+	text Willpower
 *if willpower = 1
 	[i]You are fragile, easily overwhelmed by the world around you.[/i]
 
 *if willpower = 2
-	[i]You're shaken—still cracking under pressure but holding on.[/i]
+	[i]You flinch under pressure. The smallest things shake you.[/i]
 
 *if willpower = 3
-	[i]You’re grounded. Fear doesn’t control you anymore.[/i]
+	[i]Your courage flickers like a candle in the wind, but it's still lit.[/i]
 
 *if willpower = 4
-	[i]You're unyielding. The world can't break you.[/i]
+	[i]You hold on, even when everything tells you to let go.[/i]
 
 *if willpower = 5
-	[i]You're ironhearted. You decide what breaks you. Nothing else does.[/i]
+	[i]You're grounded. You breathe through the fear and keep going.[/i]
+
+*if willpower = 6
+	[i]You’ve begun to shape your fear into something solid. Something useful.[/i]
+
+*if willpower = 7
+	[i]You don’t run. You don’t bend. You face what others flee.[/i]
+
+*if willpower = 8
+	[i]The world presses in—and you press back harder.[/i]
+
+*if willpower = 9
+	[i]You are unshakable. Pain doesn’t rattle you. Doubt doesn’t move you.[/i]
+
+*if willpower = 10
+	[i]You are ironhearted. You decide what breaks you. Nothing else does.[/i]
+
 
 *stat_chart	
-	text empathy
+	text Empathy
 *if empathy = 1
-	[i]You feel distant, unable to connect with the emotions of others.[/i]
+	[i]You feel distant, like there’s glass between you and everyone else.[/i]
 
 *if empathy = 2
-	[i]You’re aware. You can pick up on the basic emotions around you.[/i]
+	[i]You try, but others’ feelings blur into noise.[/i]
 
 *if empathy = 3
-	[i]Compassion flows naturally. You can comfort and connect with ease.[/i]
+	[i]You recognize emotion but don’t always understand it.[/i]
 
 *if empathy = 4
-	[i]You're soul-touched. You feel others' emotions as though they're your own.[/i]
+	[i]You can read the room—if you stop and pay attention.[/i]
 
 *if empathy = 5
-	[i]You become a mirror to others. They see themselves in you—and that gives you power.[/i]
+	[i]Compassion flows naturally. You comfort with instinct, not effort.[/i]
+
+*if empathy = 6
+	[i]People open up to you, even when they don’t mean to.[/i]
+
+*if empathy = 7
+	[i]You feel what others hide. Their sorrow, their hope—it moves through you.[/i]
+
+*if empathy = 8
+	[i]You don’t just understand pain. You carry it, gently.[/i]
+
+*if empathy = 9
+	[i]Others see themselves in you. You become their reflection.[/i]
+
+*if empathy = 10
+	[i]You are the soul-mirror. To see you is to be seen completely.[/i]
+
 
 *stat_chart	
-	text veilsense
+	text Veilsense
 *if veilsense = 1
-	[i]The world feels flat, mundane, like you can’t see anything beyond the obvious.[/i]
+	[i]The world feels flat. Nothing hums beneath the surface.[/i]
 
 *if veilsense = 2
-	[i]Something stirs at the edge of your senses. You feel a presence, a shift.[/i]
+	[i]You’ve felt...something. Once. You can’t explain it.[/i]
 
 *if veilsense = 3
-	[i]You see what others miss—ghosts, hidden truths, intentions.[/i]
+	[i]Sometimes, things move in the corners of your vision.[/i]
 
 *if veilsense = 4
-	[i]The veil responds to you. You hear whispers, have vivid dreams, receive warnings.[/i]
+	[i]You’ve begun to sense what's hidden. The veil ripples.[/i]
 
 *if veilsense = 5
-	[i]You no longer look at the world—you look through it. You see beyond the veil itself.[/i]
+	[i]You hear whispers in silence. Dreams carry warnings.[/i]
+
+*if veilsense = 6
+	[i]You feel places that remember. Objects that ache.[/i]
+
+*if veilsense = 7
+	[i]The veil stirs when you walk by. You are noticed.[/i]
+
+*if veilsense = 8
+	[i]You see what others miss—ghosts, truths, echoes.[/i]
+
+*if veilsense = 9
+	[i]You don’t look at the world. You look through it.[/i]
+
+*if veilsense = 10
+	[i]You are the veil. It speaks through you, and you listen.[/i]
+
 
 *stat_chart
-	text stoneveil
+	text Stoneveil
 *if stoneveil = 1
-	[i]You are open, too open—your heart spills before you can stop it, and it leaves you raw.[/i]
+	[i]You are open, too open. Your heart spills raw into the world.[/i]
 
 *if stoneveil = 2
-	[i]You try to hold back, but your emotions slip through the cracks. You’re learning restraint, slowly.[/i]
+	[i]You try to guard yourself, but the cracks show.[/i]
 
 *if stoneveil = 3
-	[i]You keep your heart guarded, but not locked. You know when to speak, and when to stay silent.[/i]
+	[i]You flinch less now. Still learning when to shield, when to feel.[/i]
 
 *if stoneveil = 4
-	[i]You are the quiet wall others lean against—strong, composed, unreadable.[/i]
+	[i]You wear it quiet like armor. You don’t explain yourself easily.[/i]
 
 *if stoneveil = 5
-	[i]You are impenetrable. Nothing escapes unless you choose it to. You’ve become the fortress, the storm held still behind stone.[/i]
+	[i]You are the calm in the storm. Steady. Measured.[/i]
+
+*if stoneveil = 6
+	[i]Your silence says more than most people’s shouting.[/i]
+
+*if stoneveil = 7
+	[i]People guess at what you feel—and they often guess wrong.[/i]
+
+*if stoneveil = 8
+	[i]You are the stone. Still. Undisturbed. Unreadable.[/i]
+
+*if stoneveil = 9
+	[i]Even pain doesn’t crack your surface anymore.[/i]
+
+*if stoneveil = 10
+	[i]You are the fortress. The storm held still behind stone.[/i]
 
 *choice
 	#Relationships
@@ -95,5 +158,17 @@ Your relationships with your family shape who you are.
 *stat_chart
 	percent mother_rel Relationship with Mother
 	percent father_rel Relationship with Father
+	
+[b]Connections of the Heart[/b]
 
-
+The ones you draw close will shape your story—and you.
+*stat_chart
+	percent sol_rel Relationship with Solian
+	percent nyric_rel Relationship with Nyric
+	percent lysandra_rel Relationship with Lysandra
+	percent elden_rel Relationship with Elden
+	percent kai_rel Relationship with Kai
+	percent cass_rel Relationship with Cassariel
+*if (met_draegan)
+	*stat_chart
+		percent draegan_rel Relationship with Draegan

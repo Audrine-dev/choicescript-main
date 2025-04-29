@@ -113,7 +113,7 @@ Your father glances up from his seat by the hearth, eyes crinkling. "Sleep all r
 
 You nod, brushing a hand through your hair. "Mostly."
 
-“Storm kept you up?” he asks, motioning to the window with his mug. 
+“Storm kept you up?” ${sol_pron} asks, motioning to the window with his mug. 
 Rain taps lightly against the glass now, steady but soft. The sky's still bruised with morning, the kind of gray that lingers.
 
 “No,” you say, “just strange dreams.”
@@ -134,59 +134,62 @@ A [i]cry[/i].
 
 [b]? POV[/b]
 
-The forest breathed around him—
+The forest breathed around ${sol_pronp}—
 not like the pristine gardens of the palace, nor the manicured wilderness at the city’s edge. 
-This place pulsed with something older. Untamed. It pressed into his ribs with a quiet insistence, 
+This place pulsed with something older. Untamed. It pressed into ${sol_pronpp} ribs with a quiet insistence, 
 the kind that demanded reverence without ever raising its voice.
 
-The others had fallen behind. He could still hear them in the distance—laughter echoing through the trees, 
-hooves muffled by moss, the occasional sharp whistle signaling to no one in particular. But Solian had always ridden ahead. 
+The others had fallen behind but ${sol_pron} could still hear them in the distance—laughter echoing through the trees, 
+hooves muffled by moss, the occasional sharp whistle signaling to no one in particular. But ${sol_pron} had always ridden ahead. 
 It was easier that way. To be the first to see. The first to feel. No ceremony, no watching eyes. 
-Just the steady rhythm of his horse beneath him and the fractured light above, shifting like water through the branches.
+Just the steady rhythm of ${sol_pronpp} horse beneath him and the fractured light above, shifting like water through the branches.
 
 Then came the stag.
 
 It had appeared like something out of myth—pale, almost silver, all clean lines and sharp grace. A creature not meant for this world. 
-When he saw it, his breath caught—not out of surprise, but recognition. As though he’d been meant to find it. As though it had been waiting.
+When ${sol_pron} saw it, ${sol_pronpp} breath caught—not out of surprise, but recognition. As though ${sol_pron}’d been meant to find it. 
+As though it had been waiting.
 
-*page_break He hadn’t hesitated.
+*page_break No hesitation
 
-The chase blurred everything. Wind in his ears. Trees whipping past. The raw ache in his lungs that felt like freedom. The stag moved like smoke, just out of reach.
+The chase blurred everything. Wind in ${sol_pronpp} ears. Trees whipping past. The raw ache in ${sol_pronpp} lungs that felt like freedom. 
+The stag moved like smoke, just out of reach.
 
-He never saw the drop.
+${sol_big_pron} never saw the drop.
 
-Not until his horse let out a sound—raw, broken—and the ground vanished beneath them.
+Not until ${sol_pronpp} horse let out a sound—raw, broken—and the ground vanished beneath them.
 
 The world tilted sideways.
 
-He hit the earth hard. Pain fractured through his body—shoulder, ribs, leg. Each impact sent a shock of white through his skull. 
+${sol_big_pron} hit the earth hard. Pain fractured through ${sol_pronpp} body—shoulder, ribs, leg. Each impact sent a shock of white through ${sol_pronpp} skull. 
 Leaves exploded around him, sky spinning in fractured shards through the canopy above.
 
 Then everything stopped.
 
 Silence closed in.
 
-He tried to move. Something was [i]wrong[/i]. Deeply, undeniably [i]wrong[/i]. His mouth tasted of blood—sharp, 
-metallic—and each breath dragged fire through his chest. 
+${sol_big_pron} tried to move. Something was [i]wrong[/i]. Deeply, undeniably [i]wrong[/i]. ${sol_big_pronpp} mouth tasted of blood—sharp, 
+metallic—and each breath dragged fire through ${sol_pronpp} chest. 
 The pain was blurring now, not softer but… deeper. More insistent. More real.
 
 No hooves. No voices. Just trees.
 
-He called out once. Twice. Nothing answered.
+${sol_big_pron} called out once. Twice. Nothing answered.
 
 *page_break The forest remained still.
 
-He blinked, the sky overhead now dimming behind the branches, shadows thickening. 
-Somewhere, the stag had vanished. So had the others. And Solian—he lay there, broken and small beneath the trees, a man who no longer felt like a prince.
+${sol_big_pron} blinked, the sky overhead now dimming behind the branches, shadows thickening. 
+Somewhere, the stag had vanished. So had the others. And Solian—${sol_pron} lay there, broken and small beneath the trees, 
+a ${sol_worm} who no longer felt like an heir.
 
-He wondered, not for the first time, what it would be like to be nameless. 
-To let the crown fall away, weightless. To be just a man in the woods, bones bruised and bleeding, and no one coming.
+${sol_big_pron} wondered, not for the first time, what it would be like to be nameless. 
+To let the crown fall away, weightless. To be just a ${sol_worm} in the woods, bones bruised and bleeding, and no one coming.
 
-The thought stayed with him, even as his eyes began to slip shut.
+The thought stayed with him, even as ${sol_pronpp} eyes began to slip shut.
 
 Eventually, the forest faded.
 
-And he stopped trying to stay [i]awake[/i].
+And ${sol_pron} stopped trying to stay [i]awake[/i].
 
 *page_break And then... just darkness
 
@@ -212,87 +215,92 @@ Closer now. Ragged.
 You push through underbrush slick with water, cloak heavy on your shoulders. The trees blur around you, shapes shifting in the gray light. 
 The scent of pine, wet bark, and something sharp—metallic—fills your nose.
 
-Then you see him.
+Then you see ${sol_pronp}.
 
 Not an animal at all.
 
-A man lies crumpled at the base of the slope, half-buried in leaves and mud. His cloak is torn, dark with blood. One leg twisted at a wrong angle. 
+A ${sol_worm} lies crumpled at the base of the slope, half-buried in leaves and mud. ${sol_big_pronpp} cloak is torn, dark with blood. One leg twisted at 
+a wrong angle. 
 Chest barely rising.
 
-He doesn’t move.
+${sol_big_pron} doesn’t move.
 
-You freeze—just for a second—but the sound he makes is small and cracked and unmistakably human.
+You freeze—just for a second—but the sound ${sol_pron} makes is small and cracked and unmistakably human.
 
 You move.
 *page_break You need to act!
 
 Branches snap beneath your boots as you slide down the slope, knees catching wet earth. The mud slicks your hands and soaks into your clothes, 
-but all you can see is [i]him[/i].
+but all you can see is [i]${sol_pronp}[/i].
 
-His skin is too pale. Blood mixes with rain on his face, painting sharp lines down his jaw. His lips are parted, cracked, pale. 
-He tries to breathe, and the sound that leaves his throat is hoarse and thin—barely there.
-You drop beside him, fingers shaking as you reach out. “[i]Hey[/i],” you whisper. “Stay with me!”
+${sol_big_pronpp} skin is too pale. Blood mixes with rain on ${sol_pronpp} face, painting sharp lines down ${sol_pronpp} jaw. ${sol_big_pronpp} lips are parted, cracked, pale. 
+${sol_big_pron} tries to breathe, and the sound that leaves ${sol_pronpp} throat is hoarse and thin—barely there.
+You drop beside ${sol_pronp}, fingers shaking as you reach out. “[i]Hey[/i],” you whisper. “Stay with me!”
 
-He doesn’t answer. The stranger just flinches as you touch his shoulder.
-You push the hood back from your head, rain clinging to your lashes, and scan the damage. His leg—wrong. His shoulder’s bruised to purple. 
-Blood soaks the side of his tunic, too dark to be recent, too much to ignore.
+${sol_big_pron} doesn’t answer. The stranger just flinches as you touch ${sol_pronpp} shoulder.
+You push the hood back from your head, rain clinging to your lashes, and scan the damage. ${sol_big_pronpp} leg—wrong. ${sol_big_pronpp} shoulder’s bruised 
+to purple. 
+Blood soaks the side of ${sol_pronpp} tunic, too dark to be recent, too much to ignore.
 You don’t have time to be afraid.
 The satchel at your side has almost nothing useful—herbs meant for tea, not wounds. But the forest offers more than comfort if you know [i]how[/i] to ask.
 
 *choice
-	#There is no time to think. You need to push through and help him!
-		You don't stop to think. You don't have the luxury of fear. Every second he lies there, unmoving, the forest closing in around the both of you, 
-		is another second closer to the end of him. And that—that isn't something you're willing to accept.
+	#There is no time to think. You need to push through and help ${sol_pronp}!
+		You don't stop to think. You don't have the luxury of fear. Every second ${sol_pron} lies there, unmoving, the forest closing in around the both of you, 
+		is another second closer to the end of ${sol_pronp}. And that—that isn't something you're willing to accept.
 		Your hands shake at first. But only once. Then you force them still.
 		You scan the clearing with a soldier's gaze, picking out what you can use.
 
 		The rain hasn’t let up, and your cloak is soaked through, mud pulling at your boots, but it doesn't matter. 
-		You tear a strip from the hem and start with his leg. The angle is wrong. Badly. 
-		You set your teeth and ignore the sound he makes when you try to straighten it because if you don’t do this, it’ll heal crooked. If it heals at all.
+		You tear a strip from the hem and start with ${sol_pronpp} leg. The angle is wrong. Badly. 
+		You set your teeth and ignore the sound ${sol_pron} makes when you try to straighten it because if you don’t do this, it’ll heal crooked. If it heals at all.
 		You splint it using two branches you snapped yourself, each one forced into shape despite the resistance of the wood. Your palms bleed from it. 
 		
 		You don't stop.
 		
 		Next is the shoulder. Dislocated or broken, you can't tell, but it's swelling fast. 
-		You press the coldest stones you can find beneath the roots of a tree against it, trying to draw the heat away. His chest rises in shallow bursts. 
-		A gash near his ribs keeps reopening with every breath. You press cloth there, knotted as tightly as you dare. The blood keeps coming.
+		You press the coldest stones you can find beneath the roots of a tree against it, trying to draw the heat away. ${sol_big_pronpp} chest rises in 
+		shallow bursts. 
+		A gash near ${sol_pronpp} ribs keeps reopening with every breath. You press cloth there, knotted as tightly as you dare. The blood keeps coming.
 		
 		Still, you work.
 		
 		The forest is watching. You feel it. But you don’t ask for help. You never have.
 		Time slips by. You don’t know how much. Long enough for your fingers to go numb. 
-		Long enough for your jaw to ache from clenching it. Long enough to know you're past the point of exhaustion. But he's still breathing. And that’s enough.
+		Long enough for your jaw to ache from clenching it. Long enough to know you're past the point of exhaustion. But ${sol_pron}'s still breathing. 
+		And that’s enough.
 		
-		You crouch, shoulder beneath his arm, and lift.
-		You don’t cry. You don’t speak. You carry him.
+		You crouch, shoulder beneath ${sol_pronpp} arm, and lift.
+		You don’t cry. You don’t speak. You carry ${sol_pronp}.
 		Even when your knees buckle. Even when your body screams at you to stop.
-		Because if you fall now, he dies.
+		Because if you fall now, ${sol_pron} dies.
 		And you won’t let that happen.
 		*set willpower +2
 		*set stoneveil +1
 		*goto end_of_healing
 
-	#He is hurting and he needs your gentle touch. You want to help him. You [b]need[/b] to help him.
-		He’s hurting. You don’t need to understand the extent of the injuries to know that. 
-		You feel it the moment you kneel beside him, your hands trembling with the ache that isn’t yours. 
+	#${sol_big_pron} is hurting and ${sol_pron} needs your gentle touch. You want to help ${sol_pronp}. You [b]need[/b] to help ${sol_pronp}.
+		${sol_big_pron}’s hurting. You don’t need to understand the extent of the injuries to know that. 
+		You feel it the moment you kneel beside ${sol_pronp}, your hands trembling with the ache that isn’t yours. 
 		There’s a rawness in the air like something sacred has been cracked open.
 		
-		His skin is cold. Too cold.
+		${sol_big_pronpp} skin is cold. Too cold.
 		
-		You whisper to him first. Soft, meaningless things. A thread of sound to hold him here, even if he can’t hear you. Even if he’s too far gone to listen. 
-		You speak not to comfort him, but to comfort yourself—because you need this connection, however fragile.
+		You whisper to ${sol_pronp} first. Soft, meaningless things. A thread of sound to hold ${sol_pronp} here, even if ${sol_pron} can’t hear you. 
+		Even if ${sol_pron}’s too far gone to listen. 
+		You speak not to comfort ${sol_pronp}, but to comfort yourself—because you need this connection, however fragile.
 		The bleeding worries you. But the stillness scares you [i]more[/i].
 		
 		You work with a healer’s instinct. You remember what your adoptive mother taught you: which herbs dull pain, which leaves draw out infection, 
 		which mosses can seal a wound when no bandage will hold. You gather them gently, reverently, asking the forest for each one as if it might deny you.
-		You clean the blood away with water caught in the folds of leaves. You bind his ribs tightly, careful not to press too hard. 
-		When he groans, your hands pause, adjusting until the pain in his face eases just enough. You whisper again.
+		You clean the blood away with water caught in the folds of leaves. You bind ${sol_pronpp} ribs tightly, careful not to press too hard. 
+		When ${sol_pron} groans, your hands pause, adjusting until the pain in ${sol_pronpp} face eases just enough. You whisper again.
 		[i]"You're not alone."[/i]
 		
-		You hold his hand while you work. Not because it's necessary. But because you need him to know someone is still here.
+		You hold ${sol_pronpp} hand while you work. Not because it's necessary. But because you need ${sol_pronp} to know someone is still here.
 		
-		When the worst is done, you take off your cloak and wrap it around him, soaking or not. 
-		You press your cheek to his and close your eyes, letting your warmth reach him however it can.
+		When the worst is done, you take off your cloak and wrap it around ${sol_pronp}, soaking or not. 
+		You press your cheek to ${sol_pronpp} and close your eyes, letting your warmth reach ${sol_pronp} however it can.
 		It hurts. To see someone this broken. But you don’t look away.
 		
 		You never look away.
@@ -301,7 +309,7 @@ The satchel at your side has almost nothing useful—herbs meant for tea, not wo
 		*goto end_of_healing
 
 	#You are unsure of how to act. But something ancient in you knows. And you listen.
-		The moment you touch him, something shifts.
+		The moment you touch ${sol_pronp}, something shifts.
 		
 		It’s subtle. Like a ripple in a still pool. The air around you grows thicker, quieter. The rain slows against the leaves. 
 		You inhale, and the forest [i]breathes[/i] with you.
@@ -309,17 +317,17 @@ The satchel at your side has almost nothing useful—herbs meant for tea, not wo
 		
 		The earth hums beneath your knees, pulling your attention to a cluster of plants growing beneath a crooked stone. 
 		You don’t know their name—but your fingers do. You pluck them and crush them in your palm, the scent sharp and warm. 
-		When you press the pulp into his wounds, the bleeding slows. You feel it stop.
-		You bind his leg using vines that curl willingly into your hands, their texture rough and flexible. 
-		You place your fingers gently against his temples and close your eyes.
+		When you press the pulp into ${sol_pronpp} wounds, the bleeding slows. You feel it stop.
+		You bind ${sol_pronpp} leg using vines that curl willingly into your hands, their texture rough and flexible. 
+		You place your fingers gently against ${sol_pronpp} temples and close your eyes.
 		And see.
 
 		Flashes. Bursts of memory that aren’t yours. Pain. Stag. Horses. The roar of water. The snap of bone. But beneath it all—resolve.
-		You don’t know what kind of man he is. But you know he doesn’t want to die. That’s enough.
+		You don’t know what kind of ${sol_worm} ${sol_pron} is. But you know ${sol_pron} doesn’t want to die. That’s enough.
 
-		You comb through his hair and in that moment, it happens. You can see something more than can be seen by the normal eye, just briefly. 
+		You comb through ${sol_pronpp} hair and in that moment, it happens. You can see something more than can be seen by the normal eye, just briefly. 
 		It leaves a ringing in your bones and a flicker of something ancient behind your eyes. 
-		But the wound in his side stops seeping. The bruising on his chest lessens. 
+		But the wound in ${sol_pronpp} side stops seeping. The bruising on ${sol_pronpp} chest lessens. 
 		You breathe in the scent of the forest, and something deeper answers.
 		*set veilsense +2
 		*set empathy +1
@@ -332,20 +340,20 @@ The satchel at your side has almost nothing useful—herbs meant for tea, not wo
 
 		Gone.
 
-		You are not just a ${person_word} in the woods with a dying man.
+		You are not just a ${person_word} in the woods with a dying ${sol_worm}.
 		[i]You are a pillar. You are a wall.[/i] 
 		The storm howls through the trees, but it passes around you, not through you.
-		Your hands move like machines. Efficient. Precise. You treat his wounds with no wasted motion, no hesitation. 
+		Your hands move like machines. Efficient. Precise. You treat ${sol_pronpp} wounds with no wasted motion, no hesitation. 
 		A clean break in the leg—splinted with dry wood you found under a fallen log. 
 		A deep cut across the ribs—cleaned with alcohol from the pouch you keep, stitched using thin thread unraveled from your clothes. 
 		You don’t flinch at the blood. You don’t speak. There is no room for softness.
-		You carry him using a harness you make from your belt and a sapling’s branch. 
-		You strap his arm to your back and pull him across your shoulders like weight alone means nothing. Your breath is steady. 
+		You carry ${sol_pronp} using a harness you make from your belt and a sapling’s branch. 
+		You strap ${sol_pronpp} arm to your back and pull ${sol_pronp} across your shoulders like weight alone means nothing. Your breath is steady. 
 		Your movements are slow and measured, never frantic.
 		
-		You are not saving him out of kindness.
+		You are not saving ${sol_pronp} out of kindness.
 
-		You are saving him because it’s the only logical outcome. Because letting someone die here would be a disturbance, and chaos has no place in you.
+		You are saving ${sol_pronp} because it’s the only logical outcome. Because letting someone die here would be a disturbance, and chaos has no place in you.
 
 		The forest senses your presence and [i]grows still[/i]. Not out of respect, but because it knows you are untouchable.
 		*set stoneveil +2
@@ -357,26 +365,11 @@ The satchel at your side has almost nothing useful—herbs meant for tea, not wo
 *label end_of_healing
 It’s not enough. You know it isn’t enough.
 But it buys time.
-You pull his arm around your shoulders. He’s heavier than he looks. Muscles made for swords, not silence. 
+You pull ${sol_pronpp} arm around your shoulders. ${sol_big_pron}’s heavier than ${sol_big_pron} looks. Muscles made for swords, not silence. 
 Your knees nearly buckle, but you plant your feet, and grit your teeth.
-Step by step, you drag him through the trees.
-His blood leaves a trail behind you.
+Step by step, you drag ${sol_pronp} through the trees.
+${sol_big_pronpp} blood leaves a trail behind you.
 But so do your footprints.
 And you don’t stop.
 *page_break
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*goto_scene chapter3

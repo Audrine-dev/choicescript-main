@@ -4,6 +4,7 @@
   startup
   chapter1
   chapter2
+  chapter3
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -14,6 +15,7 @@
 *create veilsense 1
 *create stoneveil 1
 *create magic_awakened false
+*create met_draegan false
 *create name ""
 *create gender ""
 *create person_word ""
@@ -29,8 +31,34 @@
 *create appearance ""
 *create birthmark ""
 *create posture ""
+*create sol_pron ""
+*create sol_big_pron ""
+*create sol_pronp ""
+*create sol_big_pronpp ""
+*create sol_pronpp ""
+*create sol_worm ""
+*create elden_pron ""
+*create elden_big_pron ""
+*create elden_pronp ""
+*create elden_pronpp ""
+*create elden_big_pronpp ""
+*create elden_worm ""
+*create cass_pron ""
+*create cass_big_pron ""
+*create cass_pronp ""
+*create cass_pronpp ""
+*create cass_big_pronpp ""
+*create cass_worm ""
 *create mother_rel 0
 *create father_rel 0
+*create sol_rel 0
+*create nyric_rel 0
+*create lysandra_rel 0
+*create elden_rel 0
+*create kai_rel 0
+*create cass_rel 0
+*create draegan_rel 0
+*create sol_wake_scene 0
 
 *label prologue
 
