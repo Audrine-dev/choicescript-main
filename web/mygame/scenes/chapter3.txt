@@ -36,8 +36,8 @@ and a thin line of red seeps from where the jagged edge of ${sol_pronpp} tunic o
 
 The cloth slips from your fingers. You grab another. You don’t look away.
 
-Your father stands near the hearth, hands clenched and brow furrowed like ${sol_pron} wants to speak—wants to pull you back, to stop this—but doesn’t. 
-${sol_big_pron} doesn’t understand. Not the sound you followed. Not the pull you felt in your bones.
+Your father stands near the hearth, hands clenched and brow furrowed like he wants to speak—wants to pull you back, to stop this—but doesn’t. 
+He doesn’t understand. Not the sound you followed. Not the pull you felt in your bones.
 
 But your mother kneels beside you.
 
@@ -48,7 +48,7 @@ She doesn’t ask questions. Just rolls up her sleeves and dips her hands into t
 She moves like someone who has done this before—not this exact thing, but something close. Something desperate.
 
 “I’ve seen worse,” she says softly, almost like a story meant to distract you as she works. 
-“Your uncle once came back from the marsh with half ${sol_pronpp} ribs showing and a frog nesting in ${sol_pronpp} boot.”
+“Your uncle once came back from the marsh with half his ribs showing and a frog nesting in his boot.”
 
 You almost laugh. Almost. But the ${sol_worm} on the table groans, and the sound is enough to bring the fear back in full.
 
