@@ -371,5 +371,5 @@ Step by step, you drag ${sol_pronp} through the trees.
 ${sol_big_pronpp} blood leaves a trail behind you.
 But so do your footprints.
 And you don’t stop.
-*page_break
+*page_break Next Chapter
 *goto_scene chapter3

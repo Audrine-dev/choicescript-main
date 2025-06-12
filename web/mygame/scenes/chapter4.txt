@@ -1,0 +1,1612 @@
+*label chapter4
+
+[b]Chapter 4 - Whispers Beyond the Vei[/b]
+
+Sleep comes in fits.
+
+Shallow, uneasy. The kind of sleep where your body rests but your mind does not.
+
+Shadows stretch long behind your eyes. Grey stone arches. The crackle of torchlight echoing too far. 
+And voices—two of them, distinct yet blurred at the edges, as though spoken through water or smoke.
+
+You don’t know how you’ve come to stand here. You don’t even know where here is. But you see them clearly.
+
+One stands tall, draped in the deep crimson of high cloth and sanctity. Gold catches in the hollows of sharp features, 
+and the glint of rings cuts through the dark like tiny mirrors. [i]A high priest[/i], by the weight of the garb alone. His hands are clasped—too still, too clean.
+
+Across from him, leaning into the shadows like they belong to him, stands a tall man.
+
+Cool eyes. Half a smile that never warms. His voice is like silk laid over steel.
+
+“You’re worried.” The concealed man’s tone is mild, but the words slide across the stone like a knife laid flat on a table. “You think ${sol_pron}’ll live.”
+
+The priest exhales slowly, measured. “It is our duty to retrieve ${sol_pronp}. The longer ${sol_pron}’s lost, the harder it will be to control the 
+story surrounding ${sol_pronpp} absence.”
+
+“Let it fray.” The tall figure steps forward, boots soundless on the stone. His shadow stretches too far behind him. 
+“There is no rush. The realm is not so eager to embrace an heir who stumbles so easily. We both know the... accident was meant to be clean.”
+
+A pause. Thin as a blade edge. The priest’s fingers twitch but do not break their clasp.
+
+“No witnesses?” the priest asks quietly.
+
+That man’s smile deepens, sharpens. “No one who matters.”
+
+A flicker—not of doubt, but calculation. The priest's eyes shift to the side, gaze trailing into darkness you can’t see. “If we’re wrong?”
+
+“We’re not. ${sol_big_pronpp} horse stumbled. Nothing suspicious about that.”
+
+Silence falls between them like a dropped veil. Heavy. [i]Inevitable[/i].
+
+And as you stand there, unseen and unmoving, something cold trickles down your spine. Not fear exactly—more like knowing. 
+The kind of knowing you can’t put into words, but that roots itself deep and waits.
+
+[i]The dream fractures.[/i]
+
+The stone arches split. The torchlight gutters. 
+Those man’s eyes—those calm, [i]knowing[/i] eyes—are the last thing to hold onto you before they dissolve into nothing.
+*page_break You wake
+
+Breath sharp in your throat, skin damp beneath the sheets. The room is dim and quiet, the edges of dawn still blurred against the windows.
+
+The dream slips from you fast, like water through cupped hands. Already fragments scatter.
+
+A red cloak. The curve of a [i]smile[/i]. Words you can’t quite pin down but that leave a sour weight in your chest.
+
+[i]Gone[/i].
+
+You sit up slowly, the chill of the morning brushing against your spine.
+
+And for no reason you can name—
+Your first thought is of [i]Sol[/i].
+*page_break Next
+
+The dawn hasn’t broken yet—just the deep hush of grey light spilling through the shutters, cold and thin. 
+Your skin is damp, the remnants of the dream curling away like smoke at the edges of your mind.
+
+It’s gone.
+[i]Mostly[/i].
+
+But something lingers. A weight behind your ribs. A name you didn’t hear clearly. A voice that felt like ice sliding down your spine.
+
+Your throat is dry. Your pulse, too fast.
+
+You sit up slowly. The house is still quiet. No footsteps. No voices. 
+Just the distant crackle of dying embers and the soft, steady breaths of the ${sol_worm}—Sol—still resting in the cot nearby.
+
+It was just a dream.
+[i]It had to be.[/i]
+
+And yet… you can’t shake the feeling that it meant something [i]more[/i].
+*choice
+	#Get up and clear your head.
+
+		The cot creaks softly as you rise. You move slow, careful, as though sudden motion might snap whatever fragile thread you’re balancing on. 
+		The floorboards are cool beneath your feet, grounding you in something solid. [i]Real[/i].
+
+		The door gives a soft groan as you slip outside.
+
+		The air cuts sharp and thin, morning still heavy with mist and the scent of wet earth. 
+		Somewhere far off, a night bird gives one last, reedy call before the world tilts toward dawn. 
+		You draw in a breath that tastes of stone and moss and distant rain.
+
+		It helps. Not much—but enough.
+
+		The dream still tugs at you, a splinter beneath the skin of your thoughts. Names half-heard. 
+		Promises half-made. That conversation… it felt real, didn’t it? No flicker of nonsense or the twisting logic of dreams. 
+		Just words. [i]Cold[/i], deliberate words.
+
+		You rub at your face, dragging your palms down until the pressure eases the ache behind your eyes. 
+		There’s no clarity here, not yet. But sometimes the world speaks clearer when your hands are steady and your mind is quiet.
+
+		You’ll listen. [i]You always do[/i].
+		*goto herbs
+
+	#Stay where you are and try to remember more.
+
+		You don’t move. Just sit there, spine bowed, elbows braced on your knees. Your breath pulls slow and even through your nose, 
+		heavy with the scent of hearth smoke and thyme. You close your eyes.
+
+		If you chase it too hard, it’ll vanish completely. Dreams are like that—[i]fragile[/i], fracturing under the weight of scrutiny.
+
+		So instead, you sit in the stillness and let the pieces rise on their own.
+
+		[i]Voices[/i]. Two of them. Low, deliberate. One edged like a knife sheathed in velvet; the other slower, silk-smooth but laced with something poisonous. 
+		What was that strangers name? You cannot remember. And someone else… a man wrapped in the authority of robes and sanctity. A priest? [i]A high priest?[/i]
+
+		The words float back, soft and thin as mist.
+
+		[i]“There’s no reason to rush.”[/i]
+
+		[i]“If fate is kind, the heir won’t last long.”[/i]
+
+		There’s weight behind those words. A failed plan. Maybe? A second chance, sharpened like a blade beneath silk.
+
+		Your brow knots. You don’t know how you know this—[i]but you do[/i].
+
+		Eventually, the fragments thin and scatter. [i]Gone[/i].
+
+		But the feeling remains.
+		*set veilsense +1
+		*goto herbs
+
+	#Focus on Sol instead.
+
+		You push the dream aside and rise on instinct.
+
+		The dream’s weight is still pressing at the edges of your skull, thick and clinging like wet wool—but your feet move without thought. 
+		Quiet steps. Careful hands brushing the table’s edge as you cross the room.
+
+		Sol shifts beneath the blanket.
+
+		Whatever that was—whatever shadows crawled through your sleep—it can wait. The air is thick and still in here, warm from the dying fire, 
+		and Sol’s breathing rasps soft and shallow from the cot.
+
+		You glance over.
+
+		${sol_big_pron} hasn’t moved much. ${sol_big_pronpp} brow still glistens faintly with fever-sheen, but there’s color to ${sol_pronpp} lips again, 
+		a rise and fall to ${sol_pronpp} chest steadier than before. The bandages you wrapped hold firm, pale linen stark against sun-bronzed skin.
+
+		You let out a breath and reach for the cloth again, dipping it into cool water before pressing it to ${sol_pronpp} temple.
+
+		${sol_big_pron} doesn’t wake. [i]Not yet[/i].
+
+		But ${sol_pron}’s here. [i]Alive[/i].
+
+		Your throat tightens, something warm and fragile curling beneath your ribs. You don’t even know ${sol_pronpp} full name—and yet, somehow, it matters. 
+		You made a choice when you dragged ${sol_pronp} from that path. When you stitched ${sol_pronpp} wounds with shaking hands.
+
+		[i]${sol_big_pron}’s yours to protect now.[/i]
+		You sit back on your heels. Watching ${sol_pronp} for a long moment.
+
+		Whatever path you’re walking now, it’s tangled with ${sol_pronpp}. Whether you like it or not.
+
+		Your gaze lingers a heartbeat longer before you sit back down by the hearth.
+		*goto herbs
+
+	#Bury it deep. [i]Forget it[/i].
+
+		You scrub a hand through your ${hair_length} hair, nails scraping your scalp harder than necessary.
+
+		[b]No[/b].
+
+		You’re not going to chase ghosts. Not today.
+
+		Dreams are nothing. They twist and coil and lure you down roads that don’t lead anywhere worth walking. 
+		Whatever that was—it’s better forgotten. Left to crumble like dead leaves underfoot.
+
+		You rise from the bedstead, joints stiff from too many hours hunched in the same spot. Your fingers knot the laces of your tunic with practiced motions, 
+		anchoring yourself in the familiar rhythm of now. Not then. Not some nonsense conjured from sleep.
+
+		Sol shifts in the cot. You glance at ${sol_pronp} once, twice, then turn away.
+
+		You’ve got enough to worry about without chasing shadows. [i]Let it rot[/i].
+
+		You move toward the wash basin. Toward the day ahead. Toward anything but what you dreamed.
+		*goto herbs
+*page_break Next
+
+*label herbs
+The cottage is still, save for the slow creak of wood and the whisper of wind beneath the shutters.
+
+Sol sleeps.
+
+At least for now.
+
+${sol_big_pron}’s paler than ${sol_pron} should be, but the fever has broken. ${sol_big_pronpp} breathing is easier, more even. 
+The kind of sleep that heals instead of haunts.
+
+You watch ${sol_pronp} for a moment longer, just to be sure. Just to be safe.
+
+Then you step back, away from the cot, and into the quiet hum of morning.
+*page_break Next
+
+Your mother stands at the table, her hands already stained with resin and powdered bark, grinding something into a small stone bowl. 
+She doesn’t look up as you pull on your cloak, but she doesn’t need to.
+
+“We’re low on feverroot,” she says. “And the red moss is gone. We used the last of it on ${sol_pronpp} wounds.”
+
+You nod. You’d already noticed. The shelves that once brimmed with jars and bundles now look half-starved, like ribs pressing through skin.
+
+“I’ll go,” you say.
+
+This time, she looks at you.
+
+Not just a glance. A full look—[i]searching[/i], quiet, mother-worn. There’s something unreadable in her eyes. Worry, maybe. Or knowing.
+
+“Stay near the waterline,” she says. “And no deeper than the black birch. The woods haven’t settled since the fire.”
+
+You nod again. Grab the small woven satchel, already half-packed with tools. Knife. Twine. Dried orange peel for warding. 
+Your mother always makes you carry at least a few. She is too superstitious, too sacred. [i]Of what?[/i] You do not know.
+
+*page_break You get on you way
+
+The air bites as you step outside.
+
+Not cruel, not yet. But sharp enough to sting the lungs, to remind you the seasons are shifting. The frost hasn’t taken the earth yet, but it waits. 
+You can smell it. In the grass, in the bark, in the brittle curl of every leaf that falls too early.
+
+The path to the glade winds through quiet trees, the kind that hum when no one’s listening. 
+Your boots crunch softly over roots and bone-dry moss. Somewhere above, a crow calls out—once, then again. [i]You don’t look up[/i].
+
+You just walk.
+
+Something inside you feels restless. Not fear. Not quite. But something else. A pressure beneath the ribs. A pull you can’t name.
+*page_break You try not to think of the dream
+
+You try not to think of Sol—of sharp cheekbones and pale golden hair, the way it clings when damp, curling near ${sol_pronpp} brow like fire caught in mist. 
+Of lips too soft for someone who bleeds so easily. Of the faint furrow that settles between ${sol_pronpp} brows, even in sleep, 
+like ${sol_pron}’s still fighting something behind closed eyes. Of a body too lean for the weight it carries. 
+A stranger who should look out of place in a healer’s cot, but doesn’t. [i]Not quite[/i].
+
+You try not to think of how it felt, sitting beside ${sol_pronp} in the half-light, watching ${sol_pronpp} chest rise and fall like it meant something.
+
+You try not to think of anything at all.
+
+Just the herbs. Just your hands, and the weight of the satchel, and the cool hush of the woods around you.
+Of the way ${sol_pron} said your name like it meant something. [i]Like it mattered[/i]. 
+The way ${sol_pron} called you ${sol_pronpp} [i]angel[/i].
+
+You try not to think of anything at all.
+
+Just the herbs. Just your hands, and the weight of the satchel, and the cool hush of the woods around you.
+*page_break Next
+
+You find the first patch of feverroot near the hollow stone where the stream forks. It grows thin this season—shy, 
+almost—curled like pale fingers reaching through moss. You crouch, breath fogging in the air, and cut only what you need. No more.
+
+The roots bleed bitter when sliced.
+
+You wipe the blade on your cloak and tuck the bundle into the satchel, careful not to crush the stems. The woods are still. 
+Almost too still. Not the silence of peace, but the kind that waits. The kind that watches.
+
+You keep moving.
+
+Past the leaning alder tree. Past the old snare left by the south ridge—empty now, rusted shut. 
+You remember setting it once, seasons ago, your hands smaller, clumsier, 
+your mother watching from the path with her arms crossed and something like pride hidden in her mouth.
+
+You miss her. Even when she’s close, even when she’s just a room away. 
+You miss her in the way that people sometimes miss the sun at dusk—still there, but dimmed. [i]Shadowed[/i].
+*page_break Next
+
+The red moss takes longer to find.
+
+It grows near damp bark, [i]close to decay[/i], feeding on rot and shadows. You find a thick vein of it at the base of a hollowed pine. 
+It crumbles at your touch, rich and red and slightly damp—like old velvet soaked in wine. 
+You scrape it loose, slow, careful. The satchel grows heavier with each gathered handful.
+
+*page_break And still… that feeling.
+
+That ache just behind your ribs. That quiet thrum.
+
+Like something’s coming. Or maybe something already came.
+
+You straighten slowly, spine stiff, eyes sweeping the glade.
+But the trees whisper nothing back.
+*choice
+	#Step away from the trees. Breathe. Ground yourself
+
+		You draw your hand back from the moss, wiping flecks of crimson onto your thigh. 
+		The red stains, faint but stubborn, linger at the edges of your fingers—smudges that look too much like blood to ignore.
+
+		The satchel hangs heavy at your hip, full of gathered moss and wilted leaves. 
+		Enough to last a week, maybe two. Enough for what you came for. But the ache behind your ribs hasn't eased. 
+		If anything, it pulses sharper now. Not pain. Not quite. But something close. Something on the edge of being known.
+
+		You step away from the hollow tree. Out of the circle of rot and root and shadow. 
+		Back to where the light filters through the leaves, pale and thin and cold.
+
+		The air shifts.
+
+		You breathe in. Deep. Until your lungs burn with it. 
+		The scent of damp bark, fallen leaves, the sharp edge of frost. A crow cries somewhere high above, wings slicing through the canopy. You don’t look up.
+
+		You kneel and press your hand to the earth.
+
+		The soil is cool, soft, not yet frozen. It gives beneath your palm. Steady. Real. 
+		You let the feeling rise and pass—fear, restlessness, whatever that tightness is behind your breastbone—and let the earth take some of it. Just a little.
+
+		You sit there for a while. Not meditating. Not thinking. Just... being. Just remembering your body. Remembering this moment. 
+		Remembering that no matter what dreams chased you, or what silences fill the trees, [i]you[/i] are here.
+
+		And you're still breathing.
+		*goto nothing
+
+	#Look closer. Trust the thrum. Something’s wrong
+
+		You don’t move. Not yet.
+
+		The moss is forgotten, your satchel full, but your body won't let you turn away—not with that thrum behind your ribs still rising, louder now. 
+		Sharper. Like the moment before a branch breaks, or a bird takes flight. Like something about to shift.
+
+		You crouch again, but not to gather. Your hands hover just above the forest floor. 
+		You study the space where the moss grew, where the bark peels back in wet curls, where something passed through—not long ago.
+
+		A track.
+
+		Faint, but there. A shallow print near the edge of the pine’s roots, half-covered in dead needles. Wider than a deer. More deliberate.
+
+		You glance around. Slowly. The glade is still.
+
+		Too still.
+
+		You know what the woods feel like when they’re empty. This isn’t that. This is absence with a shape. 
+		Like something has just stepped beyond your sightline. Like eyes you can’t see are waiting for you to blink.
+
+		Your hand moves to your knife. Just a touch. A reminder.
+
+		The wind doesn't pick up. The birds don’t return. Even the crows have gone quiet.
+
+		You rise, slow, careful, and take a single step into the underbrush. Not chasing. Just… checking. 
+		Just [i]following[/i] that thrum wherever it leads. Because it means something. You don't know what. Not yet.
+
+		But the air tastes different now. And your skin knows what your mind hasn’t caught up to.
+
+		You’re not alone.
+		*goto nothing
+
+	#Call out. Pretend you're braver than you feel
+		Your voice feels too loud in your throat. But you speak anyway.
+
+		“If someone’s out there—”
+
+		You hesitate. Not because you don’t mean it, but because the words taste foolish. Soft. Small. The way children call out to the dark.
+
+		You swallow and start again, louder this time.
+
+		“I don’t want trouble. But I have a blade.”
+
+		Silence answers.
+
+		Not the kind that follows peace. The kind that follows [i]pause[/i]. That [i]waits[/i].
+
+		You scan the glade. Nothing moves. Not yet. But you feel it—like a held breath, like a gaze you can’t return. 
+		Your heart ticks louder in your ears. Not fast. Just louder.
+
+		You take a step backward. Not out of fear. Out of [i]sense[/i].
+
+		You’ve been in these woods too long to ignore your instincts. Sometimes it’s not the growl or the flicker of shadow that warns you. 
+		Sometimes it’s the quiet. The stillness that presses too tightly against your skin.
+
+		You grip the strap of your satchel with one hand, the hilt of your knife with the other. Your voice comes again—quieter this time, but steadier.
+
+		“If you’re watching, just know—I’m not here to harm. But I won’t be hunted.”
+
+		The wind brushes past, low and dry.
+
+		You don’t know if it heard you. But you turn anyway, the moss at your hip, the cold creeping up your spine.
+
+		And you walk.
+
+		Not fast. Not slow. But with purpose.
+		*goto nothing
+
+	#Dismiss it. You’re just tired. Nothing’s here
+
+		You exhale, slow and thin. It’s ridiculous, really—the way your breath feels caught beneath your ribs, 
+		the way your fingers still tremble around a scrap of moss.
+
+		You’re tired. That’s all.
+
+		You haven’t slept properly in days. Dreams like fire and flight haunt the edges of every hour. Sol’s face—the sharp cheekbones, 
+		the weight in ${sol_pronpp} eyes, the way ${sol_pronp} called your name like it meant something—lingers behind your thoughts like ash.
+
+		Of course your mind is playing tricks on you.
+
+		You turn away from the hollow tree and press the satchel tighter to your hip. It’s full enough. It’ll do.
+
+		The ache doesn’t leave. But you tell yourself it means nothing. Just nerves. Just cold.
+
+		You retrace your steps, past the patch of lichen near the crooked stone, around the stump that splits like a yawning mouth. 
+		You don’t glance over your shoulder. You don’t check the trees.
+
+		You pretend the hush of the forest isn’t watching.
+
+		The breeze picks up, slow and dry, and carries something you don’t want to name. You keep walking.
+
+		Because some things are better left unnamed.
+
+		And whatever this feeling is—it’ll pass.
+
+		Eventually.
+		*goto nothing
+
+*label nothing
+[i]Nothing[/i].
+
+No footsteps. No breath but your own. 
+No sign of danger—only the trees, the mist curling low through their roots, and the steady drip of water from branch to branch.
+
+But your fingers curl tighter around the satchel strap. Just in case.
+
+And when you finally turn to make the walk back, something in you lingers behind. Some small thread of thought. Some shadow of a name—
+
+Not your own.
+
+Sol.
+
+You shake your head. Shift the bag across your shoulder.
+
+${sol_big_pronp}’ll still be asleep when you return.
+
+Probably.
+
+[i]You hope[/i].
+*page_break Next
+
+The trees lean in closer the farther you go. Less undergrowth here. More shadows.
+
+You keep to the edge of the birch line like your mother warned, but the satchel grows heavier with every step. 
+You’ve found feverroot. A good patch of stone thistle, too. But not enough moss. Not yet.
+
+You crouch by the stream, reaching for the slick red strands clinging to the stones just below the surface. 
+The water is cold enough to sting. Your fingers tremble—not from fear, but from the way the current pulls, like it wants something from you.
+
+And then you feel it.
+
+That shift. That silence.
+
+Like something holding its breath.
+
+You straighten slowly.
+
+The forest stills around you—not in fear, but in awareness. A kind of knowing that prickles beneath the skin. You don’t hear footsteps. 
+But you feel them. A ripple in the world just behind you.
+
+“Should’ve known I’d find you elbow-deep in moss.”
+*page_break You turn fast.
+
+Kai stands a few paces off, arms draped in lazy defiance, 
+leaning against a moss-slick tree like they’ve been waiting forever—or just arrived and want you to think otherwise. 
+One brow arches high, mocking, like the forest itself [i]tattled[/i] on you.
+
+Their hood’s askew, caught halfway down like it couldn’t decide if it wanted to hide them or not. 
+Their hair is dark, nearly black when caught in shadow, but with an oil-slick sheen where the light touches—cool-toned and gleaming like wet stone. 
+Their curls are wild around their ears—half-braided, half-forgotten, with twigs stuck between braids 
+like they’d been rolling in the underbrush for fun. [i]Probably had[/i]. A few strands stick to their forehead, damp from sweat or rain or whatever 
+trouble they stirred up before finding you.
+
+There’s a twig in their braid, a dried berry crushed beneath their heel, and a knife tucked backward into their boot. 
+Their boots are muddy, socks deliberately mismatched, and the hem of their cloak is stained with dried bramble-blood 
+and torn like they never once looked where they were going.
+
+Their eyes are quicksilver—gray, maybe. Or smoke. The kind that never settle, always half a second ahead of the moment. 
+There’s mischief in them. Bright like a trickster’s lantern in the dark—and they tilt their head at you now, 
+like they’re already imagining the next thing they’ll get away with.
+
+There’s a smudge of dirt across one cheekbone and something suspiciously berry-colored near their mouth. 
+Their smile is a crooked thing, too quick, too sharp at the corners. The kind that says 
+[i]I know something you don’t, and I’m deciding whether or not to let you suffer for it[/i].
+And when they smile—full, crooked, and a little too wide—it feels like a dare.
+
+They wear layers like armor—patched leather, mismatched cloth, a belt strung with useless trinkets that jingle faintly when they move. 
+
+“Miss me?” they ask, teeth flashing.
+
+And honestly, you did. Just a little.
+*set met_kai true
+*set kai_rel +40
+*page_break Next
+
+They look like they haven’t slept.
+
+They look like they’ve been looking for something.
+
+Or [i]someone[/i].
+
+“Didn’t mean to scare you,” they say, voice quieter now. “But you’ve been hard to find lately.”
+
+You blink. Heart still catching up. “You… [i]followed[/i] me?”
+
+They shrug. “Call it a hunch.”
+
+There’s something taut in the way they stand. Like they’re not sure if you’ll bolt or listen. Like they’re not sure which one they want more.
+
+You’ve known Kai most of your life. Or thought you had. 
+But now—even here, with the trees so familiar, with their hands empty and their eyes watching—you can’t read them the way you used to.
+
+“Is it true?” they ask, sudden and still. “The one you brought back. The ${sol_worm}.”
+
+You don’t answer.
+
+Kai takes a step forward. Just enough to show they’re not here for small things.
+
+“They say ${sol_pron} dropped out of the trees like ${sol_pron} didn’t belong in this world. That ${sol_pron}’s cursed. [i]Or worse[/i].”
+
+“They say a lot of things,” you murmur.
+
+They tilt their head. “And what do you say?”
+
+The stream babbles beside you, as if pretending not to listen.
+
+You haven’t decided.
+
+But you remember ${sol_pronpp} face. Pale and fever-wracked. The curve of golden hair across ${sol_pronpp} brow. 
+The way ${sol_pronpp} fingers twitched like they were still reaching for something ${sol_pron}’d lost in the dark.
+
+You remember the dream.
+
+You meet Kai’s gaze.
+*choice
+	#Tell them the truth.
+
+		You take a breath.
+
+		It tastes like damp bark and old copper. The kind of breath that feels like it’s being pulled out of you instead of drawn in.
+
+		“I don’t know what ${sol_pron} is,” you say finally. “But I know what I saw.”
+
+		Kai says nothing. Doesn’t move. But something flickers in the way their fingers shift—restless, maybe. Or afraid.
+
+		You go on, quieter now. Not for secrecy. Just because the words don’t want to come loud.
+
+		“I found ${sol_pronp} in the woods. Broken. Barely breathing. There was blood in the dirt and on the trees and in ${sol_pronpp} hair. 
+		And not all of it was ${sol_pronpp} own. ${sol_big_pron} shouldn’t be alive.”
+
+		Kai flinches. It’s small, but there.
+
+		“But I couldn’t leave ${sol_pronp}. Something about it felt… wrong. Or right. I don’t know. Like the world would shift if I walked away.”
+
+		You finally look up.
+
+		Their face twists. Like they don’t want to believe you. Like part of them already does.
+
+		“So yeah,” you finish, “maybe ${sol_pron}’s cursed. Maybe I am too.”
+
+		And the worst part?
+
+		You don’t say the worst part.
+
+		But it’s loud in your chest.
+
+		You [i]don’t want to let ${sol_pronp} go[/i].
+		*goto kai_continues
+
+	#Deflect. Turn it into a joke
+
+		You snort. Shake your head. “You make it sound like I dragged a ghost out of the river.”
+
+		Kai’s mouth tugs at the corners—unsure whether to smile or frown. “Did you?”
+
+		*if (height = "short")
+			Kai always makes you tilt your head back more than you’d like. It’s not much, but enough to remind you. Enough to make your neck ache if you let your pride get in the way. People overlook you sometimes—literally. But they forget just how sharp you can cut from below. Kai’s height doesn’t bother you, not really. But you meet their eyes like a dare anyway. Let them know you see [i]everything[/i].
+
+		*if (height = "average")
+			You meet Kai’s eyes level. Close enough that neither of you has to shift. Close enough that every twitch of expression registers. You’ve always known how to blend in—how to be [i]just right[/i] in a crowd, neither too big nor too small. But with Kai, it’s never about size. It’s about stance. About who yields first. [i]You don’t[/i].
+
+		*if (height = "tall")
+			You tilt your chin just slightly to look them in the eye. People notice you without trying. You’ve grown used to the space you take up—even learned to use it. But Kai never flinched, never shrank. If anything, they lean closer, like they [i]like[/i] the challenge of looking up. Of making you feel [i]seen[/i] from beneath. Now, you look down—not to diminish, but to study.
+
+		*if (height = "very tall")
+			You have to lower your gaze more than most. Kai stands like they don’t care if they have to crane their neck to meet your eyes—but they do it anyway. [i]Unflinching[/i]. You’ve always stood above others, casting a long shadow without meaning to. But Kai? They never step back. Never get smaller. And somehow, even looking down at them, it doesn’t feel like you’re above. It feels like they’re exactly where they meant to be—right in your line of sight, daring you to blink first.
+
+		You raise a brow.
+		“Well, if I did, they’re very polite about it. Haven’t even rattled any chains.”
+
+		Their eyes narrow slightly. “You’re dodging.”
+
+		You shrug. “Maybe.”
+
+		You reach for your satchel, check the moss again, even though you know exactly how much you’ve gathered. 
+		Your hands feel steadier when they’re doing something. [i]Anything[/i].
+
+		Kai circles closer. Their boots leave prints in the soft earth—slanted and light, like a shadow was wearing them.
+
+		“People are scared,” they say. “And when people get scared, they start setting fires just to see what burns.”
+
+		You tilt your head, mock-thoughtful. “So I should keep the firestarter hidden?”
+
+		They don’t laugh.
+
+		So you do, just barely, just enough to ease your own spine.
+
+		“Look, I didn’t ask for this,” you say. “I just found someone bleeding in the dirt. That’s all it is. That’s all it [i]has[/i] to be.”
+
+		Kai doesn’t look like they believe you.
+
+		And maybe you don’t either.
+		*goto kai_continues
+
+	#Push back. Turn the question on them
+
+		You look at them too long.
+
+		Long enough to let the silence stretch—tight as a bowstring, taut as old wire between teeth.
+
+		“Why do you care?”
+
+		Kai blinks. [i]Surprised[/i].
+
+		It’s subtle, but real. Not an expression they wear often.
+
+		“You came all the way out here to ask about someone you’ve never met. Someone everyone [i]else[/i] says is cursed, or worse. 
+		You tracked me through half-rotted woods just to play inquisitor.”
+
+		You shift your weight but do not look away.
+
+		“So what are [i]you[/i] really asking, Kai?”
+
+		They go still. Almost too still. Like an animal deciding if it should bite or bolt.
+
+		“I just wanted to know if you were safe.”
+
+		There’s a flicker of something under that—sharper. [i]Hidden[/i].
+
+		“Bullshit,” you say. “You don’t come looking like that—mud to your knees and blood on your cloak—just to check in.”
+
+		Kai breathes out slow.
+
+		Their gaze slips toward the trees, then back. “There’s talk,” they admit. “And not just about the ${sol_worm}. About you.”
+
+		That tightness behind your ribs grows teeth.
+
+		“What kind of talk?”
+
+		Kai doesn’t answer.
+
+		Not with words.
+
+		But their silence says enough.
+		*goto kai_continues
+
+	#Say nothing. Just stay
+
+		You don’t speak.
+
+		Not because you don’t want to—but because you [i]can’t[/i]. 
+		The words are too big and your mouth is too small and your heart is somewhere caught between your lungs, pressing up like it wants out.
+
+		Kai waits.
+
+		Not patiently. But with the kind of tension that says they’ve done this before. Waited for something that never quite came.
+
+		You turn back toward the stream.
+
+		There’s lichen on the stone where the water breaks. A flash of silver where a fish darts through shadow. The world keeps moving. You don’t.
+
+		Kai shifts behind you. You hear the faint clink of one of their belt trinkets. The brush of a shoulder against bark.
+
+		“I didn’t mean to make this a thing,” they say finally.
+
+		You shrug. “Too late.”
+
+		And still—you don’t tell them to leave.
+
+		You don’t tell them to stop asking.
+
+		And you don’t run, even when the ache in your chest says maybe you should.
+
+		You just stand there. With them.
+
+		Until the air between you settles again.
+
+		Until the woods start humming low and quiet.
+
+		Until something eases—not all the way, but [i]enough[/i].
+
+		And maybe that’s its own answer.
+		*goto kai_continues
+*page_break Next
+
+*label kai_continues
+The glade feels different now.
+
+Not darker, not colder. But… quieter. Like whatever had been listening has turned its head away.
+
+Kai shifts their weight beside you. A flick of movement in your peripheral vision. They’re not watching you now—they’re watching the trees.
+
+“Do you still need the red moss?” they ask, finally.
+
+You nod. “Almost done.”
+
+They don’t offer to help. They never do. 
+But they follow when you crouch beside the base of the pine again, scraping the last velvet clumps of moss from the bark with careful fingers.
+
+For a while, there’s only the sound of your hands working. The scrape of your blade. The hush of leaves above.
+
+“Will you tell ${sol_pronp}?” Kai asks.
+
+You pause. Not sure what part they mean—the dream? The fear? The [i]almost[/i] you didn’t say?
+
+“I don’t know.”
+
+They nod, slow. Like they understand too well.
+
+You finish your gathering in silence. The satchel’s heavy now—half with moss, half with something else. Something you’re not ready to name.
+
+When you stand, Kai’s watching you again. Not smug, not sharp. Just... watching.
+
+“I’ll see you back,” they say.
+
+You blink. “You don’t have to.”
+
+“I know.”
+
+They start walking anyway.
+
+And after a breath, so do you.
+
+The path winds back through the trees, and the woods don’t whisper this time. They just [i]wait[/i].
+
+And you, for once, aren’t sure what they’re waiting [i]for[/i].
+*page_break Next
+
+*if veilsense >= empathy
+	*if veilsense >= stoneveil
+		*if veilsense >= willpower
+			*goto veilsense_scene
+*if empathy >= veilsense
+	*if empathy >= stoneveil
+		*if empathy >= willpower
+			*goto empathy_scene
+*if willpower >= veilsense
+	*if willpower >= stoneveil
+		*if willpower >= empathy
+			*goto willpower_scene
+*if stoneveil >= veilsense
+	*if stoneveil >= willpower
+		*if stoneveil >= empathy
+			*goto stoneveil_scene
+*else
+	*goto random_scene
+
+*label veilsense_scene
+You pause mid-step.
+
+Something twitches in the air—just behind the quiet, just beneath the green hush of moss and fern. Not wind. Not movement. 
+A [i]tug[/i], soft as thread at your wrist.
+
+Kai’s voice trails off, drowned in the hum that rises beneath your skin.
+
+It feels like falling through your own bones.
+
+You turn, slow. The glade behind you is the same—on the surface. But you’ve walked these woods all your life, and this isn’t how the shadows used to lean. 
+The bark here is darker. The moss sings a little too sharp. And something about the air tastes old. As if it remembers things your tongue doesn’t know how to say.
+
+There—between the roots of a split pine, where the red moss runs deepest—you see it.
+
+A shimmer.
+
+A fold in the world.
+
+Not glowing. Not loud. Just wrong, in the quietest way. Like a door someone meant to close, left a hair’s breadth ajar.
+
+You step closer. The light dims as you move. The wind drops. Even the insects hush.
+
+You kneel beside the fold. Reach out—not touching, just feeling.
+
+And in that moment, something brushes you back.
+
+Not with fingers.
+
+With [i]intention[/i].
+
+Like a presence watching from the other side, curious but not unkind. Old. Sharp. [i]Hungry[/i] in a way that isn’t teeth.
+Through the trees, just beyond the veil of light and leaf, you think you see—
+
+A figure.
+
+Not standing.
+
+Not quite moving, either.
+
+She doesn’t glow. She doesn’t shimmer. 
+But your eyes struggle to [i]hold[/i] her, like they’re slipping on something smooth and ancient and carved from things older than moonlight.
+
+You see, briefly, the curve of a shadow-woman wrapped in bark and bone and gold thread. Hair like sun-bled roots. 
+A laugh like wind through hollow branches. Her hand cupped around something you can’t see. Protecting it. Or keeping it still.
+
+Pale fabric drapes from her shoulders—weightless, root-colored, frayed at the hem like it’s been trailing through centuries. 
+Her limbs are too long, her presence too still, and where her feet should touch the ground, the moss grows in strange spirals. Like it remembers her.
+
+And her face—
+
+You blink.
+
+You try to blink.
+
+But the forest moves first.
+
+Leaves rustle with no wind. The moss hums beneath your boots. Somewhere behind you, the stream hiccups mid-current.
+
+[i]I have not forgotten you. I will not let you fall.[/i] a voice echoed.
+
+When you turn again, the space is empty.
+
+But the stillness is not gone.
+
+It trails you.
+
+Like a name you almost remember.
+
+And then it’s gone.
+
+The shimmer collapses.
+
+Just moss now. Just pine bark.
+
+Your breath trembles in your throat.
+
+Kai’s staring at you. You don’t know when they stopped speaking. But their expression’s gone flat with worry.
+
+“What did you see?” they ask, too quiet.
+
+You shake your head. “Nothing.”
+
+Lie.
+
+The kind that tastes like sap and old names.
+
+You look back once before you rise. The moss where the shimmer had been is still wet—like something watched you through it. Like something waited.
+*set veilsense +1
+*goto connecting_scene
+
+*label empathy_scene
+You look at Kai. Really look.
+
+And suddenly, all the distance between you feels paper-thin.
+
+You remember climbing trees together, sneaking late into festivals, watching the stars blink out one by one as dawn came crawling over the ridge. 
+You remember laughter you didn’t have to earn. Safety you didn’t have to explain.
+
+But this?
+
+This is different.
+
+So you speak.
+
+Not fast. Not brave. Just [i]honest[/i].
+
+“It wasn’t just about Sol,” you say. “It was… more than that. The way ${sol_pron} looked. 
+The way I felt when I touched ${sol_pronp}. I don’t even know how to explain it.”
+
+Kai’s expression shifts—open now. Bare. Listening like it hurts.
+
+“${sol_big_pron} was dying. And I could feel it. Not just see it. Like the world was tilting. 
+Like [i]something[/i] was screaming through me that I couldn’t hear with my ears.”
+
+You press your hand to your ribs. Not dramatically. Just to [i]feel[/i] the place where it still echoes.
+
+“I couldn’t leave ${sol_pronp}. Even if I wanted to.”
+
+Kai looks down. One of their belt charms glints as it swings—metal shaped like a crescent, catching light.
+
+You go on, quieter. “It wasn’t just mercy. Or pity. It was like… ${sol_pron} was [i]mine[/i]. Like I belonged to that moment. 
+Like I was meant to carry ${sol_pronp} out.”
+
+There’s silence between you after that. Soft, not sharp.
+
+Then Kai sighs.
+
+“That’s not nothing.”
+
+You nod.
+
+It isn’t.
+
+And maybe they don’t understand it fully. Maybe they don’t need to.
+
+But the ache in your chest feels a little less alone now.
+*set empathy +1
+*goto connecting_scene
+
+*label willpower_scene
+You clench your jaw. Not hard. Just enough to hold your teeth together so nothing spills out—no questions, no doubts, no tremble in your breath.
+
+Kai’s watching you too close. Like they’re looking for cracks. Like they’re waiting for one word—one slip—to tell them everything they need.
+
+But you don’t give it.
+
+You don’t [i]have[/i] to give it.
+
+You’ve already made your choice. Sol is alive. You kept ${sol_pronp} that way. And whatever it cost, whatever it [i]means]—you’ll carry it.
+
+You glance down at your hands. Dirt under your nails. Moss dust on your fingers. Bloodstains half-faded but not gone.
+
+You’ve washed them a dozen times since dragging Sol back through the dark. But they still feel heavy. Not from what you did. From what comes [i]next[/i].
+
+Because healing someone is one thing.
+
+Keeping them safe?
+
+That’s the war.
+
+You shift the satchel on your shoulder. It bites at the bone. You welcome the feeling. It keeps you present. It keeps you upright.
+
+“The moss is enough,” you say. “We should go.”
+
+Kai narrows their eyes. “You’re avoiding it.”
+
+You shake your head. “No. I’m choosing what matters.”
+
+They step in front of you, one hand out, blocking the path—not hard, not angry, but firm.
+
+“There’s more coming,” they say. “You know that. This isn’t over.”
+
+You look past them, toward the trail.
+
+And you nod.
+
+“Then I’ll be ready.”
+
+You walk.
+
+Past the roots. Past the stone. Past the unease rippling under your skin.
+
+You keep walking because stopping feels too close to surrender.
+
+And you’re not done.
+
+Not yet.
+*set willpower +1
+*goto connecting_scene
+
+*label stoneveil_scene
+The lie is easier.
+
+Not because it’s prettier. But because it’s quieter.
+
+You shrug. Let your eyes drift back to the water. “${sol_big_pronp} was just a ${sol_worm} in the dirt. Same as anyone. That’s all.”
+
+Kai hesitates. “You’re sure?”
+
+“I didn’t ask for ${sol_pronpp} name,” you reply. “Didn’t ask where ${sol_pronp} came from. Wasn’t exactly in a talking mood.”
+
+Not false.
+
+Not entirely.
+
+But far from the whole truth.
+
+You feel the weight of it settle in your chest—a smooth, familiar stone. Not sharp. Just heavy. Just yours.
+
+You’ve carried worse.
+
+Kai frowns. Not suspicious. Just unsure. “I thought I knew you better than that.”
+
+You give them a half-smile that doesn’t reach your eyes. “You still might.”
+
+They step back. Just a little. Letting it drop.
+
+But the distance between you feels colder than it did before.
+
+The truth is an open wound.
+
+And you’ve learned how to keep things bandaged.
+
+Sol is safe. Your mother is safe. And whatever strange web you’ve stepped into, it doesn’t have to snare anyone else. Not if you hold steady. 
+Not if you close your fists and keep your eyes forward.
+
+There’s power in restraint.
+
+In silence.
+
+You learned that young.
+
+So you don’t say what you saw. Or what the dream left behind. Or how Sol’s pulse felt too fast, too strange, under your fingers.
+
+You say nothing at all.
+
+And the silence holds.
+*set stoneveil+1
+*goto connecting_scene
+
+*label random_scene
+You don’t remember kneeling.
+
+One moment you’re brushing moss into your satchel, dirt under your nails and Kai’s voice still ghosting the air—and the next, 
+you’re on the forest floor, breath shallow, heartbeat loud behind your teeth.
+
+Not fast.
+Just loud.
+Like it’s trying to remind you you’re still here.
+
+The trees feel closer than they were. Watching, maybe. Or listening.
+
+You press your palm to the earth—rough bark and cold roots, the kind of texture that anchors. 
+You try to breathe through it. Try to remember the weight of your own body. The shape of your own hands. But the feeling won’t leave.
+
+That ache. That [i]pull[/i].
+
+Like you’re on the wrong side of something invisible. 
+Like there’s a door here, somewhere—just thin air stretched over teeth—and you’ve almost stepped through without meaning to.
+
+You stay still.
+
+The forest doesn’t.
+
+The shadows shift just slightly. Like someone leaned in close.
+
+You lift your head.
+
+There’s nothing there.
+
+Except there is.
+
+Something in the way the moss curls near the roots ahead. In the stillness of the leaves—too still. 
+In the hush that hums just above hearing, like wind caught behind glass.
+You feel her. Not see. Not hear. Just [i]know[/i].
+
+A weightless figure. Pale and half-there. Familiar, though you’ve never met her.
+
+Your breath catches. Not from fear—but from the pressure of it. Like standing too close to a river’s edge in thaw-season. 
+The kind of edge that breaks without warning.
+
+Something flickers in your chest.
+
+Not a memory. Not quite.
+
+But a knowing.
+
+You are seen.
+
+You stand.
+
+Not fast. Not brave. But steady.
+
+Because something deep in your ribs remembers how. Because even with the ache and the fog and the pull of something [i]else[/i], your feet still know the ground. 
+Your skin still knows the cold. You are still [i]you[/i].
+
+That’s when you feel Kai behind you again. A presence—not touching—but near enough that you could reach back and grab their sleeve if you needed to.
+
+“You okay?” they ask, voice hushed.
+
+You nod. Then shake your head. Then shrug, because none of it feels true.
+
+Kai watches you.
+
+Not like they’re looking for signs.
+
+Like they’re trying to [i]read[/i] you, and you’re written in a language they used to know.
+
+“Something’s wrong here,” you murmur.
+
+They glance around—quick, sharp, hand brushing the hilt of their knife. “What kind of wrong?”
+
+You don’t answer. Because it isn’t danger. Not exactly. It’s not that kind of wrong.
+
+It’s the wrong you feel in dreams.
+
+The kind you wake from knowing something’s changed, even if you can’t say what.
+
+“I think…” You stop. Press your thumb to your palm until the bones grind. It helps. “I think something’s watching.”
+
+Kai doesn't laugh. For once. Their mouth is tight. Their jaw ticks.
+
+“I thought I heard something earlier. Before I found you.”
+
+You look at them. And for a moment, you see it—beneath all the jokes and deflection, all the easy swagger and jingle-trinkets: they’re afraid. 
+Not of the woods. Not of you.
+
+But of what might come from between them.
+
+So you do what you can.
+
+You breathe.
+
+You stand.
+
+And you hold that space—right there between knowing and not-knowing, between presence and absence—like a stone sunk deep in a riverbed.
+
+And the forest? It lets you.
+
+Just for now.
+*goto connecting_scene
+
+*label connecting_scene
+The forest holds its breath. You stand in the hush between all the choices you’ve made—every path you walked, every truth you spoke, 
+every silence you kept—each one a thread in a tapestry you can’t yet see.
+
+Kai is there, close enough to touch. Their eyes are wary, watchful, like they’re waiting for you to break. Or maybe for the world to.
+
+The air tastes older now. Like rain on old stone. Like a memory you never learned.
+
+Your fingers twitch. The moss beneath your boots hums with a low, restless energy. A presence you felt before—at the fold in the world, 
+in the hush between heartbeats—lingers just beyond the edges of your senses. It’s not a shape, not a voice. But it’s there. Like something watching. [i]Waiting.[/i]
+
+Kai’s voice breaks the stillness. “What is it?” they ask. Not with fear, exactly, but with a quiet that feels almost [i]suffocating[/i].
+
+You shake your head. “I don’t know,” you admit, the words tasting like dirt and old names. “But it’s… [i]close[/i].”
+
+Close enough that the air feels heavy in your chest. Close enough that your bones hum with the promise of something—an answer, a warning, 
+a hand outstretched just beyond your reach.
+*page_break Next
+
+Kai shifts, hand resting on the hilt of their blade. “You’re scaring me,” they say, a wry smile that doesn’t quite reach their eyes. Unnatural for them.
+
+You huff a breath—almost a laugh, but not quite. “I’m scaring myself,” you admit.
+
+The moss curls in strange patterns at your feet—like a map written in a language only the forest remembers. 
+And in that hush between your breaths, you remember the shadows, the shimmer, the hush that wasn’t silence.
+
+Something bigger than you.
+
+Something older.
+
+Something that might be waiting.
+
+A [i]promise[/i], maybe. 
+*page_break Or a [i]warning[/i].
+
+You swallow. “Whatever this is,” you say, voice steady despite the tremble in your chest, “it’s not done with me.”
+
+Kai’s gaze sharpens. “Then let’s be careful,” they say.
+
+You nod. And in that moment—between the hush and the heartbeat—you feel it again. A brush of something [i]ancient[/i]. Like a door left a hair’s breadth ajar. 
+Like the echo of a promise not yet spoken.
+
+You don’t know the name.
+
+You don’t know the shape.
+
+But you feel the presence. And you know—without knowing how—that the story isn’t finished. That this is just the beggining.
+
+That the forest still remembers.
+
+And so do you.
+
+You turn. You take Kai’s hand. And together, you step forward.
+
+Because the path is waiting.
+
+Because the hush still hums.
+
+Because whatever waits in the shadows, you’re not afraid to meet [i]it[/i].
+*page_break You are not afraid
+
+The path home winds through the woods like a memory—soft earth, old stones, the hush of leaves overhead. 
+Sunlight filters through the canopy in broken gold, catching on Kai’s hair and painting their grin in shifting patterns of light and shadow.
+
+It feels like the world has let out a breath. Like, for just a little while, you can too.
+
+Kai swings a stick in lazy arcs as they walk, slicing through the air like a sword. 
+“Remember when you broke your wrist trying to jump that gap behind the old mill?” they ask, voice bright with laughter.
+
+You roll your eyes, but the smile creeps in anyway. “I was trying to catch that fox.”
+
+Kai snorts. “Yeah, well, it definitely caught [i]you[/i].”
+
+You shove their shoulder lightly, and they laugh—full and bright, the kind of sound that always made your chest ache in a good way.
+
+“Hey,” you say, grinning. “You’re the one who [i]dared[/i] me to do it.”
+
+Kai tosses their stick into the underbrush and shrugs, feigning innocence. “I was being supportive.”
+
+“Supportive?” you echo. “You said, and I quote: ‘If you’re gonna be stupid, at least make it interesting.’”
+
+Kai grins, all teeth. “That’s supportive in my book.”
+
+You laugh—a real, unguarded laugh—and the woods echo it back, small birds darting between branches overhead.
+*page_break Next
+
+For a while, you walk in companionable silence, the sun warm on your face. A squirrel dashes across the path ahead, and Kai points at it, eyes wide.
+
+“Look at that one!” they say. “Remember when we tried to catch one with that ridiculous [i]box trap[/i] you made?”
+
+You groan. “Don’t remind me.”
+
+“[b]It worked![/b]” Kai crows. “I mean, until we realized it was the same squirrel every time.”
+
+You shake your head, remembering the long afternoons of waiting, the giggles you both tried to stifle, the smell of damp earth and pine needles. 
+“It definitely had your number.”
+
+Kai leans closer, voice dropping to a [i]conspiratorial[/i] hush. “You know it followed us for days after. Like it was offended we didn’t invite it to dinner.”
+
+You nearly stumble from laughing too hard. “Oh gods. I forgot about that.”
+
+They grin, eyes alight. “How could you? That thing would stare at us from the roof like a tiny, furry god.”
+
+You’re both laughing now, tears at the corners of your eyes. The kind of laughter that comes from being safe enough to let go.
+
+As the path curves, the trees thin, and you catch a glimpse of the rooftops in the distance—smoke from the hearths curling into the blue sky. [i]Home[/i].
+*page_break Next
+
+Kai sighs, the sound more content than weary. “Feels like it’s been years since we walked this way.”
+
+You nod. “Feels like we’re different, too.”
+
+Kai shoots you a sidelong look. “We always were. Even before all this.”
+
+You’re quiet for a moment, thinking of the nights you both stayed out too late watching stars, or the time you hid from the elders behind the mill, 
+knees scraped and hearts pounding.
+
+“Remember the time you tried to teach me that stupid whistle you do with the grass blades?” you ask, voice soft.
+
+Kai grins. “Tried? [i]I taught you[/i].”
+
+You roll your eyes. “Taught me to get spit all over my chin, maybe.”
+
+They laugh, shaking their head. “You just have no musical talent. Even the birds left when you tried.”
+
+You shove them again, but it’s playful, and they catch your hand and squeeze it.
+
+“Doesn’t matter,” Kai says, quieter now. “I’d still listen.”
+
+The words catch you off guard—a warmth in your chest you didn’t expect.
+
+“Thanks,” you say, your voice catching.
+
+Kai smiles, eyes soft. “[i]Anytime[/i].”
+
+*label kai_memories_hub
+Kai laughs. “Those were some pretty wild times. [i]Righ[/i]t?”
+*choice
+	*disable_reuse #The Pie Incident
+		Kai’s laughter bubbles up suddenly, bright as the twilight sky. “Remember that time we stole pies off Old Mother Denvin’s windowsill?” 
+		You grin. “Gods, I thought she was going to skin us alive.” 
+		Kai’s grin widens, eyes dancing with memory. “You bit into yours so fast you nearly choked. And then—” 
+		“—the town guard caught us red-handed. Literally. Berry juice everywhere.” 
+		Kai howls, nearly tripping over a root. “He didn’t even yell at us—just stood there, staring at us like we were ghosts come to ruin his evening.” 
+		You shake your head. “And then he asked for a slice.” 
+		“He did!” Kai snorts. “Like it was all some grand joke.” 
+		You both walk a few more paces in the fading light, the memory warm as stolen pie in your hands. “We were such little terrors,” you murmur. 
+		“Still are,” Kai says, with a grin that feels like home.
+		*set picked_mischief true
+		*goto kai_memories_hub
+
+	*disable_reuse #Kai’s Father and the Whittled Charms
+		The woods hush around you, leaves whispering old secrets. Kai’s voice softens. “My da’s charms,” they say, almost shyly. 
+		“He carved them from birch—said they kept us safe.” 
+		You nod, the memory clear as day. “He gave me one once. A little fox, tail curled tight.” 
+		Kai smiles, the kind that touches the corners of their eyes. “He always said giving them away made them stronger.” 
+		You touch the place on your belt where the charm used to hang. “I lost it that night the wolves came,” you admit. “Never found it again.” 
+		Kai’s smile turns bittersweet. “Doesn’t matter,” they say. “He’d say the blessing still counts.” 
+		You walk on, the silence between you full of that old magic, unspoken but not forgotten.
+		*set picked_family true
+		*goto kai_memories_hub
+
+	*disable_reuse #Learning Magic (or Not)
+		A gust of wind rattles the branches overhead. You sigh. “Do you remember that charm we tried to learn? The flame one?” 
+		Kai groans. “Gods, don’t remind me. I thought we’d set the whole shed on fire.” 
+		You laugh. “We nearly did. You shouted at me not to breathe on it, like that would help.” 
+		Kai chuckles, eyes bright with the memory. “Hey, I was trying to help. You had that look—like you were about to burst.” 
+		You roll your eyes. “Yeah, because someone,” you jab a finger at them, “kept throwing sticks on the pile and saying ‘More fuel for the magic!’” 
+		Kai cackles. “Hey, at least we learned one thing.” 
+		“Oh?” 
+		Kai’s grin is mischievous. “Never trust me with fire.” 
+		You snort, shaking your head. “Noted,” you say, and the warmth between you is a small, steady flame all its own.
+		*set picked_magic true
+		*goto kai_memories_hub
+
+	*disable_reuse #Dreams and Fears
+		The path twists beneath your boots, moonlight pooling like water in the hollows. “Ever think about leaving?” Kai asks, voice barely above a whisper. 
+		You nod slowly. “Sometimes. When everything felt too small.” 
+		Kai’s hands are jammed deep in their pockets. “Da always said I should see the sea. Said it’d change me.” 
+		You glance at them, the way the night shadows play across their face. “Why didn’t you?” 
+		Kai shrugs. “Guess I never found the right reason to leave. Or maybe I was afraid I’d never come back.” 
+		You’re quiet for a while, the forest alive with night sounds. “Maybe the right reason is still here,” you say, voice softer than the wind. 
+		Kai’s head tilts, and a smile flickers at the edges of their mouth. “Maybe,” they whisper. 
+		And for a moment, you both walk in silence, the world around you a little less heavy.
+		*set picked_dreams true
+		*goto kai_memories_hub
+
+	*disable_reuse #First Crushes
+		A breeze stirs the leaves, carrying the scent of pine and old stories. “Do you remember your crush on the blacksmith’s apprentice?” 
+		Kai teases, elbowing you gently. 
+		You groan, covering your face. “I’d rather forget.” 
+		Kai laughs, their eyes bright. “You’d blush so hard you looked like a dying ember every time the apprentice spoke to you.” 
+		“Oh gods,” you mutter, “and you—pining over that festival dancer with the red ribbons.” 
+		Kai smirks. “The moves were pretty good.” 
+		“Yeah, with a voice like a rusty hinge,” you retort. 
+		Kai snorts, doubling over with laughter. “Still,” they say between giggles, “you have to admit—it made the summer festivals more fun.” 
+		You grin despite yourself. “Maybe. Maybe it did.” 
+		The memory hangs between you, sweet and a little painful, like a bruise you’d forgotten you loved.
+		*set picked_crushes true
+		*goto kai_memories_hub
+
+	#You remember these memories and do not need to reminisce
+		You decide you’ve reminisced enough for now. It’s time to move on.
+		*goto continue_story_kai
+
+*label continue_story_kai
+*page_break Next
+
+You walk a little slower after that. The sun’s lower now, casting long shadows across the trail. 
+A breeze stirs the leaves overhead, sending a hush through the trees like a memory you haven’t yet put words to.
+
+And in that hush, you both walk—side by side, feet scuffing dirt and moss.
+
+You talk about the old times: the year you both tried to build a raft that sank instantly, the festival where Kai nearly set their hair on fire with a sparkler, 
+the time you tried to catch fireflies and ended up covered in mosquito bites.
+
+Every story, every laugh, is another step closer to the village. Another stitch in the fabric of who you are—who you were, who you’re becoming.
+
+The rooftops grow nearer, warm light spilling from the windows. Voices drift on the breeze—children playing, someone chopping wood, a dog barking at the wind.
+
+Kai bumps your shoulder again, [i]gentle[/i]. “Hey,” they say. “Whatever happens tomorrow, or the day after that—I’m glad you’re here. I’m glad it’s us.”
+
+You look at them, really look, and the smile you give them is small but strong. “Me too,” you say.
+
+And together, you walk the last few steps home in peace. Or at least you think so...
+*page_break Next
+
+The village greets you with the quiet hush of dusk settling in—lamplight soft against wooden walls, the scent of woodsmoke curling beneath the moon’s first breath. 
+You walk slow, feeling the weight of the day in your bones, Kai at your side like a shadow that chose to stay.
+
+But even the warmth of home can’t soften the cold bite waiting for you.
+
+It comes sudden—a rustle, a shape darting through the half-light, small and fast and trembling. Sol.
+
+You barely have time to draw a breath before ${sol_pron}’s at your side, eyes wide, 
+breath coming too quick—like something’s tearing ${sol_pronp} apart from the inside. 
+${sol_big_pronpp} hands clutch your sleeve, knuckles white, nails biting through fabric and into your skin.
+
+“Where were you?” ${sol_big_pronpp} voice cracks—raw, terrified, every word soaked in a tremor that makes your chest ache. 
+“I—I woke up and you were gone. I couldn’t—I couldn’t find you.”
+
+${sol_big_pronpp} face is too pale, too sharp, eyes wild like a trapped thing. 
+${sol_big_pronpp} hair’s tangled, still damp at the ends, sticking to ${sol_pronpp} cheek like tears ${sol_pron}’s too proud to shed.
+
+You try to answer, but ${sol_pron}’s already talking—too fast, too desperate, the words tripping over themselves.
+
+“You can’t—you can’t leave me.” ${sol_big_pronpp} voice shakes on the last word, like it’s a curse ${sol_pron}’s too scared to say out loud. “You promised. You—”
+
+${sol_big_pron} falters, breath ragged, eyes searching yours like they’re trying to pull the answer out of your bones.
+
+“Don’t you [i]dare[/i] leave me,” ${sol_pron} whispers, the words tasting like blood and old wounds. “Don’t you dare.” ${sol_big_pronpp} voice cracks at the end.
+
+*page_break The force of it hits you like a storm
+
+You reach for ${sol_pronp}, but ${sol_pron} flinches—like ${sol_pron}’s afraid even your touch might vanish. 
+Like you’re smoke and ${sol_pron}’s trying to hold on before the wind takes you.
+
+“I thought—I thought you were gone,” ${sol_pron} says again, softer now, voice breaking on the edges. “I thought you left me.”
+
+Your heart twists. Because you remember the way ${sol_pron} clung to you in the dark, the way ${sol_pron} looked at you like you were salvation and sin all at once. 
+The way ${sol_pron} believed in you—like if ${sol_pron} just held on tight enough, the world couldn’t take you from ${sol_pronp}.
+
+“Sol,” you murmur, your voice a thread trying to stitch ${sol_pronpp} heart back together. “I’m here. I’m not going anywhere.”
+
+But ${sol_pron} shakes ${sol_pronpp} head, tears streaking ${sol_pronpp} cheeks now, too fast to catch. “No,” ${sol_pron} breathes, each word an ache. 
+“No, you’ll go. Everyone goes. Everyone leaves. They—they always leave.”
+
+The desperation in ${sol_pronpp} eyes—like ${sol_pron}’s standing on a precipice, 
+and your presence is the only thing keeping ${sol_pronp} from falling—makes something in your chest crack.
+*page_break Next
+
+You pull ${sol_pronp} closer, arms around ${sol_pronpp} shoulders, feeling the tremble in ${sol_pronpp} spine. 
+${sol_big_pronpp} hands clutch at your sides like a lifeline, like ${sol_pron}’s terrified you’ll dissolve if ${sol_pron} lets go.
+
+“I’m here,” you whisper again, fierce and gentle all at once. “I’m here, Sol. And I’m not leaving you. Not now. Not ever.”
+
+${sol_big_pron} buries ${sol_pronpp} face in your chest, breath hitching, tears hot against your skin. ${sol_big_pronpp} voice comes muffled—small, broken. 
+“Please,” ${sol_pron} says. “Please don’t leave me. Please.”
+
+Your hand smooths through ${sol_pronpp} hair—slow, steady, the way your mother used to when nightmares came. “I won’t,” you promise. 
+“I won’t. I will keep you safe. I will protect you. No matter what comes next.”
+
+${sol_big_pronpp} breath shudders out of ${sol_pronp}—a sound too sharp, too soft, like something breaking in the quiet.
+
+And in that moment, ${sol_pron}’s not the ${sol_worm} from the woods. Not the one who begged you to save ${sol_pronp} from darkness.
+
+${sol_big_pron}’s just like a child—afraid of the night, afraid of the silence, afraid that love is a fragile thing that can be lost with a single breath.
+
+So you hold ${sol_pronp}. Tight. Like ${sol_pron}’s the last star in a sky that’s gone dark.
+
+And you swear to every goddess that’s ever watched the woods:
+
+You will not let ${sol_pronp} fall.
+
+Not while you still have breath.
+
+Not while ${sol_pronpp} tears stain your hands.
+
+Not while your heart still knows ${sol_pronpp} name.
+*page_break Next
+
+Kai stands a few paces back, arms crossed, watching with a wary sort of quiet. 
+Their posture is relaxed, but their eyes are sharp—always weighing, always reading.
+
+Their hands hover at their sides, caught between wanting to reach out and knowing they don’t quite have the right.
+
+They shift, foot scuffing against the dirt like they’re trying to ground themselves, but their hands stay at their sides—open, but trembling.
+
+When you glance up, you see the ache in their face. Not pity. Not exactly. Something older than that. 
+Like they’ve seen this before, somewhere deep in their own bones—a fear they’ve carried in their own chest, half-buried but never dead.
+
+Sol’s breath is steady, but there’s a tightness in ${sol_pronpp} jaw, a tremor in the lines around ${sol_pronpp} mouth. 
+You feel ${sol_pronp} trembling in your arms—just enough to make your breath catch. Sol’s weight is solid against your chest, but ${sol_pron}’s not fragile.
+${sol_big_pron}’s battle-worn, older than you in ways that have nothing to do with years, but in this moment, ${sol_pron}’s all raw edges and unspoken need.
+
+${sol_big_pronpp} arms are tight around your ribs, as if ${sol_pron}’s trying to press himself into the shape of your bones. 
+You can feel ${sol_pronpp} heartbeat through your sleeve, quick and unsteady.
+
+“You—” ${sol_big_pronpp} voice catches like it’s snagged on something sharp. ${sol_big_pron} tries again, quieter, but it’s no steadier. 
+“I thought—maybe you’d gone. Like the others. Like the ones who promised they’d stay.”
+
+Your breath hitches. You hold ${sol_pronp} tighter, not because ${sol_pron}’s breaking, 
+but because ${sol_pron}’s holding himself together so fiercely you can almost feel the strain in ${sol_pronpp} spine.
+
+“Sol,” you murmur. Just ${sol_pronpp} name, like an anchor.
+
+You reach for ${sol_pronp}, resting your hand on ${sol_pronpp} shoulder. 
+${sol_big_pron}’s solid under your palm—muscle and tension and a quiet strength that’s carried ${sol_pronp} through more than you can guess.
+
+*page_break “I’m not going anywhere” 
+“I’m here. I chose to be here,” you say, voice firm.
+
+${sol_big_pron} shifts, just enough to press ${sol_pronpp} forehead to your collarbone. 
+“I know it’s stupid,” ${sol_pron} says, voice rough. “I know you’re here. I know that. But—” ${sol_big_pron} breathes, a shaky exhale. 
+“I’ve been left behind too many times. And every time I think I’m not—”
+
+A shudder runs through ${sol_pronp}, fierce and helpless. “—I’m scared you’ll be the last one. 
+That I’ll open my eyes and find you gone, and I won’t even know what I did wrong.”
+
+Your hands are steady at ${sol_pronpp} back, tracing the line of ${sol_pronpp} spine. 
+You can feel every tremor in ${sol_pronp}, every breath ${sol_pron} tries to hold back.
+
+“You didn’t do anything wrong,” you whisper. “I’m here because I chose to be.”
+
+${sol_big_pron} laughs, but it’s a broken sound, a knife-edge of relief and disbelief. “Don’t say that if you don’t mean it.”
+
+Your hands curl in ${sol_pronpp} shirt. “I’ve never said anything I didn’t mean.”
+
+${sol_big_pronpp} grip tightens, ${sol_pronpp} fingers digging into your sides like ${sol_pron}’s afraid you’ll vanish if ${sol_pron} loosens them. 
+“Promise me,” ${sol_pron} breathes. “Promise you won’t leave.”
+
+You lower your head, pressing your forehead to ${sol_pronpp} temple.
+*page_break [i]I promise[/i]
+
+For a moment, everything stills. ${sol_big_pronpp} breath is ragged, but steadying. ${sol_big_pronpp} body leans into yours, heavy and warm and real.
+
+And in that quiet, you feel it—how much ${sol_pron}’s given up to be here. How much ${sol_pron}’s willing to risk just to believe that you’ll stay.
+
+Kai is silent behind you, watching. You can feel their presence, a shadow at your back. 
+And though they don’t say a word, you can sense the weight of their understanding—of everything left unsaid between you, and everything they’ve always carried.
+
+Sol draws a long breath, ${sol_pronpp} chest rising against yours. 
+And when ${sol_pron} lets it go, it’s as if some part of ${sol_pronp}—some old, hard thing—finally unravels in your arms.
+
+${sol_big_pron}’s still strong. Still grown. But in this moment, ${sol_pron}’s just a ${sol_worm} asking not to be left behind.
+
+And you—goddess help you—you want to stay.
+*choice
+	#“I won’t leave you, Sol. Not now. Not ever.”
+		You draw Sol in tighter, your voice a low, like [i]fierce[/i] promise. 
+		“Not now. Not ever.” You don’t care how raw your voice sounds—because you mean it. 
+		Sol exhales shakily, and you feel it: trust, blooming slowly in the hollow of ${sol_pronpp} ribs.
+		*set sol_rel +20
+		*goto sol_carry
+
+	#“You’re safe now. That’s all that matters.”
+		You run your fingers gently down Sol’s back. 
+		“You’re safe now,” you murmur. “That’s all that matters.” 
+		Sol doesn’t respond, not with words, but ${sol_pronpp} grip on you eases—not because ${sol_pron} wants to let go, but because ${sol_pron} believes you.
+		*set sol_rel +20
+		*goto sol_carry
+
+	#Look at Kai. “We all carry fears like that. You’re not alone, Sol.”
+		You glance back at Kai, meet their eyes. “You’re not the only one who’s scared,” you say, low. “We all carry ghosts like that.”
+		Sol stiffens slightly in your arms—uncertain—but Kai steps closer, their voice a hush. 
+		“We just don’t always have someone who’ll stay long enough to see them.”
+		*set kai_rel +20
+		*goto sol_carry
+
+	#“I care about you, Sol. I just need time.”
+		You keep your hand on ${sol_pronpp} back, steady, gentle. “I care about you. I do. I just… need time to figure out what this is.”
+		Sol nods, once, but the way ${sol_pron} holds you says ${sol_pron}’ll wait—for as long as ${sol_pron} has to.
+		*goto sol_carry
+
+	#Say nothing. Just hold ${sol_pronp}
+	You don’t answer with words. Just draw ${sol_pronp} closer, anchor ${sol_pronp} with the warmth of your body. 
+	Sol breathes you in, and you feel it—that quiet shift in ${sol_pronp}, like something that was hurt is finally beginning to rest.
+	*goto sol_carry
+
+*label sol_carry
+You half-carry Sol back to the path, ${sol_pronpp} weight pressed to your side. 
+${sol_big_pronpp} steps are uneven—every few strides, ${sol_pron} stumbles, and you catch ${sol_pronp} before ${sol_pron} can drop.
+
+Kai is waiting, arms folded across their chest, brows drawn tight. Their eyes flick from you to Sol, reading every hitch of breath and every line of pain.
+
+“Idiot,” they mutter, but it’s softer than before. Less sharp. Their fingers twitch like they want to help but aren’t sure how.
+
+You lower Sol onto a moss-covered log, the weight of ${sol_pronp} settling slow. ${sol_big_pronpp} shirt is damp at the seam—fresh blood blooming at the edges of ${sol_pronpp} stitches.
+
+“Sol.” You keep your voice low, steady, though your own hands shake. “Let me see.”
+
+${sol_big_pron} huffs a half-laugh that’s more of a gasp. “It’s nothing.”
+
+You shoot ${sol_pronp} a look. “Your stitches are torn.”
+
+${sol_big_pron} drops ${sol_pronpp} gaze. You see it in the way ${sol_pronpp} shoulders curl—embarrassment, not pain. 
+“I had to find you,” ${sol_pron} says. “Didn’t think—”
+
+Kai steps closer, voice tight with worry, but still tinged with their usual sarcasm. “Didn’t think, clearly.”
+
+Sol’s jaw clenches. ${sol_big_pron} tries to lift ${sol_pronpp} head, but the effort leaves ${sol_pronp} pale. “You don’t understand—”
+
+Kai’s eyes flash, and for a second they look ready to snap. But then they stop. Their expression shifts, softens—like the fight drains out of them. 
+“No,” they say. “I think I do.”
+
+You slide down beside Sol, your knees brushing ${sol_pronpp}. The wound is angry red, the thread split and weeping. You touch it lightly, and ${sol_pron} winces.
+
+“Hold still,” you say. “This is going to hurt.”
+
+${sol_big_pron} nods, but there’s a tremor in ${sol_pronpp} throat. 
+${sol_big_pronpp} eyes find yours, wide and vulnerable in a way that has nothing to do with ${sol_pronpp} body’s pain.
+
+“Don’t—” ${sol_pron} breathes. “Don’t leave me again.”
+
+Your heart twists. You press your palm to ${sol_pronpp} chest—steady, firm—like a promise. “I’m not going anywhere.”
+
+Kai kneels beside you, rummaging in the pack for fresh thread and a needle. 
+They glance at Sol, then at you, their eyes dark with something deeper than frustration. 
+“You know,” they say, voice quiet but edged, “${sol_pron}’s not the only one afraid you’ll disappear.”
+
+You look at them—really look—and the ache in your chest blooms. There’s so much unsaid in that look.
+
+Kai’s jaw tightens, and they pass you the needle. “Fix ${sol_pronp},” they say, the words landing heavy. “Then we’ll figure the rest out.”
+
+You thread the needle with hands that remember every time you’ve had to hold a wound closed. The forest breathes around you—moss and pine and the scent of iron.
+
+Sol watches you, ${sol_pronpp} breath ragged. “I’m sorry,” ${sol_pron} whispers. “I shouldn’t have—”
+
+You hush ${sol_pronp} with a soft shake of your head. “You came to find me,” you say, threading the needle through ${sol_pronpp} torn skin. 
+${sol_big_pronpp} breath catches at the sting. 
+“That’s not nothing.”
+
+Kai leans closer, voice a low murmur. “And next time,” they say, “try asking for help before you bleed all over the forest.”
+
+Sol lets out a broken laugh—a sound that cracks and rebuilds itself in the same breath.
+
+You tie the final knot, the wound neat but raw. Your fingers linger on ${sol_pronpp} skin a moment longer.
+
+“I’m here,” you say. “I’ll stay.”
+
+Sol’s eyes close, ${sol_pronpp} breath easing at last.
+
+Kai leans back on their heels, watching you both. The shadows gather around them—soft, not sharp—and for the first time, you see the worry behind the mask.
+
+“Good,” Kai says, voice low but warm. “Because neither of us is ready to let you go.”
+
+The forest settles, the hush returning like a held breath.
+
+And for a moment—[i]just a moment[/i]—you let yourself believe it might hold.
+*page_break You get on your way back home
+
+The path home winds through the trees, roots clawing at the earth like old bones. 
+You walk slow, careful of every step — because Sol is with you now, and every inch of ${sol_pronp} looks like it might unravel with the wrong wind.
+
+${sol_big_pronpp} hand clings to your sleeve — not desperate, just… [i]unsure[/i]. Like ${sol_pron} knows that if ${sol_pron} lets go, ${sol_pron} might disappear.
+
+Kai walks on your other side, quiet but watchful. 
+Every so often, they glance at Sol, their brow furrowed like they’re weighing the risk of saying something — or everything.
+
+You catch the hush in Kai’s steps, the way they slow when Sol stumbles, the way they soften their voice to ask if ${sol_pron}’s okay.
+
+Sol answers in nods mostly, ${sol_pronpp} face pale and drawn, but every time ${sol_pron} stumbles, ${sol_pron} leans closer to you. 
+Like you’re the only thing holding ${sol_pronp} to this world.
+
+You press your palm to ${sol_pronpp} shoulder, light but steady, and murmur, “Almost there.”
+
+${sol_big_pron} breathes in — [i]sharp, ragged[/i] — but nods, ${sol_pronpp} eyes fixed on the faint glow of the village lanterns just ahead.
+
+Kai hums low in their throat — an old tune from when you were kids, back before you had to carry the weight of adulthood.
+
+The sound soothes something in you, even as Sol’s fingers tighten on your sleeve.
+
+You keep walking.
+
+The three of you — together, but not the same.
+
+Past the hush of the woods. Past the moss that still hums beneath your boots.
+
+Home is just ahead — or as close to it as any of you get.
+*page_break The End... For Now...
+
+[i]That’s all for now.[/i]
+
+The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
+and pulling threads that will take you further into Ashwood and everything it hides.
+
+If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
+Your feedback means the world and helps shape where the path leads next!
+
+Thank you for playing.
+Thank you for reading.
+And thank you for walking with me into the dark.
+
+Until soon.
+
+[i]Your Audrine[/i]

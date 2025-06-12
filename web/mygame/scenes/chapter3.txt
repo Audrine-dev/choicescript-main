@@ -585,20 +585,6 @@ Because something about ${sol_pronp}, for all ${sol_pronpp} polished caution, fe
 Maybe one day ${sol_pron}’ll tell you the rest.
 
 But for now… [i]“Sol”[/i] is enough.
-*page_break The End... For Now...
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*set met_sol true
+*page_break Next Chapter
+*goto_scene chapter4

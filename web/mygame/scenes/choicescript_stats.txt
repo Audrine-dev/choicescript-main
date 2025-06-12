@@ -149,6 +149,11 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 *choice
 	#Relationships
 		*goto relationship_stats
+	#Vérryn
+		*goto vérryn_dictionary
+	#Es'Shael
+		*goto es'shael_dictionary
+
 
 *label relationship_stats
 [b]Family Relationships[/b]
@@ -162,13 +167,52 @@ Your relationships with your family shape who you are.
 [b]Connections of the Heart[/b]
 
 The ones you draw close will shape your story—and you.
-*stat_chart
-	percent sol_rel Relationship with Solian
-	percent nyric_rel Relationship with Nyric
-	percent lysandra_rel Relationship with Lysandra
-	percent elden_rel Relationship with Elden
-	percent kai_rel Relationship with Kai
-	percent cass_rel Relationship with Cassariel
+
+*if (met_sol)
+	*stat_chart
+		percent sol_rel Relationship with Solian
+*if (met_nyric)
+	*stat_chart
+		percent nyric_rel Relationship with Nyric
+*if (met_lysandra)
+	*stat_chart
+		percent lysandra_rel Relationship with Lysandra
+*if (met_elden)
+	*stat_chart
+		percent elden_rel Relationship with Elden
+*if (met_kai)
+	*stat_chart
+		percent kai_rel Relationship with Kai
+*if (met_cass)
+	*stat_chart
+		percent cass_rel Relationship with Cassariel
 *if (met_draegan)
 	*stat_chart
 		percent draegan_rel Relationship with Draegan
+*finish
+
+*label vérryn_dictionary
+[b]Vérryn dictionary[/b]
+
+[i]Vérryn is the everyday language of witches and witchers — the one they speak among themselves in homes, woods, and hidden villages. 
+It's old, adaptive, and full of warmth, memory, and survival. It is used for everything from casual talk to coded messages during witch hunts.[/i]
+
+[i]Vér[/i] = life thread / bloodline
+
+[i]Ryn[/i] = path / voice / current
+
+Vérryn then means [i]The Living Path[/i] or [i]The Bloodspoken Way[/i]
+*finish
+
+*label es'shael_dictionary
+[b]Es'Shael dictionary[/b]
+
+[i]Es’Shael is the ritual spell-language of the witches, taught by their goddess Venora, and believed to hold power over the world’s breath and form. 
+It is only spoken during spellwork, rituals, sacred rites, and high magic[/i] — [b]never casually.[/b]
+
+[i]Es[/i] = sacred / divine essence
+
+[i]Shael[/i] = breath / utterance / whisper
+
+Es’Shael then means [i]The Sacred Breath[/i] or [i]The Divine Whisper[/i]
+*finish

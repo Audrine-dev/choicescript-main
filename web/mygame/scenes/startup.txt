@@ -5,6 +5,7 @@
   chapter1
   chapter2
   chapter3
+  chapter4
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -15,7 +16,22 @@
 *create veilsense 1
 *create stoneveil 1
 *create magic_awakened false
+*create mother_rel 0
+*create father_rel 0
+*create sol_rel 0
+*create nyric_rel 0
+*create lysandra_rel 0
+*create elden_rel 0
+*create kai_rel 0
+*create cass_rel 0
+*create draegan_rel 0
 *create met_draegan false
+*create met_sol false
+*create met_cass false
+*create met_nyric false
+*create met_kai false
+*create met_lysandra false
+*create met_elden false
 *create name ""
 *create gender ""
 *create person_word ""
@@ -49,16 +65,12 @@
 *create cass_pronpp ""
 *create cass_big_pronpp ""
 *create cass_worm ""
-*create mother_rel 0
-*create father_rel 0
-*create sol_rel 0
-*create nyric_rel 0
-*create lysandra_rel 0
-*create elden_rel 0
-*create kai_rel 0
-*create cass_rel 0
-*create draegan_rel 0
 *create sol_wake_scene 0
+*create picked_mischief false
+*create picked_family false
+*create picked_magic false
+*create picked_dreams false
+*create picked_crushes false
 
 *label prologue
 
