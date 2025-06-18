@@ -59,6 +59,10 @@ What is your gender?
 		*input_text gender
 		Your gender identity is ${gender}. It’s something unique to you.
 		*goto nb_name
+	
+	#Skip
+		*set hair_length "long"
+		*goto_scene chapter5
 
 *page_break
 
@@ -518,6 +522,7 @@ What about love interests?
 		*set elden_pronpp "his"
 		*set elden_big_pronpp "His"
 		*set elden_worm "man"
+		*set elden_him "himself"
 		*set cass_pron "he"
 		*set cass_big_pron "He"
 		*set cass_pronp "him"
@@ -540,6 +545,7 @@ What about love interests?
 		*set elden_pronpp "her"
 		*set elden_big_pronpp "Her"
 		*set elden_worm "woman"
+		*set elden_him "herself"
 		*set cass_pron "she"
 		*set cass_big_pron "She"
 		*set cass_pronp "her"
@@ -584,6 +590,7 @@ Is Elden he/she?
 		*set elden_pronpp "his"
 		*set elden_big_pronpp "His"
 		*set elden_worm "man"
+		*set elden_him "himself"
 		*goto cass_sett
 
 	#Elden – The Quiet Protector - She
@@ -593,6 +600,7 @@ Is Elden he/she?
 		*set elden_pronpp "her"
 		*set elden_big_pronpp "Her"
 		*set elden_worm "woman"
+		*set elden_him "herself"
 		*goto cass_sett
 
 *label cass_sett

@@ -6,6 +6,7 @@
   chapter2
   chapter3
   chapter4
+  chapter5
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -59,6 +60,7 @@
 *create elden_pronpp ""
 *create elden_big_pronpp ""
 *create elden_worm ""
+*create elden_him ""
 *create cass_pron ""
 *create cass_big_pron ""
 *create cass_pronp ""
@@ -71,6 +73,10 @@
 *create picked_magic false
 *create picked_dreams false
 *create picked_crushes false
+*create villagers_prank false
+*create poetry_rel_sol false
+*create explore_ashwood false
+*create angered_soldier false
 
 *label prologue
 

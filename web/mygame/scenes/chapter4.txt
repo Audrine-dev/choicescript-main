@@ -1,6 +1,6 @@
 *label chapter4
 
-[b]Chapter 4 - Whispers Beyond the Vei[/b]
+[b]Chapter 4 - Whispers Beyond the Veil[/b]
 
 Sleep comes in fits.
 
@@ -79,7 +79,7 @@ It was just a dream.
 
 And yet… you can’t shake the feeling that it meant something [i]more[/i].
 *choice
-	#Get up and clear your head.
+	#Get up and clear your head
 
 		The cot creaks softly as you rise. You move slow, careful, as though sudden motion might snap whatever fragile thread you’re balancing on. 
 		The floorboards are cool beneath your feet, grounding you in something solid. [i]Real[/i].
@@ -102,7 +102,7 @@ And yet… you can’t shake the feeling that it meant something [i]more[/i].
 		You’ll listen. [i]You always do[/i].
 		*goto herbs
 
-	#Stay where you are and try to remember more.
+	#Stay where you are and try to remember more
 
 		You don’t move. Just sit there, spine bowed, elbows braced on your knees. Your breath pulls slow and even through your nose, 
 		heavy with the scent of hearth smoke and thyme. You close your eyes.
@@ -130,7 +130,7 @@ And yet… you can’t shake the feeling that it meant something [i]more[/i].
 		*set veilsense +1
 		*goto herbs
 
-	#Focus on Sol instead.
+	#Focus on Sol instead
 
 		You push the dream aside and rise on instinct.
 
@@ -164,7 +164,7 @@ And yet… you can’t shake the feeling that it meant something [i]more[/i].
 		Your gaze lingers a heartbeat longer before you sit back down by the hearth.
 		*goto herbs
 
-	#Bury it deep. [i]Forget it[/i].
+	#Bury it deep. [i]Forget it[/i]
 
 		You scrub a hand through your ${hair_length} hair, nails scraping your scalp harder than necessary.
 
@@ -529,8 +529,7 @@ You remember the dream.
 
 You meet Kai’s gaze.
 *choice
-	#Tell them the truth.
-
+	#Tell them the truth
 		You take a breath.
 
 		It tastes like damp bark and old copper. The kind of breath that feels like it’s being pulled out of you instead of drawn in.
@@ -564,7 +563,6 @@ You meet Kai’s gaze.
 		*goto kai_continues
 
 	#Deflect. Turn it into a joke
-
 		You snort. Shake your head. “You make it sound like I dragged a ghost out of the river.”
 
 		Kai’s mouth tugs at the corners—unsure whether to smile or frown. “Did you?”
@@ -609,7 +607,6 @@ You meet Kai’s gaze.
 		*goto kai_continues
 
 	#Push back. Turn the question on them
-
 		You look at them too long.
 
 		Long enough to let the silence stretch—tight as a bowstring, taut as old wire between teeth.
@@ -651,7 +648,6 @@ You meet Kai’s gaze.
 		*goto kai_continues
 
 	#Say nothing. Just stay
-
 		You don’t speak.
 
 		Not because you don’t want to—but because you [i]can’t[/i]. 
@@ -1593,20 +1589,5 @@ The three of you — together, but not the same.
 Past the hush of the woods. Past the moss that still hums beneath your boots.
 
 Home is just ahead — or as close to it as any of you get.
-*page_break The End... For Now...
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*page_break Next Chapter
+*goto_scene chapter5

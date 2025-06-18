@@ -1,0 +1,1615 @@
+*label chapter5
+
+[b]Chapter 5 - Beneath the Ashes[/b]
+
+The air is thick with incense and smoke — not comforting, but cloying, like it’s hiding something rotten underneath.
+
+A chamber carved deep into the rock. No windows. No light, save the steady flicker of braziers that burn without wood. 
+Their flames curl too smoothly, too slowly — as if obeying something other than wind or breath.
+
+Two figures stand at the center.
+
+One is cloaked in layered gray, head bowed, voice thin and dry as parchment.
+
+“The wards have held, but only just. Their names are being whispered again. Some remember more than they should.”
+
+The other man — tall, veiled in black and shadow — does not answer at first. 
+He stands still, one hand resting on the edge of the stone altar, running over it. 
+Almost [i]seductively[/i]. The runes carved into it pulse faintly, like veins beneath the skin.
+
+When he speaks, it’s low and deliberate. Not a voice meant to persuade — a voice meant to bend.
+
+“Let ${possessive_pronouns} remember.”
+
+The priest shifts, uneasy. “That was not the plan. [i]Exposure[/i] this early could ruin—”
+
+“The plan,” the man interrupts, [i]gently[/i], “is alive. It grows. Twists. Learns.”
+
+He finally moves — a single step forward. The shadows [i]stretch[/i] with him.
+*page_break Next
+
+“They built a world from the ashes of my bones. They think it's theirs now. But they forget…”
+A pause. A smile you can’t see, but [i]feel[/i].
+“...ashes don’t stay buried forever.”
+
+“You swore to remain hidden until—”
+
+“Until I could stand again. Until I [i]remembered[/i] who I was.”
+
+He looks up. You still can’t see his face — only the gleam of his eyes, catching the brazier’s glow like molten gold.
+
+“I remember now.”
+
+A silence coils through the room. Not empty — listening.
+
+The priest bows lower. “And the others? The vessels? They’re not complete. They’re still scattered.”
+
+“They’ll come. They always do. Even the stars bend to gravity, eventually.”
+
+He touches the altar again — almost [i]reverent[/i]. The runes flare briefly under his palm once again, then dim.
+
+“I don’t need all of them yet. Just one spark. Just one flame willing to burn.”
+
+And then:
+
+“When ${pronouns} begins to unravel, they will come running. And when they do—”
+He lifts his hand. The brazier’s flame erupts, twisting into a spiral of gold and black.
+“—I’ll be waiting.”
+
+[i]The fire dies instantly.[/i]
+
+Darkness swallows the chamber — but something lingers.
+
+Not silence. Not stillness.
+A [i]pull[/i].
+
+It begins in your chest, low and slow, like your heartbeat has remembered a rhythm older than you. Older than this world.
+
+You take a breath — but there’s no air.
+
+Only starlight.
+
+It leaks in through the cracks in the stone. A thin thread at first, then more. Dozens. [i]Hundreds[/i]. 
+Glimmering like veins of silver through black marble, spiderwebbing across the walls, the altar, the floor beneath your feet.
+
+You blink—
+And the chamber is gone.
+
+[i]The world turns[/i].
+*page_break
+
+*if (veilsense >= 5)
+	*goto scene_high_veilsense
+*else
+	*goto scene_low_veilsense
+
+
+*label scene_high_veilsense
+Your body isn’t yours.
+Not fully. You’re floating, drifting weightless through a place that feels like memory — not yours, but close enough to taste.
+
+The air here is softer. Heavy with rosewater, distant thunder, and something sharper beneath — something holy.
+
+Below you, a great hall stretches out in broken majesty. Shattered pillars. Collapsed arches. Vines growing up the ribs of a [i]forgotten[/i] throne.
+
+You see [i]her[/i] again.
+
+She stands in the center of the ruin, cloaked in twilight. Not turning. Not yet.
+A woman made of contradiction — gentle and vast, fragile and terrifying, like the sea pretending to sleep.
+
+This time, she speaks without sound.
+
+[i]”Thou shouldst not have come hither.”[/i]
+
+The stars behind her shift.
+You fall toward them.
+*page_break
+
+You are not waking. [i]Not yet[/i].
+
+The cold that clings to your skin in the waking world hasn’t followed you here. Not yet. Here, the air is warm — but wrong. 
+It hums with silence, like breath held too long.
+
+You stand on a floor of shattered marble, veins of gold threading through every crack like lightning frozen mid-sky. 
+The ceiling arches above you, endless, a cathedral carved from starlight — or what’s left of it. Time has eaten this place hollow. 
+Ivy coils up the columns. Dust lingers in sunbeams that don’t seem to come from any sun at all.
+
+And yet… it feels familiar.
+Not in the way a memory does.
+In the way a [i]heartbeat[/i] does.
+
+You move without willing it, feet echoing softly on broken stone. The hush deepens as you reach the far end of the chamber — and find [i]her[/i].
+*page_break
+
+A woman stands with her back to you.
+She is tall. Still. [i]Radiant[/i] in a way that hurts to look at.
+Her hair flows like water catching moonlight, and her robes shift between white and deep violet, like clouds before a storm.
+
+She says nothing. But you feel her [i]knowing[/i] you — feel it like a hand on your chest, pressing. Testing. [i]Measuring[/i].
+
+When she speaks, it’s not with a mouth. The words are thought. [i]Soundless[/i]. Unshakable.
+
+[i]“Never did I dream thee wouldst come so far.”[/i]
+
+She turns.
+
+And your breath stops.
+Because her face is not hers.
+It’s eerily similar to [i]yours[/i].
+
+Not as you are now — but older. Wiser. [i]Hollowed[/i].
+You see pain behind your own eyes. Power, too. Terrible and holy.
+You flinch, but she steps forward — and with her comes warmth, fierce and aching, like sunlight through armor cracks.
+
+[i]“Too soon thou wakest, child of flame,”[/i] she says, voice still inside your head. [i]"But the [i]veil[/i] has thinned."[/i]
+
+The world shivers.
+
+Flashes — like a blade catching light — slice across your vision.
+
+[i]A tower shattering under moonlight
+
+A crown of feathers and flame
+
+A name written in blood on the walls of a palace
+
+A man’s smile carved from shadow
+
+And a hand, outstretched toward you — waiting — no,[/i] [b]pulling[/b]
+
+You try to speak, but your throat burns.
+You fall to your knees. The floor [i]cracks[/i] beneath your palms.
+
+She kneels beside you. Her voice wraps around your ribs like a prayer:
+
+[i]"They shall come for thee, little star.
+Not for what thou art…
+But for that which I hath left within thee.”[/i]
+
+Her hand touches your heart — and something inside you flares.
+Not pain. Not heat.
+[i]Recognition[/i].
+Like a match being struck in a room full of gas.
+
+You look up — but she’s already fading.
+Turning into light, and ashes, and echo.
+
+[i]Trust not the one who knoweth thy name too soon.
+He shall set the world to flame,
+If only to grasp what remains of thee[/i]
+
+And then—
+
+[i]The starlight shatters.[/i]
+*page_break You gasp awake
+*goto next_part
+
+*label scene_low_veilsense
+The fire dies.
+
+But you don't wake.
+
+Not yet.
+
+Something clings to you — like smoke under the skin, like a voice speaking just behind your ear.
+
+The chamber begins to dissolve. The stone melts into mist. The altar fades.
+
+You’re falling.
+
+No — floating.
+Pulled sideways through a dream you don’t remember entering.
+
+A flicker.
+
+A throne, [i]shattered[/i] in half.
+
+A woman with a face you almost recognize — staring through you, not at you.
+
+A scream, distant and muffled, like it’s underwater.
+
+And then —
+A man’s hand, outstretched.
+
+Not offering.
+[i]Taking[/i].
+
+The image shatters before you can see his face.
+
+Your chest tightens. Your skin burns cold. Something inside you twists — not in pain, but recognition.
+Like you’ve forgotten something important.
+Like you’re not supposed to be here.
+
+A final whisper, barely audible — not a voice, more like a thought that isn’t yours:
+
+[i]“She doth awaken.”[/i]
+
+And then—
+*page_break You gasp awake
+*goto next_part
+
+*label next_part
+Sweat slicks your skin. Your pulse hammers in your throat.
+It’s morning — or close. The light is pale and bruised around the edges. Birds outside. Someone’s voice in the distance. [i]Familiar[/i].
+
+But you can’t shake it — that sense of being watched, even now.
+
+The dream fades quickly.
+
+Too quickly.
+
+Only fragments remain, slippery and fading fast:
+
+[i]Gold light.
+
+Black flame.
+
+Eyes gleaming in the dark.[/i]
+
+You don’t remember what was said. Or who said it.
+But something about it felt… personal.
+
+Like a promise.
+
+Or a [i]warning[/i].
+*choice
+	#Sit with the dream. Try to write it down
+		The images linger like shadows behind your eyes — a flicker of molten gold, a spiral of black flame, eyes gleaming in the dark. 
+		They slip away the moment you try to grasp them, elusive and maddening. 
+		But something about this dream clings tighter than the rest, demanding you hold onto it, understand it before it vanishes completely.
+
+		You find a quiet corner, a place where the morning light filters softly through the wooden slats of your room. 
+		Your hands tremble as you reach for your journal, the familiar weight a small comfort in the swirling confusion. 
+		You steady your breath, fingers poised over the page, and begin to write.
+
+		The words come slowly at first, fragmented like the dream itself. 
+		Symbols you can barely name, voices that speak in riddles, the shadowed figure cloaked in black. 
+		You trace the spiral of flame, the pulsing runes carved into stone. 
+		You try to capture the feeling — the cold tendrils of unease, the tightening coil in your chest, the whispered warning that something is coming.
+
+		As you write, the haze in your mind clears just enough to let you see the edges of a terrible truth. 
+		There’s power inside you, ancient and dangerous. And there are others who know — who are waiting. 
+		Waiting for you to awaken fully, to unravel the secret buried deep in your blood.
+
+		You feel the weight of the knowledge pressing down, heavy and unyielding. But at least now, it’s no longer a shadow without shape. 
+		You have begun to name the darkness.
+
+		When you finally set your pen down, your hands are clammy but steady. The room feels colder somehow, the silence thicker. 
+		Outside, the village stirs to life, but here you sit, holding a sliver of truth in your hands.
+
+		[i]What will you do with it?[/i]
+		*set veilsense +1
+		*goto after_dream
+
+	#Go find Kai. Maybe he can ground you
+		The dream leaves you unsettled, like a thread pulled too tight beneath your skin. 
+		You don’t trust yourself to be alone with these thoughts — [i]not yet[/i]. Your steps take you toward the familiar, toward [i]Kai[/i].
+
+		You find them near the well, leaning against the rough stone, eyes half-lidded as they watch the sky. 
+		The easy quiet between you is a balm — the steady presence you didn’t know you needed until now. 
+		Kai’s glance sharpens when they see the [i]tension[/i] etched across your face.
+
+		Without waiting for you to speak, they fall into step beside you. Their voice is soft but steady. “You look like you’ve been chasing ghosts.”
+
+		You want to tell them everything, but the words catch in your throat. Instead, you let the silence stretch, letting them offer comfort without pressure.
+
+		Kai’s presence is [i]grounding[/i], like a lighthouse cutting through the storm. 
+		You share memories, half-remembered stories from your childhood, laughter spilling between you like a fragile promise. 
+		For a moment, the darkness loosens its grip.
+
+		But beneath the surface, you sense Kai’s silent [i]yearning[/i] — the question left unasked, the love held back by respect and [i]fear[/i].
+
+		You wonder if you could ever return it. For now, you just lean into the quiet, grateful for the steadiness beneath the chaos.
+		*set kai_rel +20
+		*goto after_dream
+
+	*selectable_if (mother_rel >= 80) #Seek out your mother
+		You find her in the kitchen, hands deep in flour, sleeves rolled past the elbows. 
+		Sunlight filters in through the crooked shutters, catching in her silver-threaded hair. 
+		The scent of yeast and honey clings to the air — warm, familiar. Safe.
+
+		She looks up as you enter, her expression softening instantly. “You’re up early, little star,” she says, using the name she hasn’t in years.
+
+		You try to respond with a smile, but it falters halfway. The dream still clings to your skin like ash, souring your thoughts.
+
+		She sees it — of course she does. She always does. She wipes her hands on a cloth, gestures gently. “Come. Sit. I’ll make tea.”
+
+		You sit. You watch the steam curl from the kettle as she moves through the small space with practiced ease. It should be comforting. 
+		It used to be. But something inside you is restless, like you’re sitting inside the memory of a home, not the real thing.
+
+		She places the tea in front of you. Her fingers linger on the rim of the cup for just a second too long.
+
+		“You had another one, didn’t you?”
+
+		You nod.
+
+		She doesn’t press for details. Instead, she sinks into the chair beside you, reaching for her own cup. The silence stretches, but not unkindly.
+
+		“You used to wake crying,” she says quietly. “When you were little. Couldn’t tell me why — not at first. 
+		Just tears and shaking and that look in your eyes… like you'd seen something no child should.”
+
+		You glance at her, startled. You hadn’t remembered that.
+
+		She chuckles, a little sadly. “You wouldn’t sleep unless I sang. Do you remember that old lullaby?”
+
+		She hums it under her breath, just a few bars — the melody achingly familiar. Your chest [i]tightens[/i].
+
+		“I used to think,” she murmurs, “that maybe you remembered something from before. Something… you weren’t meant to carry.”
+
+		You swallow, the tea suddenly bitter on your tongue. “Did I?”
+
+		A pause. Her eyes flick toward the window, out to where the morning has begun in earnest. “I don’t know,” she says. 
+		“Or maybe I just told myself stories so I wouldn’t be afraid for you.”
+
+		There’s something behind her words. A quiet ache. A truth she won’t let surface — not yet.
+
+		“I remember you holding me,” you say, voice barely more than breath. “That night the barn caught fire. Everyone was screaming. 
+		You just held me, wrapped in your shawl. You didn’t say a word, just… held on.”
+
+		She looks at you then, and her eyes are wet. “I was so scared,” she whispers. 
+		“But you weren’t. You just looked at the flames, like they couldn’t touch you.”
+
+		The silence that follows isn’t empty. It’s full of all the things neither of you know how to ask.
+
+		Finally, she squeezes your hand. “Go see your father when you can. He’s been carving again — says the trees are whispering at him.”
+
+		You raise an eyebrow, and she laughs. “I told him to stop drinking the elderflower wine before bed, but he never listens.”
+
+		It breaks the heaviness a little. You let her laughter wrap around you, and for a moment, the world feels solid again.
+
+		But the weight of the dream remains — not forgotten, only waiting.
+		*set mother_rel +10
+		*goto after_dream
+
+	*selectable_if (father_rel >= 80) #Go find your father in the grove
+		The path to the grove winds like an old scar — half-overgrown, soft with moss and pine needles. You know the way by heart.
+
+		Your father is there, as always, seated on the old stump beneath the three-limbed birch. 
+		A half-carved figure rests in his lap, pale wood curling in thin strips beneath the movement of his knife. 
+		He doesn’t look up when you approach. Doesn’t need to.
+
+		“Took you long enough,” he murmurs, the words slow and even. “Thought maybe the forest had kept you this time.”
+
+		You ease down beside him on the grass. “Would that be such a terrible thing?”
+
+		He makes a noncommittal sound. The knife works on.
+
+		“You dreamed again,” he says — not a question.
+
+		You nod.
+
+		He exhales through his nose. “The way you used to scream as a child... your mother thought it was nightmares. I always thought they were echoes.”
+
+		You glance at him. “Echoes of what?”
+
+		He pauses the carving. Tilts the figure in the light. “That’s the thing with echoes,” he says. “They’re never where they start. Just where they bounce.”
+
+		He hands you the wooden figure without looking — a small, rough form with wings folded at its back. 
+		Not quite human. Not quite creature. Its eyes are shut.
+
+		“I’ve made that one before,” he says. “Years ago. Burned it, even. But it keeps showing up again. In the grain, in the knots. Like the wood remembers.”
+
+		You turn it in your hand. It’s light. Hollow, almost.
+
+		“Do you know what it is?” you ask.
+
+		He shrugs. “No more than I know what you are. But the shape is older than you. And older things… they don’t stay buried.”
+
+		A breeze stirs through the grove — soft, but it lifts the hair from your neck like breath.
+
+		“Some trees grow straight,” he continues, “some twist. You don’t blame the tree for its shape — you blame the storm that bent it. 
+		Or the sun that never touched it right.”
+
+		You’re not sure if he’s still talking about the carving.
+
+		“Did you dream, too?” you ask.
+
+		This time, he smiles — slow, crooked. “I stopped dreaming the day we found you.”
+
+		He leans forward, plants the blade of the knife into the soil between you. 
+		“But I remember the sky that night. Red as blood. Birds falling from it like ash.”
+
+		He looks up at you then — properly looks — and for the briefest moment, his eyes seem too old. Like something vast is watching from behind them.
+
+		“Whatever’s waking in you,” he says quietly, “it’s not new. It’s just… been waiting.”
+
+		He stands with a grunt, wipes his hands on his trousers. “Come help me gather kindling. And don’t touch that rowan — it sings too loud.”
+		*set father_rel +10
+		*set veilsense +1
+		*goto after_dream
+
+	#Go find Sol... let ${sol_pronp} help you and care for you
+		The lingering shadows of the dream press down on your chest, making your breath shallow and unsteady. 
+		You need something — or someone — to remind you you’re still tethered to the world you know.
+
+		[b]Sol[/b].
+
+		You seek ${sol_pronp} out, finding ${sol_pronp} by the river where the water rushes cold and clear. 
+		${sol_big_pronpp} presence is a steadying force, solid and real. 
+		When ${sol_pron} sees you, ${sol_pronpp} face softens, concern flickering in ${sol_pronpp} eyes.
+
+		"You look like you’ve been fighting a storm inside you, Angel," ${sol_pron} says quietly.
+
+		You don’t have to explain. ${sol_big_pron} reaches out, 
+		*if (hair_length = "extremely short")
+			${sol_pronpp} hand gently brushing against your cheek, grounding you with the warmth of ${sol_pronpp} touch.
+		*if (hair_length = "short")
+			brushing a stray lock of ${hair_color} hair from your face, grounding you with the warmth of ${sol_pronpp} touch.
+		*if (hair_length = "medium")
+			brushing a stray lock of ${hair_color} hair from your face, grounding you with the warmth of ${sol_pronpp} touch.
+		*if (hair_length = "long")
+			brushing a stray lock of ${hair_color} hair from your face, grounding you with the warmth of ${sol_pronpp} touch.
+		*if (hair_length = "very long")
+			brushing a stray lock of ${hair_color} hair from your face, grounding you with the warmth of ${sol_pronpp} touch.
+
+		You lean into ${sol_pronp}, letting the steady rhythm of ${sol_pronpp} heartbeat anchor you. 
+		For the first time since the dream, your walls crumble, and you allow the fear and confusion to spill out.
+
+		${sol_big_pron} listens without judgment, holding you gently in ${sol_pronpp} arms. The world doesn’t feel so dark here, not with ${sol_pronp}.
+
+		But beneath the comfort, you sense the fragile thread of ${sol_pronpp} own fears — the fear of losing you, 
+		the silent hope that ${sol_pron} might become more than a shelter from the storm.
+
+		You don’t know what the future holds, but in this moment, you let yourself be held.
+		*set sol_rel +5
+		*goto after_dream
+
+*label after_dream
+Morning comes slow.
+Like the village itself is reluctant to wake — reluctant to face whatever the night stirred up.
+
+You lie there for a while, curled under the thin quilt, watching the light stretch across the wooden beams overhead. 
+Dust dances in the slanting gold, shifting like motes of memory.
+
+Your chest still feels heavy. Not painful, exactly — more like the ache left behind after crying too hard, or remembering something you weren’t ready to know.
+
+Whatever it was you dreamed… it's already slipping through your fingers.
+
+Just a few jagged pieces remain:
+
+[i]A voice wrapped in shadows.
+The smell of smoke and stone.
+Eyes that gleamed like they knew you.[/i]
+
+You draw a shaky breath. Sit up. The floorboards creak beneath your bare feet.
+
+Outside, the village murmurs awake — soft voices, the creak of old doors, the sharp bark of a dog too eager to greet the sun. Familiar sounds. Safe ones.
+
+You should get up. Move. Ground yourself.
+
+Not because it will make the questions go away — but because the world doesn’t pause for you to find the answers.
+*page_break Next
+
+When you finally step outside, the sun is low and warm on your skin. The village smells of bread and smoke, damp earth and sweetgrass. It smells like home.
+
+Kai is already across the square, sleeves rolled up, repairing one of the old water troughs. They look up when they hear your steps — give a short wave, 
+half-shielding their eyes from the light.
+
+“Sleep okay?”
+The question is casual. But their eyes search yours too carefully for it to be simple.
+
+Sol is nearby, sitting on the low stone wall near the chickens, sun in ${sol_pronpp} hair and a book half-open in ${sol_pronpp} lap. 
+${sol_big_pron}’s pretending to read — but you feel the tension in ${sol_pronpp} posture. Like ${sol_pron}’s listening more than watching.
+
+You could speak to either of them. Or just… walk. Let the rhythm of the day settle into you.
+
+There’s a strange peace in the air today.
+
+But somewhere beneath it — like the echo of a bell you can’t quite hear — something else stirs.
+
+*label Ashwood_morning
+It is a slow morning, and you still have some time left before you have to visit Lysandra to buy medical equipment.
+*choice
+	*disable_reuse #Go prank the villagers with Kai
+		It starts with a look. Kai catches your eye as you pass by the well, one brow raised just enough to be dangerous. 
+		You don’t even need to speak. The grin curling at the edge of their mouth says it all.
+
+		"So," they murmur, falling into step beside you. "You ever wanted to see Old Marla scream like a startled goat?"
+
+		You blink. "Is that a real question?"
+
+		Kai's laugh is soft but wicked, a sound that warms your ribs. "Thought so. Come on. I have flour, string, and a chicken with a mean attitude."
+
+		Ashwood, for all its quiet charm, isn’t exactly a thrilling place. But with Kai, even a single morning can feel like a secret shared with the gods. 
+		The two of you sneak behind stalls and barns, weaving between hanging laundry and abandoned crates like seasoned saboteurs.
+
+		Your first target: the baker's delivery crate. With a bit of clever string and an innocently placed sack of flour, 
+		Kai rigs it to puff like a ghost when opened. The timing is perfect. When Old Marla yanks the lid off, the flour explodes like a snowstorm, 
+		coating her hair in a perfect white pouf.
+
+		Kai grabs your hand and bolts, stifling laughter, the two of you ducking behind the nearby stable. 
+		You’re both breathless with laughter, crouched in the hay, clutching your sides.
+
+		"You are the worst influence," you wheeze.
+
+		"And yet," Kai grins, eyes sparkling, "you keep coming back."
+		
+		Your next target is the town notice board — and the endless stack of poorly written poetry tacked to it by a certain lovesick apprentice. 
+		With a borrowed quill and Kai’s surprisingly neat handwriting, you edit a few verses just enough to be confusing. 
+		“Your lips like plump radishes / O, my moon cabbage heart” now reads more like an ode to soup than romance. 
+		You even draw a few hearts beside it for flair.
+
+		When the apprentice finds it later, Kai clutches your arm to keep from wheezing aloud as they mutter, [i]“I don’t remember writing that.”[/i]
+		
+		"Where now?" you ask. Kai's mouth only stretches into a wide grin.
+		*page_break The smithy
+		
+		You slip in while the blacksmith’s out for lunch, Kai hauling a suspiciously realistic-looking wax beetle the size of your fist. 
+		It’s placed expertly inside a helmet, just where the eye slit catches the light. 
+		The scream that follows when the apprentice lifts the helm could rival a banshee. The poor lad bolts down the lane, helmet still in hand.
+
+		Kai looks at you, deadpan. “Truly, we do the gods' work.”
+
+		But the crown jewel — [i]the masterpiece[/i] — is the old water barrel near the inn. 
+		With a bit of sleight of hand and an alarming amount of sticky resin, Kai turns it into a trap. 
+		The lid now springs open when nudged, revealing a chorus of frogs gathered earlier by the stream.
+
+		You wait behind a barrel as innkeeper Toma lumbers out with a pail. 
+		The moment he kicks the barrel open, a frog leaps directly onto his shoulder. 
+		He shouts, staggers, and flails — and three more hop free, croaking in indignant harmony.
+
+		[b]“WHO PUT FROGS IN MY RAINWATER?”[/b]
+
+		Kai's eyes are watering from laughter. “They looked thirsty!”
+
+		Eventually, your energy starts to wane. The adrenaline fades, the village settles, and you're back on the orchard edge, 
+		letting your laughter die down like embers. Your heart still beats lighter than it has in days.
+
+		Kai stretches beside you, arms behind their head. “Best part is,” they say dreamily, 
+		“you can always tell who needed the laugh the most. They’re the ones who stay mad the least.”
+
+		You hum, glancing up at the clouds, where one looks suspiciously like the chicken from earlier.
+
+		“Maybe tomorrow,” you say, “we prank each other.”
+
+		Kai snorts. “Now that would be war.”
+
+		But it’s not war, not really. It’s knowing someone well enough to pull them back into joy. And being known enough to follow.
+
+		"People think pranks are just jokes," Kai says, quieter now. "But sometimes, they’re just... ways to make someone laugh when they forgot how."
+
+		They glance at you. "You laughed today. That matters."
+
+		You want to say something in return, but instead, you just breathe. The wind rustles the trees. The sky stretches wide above you.
+
+		[i]It’s a good morning.[/i]
+		*set empathy -1
+		*set villagers_prank true
+		*goto Ashwood_morning
+
+	*disable_reuse #Talk about poetry and religion with Sol
+		You find Sol in ${sol_pronpp} newly favored place, perched on the low stone wall near the western fields. 
+		A book rests in ${sol_pronpp} lap, open but unread. The light catches in ${sol_pronpp} hair, and there's 
+		a half-finished thought on ${sol_pronpp} lips when ${sol_pron} sees you.
+
+		"You're up," ${sol_pron} says softly. "Good. The sky always looks lonelier without you in it, [i]Angel[/i]."
+
+		${sol_big_pron} shifts to make space, and you sit beside ${sol_pronp}. The quiet between you feels like something sacred—not holy, but honest.
+
+		“What are you reading?” you ask.
+
+		Sol holds up the book. The binding is old, the cover worn thin. “Lytherian verses. The forbidden ones.” 
+		${sol_big_pron} flips it open to a dog-eared page, then smirks faintly. “The kind [i]The Light[/i] would burn me for. 
+		The Light of Valtessa doesn't much care for poetry that feels like touch. [i]Or truth[/i].”
+
+		You raise an eyebrow. “Blasphemy before breakfast?”
+
+		“Depends who’s calling it that,” ${sol_pron} says. “[i]The Light[/i] burns everything it doesn’t control. Poetry’s just a softer kind of heresy.”
+		
+		${sol_big_pron} flips the book open and reads, ${sol_pronpp} voice low:
+
+		[i]"I loved you before the heavens knew light,
+		when angels were still waiting for names.
+		I loved you in the silence between heartbeats,
+		and I will love you long after the stars forget theirs.”[/i]
+
+		The words linger, [i]warm and aching[/i] in your chest.
+
+		${sol_big_pron} exhales slowly. “They called this heresy. Said angels don’t love. That they only obey.”
+
+		Then quieter: “I think obedience without love is just a prettier word for war.”
+		
+		You glance at ${sol_pronp}. The morning light catches the edge of ${sol_pronpp} jaw, the lines of ${sol_pronpp} throat. 
+		There’s something fierce and unguarded in the way ${sol_pron} looks at you now. Like a prayer said too many times to be polite.
+
+		Sol turns the book toward you. Another verse waits on the page, the ink faded:
+
+		[i]"She moved like dusk, soft and breaking,
+		her mouth full of truths too sweet to swallow.
+		They told me angels never weep,
+		but then I met her, and she did—
+		for everyone but herself.”[/i]
+
+		You say nothing. You can’t. Not yet.
+
+		*page_break So Sol does it for you
+
+		"You know the Light, don’t you?" ${sol_pron} says, voice dipped in something darker now. 
+		“Steel masks. Scarlet glass. Sermons that feel more like sentences than salvation.”
+
+		${sol_big_pron} looks out over the grass, fingers tightening slightly on the book.
+
+		"The Light doesn’t ask you to join. It asks you to surrender. Burn the doubt. Carve obedience into your bones. 
+		Pretend holiness isn’t just another name for fear."
+
+		[i]A pause.[/i]
+
+		“My family… they burned a witches when I was a child.” ${sol_big_pronpp} voice is very soft now. “One of them... She was kind. 
+		Taught me names for herbs before The Light taught me names for sin. They said her words were poison. That she spoke temptation.”
+
+		${sol_big_pronpp} gaze drops to your hands. “But hers were the first hands that ever held mine like they meant to keep me.”
+
+		You don’t know what to say.
+
+		Sol closes the book gently. “They say angels fall when they feel too much. That love [i]undoes[/i] them.”
+
+		${sol_big_pron} meets your eyes, and for a moment, the whole world pauses.
+
+		“Maybe that’s why I keep calling you mine.”
+
+		You feel the heat rise in your throat. Your pulse, soft and insistent, answers for you.
+
+		Neither of you says anything for a while. The wind brushes the field. The sun stretches higher. 
+		And the book—full of forbidden verses and sacred defiance—rests between you.
+
+		Not all prayers are spoken.
+
+		[i]Not all angels fly away.[/i]
+
+		The wind moves through the grass like a second breath. A quiet knowing passes between you.
+
+		"Thank you for listening," ${sol_pron} says, voice low again. "Some things need to be said before they burn a hole through you."
+
+		You stay beside ${sol_pronp} until the sun climbs higher. 
+		The book remains closed in ${sol_pronpp} lap. But ${sol_pronpp} heart, maybe, is a little more open.
+		*set poetry_rel_sol true
+		*goto Ashwood_morning
+
+	*disable_reuse #Explore Ashwood
+		Sometimes, you need a quiet morning to yourself. No one pulling you into trouble. No half-laughed questions. 
+		Just your feet and the road and the slow unravelling of thought.
+
+		You start with the path behind the bakery, where the scent of cinnamon and smoke always lingers. 
+		The dew is still clinging to the grass, glittering like stars caught in the earth. Birds chatter in the hedges, gossiping like old women.
+
+		The village is a slow heartbeat, steady and familiar. You pass the old willow tree where you once scraped your knees falling from a swing. 
+		The faded paint still clings to its bark, and the rope still sways in the breeze.
+
+		Every corner holds a memory. A scar. A story.
+
+		The path leads you past the stream where children float leaves like tiny boats. 
+		You pause at the water's edge, crouch, and watch the current dance. Your reflection stares back, older than it should be.
+
+		You think about dreams. About voices. About the weight you carry that no one else sees.
+
+		And for a moment, you speak to yourself aloud:
+
+		[i]"Who am I becoming?"[/i]
+
+		The wind doesn't answer.
+
+		But still, you rise.
+
+		You walk until your breath evens, until your thoughts are quieter. 
+		And when you return to the village square, the sun is warmer, and the shadows less sharp.
+		*set explore_ashwood true
+		*goto Ashwood_morning
+
+	#Visit Lysandra
+		The apothecary's cottage sits just beyond the herb garden, wrapped in vines and sunlight. 
+		The door is open, as always. It smells of lavender and sage, and something faintly sweet beneath it all. 
+		Comfort. [i]Safety[/i]. Home, even if it's not yours.
+
+		Lysandra turns when you step inside, her expression softening instantly. "There you are," she says. No question. No surprise. [i]Just warmth[/i].
+		
+		She’s warmth wrapped in skin, soft smiles and patient hands. She listens. She sees. When you speak, she hears what you don’t say.
+		
+		There’s a quiet beauty to her, the kind that doesn’t shout. 
+		Her skin is sun-kissed from time in the garden, scattered with faint freckles like pressed wildflowers. 
+		Her dark curls are always a little unruly—half tied back with a bit of twine, like she meant to be proper and then forgot halfway through. 
+		She smells faintly of herbs and honey, and her clothes are simple: 
+		soft linen in earthen tones, sleeves rolled to her elbows, a faint smudge of ash at her wrist where she’s been grinding something medicinal.
+
+		Her eyes are what undo you—steady, amber-brown, touched with gold near the center. 
+		They’re the kind of eyes that look at you like you’re not a problem to solve, but a story worth hearing.
+
+		Though she was born in another village, she chose Ashwood as her home—and the people here trust her in the quiet way that matters. 
+		She tends to more than wounds. She mends grief, eases fear, and offers hope with a touch so gentle it almost doesn't feel like healing at all.
+
+		She doesn’t demand your secrets, but somehow, you find yourself offering them anyway. With Lysandra, it’s easy to be open. Easy to breathe.
+
+		She's packing a satchel with supplies: bandages, tinctures, dried herbs sealed in little jars. 
+		Her fingers move with gentle precision, but she pauses when she sees your face.
+
+		"Bad night?"
+
+		You nod.
+
+		"Sit. I have tea."
+
+		And you do. Because it’s impossible to say [i]no[/i] to Lysandra, not because she asks it, but because some part of you wants to say yes.
+
+		As the tea steeps, you talk. Not about the dream — not yet. But about everything around it. The village. The others. 
+		The strange feeling of being a little too full of things you can’t name.
+
+		Lysandra listens. Really listens. She doesn’t interrupt. She doesn’t fix. She simply makes space.
+
+		"You’re changing," she says at one point, as if it’s not a terrible thing. "That’s all right. Change means you’re still becoming."
+
+		When she presses a warm cloth to your hands to help with the shaking you didn’t realize was there, you almost cry.
+
+		"You don't have to hold it all alone."
+
+		She doesn’t ask what you’re carrying.
+
+		But if you offered it, she’d take it gently.
+
+		Before you leave, she places a small vial in your hand. 
+		"For the road ahead. It’s not labelled because what you need will change. But I trust you’ll know when to open it."
+
+		You step into the sun again, a little steadier. A little more whole.
+
+		Lysandra doesn’t give you answers. But somehow, she helps you live with the questions.
+		*goto after_lysandra_meeting
+
+*label after_lysandra_meeting
+*page_break Next
+You leave Lysandra’s cottage with her words still echoing softly in your mind. 
+The warmth of tea lingers on your tongue, and for a moment, the world feels quiet—almost kind.
+
+Then the stillness breaks.
+
+Hooves strike the dirt road ahead. Leather and steel clatter in rhythm. You hear it before you see it—an envoy approaching from the southern path. 
+The rustle of metal and banners. The crack of boots in formation, their presence slicing the morning in two.
+
+The colors are unmistakable.
+
+Crimson and bone. 
+
+The Church.
+
+[i]The Light of Valtessa[/i].
+
+Your breath catches.
+
+They ride through Ashwood like a blade cutting clean through cloth. Six wear the crimson and bone of the Church—the Light of Valtessa. 
+Towering, masked, unflinching. Their armor gleams, but it’s the masks that freeze you. Blank bone. No faces. [i]No mercy[/i].
+
+The other four are marked by the Crown: royal sigils, leaner builds, no masks—only worn leather and weapons that have seen real use. 
+Their leather is worn but sturdy, their movements cautious, as if balancing between loyalty and restraint. Their presence is quieter. Watching. Measuring.
+
+No one speaks.
+
+A hush falls over Ashwood.
+
+A child drops a wooden toy. No one moves to pick it up.
+
+The Church dismounts first, moving with brutal grace. 
+One unrolls a scroll while another slams a hammer into a post, nailing parchment to wood like sealing a coffin.
+
+[b]“By command of the Sanctified Flame, the Light of Valtessa declares this region under investigation for signs of heresy. 
+Witches walk among you. Unnatural rites have left their stain.
+Any who aid impurity shall be judged as impure. Any who shelter sin shall burn alongside it.
+In the name of Valtessa—the impure shall fall.” [/b]
+
+Your spine locks. The words feel familiar. Too familiar. A weight presses down, heavy and suffocating.
+
+They’re not just threats. They’re prophecy dressed in law.
+*page_break Next
+
+The crowd shifts uneasily, whispers threading through the air like fragile smoke. Fear curls in every glance exchanged beneath the weight of that proclamation.
+
+Among the four soldiers marked by the Crown, one stands slightly apart—a figure carved from shadow and silence. 
+${elden_big_pronpp} eyes scan the square with a calm sharpness that unsettles you, as if ${elden_pron}’s seeing everything and nothing all at once.
+
+${elden_big_pron} moves with a quiet certainty, not demanding attention but impossible to ignore.
+
+Your gaze lingers on ${elden_pronp} longer than you intend.
+
+There’s something in the way ${elden_pron} carries ${elden_him}—a steadiness, like a rock braced against the storm—but also a guarded sorrow, 
+buried deep behind watchful eyes.
+
+${elden_big_pron} looks like someone carved from the edge of a storm — tall as a mountain, broad-shouldered, 
+with a quiet tension in ${elden_pronpp} frame like a bow drawn but never loosed.
+${elden_big_pron}’s not beautiful in the way poets write about. ${elden_big_pron}’s beautiful in the way old wounds are—something raw made permanent.
+There’s a stillness to ${elden_pronp} that draws the eye—not loud, not proud, but anchored.
+
+${elden_big_pronpp} features are sharp, clean—high cheekbones, a straight nose, lips that rarely smile but never sneer.
+${elden_big_pronpp} face holds the kind of quiet that demands stillness from the world around it. A clean jaw dusted with stubble. 
+A scar cuts through ${elden_pronpp} cheekbone—deliberate, old, and deep enough to suggest a blade meant to kill. [i]It didn’t.[/i]
+
+*page_break But it changed something
+
+One eye is a pale, unreadable grey. The other—faint green, sharp as broken glass. Not unnatural. Not glowing.
+Just wrong enough to make you wonder what ${elden_pron} sees that others don’t.
+${elden_big_pronpp} gaze is unreadable but steady, like the sea before it turns violent.
+
+${elden_big_pronpp} hair is dark, almost black, the kind that curls slightly when wet, 
+and there’s a streak of silver at ${elden_pronpp} temple—not age, just something ${elden_pron}’s carried too long.
+Strands fall loose when ${elden_pron} moves.
+
+${elden_big_pronpp} hands are large, calloused, the kind that have built as often as they’ve broken.
+
+${elden_big_pron} wears ${elden_pronpp} armor like a second skin—well-worn, patched, unpolished. 
+A soldier who’s stopped caring about shine and started caring about survival.
+Something glints beneath ${elden_pronpp} leather. A charm, maybe. Or a broken pendant.
+
+Birds don’t sing when ${elden_pron}’s near. They don’t flee, either. They simply go silent.
+
+Children stare at ${elden_pronp} like they’ve seen ${elden_pronp} in a dream.
+
+${elden_big_pron} doesn’t speak at first. But when ${elden_pron} does, ${elden_pronpp} voice is low, gravel-rough—like stone dragged across old wood. 
+Every word sounds like it was earned before it was spoken.
+
+But you’ll feel it, even now.
+
+${elden_big_pron} doesn’t look at you like a stranger. ${elden_big_pron} looks at you like a question ${elden_pron} already knows the answer to.
+
+And somehow, that’s more dangerous.
+
+${elden_big_pron} doesn’t speak. ${elden_big_pron} doesn’t look your way again.
+
+But the moment hangs heavy, like a breath held just before a storm breaks.
+
+The Church soldiers continue their grim work, nailing decrees like tombstones.
+
+The Crown soldiers exchange glances, cautious but restrained.
+
+The village is caught between two forces — both watching, both waiting.
+
+And you realize, with a cold certainty, that Ashwood’s quiet days may be numbered.
+*set met_elden true
+*page_break Next
+
+You don’t know ${elden_pronpp} name.
+But something about ${elden_pronp} — [i]about that mismatched gaze[/i] — refuses to let go.
+
+You try to look away, to blend into the silence the village has wrapped around itself like a shroud.
+But your eyes keep finding ${elden_pronp}.
+
+Not the masked fanatics, not the parchment still curling in the morning wind.
+That ${elden_worm}.
+
+A soldier of the Crown. Not the Church.
+But the line between them feels thinner than it should be.
+
+${elden_big_pron} doesn’t look at you again. Not directly.
+Yet something settles between you—unspoken, unseen.
+
+Then the hammer falls again—another nail driven into wood. Another warning.
+
+And then—
+a sound, quiet at first. Fractured. Fragile.
+
+A woman begins to cry. Softly, like she’s trying not to.
+
+Not the wailing of grief, but something smaller. Sharper.
+A single, stifled sob—like a thread snapping beneath too much weight.
+
+She stands near the well, clutching a child to her chest.
+The little one can’t be more than four. He buries his face in her shoulder, silent, but his tiny fingers fist tightly in her shawl.
+
+She tries to quiet herself. Bites her lip until it bleeds.
+But the sobs keep coming—shallow, broken things. A sound made of fear that’s been waiting too long to be let out.
+
+No one moves to comfort her. 
+*page_break No one dares
+
+Because to step forward would be to stand out.
+And to stand out is to be [i]remembered[/i].
+
+One of the Church soldiers turns their masked head slightly, just enough to notice.
+Just enough to [i]mark[/i].
+
+You feel your pulse skip. The villagers do too.
+
+The woman pulls the child closer. Whispers something into his hair—something that might be a prayer, or a promise, or an apology.
+
+You’ve heard that kind of crying before.
+You’ve made it before.
+
+It’s the sound of someone realizing safety is no longer a place—it’s only a delay.
+A borrowed hour before the flames arrive.
+
+And in that moment, something in you aches.
+Not with fear. Not even with anger.
+
+With recognition.
+
+Because you know what it means to try to be small.
+You know what it means to lose anyway.
+*page_break Next
+
+The wind picks up. Ashwood doesn’t breathe.
+
+And then ${elden_pron} moves.
+
+A step, no more. Just enough to turn ${elden_pronpp} body—just enough to place ${elden_him} subtly, deliberately, between you and the Church soldiers.
+
+Like [i]instinct[/i].
+
+Like [i]reflex[/i].
+
+Like [i]a shield[/i].
+
+${elden_big_pron} still doesn’t speak. But ${elden_pron} doesn’t need to.
+
+That one small gesture says enough.
+
+You’re being watched. Not by the Church. Not just by them.
+By ${elden_pronp}.
+
+You don’t know ${elden_pronpp} name.
+*page_break But you will
+
+The silence stretches.
+
+The parchment curls in the heat, ink bleeding like dried blood. No one speaks. No one breathes too loudly.
+
+And then—
+
+A gesture.
+
+One of the Church soldiers lifts a hand. The metal of their gauntlet gleams red in the morning light, and two others move with eerie synchronicity. 
+Smooth. Unhurried. [i]Certain.[/i]
+
+They walk toward the edge of the gathered crowd.
+
+You don’t see who they’re after—not at first.
+But the people shift. Like a body flinching from a blade.
+
+A man is pulled forward. Middle-aged. Broad-shouldered, with hands like a farmer’s—scarred, honest, tired.
+
+His name is Tomas. You remember him. He fixes shutters when storms rip through the valley. 
+He once built a cradle for a child that didn’t live long enough to use it.
+
+Now he’s being dragged toward the post, his feet scraping against the earth like he’s already halfway to the pyre.
+
+“No—please, wait—” he gasps, but the soldiers don’t stop.
+Their hands grip his arms, impersonal and exact.
+
+A woman cries out—his wife, maybe. Someone clutches her back before she can run forward. She screams his name like it might undo what’s already happening.
+*page_break Tomas struggles
+
+Not to flee—he’s not a fool. But to speak.
+“There’s been a mistake—I’ve done nothing—please—there’s nothing—”
+
+The lead soldier doesn’t answer. They reach into their robes and pull out a small vial—glass stoppered, filled with something dark and thick as old blood.
+
+They hold it up like evidence. Like a sentence.
+
+You hear the word before it’s spoken.
+
+Witchcraft.
+
+The village doesn’t gasp. Doesn’t cry out.
+[i]Ashwood knows how to stay quiet.[/i]
+
+Tomas’s face collapses—not in guilt, but in disbelief. His mouth opens, but the words are gone. Whatever he wants to say is already too late.
+
+The Church doesn't accuse.
+It declares.
+
+The soldiers begin to march him toward the chapel.
+
+For [b]questioning[/b], they say.
+
+But everyone knows what that means.
+
+Not trial. Not truth. Just time. And fire.
+
+You feel your stomach twist. You feel your fingers curl into fists.
+
+And somewhere behind the bone masks and crimson robes, you feel eyes. Watching you.
+
+Measuring.
+
+[i]Waiting for you to flinch.[/i]
+
+No one moves to stop them.
+
+But you do.
+
+Not with your body—at least, not yet.
+
+With your breath. With your bones. With your choice.
+
+What do you do?
+*choice
+	*selectable_if (willpower >= 5) #Confront the Church directly
+		You step forward, cutting across the silence like a blade through frost. 
+		Boots crunch over gravel, and all eyes turn. The moment your shadow breaks the symmetry of their holy formation, the air shifts.
+
+		[b]"Let him go."[/b]
+
+		Your voice doesn't shout. It doesn't tremble. But it carries. Gods, it carries.
+
+		One of the masked priests lifts his head toward you. 
+		The bone mask tilts just slightly, as if considering whether you are worth the breath it takes to speak. 
+		The hammer-wielder pauses mid-swing. The scroll, half-nailed, flutters like dying wings.
+
+		[i]"Who speaks for the impure?"[/i] one of them intones. The voice is muffled behind bone and steel but still rings with authority sharpened by dogma. 
+		[i]"Do you claim his sin?"[/i]
+
+		Behind them, Tomas raises his head. There's blood at his lip. His eyes widen—not in hope. In warning.
+
+		"I claim that you have no proof. And no right to take him."
+
+		A murmur ripples through the gathered villagers. Not support—never that. Just shock that someone dared say it aloud.
+
+		Another Church soldier steps forward. This one taller, heavier in build. His hand rests on the hilt of a ceremonial blade. 
+		His mask is older than the others, its ivory yellowed with age.
+
+		"Heresy doesn't beg for trial. It bleeds for truth. We will find the stain, whether it clings to him, or to you."
+
+		The wind moves. Elden shifts slightly, barely a movement, but you feel it. ${elden_big_pron} hasn't stepped in. Not yet. But ${elden_pron}'s watching.
+
+		Tomas' wife sobs louder now, but even she does not dare cry out your name.
+
+		You stand alone.
+
+		*page_break And still, you don't back down
+		You step forward.
+
+		Not fast. Not loud. Just enough.
+
+		Enough to make them pause. Enough to be noticed.
+
+		One of the Church soldiers turns. You can’t see his eyes behind the bone-white mask, but you feel the weight of his gaze settle on you like frost.
+
+		“Step back,” he says. Voice like rusted iron. Flat. Final.
+
+		[i]You don’t.[/i]
+
+		And that’s enough.
+
+		The blow is sudden, not even cruel — just [i]mechanical[/i].
+
+		His armored hand strikes your cheek hard enough to knock the sky sideways. You hit the dirt, breath torn from your lungs, head ringing. 
+		Dust rises around you like smoke.
+
+		No one moves.
+
+		Not the villagers. Not the man being dragged away. Not even the child crying behind her mother’s skirts.
+
+		Just the birds. Lifting into the air as if startled by something invisible.
+
+		The Church soldier says nothing. Just turns back to his duty — as if you were never there at all.
+
+		But someone does move.
+
+		Soft steps. A whisper of skirts. The scent of lavender.
+
+		Lysandra kneels beside you, hands already gentle at your jaw, checking for breaks, bruises, blood. Her voice is a murmur only you can hear.
+
+		“Don’t speak,” she says. “They’ll forget you faster if you stay quiet.”
+
+		You nod. Or maybe just tremble.
+
+		She helps you to your feet. Her touch is steady. Reverent. As if gathering the broken pieces without drawing attention to their shape.
+
+		As they drag the man away, Lysandra holds you upright — not shielding you, just… there. The way warmth stands between someone and the cold.
+		*set elden_rel +50
+		*set willpower +1
+		*set angered_soldier true
+		*goto tomas_taken
+
+	#Try to speak to Tomas' wife
+		You break from the crowd—not toward the soldiers, but toward the house. Toward her.
+
+		Tomas' wife crumples near the doorway, hands buried in her skirts, grief folding her in half. 
+		You kneel beside her, the dust of the path clinging to your knees.
+
+		"They can't take him," you whisper.
+
+		She doesn't look at you.
+
+		"They already have."
+
+		Her voice is thin, shredded raw by disbelief. Her gaze is fixed on the soldiers, on Tomas stumbling toward the square. 
+		There's a bruise blooming across his jaw. His lip is split. And yet the worst wound is the silence.
+
+		You place a hand on her arm. She flinches.
+
+		"Do you know what they think he did?"
+
+		She swallows. "He helped a traveler. A girl. She was sick, burned with fever. They say she had a mark. They say he... hid her."
+
+		Her eyes finally meet yours. "He was only trying to be kind."
+
+		Kindness is a death sentence now.
+
+		A Church soldier glances your way. You rise slowly, nod once to the woman—there is no comfort you can offer that wouldn't sound like a lie.
+
+		But as you turn away, she reaches for your sleeve.
+
+		"Please. Don't let them take him alone."
+		*set empathy +1
+		*goto tomas_taken
+	
+	#Watch Elden's reaction
+		You stay still. Let the moment pass over you like a cold wave.
+
+		Instead, your gaze slides—past the red and bone, past Tomas' hunched form—to the one who doesn’t wear a mask.
+
+		Elden stands apart. Not separate. Just... unaligned.
+
+		${elden_big_pron} watches the scene with no expression. No hand on ${elden_pronpp} weapon. No barked order. 
+		But you see the way ${elden_pronpp} jaw tightens when Tomas stumbles. You see how ${elden_pronpp} hand closes into a slow fist.
+
+		${elden_big_pron} isn't indifferent.
+
+		But ${elden_pron} isn't moving, either.
+
+		Maybe it’s fear. Maybe it's survival. Or maybe ${elden_pron}’s waiting to see what you will do first.
+
+		${elden_big_pronpp} eyes flick to yours. Not a challenge. Not a warning.
+
+		Recognition.
+
+		As if ${elden_pron}'s seen this before. As if ${elden_pron} knows how it ends. 
+		As if ${elden_pron}'s wondering whether you'll walk away, or whether you'll make the same mistake ${elden_pron} once did.
+
+		And for just a second, something flickers in ${elden_pronp}.
+
+		A decision ${elden_pron} hasn’t made yet.
+
+		A promise ${elden_pron} hasn’t spoken.
+
+		[i]Not yet.[/i]
+		*goto tomas_taken
+	
+	# Try to read the Church soldiers—look for weakness
+		You don’t speak. You don’t move. Not yet.
+
+		Instead, you [i]watch.[/i]
+
+		Six of them. All masked. All precise. But not perfect.
+
+		One favors his right leg slightly. Old injury, perhaps. He leans into his hammer more than he should.
+
+		Another hesitates before lifting the parchment. Not from doubt—from training. A newer recruit. Younger, maybe. 
+		His armor shines brighter than the rest. [i]Untested.[/i]
+
+		The third’s grip on his sword is too tight. Knuckles white, breath shallow. Fear hidden under zealotry.
+
+		Only the one with the yellowed mask moves like a man who has killed too often and forgotten why. He watches everything. Especially you.
+
+		None of them are gods.
+
+		And none of them expect resistance. Not here.
+
+		The villagers have taught them silence. Fear. [i]Obedience.[/i]
+
+		But you’re not from silence.
+
+		You watch. And you remember. Because one day soon, you will need to know which throat is softest.
+		*set stoneveil +1
+		*goto tomas_taken
+
+	#Focus on the parchment they nailed to the wall
+		You step closer to the wooden post, the nail still trembling slightly where the hammer struck.
+
+		The parchment curls at the corners, already touched by morning damp. But the ink is fresh. Too fresh.
+
+		You read it again.
+
+		[b]"By command of the Sanctified Flame..."[/b]
+
+		The words are not law. They are warning dressed as scripture. Accusation carved into public stone.
+
+		[b]"The Light of Valtessa declares this region under investigation for signs of heresy..."[/b]
+
+		You scan it all. Names. Symbols. The seal of the Church pressed in wax the color of dried blood.
+
+		The decree is meant to terrify.
+
+		But beneath it, in smaller handwriting, is a signature. One you recognize from a ruined book Lysandra once showed you.
+
+		[b]High Flamebearer Vechiel.[/b]
+
+		A name that doesn’t just mean danger. It means execution.
+
+		They’re not here to question. They’re here to cleanse.
+
+		You tear your gaze away.
+
+		When you look back to the soldiers, they are watching you now.
+
+		And the parchment still bleeds on the post, even if the ink has dried.
+		*goto tomas_taken
+
+*label tomas_taken
+Ashwood is going to be quiet again. But it will be a different kind of quiet. The kind that comes after the first drop of blood has already hit the ground.
+*page_break Next
+
+You don’t remember walking. You move ${posture}. No one dares to stop you.
+
+Ashwood blurs past you—faces averted, shutters drawn, breath held behind closed doors. The echo of boots still lingers in the dirt like ghosts refusing to leave.
+
+You end up back at Lysandra’s.
+
+The door is still open, like always. But something’s changed.
+
+She doesn’t greet you. Doesn’t turn.
+
+You find her bent over the table, carefully sorting herbs into cloth pouches. Her movements are deliberate. Too precise.
+
+You speak her name.
+
+She doesn’t answer right away.
+
+Then, softly, without looking up:
+[i]“They’ll come for me next.”[/i]
+
+She folds a packet of dried nightroot. Ties it with trembling fingers.
+
+“Maybe not today. But soon. You saw the masks. You heard the decree.”
+*page_break She finally meets your eyes
+
+There’s no panic there. No tears. Only something hollow and quiet, like a well that’s finally run dry.
+
+[i]“I’d like to leave before I burn.”[/i]
+
+The words land like stones.
+
+She’s not asking for your help. Not yet. But it’s there—beneath her calm, beneath the quiet scraping of string against cloth. A truth wrapped in gentleness.
+
+She hands you a bundle without explaining what’s inside.
+
+“For your journey. If you choose to take one.”
+
+She turns back to her work.
+
+“I’ll be gone before dusk. I won’t say where. Don’t look for me. But we will meet again soon.”
+
+[i]A pause.[/i]
+
+“And if they ask…”
+She smiles faintly. Not kind. Not cruel. Just tired.
+“…tell them I was never here.”
+*page_break Next
+
+You don’t sit this time.
+
+You stand in the doorway like you’re still deciding whether this is real. 
+Whether the woman at the table—gentle, steady Lysandra—can really be saying she’s leaving. That she expects to burn.
+
+"You don’t have to go," you say, even though part of you knows she does.
+
+Lysandra doesn’t look up.
+
+"They took Tomas." Her voice is quiet. Too quiet. "You saw how quickly it happened. How easily."
+
+You nod. The image of his face—confused, then frightened, then gone—flickers behind your eyes.
+
+She presses her palm flat against the table. Her hands aren’t shaking anymore.
+
+“I’ve kept my head down for years. Given medicine to the sick. Helped with births. Buried the stillborn. And it won’t matter. It never does.”
+
+A beat. The wind moves through the open window, stirring the dried herbs like breath.
+
+“They don’t need proof. They need an example.”
+
+She looks at you then.
+
+And it hits you, hard and sudden, how young she really is. Not ageless, not ancient like stories make the wise women. Just tired. Just afraid. Just human.
+
+“You can stay,” you say again, even softer. “Maybe they won’t—”
+
+She shakes her head. A sharp, small motion.
+*page_break “They will.”
+
+Another pause. Then:
+
+“They’ll smell ash in my garden and call it a ritual. They’ll see the stains on my fingers and name them curses. 
+My tea, my remedies—” She laughs once, hollow. “—it’s all proof. All sin.”
+
+You move closer without thinking.
+
+"Lys—"
+
+Her eyes flick up. Wet, but not crying.
+"You can't save me. Not from this."
+
+You reach the table. She doesn’t stop you.
+
+“Then let me go with you.”
+
+The silence hangs for a long time.
+
+Then:
+
+“No.”
+
+Just that. But her voice breaks when she says it.
+
+She reaches for your hand. Holds it like she’s memorizing the shape. The heat.
+
+“They’ll watch you now.”
+
+Her grip tightens. You don’t pull away. You don’t know if you can.
+
+“I don’t care what they think.”
+
+She smiles at that. Not tired now. Just… sad.
+
+“But I do.”
+
+Lysandra’s hand lingers in yours, warm and trembling. Outside, the village holds its breath.
+*page_break Next
+
+You both stand in the fading light just outside her door, the quiet settling around you like a soft cloak.
+
+Lysandra tucks a loose strand of hair behind her ear, eyes distant.
+“I wasn’t always like this,” she says softly, almost to herself. “Once, I had dreams — of a life without fear, without running.”
+
+You nod, feeling the weight of your own hidden past pressing beneath your ribs.
+“Sometimes, I think the past clings like a shadow, even when you try to outrun it.”
+
+She smiles faintly, a fragile thing.
+“Do you ever remember the small moments? Not the big losses, or the burning… but the quiet ones? 
+Like the smell of rain on dry earth, or the taste of fresh bread in the morning?”
+
+You do. Those moments feel almost like a secret now, but they keep you tethered.
+
+“I try,” you say. “Because without them, I’d be nothing but a ghost.”
+
+Lysandra’s gaze meets yours, steady and warm.
+“Maybe that’s why we hold on. To those fragments. To keep the ghost alive.”
+
+A silence stretches between you — comfortable, honest.
+
+“Thank you,” you whisper.
+
+“For what?” she asks, surprised.
+
+“For listening. For reminding me that I’m still here.”
+
+She reaches out, brushing your hand gently.
+“Then don’t forget. No matter what comes next.”
+
+You squeeze her hand once, then slowly step back.
+
+The night deepens, but for a moment, the world feels less dark.
+
+*label good_old_times
+[i]Do you want to reminisce about the good old times?[/i]
+*choice
+	*disable_reuse #The bird
+		It had been a cold morning, early spring but still bitter on the wind. 
+		You’d found it just past the well—a bird, barely more than a handful of feathers and breath, one wing hanging limp, the other trembling against the dirt.
+
+		It didn’t cry out. It just looked at you, like it had already accepted the ending.
+
+		You brought it to Lysandra in cupped hands, heart racing like it was yours, not the bird’s, about to stop.
+
+		She didn’t ask why. She never does.
+
+		She took it gently, wrapped it in cloth, warmed a little oil between her fingers. 
+		She said soft things—not to you, not even to the bird, just to the quiet between you.
+
+		You both knew it wasn’t going to live. You knew from the start. But she still did everything she could. 
+		As if kindness was worth it even when it wouldn't change the ending.
+
+		It died in your hands. Small, weightless, and terribly still.
+
+		You didn’t cry. Not then. But something in you felt smaller, like the grief had folded itself into the shape of your ribs.
+
+		Later that night, she left a single feather on your windowsill. You never asked why. But you didn’t throw it away either.
+		*goto good_old_times
+	
+	*disable_reuse #The winter
+		It had been the kind of winter that silences even thought. Everything brittle, breath turned to fog, sky locked in pale grey.
+
+		You were sick then. Fever, chills, a cough that felt like it scraped the inside of your lungs raw. 
+		You hadn’t meant to let it get that bad—it just happened slowly, then all at once. 
+		By the time Lysandra found you, your skin was cold and your voice barely a whisper.
+
+		She didn’t ask how long it had been. Just got to work.
+
+		Her cottage smelled like warmth—dried herbs and smoke and the faint sweetness of honeyed tea. 
+		She layered blankets over you like a ritual. Pressed cold cloths to your skin. Murmured something soft in a language you didn’t recognize. 
+		Maybe it wasn’t a language at all. Just comfort given shape.
+
+		You remember the firelight dancing across the ceiling. You remember the sound of her breathing beside the bed. 
+		You remember the night pressing in on the windows like it wanted to see if you’d make it through.
+
+		You did.
+
+		When the fever finally broke, she gave you broth and silence. And when you tried to thank her, your voice cracked, and she just shook her head.
+
+		“You don’t owe me thanks. You owe yourself time.”
+
+		You don’t remember falling asleep. Only waking up to a new day and a glass bottle of something bitter and bright left beside your pillow.
+		*goto good_old_times
+	
+	*disable_reuse #The candle game
+		It was a game born of boredom, of too many long nights when the power of the world dulled and sleep refused to come.
+
+		Lysandra lit a row of candles along the windowsill — seven in all — and turned the rest of the cottage dark. Shadows stretched long. 
+		The only light was soft and flickering, gold melting into dusk.
+
+		“Pick one,” she said. “Close your eyes. Breathe in.”
+
+		The rules were simple: guess which candle would go out next. Not by wind. Not by touch. Just instinct. Just knowing.
+
+		You were never right.
+
+		But that wasn’t the point.
+
+		She called it a game of patience and listening. You suspected it was a game of learning to trust things you couldn’t see.
+
+		By the third night of playing, she let you light them.
+
+		By the fifth, she stopped blowing them out at all. She just watched you watch the flames — how your eyes followed the smoke, 
+		how your fingers twitched like they wanted to touch heat and never flinch.
+
+		“You always pick the brightest flame,” she said once. “Even when it’s about to die.”
+
+		You didn’t know if it was a compliment. Or a warning.
+		*goto good_old_times
+
+	*disable_reuse #The burnt stew
+		It was the first time you’d tried to cook something for her.
+
+		Not as a patient. Not as someone in need. Just… [i]to give.[/i]
+
+		The stew was supposed to be simple. Root vegetables. Bone broth. Herbs she kept in those tiny glass jars with the smudged labels. 
+		You followed the steps. You stirred and timed it and even whispered a little charm under your breath like you’d seen her do.
+
+		And still, you burned it.
+
+		Badly.
+
+		It clung to the pot like regret. Thick. Black. [i]Bitter-smelling.[/i]
+
+		You were mortified.
+
+		Lysandra came in, tilted the lid, and inhaled the ruin.
+
+		Then she laughed — not a cruel sound, not even mocking. Just surprised and warm, like rain in dry summer.
+
+		“You know,” she said, “that’s exactly how my first batch of tincture turned out. Nearly killed a field mouse.”
+
+		You tried to apologize. She waved it away.
+
+		Instead, she took the pot, scraped off what could be saved, and tossed the rest into the fire, which made the flames spit.
+
+		“Burnt things still feed something,” she said, handing you a cup of tea instead. “You just have to know what.”
+		*goto good_old_times
+	
+	*disable_reuse #The fever night
+		You don’t remember most of it. Being ill once more.
+
+		Just the heat — swallowing your body like drowning from the inside out. The way the world tilted, slid, came undone in colors that weren’t real.
+
+		And her voice.
+
+		Cutting through the haze.
+
+		Not soothing, not soft — not at first. Urgent. Sharp. Desperate in a way she rarely let herself be.
+
+		“Stay here. Stay with me.”
+
+		You think you tried to answer. But your mouth wouldn’t work. Your hands were claws, twisted around the edge of the cot.
+
+		Later, when the worst had passed, you woke to her sitting beside you, skin drawn, a bowl of water at her feet and that same cloth in her lap, worn through.
+
+		She wasn’t praying. She wasn’t reading. She was just watching you sleep, as if daring Death to come back for what it almost took.
+
+		When your eyes opened, she smiled — not a wide thing, but real.
+
+		“There you are,” she said.
+
+		And then she cried. Silently. Just a few tears.
+
+		But it was the first time you'd seen her break.
+		*goto good_old_times
+	
+	*disable_reuse #The night you almost left
+		You were halfway down the road.
+
+		The forest had begun to thin. 
+		The last curve of Ashwood was behind you, the scent of it still clinging to your skin — pine, and smoke, and something floral you never identified.
+
+		Your bag was light. You hadn’t packed much. Just enough to make it hurt.
+
+		You didn’t know where you were going. Only that you had to go.
+
+		The weight in your chest had become too much — the memories, the looks, the fear in your own reflection. 
+		You thought leaving would be cleaner than breaking.
+
+		And then you heard her voice.
+
+		Not behind you.
+
+		Beside you.
+
+		Lysandra had followed. Not rushed. Not shouted. Just walked. Quiet as the sky before rain.
+
+		She didn’t stop you. She didn’t beg.
+
+		“There’s more to leaving than walking away,” she said. “You have to be ready for silence to answer you. Ready to hear things you thought you buried.”
+
+		You stood there a long time. The road didn’t pull. It never had.
+
+		You stayed.
+
+		You never said thank you.
+
+		She never asked you to.
+		*goto good_old_times
+
+	#There is no need to remember the past anymore
+		*goto after_lys_mem
+
+*label after_lys_mem
+You leave Lysandra’s cottage just as the frost begins to settle into the bones of the village. 
+The sun is already losing its fight to the clouds, casting Ashwood in the kind of light that makes everything look like memory.
+
+Your steps are quiet, but your thoughts aren’t.
+
+They took Tomas.
+
+His name presses against your ribs like a bruise.
+
+No one stopped them. No one even tried.
+
+The houses watch you pass with shuttered windows and locked doors. The children are gone from the street. Even the crows seem to keep their distance.
+
+Your home waits where it always does—half-swallowed by ivy and silence. 
+You close the door behind you and lean against it, as if it might hold the world out just a little longer.
+
+The bundle Lysandra gave you is still tucked under your arm. You place it on the worn wood of the kitchen table, fingers lingering at the clasp.
+
+You’re not sure why you hesitate.
+
+You open it.
+
+Inside, wrapped in dark cloth, is a key.
+
+Not iron, not silver—but something older. The metal is warm to the touch, etched with runes too soft to read but too precise to be random. 
+You don’t know what it opens. But you know it matters.
+
+The air shifts behind you.
+
+[i]“Where did you get that?”[/i]
+
+You turn.
+
+Your mother stands in the doorway, pale, steady, and so quiet you hadn’t heard her approach. Her eyes aren’t on you. They’re fixed on the [i]key[/i].
+
+“Lysandra gave it to me,” you say slowly. “She said I’d know when to use it.”
+
+Something changes in her face—not fear. Not surprise. Just resignation, like a weight she’s held too long and can no longer pretend isn’t real.
+
+She exhales. Not softly. Not gently. Like she’s letting go of years.
+
+“Then it’s time.”
+
+She crosses the room, pulls out a chair, and sits. Not the way people sit to rest. The way they sit to confess.
+
+“There are things I haven’t told you,” she says. “Because I thought—maybe, just maybe—you’d never need to know. 
+That if I was careful, if I stayed quiet long enough, the storm would pass.”
+
+She looks up at you.
+
+[i]“But the storm is here. And it knows your name.”[/i]
+*page_break The End... For Now...
+
+[i]That’s all for now.[/i]
+
+The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
+and pulling threads that will take you further into Ashwood and everything it hides.
+
+If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
+Your feedback means the world and helps shape where the path leads next!
+
+Thank you for playing.
+Thank you for reading.
+And thank you for walking with me into the dark.
+
+Until soon.
+
+[i]Your Audrine[/i]
