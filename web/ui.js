@@ -17,6 +17,11 @@
  * either express or implied.
  */
 
+// ui.js — controls interface elements
+
+window.saveSlots = true;
+window.slotCount = 5;
+
 ;(function() {
   var lastTime = 0;
   if (!window.requestAnimationFrame)
