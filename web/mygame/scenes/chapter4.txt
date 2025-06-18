@@ -428,7 +428,7 @@ Sol.
 
 You shake your head. Shift the bag across your shoulder.
 
-${sol_big_pronp}’ll still be asleep when you return.
+${sol_big_pron}’ll still be asleep when you return.
 
 Probably.
 
@@ -1485,9 +1485,9 @@ And you—goddess help you—you want to stay.
 		*goto sol_carry
 
 	#Say nothing. Just hold ${sol_pronp}
-	You don’t answer with words. Just draw ${sol_pronp} closer, anchor ${sol_pronp} with the warmth of your body. 
-	Sol breathes you in, and you feel it—that quiet shift in ${sol_pronp}, like something that was hurt is finally beginning to rest.
-	*goto sol_carry
+		You don’t answer with words. Just draw ${sol_pronp} closer, anchor ${sol_pronp} with the warmth of your body. 
+		Sol breathes you in, and you feel it—that quiet shift in ${sol_pronp}, like something that was hurt is finally beginning to rest.
+		*goto sol_carry
 
 *label sol_carry
 You half-carry Sol back to the path, ${sol_pronpp} weight pressed to your side. 
@@ -1497,7 +1497,8 @@ Kai is waiting, arms folded across their chest, brows drawn tight. Their eyes fl
 
 “Idiot,” they mutter, but it’s softer than before. Less sharp. Their fingers twitch like they want to help but aren’t sure how.
 
-You lower Sol onto a moss-covered log, the weight of ${sol_pronp} settling slow. ${sol_big_pronpp} shirt is damp at the seam—fresh blood blooming at the edges of ${sol_pronpp} stitches.
+You lower Sol onto a moss-covered log, the weight of ${sol_pronp} settling slow. 
+${sol_big_pronpp} shirt is damp at the seam—fresh blood blooming at the edges of ${sol_pronpp} stitches.
 
 “Sol.” You keep your voice low, steady, though your own hands shake. “Let me see.”
 

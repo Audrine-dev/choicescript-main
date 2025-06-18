@@ -750,6 +750,7 @@ It is a slow morning, and you still have some time left before you have to visit
 		You step into the sun again, a little steadier. A little more whole.
 
 		Lysandra doesn’t give you answers. But somehow, she helps you live with the questions.
+		*set met_lysandra true
 		*goto after_lysandra_meeting
 
 *label after_lysandra_meeting
