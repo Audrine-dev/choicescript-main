@@ -943,7 +943,7 @@ The lie is easier.
 
 Not because it’s prettier. But because it’s quieter.
 
-You shrug. Let your eyes drift back to the water. “${sol_big_pronp} was just a ${sol_worm} in the dirt. Same as anyone. That’s all.”
+You shrug. Let your eyes drift back to the water. “${sol_big_pron} was just a ${sol_worm} in the dirt. Same as anyone. That’s all.”
 
 Kai hesitates. “You’re sure?”
 
