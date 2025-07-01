@@ -7,6 +7,7 @@
   chapter3
   chapter4
   chapter5
+  chapter6
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -77,6 +78,19 @@
 *create poetry_rel_sol false
 *create explore_ashwood false
 *create angered_soldier false
+*create memory_reveal false
+*create intention_bind false
+*create sense_of_place false
+*create ash_rat false
+*create artic_fox false
+*create coal_cat false
+*create murk_owl false
+*create fen_echo false
+*create gravetongue_lizard false
+*create brindle_hare false
+*create meet_familiars false
+*create knows_eshael false
+*create knows_verryn false
 
 *label prologue
 

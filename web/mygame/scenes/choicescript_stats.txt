@@ -15,6 +15,16 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 *if not(magic_awakened)
 	[i]You feel... strange. Something is coming.[/i]
 
+*if (memory_reveal)
+	You now have a “Memory Thread” token. When used, it triggers a new memory fragment or rewinds a brief moment during high-stakes gameplay. 
+	But each use has a cost.
+
+*if (intention_bind)
+	You have gained the passive ability to “Sense intentions” during dialogue. Truths ring louder. Lies buzz. It overwhelms in crowds but offers clarity when alone.
+
+*if (sense_of_place)
+	You now have a “Sense of Place” ability. When triggered, you can feel a hidden memory in any given natural location—leading to lore, safety, or hidden danger.
+
 *stat_chart
 	text Willpower
 *if willpower = 1
@@ -149,10 +159,15 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 *choice
 	#Relationships
 		*goto relationship_stats
-	#Vérryn
-		*goto vérryn_dictionary
-	#Es'Shael
-		*goto es'shael_dictionary
+	*if (knows_verryn)
+		#Vérryn
+			*goto vérryn_dictionary
+	*if (knows_eshael)
+		#Es'Shael
+			*goto es'shael_dictionary
+	*if (meet_familiars)
+		#Familiars and Their Choosing
+			*goto familiars_diary
 
 
 *label relationship_stats
@@ -216,3 +231,56 @@ It is only spoken during spellwork, rituals, sacred rites, and high magic[/i] �
 
 Es’Shael then means [i]The Sacred Breath[/i] or [i]The Divine Whisper[/i]
 *finish
+
+*label familiars_diary
+They are not pets. Not companions in the way the world expects. They are echoes of something deeper—shadows of memory, of truth, of grief, of the self unspoken.
+
+When I chose—or was chosen—it did not feel like decision. It felt like remembering.
+
+They each come from the veil’s edge. From places beneath language. From places inside me I do not yet understand. And they do not ask to be understood.
+
+But I record what I know:
+
+*if (ash_rat)
+	[b]ASH RAT[/b]
+	[i]"The one who remembers."[/i]
+	Small and soot-born, with ember eyes that see into the past—not just mine. It doesn't speak, but it sings inside memory. Lullabies I never learned. 
+	Places I’ve never been.
+	It carries stories I have forgotten. Some of them aren't even mine.
+	It chose me like dust chooses flame: inevitable.
+*if (artic_fox)
+	[b]ARCTIC FOX[/b]
+	[i]"The silence that waits."[/i]
+	So still I almost missed it. It is cold, but not cruel—only honest. It watches, endures, retreats without ever truly leaving. 
+	I’ve seen it beside me in dreams, though I never heard it arrive.
+	It waits. And sometimes, that is the kindest thing.
+*if (coal_cat)
+	[b]COALCAT[/b]
+	[i]"The one who walks between."[/i]
+	She sat in my lap like she owned the ruins we stood in. Smoke and shadow, with twilight in her fur. A guardian of doorways. 
+	Of names. She doesn’t guard me, exactly—she guards the moment before.
+	She won't protect me. She'll make sure I see it coming.
+*if (murk_owl)
+	[b]MURK OWL[/b]
+	[i]"The witness."[/i]
+	It brings silence. Not peace—silence. The kind that listens back.
+	Its eyes are two wells of unspoken things. It does not guide. It questions. 
+	And some nights, I dream of its wings brushing my shoulder—asking things I don't want to answer.
+*if (fen_echo)
+	[b]FEN ECHO[/b]
+	[i]"The one who stays."[/i]
+	It smells like old rivers and sorrow. It does not comfort, not like warmth—but like weight. Like knowing you're not alone in your grief.
+	It never speaks. But it’s always there when the quiet gets too loud. When I falter, it doesn’t lift me—it simply stays until I can move again.
+*if (gravetongue_lizard)
+	[b]GRAVETONGUE LIZARD[/b]
+	[i]"The mouth of endings."[/i]
+	Small. Cold. Unnervingly still. It perched on me like it already knew where I’d fall. 
+	It hums when I walk through death-places. Flicks its tail when someone lies.
+	It listens to the dead. And sometimes, they answer.
+	It will not let me forget what I carry.
+*if (brindle_hare)
+	[b]BRINDLE HARE[/b]
+	[i]"The one who flees—but not away."[/i]
+	It ran when I approached. But not far. Just enough to show me the path I didn’t know I feared.
+	There’s bravery in it—quiet, instinctive. Not the kind that fights. The kind that moves. That lives. That doesn’t wait for permission.
+	It reminds me that running can be holy too.

@@ -1,0 +1,1890 @@
+*label chapter6
+
+[b]Chapter 6 - The Hollow Within[/b]
+
+It’s dusk.
+
+The garden holds its breath.
+
+Crickets begin their chorus in the underbrush, soft and uncertain, as if unsure whether it’s safe to sing. 
+The sky is a darkening bruise above the trees—deep purples bleeding into the cold grey of an oncoming storm. 
+A wind moves through the hedgerow, dry and whispering, like it carries secrets too old to speak aloud.
+
+You step outside and the earth greets you with the chill of rain not yet fallen. 
+The scent of damp soil clings to the air, heavy with rot and root and the faint sweetness of dying things.
+
+Your mother walks ahead of you, silent.
+
+Her boots crunch against the stones of the path, then soften as she moves into the wild grass. [i]She doesn’t look back.[/i] 
+Just moves with that same determined quiet she’s always had—the kind that says she’s already made her decision.
+
+You pass the garden’s edge, where order slips into overgrowth.
+
+Past the crooked herb beds—once carefully tended, now spilling wild with thistle and mint.
+Past the old swing, its rope sagging, seat tilted as if it remembers laughter that no longer visits.
+Past the wheelbarrow that’s been half-swallowed by ivy, its metal rusted, flaking like old blood.
+*page_break The air grows thicker
+
+Time feels slower here, like each step drags a shadow behind it.
+
+She stops.
+
+At the edge of the garden—where the fence is broken and the wild things have begun to reclaim what was theirs. 
+Where nettles rise like sentinels and the grass is long enough to whisper against your legs. There, the world feels... thinner. 
+Like the skin between what you know and what you’ve forgotten is wearing through.
+
+The [i]yew tree[/i] waits.
+
+It looms black against the darkening sky. Its trunk gnarled and wide, twisted with centuries. Branches claw up like reaching arms, or ribs around a hollow heart. 
+The bark looks burned in places, split deep with age. There’s a presence to it—something that [i]hums[/i] under your skin.
+
+You’ve passed this tree a thousand times, but tonight, it looks at you differently.
+Or maybe you’re the one finally seeing it.
+
+You never climbed it. No one did.
+
+Some things aren’t meant to be touched.
+
+“It’s older than Ashwood,” she says, voice low.
+“Older than the Church. Maybe older than language.”
+*page_break You step closer
+
+The air here smells different. Resin and damp moss. Earth that hasn’t seen sunlight in a hundred years.
+
+She reaches for the trunk—finds a knot in the bark, half-hidden in shadow. Her hand brushes it, searching. Then she turns to you.
+
+[i]“The key.”[/i]
+
+You hand it over.
+
+She fits it into a hollow you never noticed before.
+
+And something clicks.
+
+Low. Deep. Like the earth swallowing a breath.
+
+The yew trembles. Just once. Its trunk groans like bones shifting.
+
+Then a seam appears.
+
+The bark pulls inward. The roots split.
+A passage opens beneath the tree, where no passage should exist.
+
+Stone stairs descend into dark, curved like a spiral unfurling from a shell.
+
+Your mother lifts a lantern. Flame flickers against her face.
+
+“There’s something you need to see,” she says.
+“Something I should have shown you long ago.”
+
+And without waiting, she steps inside.
+
+Down into the dark.
+*choice
+	#Follow her without question.
+		You don’t ask. You don’t speak. There’s a gravity in her steps that tells you this moment has waited for years. Maybe your whole life.
+		The air is too thick with what’s coming, and part of you already knows—whatever truths wait below that yew, they’ve always belonged to you.
+		So you move. Quiet. Resolute. Into the dark.
+		*goto yew_con
+
+	#Ask her what’s happening.
+		You stop just shy of the roots. Your voice is quiet, but steady.
+
+		“What is this?”
+		
+		She doesn’t answer right away. Just turns, the lantern casting her face in gold and shadow.
+		“A truth I’ve kept too long,” she says. “A truth that might save you. Or ruin you.”
+		Her eyes hold something that looks like guilt. Or fear. Or love.
+		Maybe all three.
+		*goto yew_con
+		
+	#Look back at the house before going.
+		You turn. Just once.
+		The house stands in the falling dusk—small, crooked, ordinary. The door ajar, the satchel open on the table, the scent of old tea still lingering.
+		You’ve lived there your whole life, and yet suddenly, it feels... distant. As though the person who belonged in that place no longer fits its frame.
+		You face forward again, and the world seems sharper. Like it’s waiting to see who you’ll become next.
+		*goto yew_con
+
+	#Touch the tree before following.
+		You reach out. Fingers brush the bark.
+		It’s warm. Not like sunlight—like breath. Like pulse.
+		The grooves in the wood shift beneath your skin—not visibly, but subtly, like something responding to your presence. 
+		You feel the weight of something ancient pressing back. Not unkind. Just... watching.
+		Something has been waiting for your touch. You don’t know how you know that.
+		But you do.		
+		*goto yew_con
+
+*label yew_con
+Inside, the tunnel closes around you.
+
+The walls are packed earth, soft and pulsing with the wet breath of root and stone.
+Thick tendrils run along the sides—roots like veins, like ribs. They twist and coil, some thick as arms, some finer than hair, all winding downward.
+
+The sound of your feet is swallowed almost instantly.
+
+It’s not silence. Not quite.
+
+There’s a sound—whispers. Not voices. Not language. Just the impression of something moving, barely beyond hearing. Like breath caught in stone. 
+Like memory trying to speak.
+
+The deeper you go, the colder it gets.
+
+But not dead cold. Not cruel.
+
+[i]Sacred.[/i]
+
+The passage turns. Sharp angles. Sudden drops. The walls sweat and tremble like something is dreaming all around you.
+Somewhere behind, the earth has closed again.
+
+The way back no longer exists.
+
+You glance at your mother. She walks like someone who has done this before. Not often—but enough.
+[i]She doesn’t look back.[/i]
+
+You understand why.
+Some things must be faced forward.
+
+And below, the passage waits. Old. Alive.
+You are not welcome here. Not yet.
+*page_break But you are expected
+
+Your mother’s lantern casts more shadow than light. Her footsteps are steady, but you can hear the strain in her breath.
+The roots brush your shoulders now. The tunnel narrows. You have to duck.
+
+You break the silence first.
+
+“How did you find this place?”
+
+She doesn’t answer immediately. When she does, her voice is low, almost reverent.
+
+“I didn’t. She did.”
+
+You know who she means. Even if you don’t have a name for her yet.
+The woman who gave you life. The one who left nothing behind—except you.
+
+You let the silence stretch a little longer.
+
+You press your hand to the wall as the tunnel dips again. The soil is cold. Wet. Living.
+
+“Why didn’t you tell me?”
+
+That stops her.
+
+She turns, holding the lantern low so her face is half-lit, half-shadow.
+
+“Because it wouldn’t have been safe. And because you weren’t ready.”
+
+Her eyes linger on yours.
+
+“Maybe you’re still not. But we’ve run out of time to wait.”
+*page_break Next
+
+Your boots scrape softly against the dirt. The lantern flickers against the walls—earthy and close, like a heartbeat under stone. 
+The tunnel twists, and so does the silence.
+
+You don’t ask more questions. But something shifts behind your mother’s voice when she speaks again.
+
+“My brother brought her to me.”
+
+You glance toward her, surprised by the edge of feeling there.
+
+“She was hurt. Hunted. He… he found her in the woods, barely standing.”
+
+A silence blooms between you. She doesn’t stop walking, but her voice dips lower. More careful.
+
+“I thought it was just kindness at first. [i]Duty.[/i] He was always the gentler one between us. But it wasn’t that.”
+
+She brushes a hand along the wall absently, fingers trailing soil like threads in a tapestry.
+
+[i]“They loved each other.”[/i]
+
+There’s grief in it still—years-old, worn down, but not dead.
+
+“He was the only one who saw her for what she truly was. Not something dangerous. Not something broken. 
+Just… a woman who had lost everything but hadn’t stopped fighting.”
+
+You say nothing. The air feels thick with the weight of ghosts.
+
+She swallows, barely audible.
+
+"They were together for only a short while." 
+*page_break "And then the Church came."
+
+There’s a pause, a breath caught in the hollow of the passage.
+
+“She gave up her life to protect you. And he—he never forgave me for surviving when she didn’t. It changed him.”
+
+*label questions_am
+You feel that story settle deep in your ribs, like something cold curling around bone.
+
+The tunnel opens wider now. The scent of moss and old paper lingers ahead.
+You’re close.
+*choice
+	*disable_reuse #Who were my real parents?
+		You stop in a dusty alcove lined with old portraits and faded drawings. Your mother pulls out a torn picture, her fingers trembling as she traces the faces.
+		“Your mother was a woman of strength and secrets… and your father, a man who loved her deeply but vanished after you were born.”
+		The silence feels heavy, wrapping around you like a shadow.
+		*goto questions_am
+
+	*disable_reuse #Why did my mother have to sacrifice herself?
+		In a dim chamber lit only by flickering torches, she holds up a worn cloak, stained with old, dried blood.
+		“She stayed behind when the soldiers came—so you could escape. Her last act was a shield, protecting you from a fate far worse.”
+		Her voice cracks, and you catch the sorrow in her eyes.
+		*goto questions_am
+
+	*disable_reuse #Did she have family? Anyone who might still be alive?
+		You enter a cramped room filled with shelves of yellowed letters and odd trinkets. She pulls out a faded letter, her hands shaking slightly.
+		“Her family was scattered and hunted. Some might still live in shadows, but none we can find. They vanished like whispers on the wind.”
+		She sighs, tucking the letter away, and you wonder how much was truly lost.
+		*goto questions_am
+
+	*disable_reuse #Was my father a witcher too?
+		You watch as your mother’s eyes darken with pain and resolve.
+		“No. Your father was a soldier—a man of duty and honor, fighting a war far from here. He wasn’t one of them, but he loved your mother fiercely.”
+		Her fingers brush a faded soldier’s token hanging from a chain around her neck, a silent testament to his sacrifice.
+		*goto questions_am
+
+	*disable_reuse #Why did no one tell me about them before?
+		She leads you to a small altar, the candles long extinguished.
+		“Because the truth could have cost you everything. I promised your mother I’d keep you safe—even if it meant silence.”
+		Her voice is steady but heavy with sorrow.
+		*goto questions_am
+
+	*disable_reuse #What happened to them during the witch hunts?
+		You descend deeper into the cave, the damp air thick with history.
+		“Your mother faced the Church’s wrath alone. Your father was away at war, fighting battles you never heard of. 
+		He returned too late to save her, and the truth was buried beneath the ashes.”
+		Her voice trembles as she speaks, and you feel the weight of loss that time cannot heal.
+		*goto questions_am
+
+	*disable_reuse #Did anyone betray her?
+		A cold breeze slips through cracks in the stone, raising goosebumps on your skin. She hardens, her eyes darkening.
+		“There was a betrayal. Another witch, desperate to save herself, gave up their location. It broke her heart… and tore us apart.”
+		You sense the anger simmering beneath her calm.
+		*goto questions_am
+
+	*disable_reuse #Why did you take me in?
+		She stops before a small shrine where a single glowing flower flickers softly.
+		“Because your mother was my closest friend—and because I promised to protect you. You’re the last of her bloodline.”
+		Her voice softens, barely above a whisper, and you feel the depth of her promise.
+		*goto questions_am
+
+	*disable_reuse #What do I need to know now?
+		She hands you a worn leather-bound book, the pages filled with strange symbols and ancient writing.
+		“You must learn the language of the witches, understand their power—and prepare. The Church is hunting, and your past will catch up.”
+		Her eyes lock with yours, fierce and unyielding, and you know there is no turning back.
+		*goto questions_am
+
+	*disable_reuse #Where is my father now?
+		You swallow hard, the flickering lantern casting long shadows on the rough cave walls.
+		“Where is he now?” you ask, voice barely more than a whisper.
+
+		Your mother’s gaze shifts away, a shadow passing over her features.
+		“He never returned from the war. Officially, they say he’s missing—lost in a battle that claimed many. But sometimes, I wonder if he’s still out there somewhere, trapped in a fight that never ends.”
+
+		She pulls her cloak tighter around her shoulders, eyes reflecting the flicker of the flame.
+		“Whatever fate holds for him, you carry a piece of both their hearts. And that’s why you must be ready.”
+		*goto questions_am
+
+	#There is nothing else to say
+		*goto after_con_s
+
+*label after_con_s
+The passage widens suddenly, opening into a cavern that feels alive with age.
+Stone walls curve around you like the ribs of some ancient beast, carved but softened by time.
+Rows of shelves, hewn from the rock itself, stretch away, crowded with tomes and scrolls bound in cracked leather and faded cloth. 
+The air is thick with the musk of old parchment and earth.
+
+Clusters of crystals hang from the ceiling like frozen fruit, catching what little light filters down from a narrow fissure far above — 
+a thin shaft of moonlight, impossible yet there. It dances across a still pool of water at the cavern’s center, casting ripples of silver on the walls.
+
+Symbols, carved long ago, glow faintly in the shadows — sigils of protection, remembrance, and power.
+
+Your mother’s voice breaks the silence, gentle but resolute:
+“This place belonged to the Daughters of Venora — a sanctuary, hidden from a world that would hunt them.”
+
+She pauses, eyes darkening with memory.
+“Your mother… she was one of them. A witch, in the truest sense — a woman who lived by the earth’s pulse and the strength of her own will.”
+
+Her hand brushes a worn, embroidered cloth draped over a stone altar.
+“She died protecting you. When the purges came, she chose to stand between you and the blades.”
+
+You look at her, surprised —
+“She was your closest friend. Closer than most ever knew.”
+
+Her gaze softens, almost tender.
+“No one knows I took you in. It’s been my secret. My burden.”
+
+She turns to you, eyes steady and fierce.
+“The Church will come again. They always do. But you… you’re beginning to awaken. And with awakening comes choice.”
+
+Her voice lowers to a whisper, yet it carries weight beyond the cavern’s walls:
+“They’ll say your mother was wicked. That she called on shadows. But what she called was a choice. And what she gave… was you.”
+
+The silence that follows is heavy, filled with the echoes of lives lost and futures yet to be forged.
+*page_break Next
+
+You stand in the hush of the sanctum, the stone beneath your boots cool and dry. 
+Your mother — not by blood, but by choice — crosses the chamber with practiced ease. 
+Her hand trails the surface of an ancient table, disturbing a fine layer of dust. She moves like someone revisiting a room in a long-forgotten home.
+
+You follow her to the edge of the pool. The water is so still, so clear, it’s hard to tell where reflection ends and truth begins.
+
+“I waited,” she says quietly, “for the day I’d have to bring you here.”
+She glances up at the light pouring from the crack in the stone ceiling. “I hoped it wouldn’t come.”
+
+You don’t speak — not yet. The air is too thick with things unsaid.
+
+“I’m not like her,” she says at last, barely above a whisper. “I don’t have… that power. I don’t understand it. Not the way she did.”
+
+She doesn’t look at you — just stares into the water like it might hold something she’s lost.
+
+“I was a midwife. I helped people. That was all I knew. Until the night she came to me — bleeding, barely able to stand, carrying you wrapped in a cloak.”
+Her voice catches. “She didn’t beg. She didn’t cry. She just looked me in the eye and said, ‘Keep her safe. Hide her where even the fire can’t find her.’”
+
+You can feel your own heartbeat now — louder than before.
+*page_break Next
+
+“She never told me what you were, not exactly. But I knew she was being hunted. And I knew what it meant, to carry a child the Church would see as impure. 
+I took you. I raised you.”
+Her voice trembles, then steadies. “Not because I understood your blood, or her gift. But because she asked.”
+
+She steps aside and gestures to the stone table. The cloth bundle lies waiting. The pendant. The knife. The letter.
+
+“She left these here, in this place. This sanctuary belonged to women like her. Witches, maybe. Maybe more than that. 
+I’ve never dared to touch the language in her books — it’s like it’s alive.”
+
+Her gaze sharpens. “But you’re starting to feel it, aren’t you?”
+
+You nod. Slowly.
+
+“I can’t teach you what she knew.” She touches your cheek — gently, reverently. 
+“But I can tell you what I saw. What I felt. And I can help you find the ones who still remember.”
+
+Thunder rolls again — closer.
+
+“I’m not a witch,” she says softly. “But I have always been your mother.”
+
+And somehow, that’s the only magic that matters.
+*page_break Next
+
+Your mother walks ahead, careful not to touch the stone shelves or the suspended clusters of crystals. 
+Dust and silence have claimed this place, and her presence feels like an apology.
+
+She stops at the center — where the pool reflects the impossible sliver of moonlight above. Her voice is steady, but her hands tremble.
+
+“She called it Kireth’nal,” she murmurs. 
+“Said it meant… ‘the last breath that remembers.’ That’s where we are. Where she came, when there was nowhere left to run.”
+
+She kneels and pulls open the cloth bundle — the one you carried here.
+
+Inside lies a worn pendant of bone and silver, wrapped in a pale scrap of fabric stitched with curling, unfamiliar words.
+
+*page_break You reach out
+
+The moment your fingers graze the cloth, your breath catches. Not pain — something deeper. A shiver, threading beneath your ribs.
+
+The words on the fabric seem to shift, just slightly. They don’t change. They recognize you.
+
+“That’s her writing,” your mother says. 
+“That’s her tongue. I couldn’t read it. I never could. But I kept it… hoping maybe you’d feel it, when the time was right.”
+
+You lift the scrap closer. Your lips move before your mind can stop them.
+
+[i]“Yen vael’theren... sha mossira.”[/i]
+
+The words rise from you like steam from cold earth. Not learned — [i]remembered[/i].
+
+Your mother gasps.
+
+“What did you just say?”
+
+You don’t know. Not exactly. But the feeling remains.
+A phrase that means:
+
+“I remember the blood beneath the moss.”
+
+You press the fabric to your chest. You can feel the other language now — humming at the edge of waking. 
+[i]Vérryn — the Living Tongue.[/i] And beyond that, something colder. Deeper. Waiting. [i]Es’shael.[/i]
+
+“There’s more,” your mother says gently. “Scrolls. Books. Things she left behind for you. I never touched them. But they’re yours now.”
+
+Her gaze is full of a grief she’s never spoken.
+
+“I couldn’t teach you. But I kept the door open. I kept the breath warm.”
+*page_break Next
+
+The stone table is worn with time and rain, its surface soft with moss at the edges. 
+Cold radiates from it—not the sharp cold of winter, but the old kind, settled into bone. A quiet kind. The kind that keeps.
+
+Laemir doesn’t speak right away. She sets the lantern down, adjusts the wick. Light blooms low and amber, casting long shadows. 
+Then she places the bundle on the stone: wrapped in silk that catches the light like water.
+
+She doesn’t look at you as she unwraps it. The cloth peels away with a hush. Inside—a shallow wooden box, dark with age. No lock. No seal. 
+But still, it feels like opening it asks something.
+
+You feel it the moment she lifts the lid.
+
+The breath of the past, thick as incense.
+
+Ribbons, pale and fraying, stained with script that flickers in and out of sight. A small bowl. A vial of ink—black, yes, but not empty. 
+It smells of something scorched, something sweet. Ash and pressed petals. Underneath these, folded notes. Pages faded soft at the edges, ink lifted but not gone.
+
+Your heart knows the handwriting before your mind does.
+
+The breath catches sharp.
+
+Laemir watches the box, not you. “She wrote that for you,” she says. Her voice is quiet. Not reverent, not mournful. Just honest. “In case.”
+
+Her hand moves toward the ink but stops just short. She doesn’t touch it.
+
+“I don’t know the words,” she says, “not really. I was never meant to.” She glances at you now. Her gaze isn’t heavy—it doesn’t press. But it holds. 
+“But I kept them. Because she asked me to. And because someone had to.”
+
+She pushes the bowl and ink toward you, slow.
+
+“This isn’t language like we use it. Witchtongue—your mother called it Vérryn—isn’t spoken. Not truly. It’s remembered. Felt.”
+
+She lifts a ribbon between her fingers. 
+“Each symbol is tied to a shape of breath. A weight in the body. A memory. It’s not about saying it. It’s about meaning it.”
+
+Her voice lowers, almost absent now. “Witchtongue doesn’t ask for power.”
+
+*page_break She looks at you again
+
+“It remembers it.”
+
+She offers you a blank ribbon. A brush. The ink waits.
+
+It moves, almost. Or maybe it just reflects the flame wrong. You can’t quite tell.
+
+You take the brush. Dip it.
+
+The scent coils up—familiar, and wrong. Burned leaves. Crushed herbs. The skin on your arms prickles.
+
+You write.
+
+Not a full word. Just the shape of one. You don’t know it, but your hand does. 
+A spiral curve, a line that breaks like bone, a point that sinks inward. It comes from somewhere deeper than memory.
+
+You choose the word before you even think:
+
+Remember.
+
+As the ink touches cloth, the ribbon flares—not with light, but with weight.
+
+It drops into you. Through you.
+
+The stone beneath you is gone.
+
+The lantern is gone.
+
+You stand somewhere else.
+
+A fire crackles. Shadows twist on a wall made of clay and smoke. A voice hums—a lullaby half-swallowed by exhaustion. 
+Fingers brush your hair back. You are small. Someone kisses your forehead, murmurs in a tongue you don’t understand.
+
+But you know the meaning.
+
+“Thyllen keep you. My kethen, my vow.”
+
+A mother’s voice. Not Laemir’s.
+
+Yours.
+
+The room returns like waking. The ribbon lies still in your hand. Dry. Slightly warm.
+
+Laemir doesn’t ask what you saw.
+
+She just nods.
+
+“There are more,” she says. “But they come when you’re ready.”
+
+You look down at the ink, at the other ribbons, at the pages still folded, waiting.
+
+The language doesn’t belong to the tongue. It lives in the bones.
+
+And yours have just begun to remember.
+
+This was the true inheritance. Not the ink. Not the blood.
+
+The returning.
+
+Of something older than voice.
+
+Older than names.
+
+The language of witches.
+
+The breath before the spell.
+*page_break Next
+
+The door doesn’t creak.
+It exhales — a soft, breathless hush that lifts the tiny hairs on your arms and tells you, without sound, you are seen.
+
+You step inside.
+
+The room is not large, but it feels vast. Vast in the way roots are — not in width, but in depth. Old in a way that doesn’t need to prove itself. 
+The air is thick with the scent of paper, cedar ash, dried herbs too bitter to name. 
+Dust clings to the light as it slips in through slats above — not golden, not soft. Dim and waiting. A kind of listening light.
+
+You don’t hear anything.
+
+But you feel it — the hush that comes not from silence, but from attention. As though the space has been waiting for you. Not anyone. You.
+
+No shelves.
+No clutter.
+No obvious spellwork curling at the edges.
+
+Just the floor, uneven stone and old plank. A threadbare cloth that might once have been used for ritual — sun-faded, ash-burned at one corner. 
+And in the center of it:
+
+Four books.
+
+Not stacked. Not stored.
+
+Set with intention — one to each quarter of the cloth, like the directions in a compass, or points on a circle that once meant something. 
+The air around them shimmers faintly — not with power, but with memory. Like breath still trapped in the space between their pages. 
+The kind of presence that makes your skin ache before your mind catches up.
+
+[i]They do not glow.
+They do not sing.[/i]
+
+And still, every part of you knows.
+
+They are waiting.
+
+Each one is different. A different spine, a different shape, a different kind of silence coiled inside. 
+None of them are new — their edges are softened by time, by use, by hands that once held them like secrets. Or promises. Or warnings.
+
+And still, none of them are dust-covered.
+Someone has been here. Or something.
+Keeping them.
+
+Your throat is dry. 
+You hadn’t realized your hands were shaking until one of them hovers too close, and the book beneath it — the blue one, 
+almost grey now — hums so softly you feel it more in your teeth than in your ears.
+*page_break You kneel
+
+Not because it feels right. Not even because it feels safe. But because your body folds before you can command it otherwise. 
+As though your bones remember a gesture your mind hasn’t learned yet.
+
+*label end_books
+You kneel before the four.
+And the air feels heavier.
+Not in warning — in reverence.
+
+They don’t demand anything.
+
+But the choosing has already begun.
+
+Four books. Four truths. Four ways to split yourself open and find out what you’re made of.
+
+And none of them want to be chosen.
+
+They want to know if you’re ready to [i]become[/i].
+*choice
+	*disable_reuse #Echoweaving
+		You reach toward the book that almost glows from within.
+
+		It looks like woven silk—but when your fingers brush the cover, the fabric twitches. Responds. 
+		The threads shift slightly, forming patterns and then unforming again like memory trying to return. 
+		There’s something golden inside the threads, flickering like candlelight through gauze.
+
+		[b]Echoweaving[/b]
+		
+		[i]The memory magic.[/i]
+
+		The moment your skin touches it, your vision stutters—just for a second—and you are standing in your old home. 
+		Not the way it was when you left it. The way it was before it burned. The smell of warm nettle tea. 
+		The feel of your mother’s hand on the back of your head. It’s gone again before you can hold it. 
+		The book lies still in your lap, pulsing faintly like something breathing just beneath the surface.
+
+		[i]This is a book of visions.[/i]
+		Of voices caught in the grain of wood, in the cracks of stone.
+		It does not speak. It remembers.
+
+		[i]And now... it remembers you.[/i]
+		*goto end_books
+		
+	*disable_reuse #Whisperbinding
+		You feel like this one calls to you in a different way.
+		A pale thing—quiet in the corner, bound in something soft and pale-gray. No title. No marks. 
+		But when you touch it, you feel everything. Not from the book—from the room. Sadness curled in the floorboards. 
+		Joy caught in a single mote of dust. The book feels warm—not in temperature, but in recognition.
+
+		[b]Whisperbinding[/b]
+		
+		[i]The emotion magic.[/i]
+
+		This book trembles in your hands like a secret. Pages so thin they seem to vanish when you blink. 
+		The moment you breathe too hard, it shivers. The moment you feel something, it responds. Anger curls the corners. Grief makes the letters blur.
+
+		You realize you could lose yourself in this.
+		Or become something new.
+		A voice that turns fear into fire.
+		A hand that silences rage before it begins.
+
+		It [i]scares[/i] you, this one.
+
+		But gently.
+		*goto end_books
+		
+	*disable_reuse #Soulrooting
+		The book is heavy. [i]Rough[/i]. The edges uneven, like it grew itself instead of being made.
+
+		[b]Soulrooting[/b]
+		
+		[i]The spiritbound magic.[/i]
+
+		It smells of loam. Iron-rich earth. The place between tree roots and silence. 
+		When you lift it, your hands go numb for a moment—not from pain, but from weight. From meaning. 
+		The pages aren’t pages at all but thin slices of pressed leaves, bark, 
+		faded skins inked with symbols that seem to grow more familiar the longer you look.
+
+		This book doesn’t want to be read.
+
+		It wants to be planted.
+
+		You hear it—not a voice, but something close. A whisper behind your ribs. Or below them. The dead remember you. 
+		The forest remembers you. Even if you do not.
+		*goto end_books
+		
+	*disable_reuse #Bloodspell
+		The last book waits like a blade left on velvet.
+
+		Deep red, but not garish. Threaded in dark stitching. The leather cover is warm from within, as though it’s been recently held. Or fed. 
+		When you pick it up, your fingertip snags the edge of the clasp and you bleed—a single bead, red against the cover.
+
+		The book absorbs it. Quietly. [i]Gratefully[/i].
+
+		[b]Bloodspell[/b]
+		
+		[i]The sacrificial magic.[/i]
+
+		This book doesn’t hum. It listens.
+
+		You can feel the pulse of it, the way a wolf might feel a storm coming in its teeth. 
+		Inside are diagrams—runes drawn in the shape of veins, spells tied to rhythms of heartbeats and consequence. 
+		Every page carries a price. But it does not demand. It offers.
+
+		[i]What will you give?
+		
+		What will you keep?
+		
+		What will you burn?[/i]
+
+		You realize your hands are shaking.
+		*goto end_books
+
+	#There are no more books left
+		*goto end_books_con
+
+*label end_books_con
+You step back.
+*set magic_awakened true
+Four books. Four doors.
+
+None of them neutral.
+
+Something shifts behind you, but nothing’s there. Just your breath, tight in your chest. Your fingers ache — like they already know which one they’ll reach for.
+
+And before you think too long, before fear can lace your decision into silence—
+
+You kneel.
+
+Your hand moves.
+
+You choose.
+*choice
+	#ECHOWEAVING — Memory Magic
+		The moment you touch the cover, the book remembers you.
+
+		It doesn’t open — it unfolds, like breath expanding after too long held. 
+		The pages are soft as worn fabric, but inkless. Instead, the paper shimmers faintly, and where your fingertips graze, images rise. 
+		A hand. A river. A child's scream muffled by snow.
+
+		Then something grabs back.
+
+		A memory, not yours, slams into your chest — heat, smoke, a crumbling hallway. You’re running, barefoot on charred wood. 
+		Not your breath in your lungs, not your voice in your throat. A woman calls your name — your true one. You try to turn, to see her face—
+
+		—but the page shuts itself.
+
+		You fall backward, gasping.
+
+		The book pulses warm once. Like a heartbeat. Or a door creaking open behind your thoughts.
+
+		You’ve been marked. Not just as a reader — but as a witness.
+		*set echoweaving +10
+		*goto after_book_choice
+
+	#WHISPERBINDING — Emotion Magic
+		The book doesn't hum — it listens.
+
+		When you touch it, the air thickens like breath caught in a throat. 
+		The leather cover gives under your palm like skin, warm, too warm, like it’s feeling you back.
+
+		And the moment you open it, you weep.
+
+		No trigger. No story. Just tears, full and sudden, rising from a grief that isn’t yours — and then it is. Loneliness, clawing and wild. 
+		Joy, sharp as glass. You blink, and the room tilts — because you’re not alone.
+
+		You’re everyone. All at once.
+
+		Your chest heaves. There’s a name stuck in your mouth, but it’s not one you know.
+
+		And then—
+		A breath.
+		Not yours.
+
+		It’s gone.
+
+		The book waits quietly, its pages fluttering like heartbeats.
+
+		You know now: this isn’t a spellbook. It’s a vessel. And every spell it holds was once a feeling too big to contain.
+		*set whisperbinding +10
+		*goto after_book_choice
+
+	#SOULROOTING — Spirit Magic
+		The book is not a book.
+
+		Not exactly.
+
+		It’s bark and moss and something older than names. It doesn’t open — it unfolds, blooming gently in your lap, like a flower that’s never known fear. 
+		The spine creaks with a living sound, not unlike bone, not unlike root.
+
+		You breathe in.
+
+		Pine. Earth. Rain before it falls.
+
+		And then you hear it.
+
+		A whisper, barely sound — not from the room, not from the book. From beneath you. From the stone. 
+		From the wood in the walls. “Child of ash. Seed of silence.”
+
+		The pages aren’t written on. They grow words as you watch — curling like vines, letter by letter. A question forms.
+
+		“Do you remember what we buried?”
+
+		The lights flicker.
+
+		And behind your eyes, a forest stirs. Waiting.
+		*set soulrooting +10
+		*goto after_book_choice
+
+	#BLOODSPELL — Sacrificial Magic
+		You feel it before you touch it.
+
+		The book hungers.
+
+		It doesn’t thrum. It doesn’t whisper. It waits, the way a blade waits — silent, patient, promising pain you’ll call worth it.
+
+		When your fingers close around it, the binding bites your skin. Not hard. Just enough to bloom red.
+
+		The clasp unlatches with a wet sound. You open it.
+
+		The first page is blank… until a single drop of blood falls. Yours.
+
+		Then the words rise, written in scabbed lines and symbols that pulse faintly with heat. A scent hits you — copper and ash. Like the pyres. 
+		Like your mother’s cloak after she died.
+
+		Your heart is suddenly too loud. Something inside you leans forward — not out of fear.
+
+		Out of curiosity.
+
+		The page whispers:
+		“What will you give?”
+
+		And gods help you — you want to answer.
+		*set bloodspell +10
+		*goto after_book_choice
+
+*label after_book_choice
+The other books fall silent.
+
+Not in anger. Not in rejection. Just… stillness. Like stones sinking beneath a pond, their weight no longer yours.
+
+But the one in your hands?
+
+It breathes.
+
+Its cover, cool at first, warms against your palms as if remembering you — or deciding to. 
+The script carved along its spine isn’t etched; it’s healed, like scar tissue forming the shape of a name you almost remember. 
+When you blink, you could swear the letters shift, like veins beneath skin.
+*page_break Something stirs behind your eyes
+
+Not pain — not quite. A tug. A thread being drawn forward through your chest, soft and slow, until it catches somewhere deep in the back of your memory. 
+A moment you don’t recall until it’s already happening.
+
+You are you, and you are a child, standing barefoot in the ash-flecked snow. Fingers wrapped around your mother’s shawl. Her voice a hush in your ear:
+“Some memories are borrowed. Some are bones. The trick is learning which ones speak back.”
+
+You blink. The moment collapses like wet parchment. You're kneeling again, the book open now — though you don’t remember undoing the clasp.
+
+Inside:
+Not ink.
+Not words.
+But a memory waiting to be read.
+
+A page of mirrorlike shimmer, and when your finger hovers just close enough—
+—it jumps.
+
+Sightless, you fall inward.
+
+There’s fire. There’s screaming.
+But you’re not afraid.
+
+Not this time.
+
+Because you’ve been here before. You just don’t know when.
+Yet.
+*page_break Next
+
+The shimmer dims, but it does not vanish.
+It folds inward—curling like breath pulled through a veil—and leaves the page warm beneath your fingertips.
+
+And your birthmark aches.
+
+Not pain.
+Not even discomfort.
+But attention.
+As though the mark — that strange shape tucked along your ${birthmark}, always half-hidden and mostly ignored — is responding. 
+Not to the book. Not to the memory. But to something beneath them both.
+
+You draw your hand back.
+
+The skin above your heart glows faintly — the birthmark, alive now with soft heat. You press your palm over it, instinctive. 
+As if shielding something. As if answering something.
+*page_break It beats once
+
+Not like a heart — but like a drum. A call.
+And something calls back.
+
+The book stirs. Just slightly. The edges ripple as if wind had passed over them — though the air remains still.
+
+And then, a faint outline curls up from the open page. Not ink. Not smoke. Not quite light. A symbol you don’t know — and yet do. 
+You've traced it in dreams. You've seen it in frost, in moss on stone, in the branching of blood from a shallow wound.
+
+The mark on your skin burns in time with it.
+
+A word. Or the idea of one. Not to be spoken, but felt. You don’t need to ask what it means. You know.
+
+Because the moment you see it, a feeling roots deep behind your ribs:
+
+[i]"Kaelwen." - Called into life.[/i]
+*set knows_verryn true
+*set knows_eshael true
+
+And now, beneath that word, three more symbols unfurl slowly. [i]Waiting.[/i]
+
+[i]Reveal
+
+Bind
+
+Remember[/i]
+
+They shimmer faintly, each a different pulse.
+Each a different weight in your chest.
+
+The book does not tell you which to choose.
+It only opens the door.
+
+And the mark along your collarbone thrums, as if to say:
+[i]Some doors remember who you were before you ever knocked.[/i]
+*choice
+	#Reveal
+		It hits like light through fog — sudden, merciless, blinding. [i]"Velarish..." - To lift the veil.[/i]
+
+		The moment you touch the word, it leaps to meet you. Not a memory. Not exactly.
+		More like the gap between memories — that raw space just before you wake up and realize you were dreaming.
+
+		But this isn’t sleep. This wants you here.
+
+		The floor vanishes, and your breath with it. You aren’t falling, but the world tilts anyway, until it becomes a corridor. Stone walls. 
+		Dim firelight. Someone’s voice echoing — not yours. Not yet.
+
+		You try to move, but your body isn’t yours anymore. You’re smaller. Lighter. The weight you carry isn’t in your hands but in your chest. 
+		You reach out, as if by instinct, and the air resists you, thick as water. Then—
+
+		A door.
+
+		Wooden. Warped. You remember the pattern carved into the grain before you know what it means. 
+		A broken circle, like a sun swallowed by its own shadow. Your fingers tremble. You don’t want to open it.
+
+		You already know what’s behind.
+
+		But the door isn’t locked. And your hand is already moving.
+
+		Inside, the room is lit by a single candle, and your mother is there. 
+		Not the one who raised you — not the soft voice and rosemary-scented hair — but the real one. Bone-straight posture. 
+		Dark eyes like closed gates. Her presence makes the room feel narrower, smaller.
+
+		She’s not alone.
+
+		A figure leans close to her, draped in shadow and fur. You can’t see their face. But they speak in a voice low enough to sound like threat, or prayer.
+
+		She answers in a tongue you don’t understand — but you feel it. Not on your skin, but in your birthmark. 
+		It flares under your ${birthmark} like someone touched a hot coal to it.
+
+		You know she’s speaking about you. You know this is the night something changed. A pact. A warning. A betrayal.
+
+		You step forward — wanting to hear it, understand it — and the candle flickers.
+
+		In that moment, her eyes dart toward you.
+
+		Not toward the version of you hidden behind the memory — toward you, now, as if she sees through time, past death, into your marrow.
+
+		You don’t breathe.
+
+		Her voice slices the air.
+
+		“The hour is not upon thee; thou art unprepared. Gaze not upon that which thy soul is unfit to bear.”
+
+		The room crumples. The door splinters. You’re pulled backward like thread through a needle’s eye.
+
+		You gasp, landing on your knees. Back in the stone room. Back with the book.
+
+		The page before you has shifted — just slightly. The shimmer now forms the shape of that carved sun, broken and bleeding at the edges. 
+		You know you’ll see it again.
+		*page_break And the birthmark is still warm
+		
+		The room is still spinning. But the moment doesn’t leave you. It sits in your blood now, slow-burning like coals. 
+		You try to rise—your knees weak, your fingertips tingling—but you’re not alone.
+
+		Not in the way that matters.
+
+		The room hasn’t changed, but your place in it has. There’s a pressure now behind your eyes, a weight behind the silence. Something watching. 
+		Or remembering.
+
+		You glance at the book. The symbol—the broken sun—is gone.
+
+		In its place, your mother’s face. Drawn in ink? No. Ash. The portrait flickers, as if lit from behind by dying flame. You lean closer.
+
+		And it speaks.
+
+		But not aloud. Inside you.
+
+		“If you find this, it means they didn’t kill you. It means the fire failed.”
+
+		You freeze. Her voice is not kind, but it cracks with something worse than anger.
+
+		Fear.
+
+		“They’ll come again. But not all hunters wear swords. Some carry mirrors. Some speak like priests. Some love you.”
+
+		The image starts to darken.
+
+		“I gave you memory as a weapon. Don’t use it for comfort.”
+
+		The ash-face breaks apart. Fades.
+
+		You sit back, breath ragged. And realize: the broken sun was more than a symbol.
+
+		It was a seal. You’ve undone something. Opened a thread.
+
+		You don’t know what truth you’ve set loose—but now it knows your name.
+		*set memory_reveal true
+		*goto after_spell
+		
+	#Bind
+		It begins not with a sound, but the absence of one. Your mouth moves without your command. It remembers. It follows. [i]"Thaloréth..." - To bind.[/i]
+
+		A silence that gathers like stormclouds behind your teeth. You press your hand to the word — Bind — and the world inhales around you.
+
+		You don’t move. But the room does.
+
+		Or maybe it reveals itself, layers peeling back like bark from an old tree. 
+		The stone beneath you thrums faintly, as though remembering how to be something more. A cradle. A cage. A grave.
+
+		Then it begins.
+
+		Not sight. Not sound. But sensation. A warmth at your chest that isn’t yours. A grief that clutches your throat before you’ve even named it. 
+		You feel a pulse — faint, but certain — from the book itself.
+
+		No. Not the book.
+
+		Someone.
+
+		It’s like being watched, but not with eyes. With longing. As if you are something lost, and someone finally found you. And that someone... loved you.
+
+		You feel it too deeply to question. A mother’s hand cupping the back of your head. A whisper of lullabies soaked in smoke. 
+		A voice humming from the next room, even though the house was empty.
+
+		It’s overwhelming.
+
+		You try to pull back, but your body betrays you. Your breath hitches. You are not alone in your own skin.
+
+		And then — another thread weaves in. Not love this time, but fear. Sharp. Metallic. Older than you, deeper than the book. 
+		It coils behind the warmth like a trap set beneath soft soil. You see — feel — a promise made in blood. Not words. Just intent.
+
+		Let her live. I’ll pay the rest.
+
+		The stone shudders. The book pulses. Your chest aches like something has been fastened to your ribs.
+
+		And then — silence again.
+
+		But not empty.
+
+		You exhale. And the world feels brighter, somehow, like something sacred just passed through you and kept walking.
+
+		Your fingertips are wet.
+
+		When you look down, you expect blood.
+
+		It’s ink. Thick. Gold. Dripping from the edge of the page.
+
+		You don’t know what it means. Only that it came from you. Or from someone bound to you.
+
+		And your birthmark? It hums. Not with power.
+		*page_break With recognition
+		
+		The feeling doesn’t pass. If anything, it thickens.
+
+		You push the book away, but the tether has already been formed. 
+		You feel it in your teeth, in your ribs, in the way your heart responds to something outside yourself.
+
+		You glance toward the shadows in the corner of the room.
+
+		Nothing.
+
+		And then—
+
+		A whisper. But not like sound.
+
+		More like... weight. The pressure of someone else’s grief settling inside your chest. It’s so familiar it steals your breath.
+
+		You stand, slowly. The light doesn’t follow.
+
+		The air hums.
+
+		Something long-forgotten lingers here. The room begins to pulse, slow and deep, like a sleeping heart. 
+		Your birthmark burns—not sharp, but steady, as if answering a call you didn’t hear.
+
+		And behind you—movement.
+
+		The book closes itself. Gently. Respectfully. As if it knows what it just offered.
+
+		You reach out—not toward the book, but the silence it left behind.
+
+		And something responds.
+
+		A ripple. A warmth. You feel the shape of someone’s love, not just in emotion but memory of emotion. Their fear of losing you. 
+		Their fury at what the world would do to a child like you.
+
+		And you understand.
+
+		Someone bound their soul to your safety.
+
+		You don’t know who. Not yet.
+
+		But the bond has not frayed. It is waiting.
+		*set intention_bind true
+		*goto after_spell
+		
+	#Remember
+		You don’t touch the word. Not really.
+
+		It reaches first. [i]"Seren’vae..." - To remember.[/i]
+
+		The moment you let your breath fall still, the page pulls you down — not violently, not fast. 
+		Like snow drifting over something buried. Soft, certain, smothering.
+
+		You fall inward.
+
+		And land in quiet.
+
+		It’s not night. Not quite. The sky is blue the way bruises are blue, and the ground beneath your bare feet is cold with ash-dusted snow. 
+		You look down. Your footprints are small, unsteady.
+
+		You know this place.
+
+		You don’t know how you know, but the air smells like frozen pine and rosemary oil. Something sharp in your lungs. A memory before language.
+
+		Ahead, a path cuts through the woods. On either side, the trees lean close — not threatening, not welcoming. Just watching.
+
+		You walk.
+
+		The cold doesn’t bite. It knows you.
+
+		You try to remember how old you are. Where you were before. What your name was, back then. Nothing comes.
+
+		Except — a sound.
+
+		Small. Barely more than breath.
+
+		“Wait.”
+
+		You turn. No one is there.
+
+		But a hand reaches out from the edge of your vision — not to take, but to guide. Fingertips just brushing your wrist. You look up.
+
+		No face.
+
+		Just light.
+
+		A voice follows, and this time it lands in your bones.
+
+		“It’s time now. Don’t forget what you are.”
+
+		You blink.
+
+		You’re on the floor.
+
+		The book lies open in your lap, still shimmering, but dim now — like moonlight at the end of a dream. 
+		Your chest is tight. Your cheeks damp. You didn’t cry.
+
+		But you remember.
+
+		Not a memory, not yet.
+
+		But a feeling.
+
+		A direction.
+
+		Something inside you has started walking — and you know it won’t stop.
+
+		Not until it finds what was left behind.
+
+		And when you pull your collar back, the birthmark glows faintly — shaped not like a scar, but like a door.
+		*page_break One you just stepped through
+		
+		Even after you return, the snow clings to your senses.
+
+		You can still feel the child’s footprints. The press of cold air inside your lungs. That soft voice — Don’t forget what you are.
+
+		You whisper it aloud, just to test if it was real.
+
+		It lingers.
+
+		The shimmer on the page fades. The word is gone now. Remember. As if the act of remembering erased the instruction. But something has changed.
+
+		The stone beneath you isn’t cold anymore. You press your hand to the floor and feel...
+
+		...roots.
+
+		Not real ones. But the echo of them. As if the earth itself responded to your return. The book crackles faintly, releasing a scent—damp bark, frost, rosemary. You recognize it.
+
+		It was the last smell on your mother’s shawl.
+
+		And for a moment, your senses sharpen. You hear wind, though no window’s open. You hear wings. Birds, maybe. Or something older.
+
+		Something is calling you back.
+
+		Not to the room. Not to the past.
+
+		To the land.
+
+		There’s something buried. Not treasure. Not power.
+
+		A name.
+		*set sense_of_place true
+		*goto after_spell
+
+*label after_spell
+The room doesn’t return to silence.
+It listens.
+
+The book lies still, closed now — but the weight of it remains in your palm, as though it hasn’t finished speaking. Maybe it never will. 
+Some words stay inside you, even when they aren’t yours.
+
+You draw your hand back slowly, fingers shaking. The light around you seems a little dimmer, a little older. 
+Or maybe it’s just your eyes — widened enough now to see things you couldn’t before.
+
+Your birthmark pulses once. A quiet, aching glow beneath your skin. Not painful. Not warning. Just… there. Watching with you.
+
+The other books haven’t moved, but they don’t feel idle. They feel aware. As if they’ve seen you choose, and in doing so, have chosen not to choose you back.
+*page_break The circle is broken
+
+A low sound stirs the air — not a voice. Not words. But something else, too soft and slow to name.
+A breath. A turning. A presence behind the stone, beneath the dust.
+
+You stand.
+
+And something shifts.
+
+The wall nearest to you — where only brick and lichen had been before — flickers. For half a heartbeat, it dissolves, as if pretending not to be solid anymore. 
+You see the outline of a passage. Narrow. Hidden.
+
+Waiting.
+
+The book in your hands warms. Not with heat, but with a thrum that seems to echo beneath the skin.
+
+Something about this path was never meant for feet. It’s memory-walked. Soul-etched.
+
+But now it recognizes you.
+
+And recognition, you’re learning, is a kind of permission.
+
+You step forward. Not entirely by choice.
+
+More like… answering.
+*page_break Next
+
+You don’t feel the page closing.
+You only feel the room breathing again. Slow. Uneven. Like it’s waking up with you.
+
+There’s a smell in the air now. Dust, yes. Old paper and moth-wool. But under that—
+Ash bark. Cold water. The iron tang of something older than blood.
+
+The book sits in your lap, closed but humming, like a heartbeat beneath leather.
+It knows you.
+And something else does too.
+
+A sound.
+
+Not a growl. Not quite a voice.
+The sharp inhale before a word.
+
+You turn—and the room is not the same.
+
+The circle of books is broken. One is gone. Yours. And in its place, where the pages had rested on stone, is—
+
+Not a creature. Not exactly.
+
+It crouches in the space between being and not. Not shadow, not smoke, not beast—but it has weight, now, and shape. 
+You can feel it pressing against the skin of the world. Fur made of ink. Eyes like cracked mirror. Legs jointed wrong but graceful. 
+It blinks—and you remember a winter that never happened.
+
+It tilts its head.
+
+And waits.
+
+A flicker touches your birthmark—warm, brief, like breath on skin.
+The creature—your creature?—tilts its head the other way.
+
+You don’t speak. You [i]feel[/i].
+
+That old tug in your chest again, but softer now. Not a thread. A ribbon.
+You reach—not with your hand, but your memory.
+Something clicks.
+
+And the creature steps forward.
+
+One foot on the stone. Then two. Its body shifts, blurs. The shape is not fixed.
+Not for your eyes, not yet.
+
+But it speaks.
+
+Not with words.
+With a [i]memory[/i].
+
+Your own voice, younger than it’s ever been: [i]“Will someone stay with me?”[/i]
+And another voice, older than snow: [i]“Always, I am—wrought of that fragment of thy soul that ever yearned, and knew no stillness.”[/i]
+*set meet_familiars true
+
+*label choose_familiar
+The creature walks a slow circle around you, brushing against your shoulder, and then stops behind you. Silent. Watching.
+
+Waiting for the next call.
+*choice
+	#ASH RAT
+		You do not notice it at first. Not until the light shifts strangely near the foot of the hearth, and a shape coalesces from soot and silence. 
+		A rat, small enough to slip beneath a door, with fur like charred parchment and eyes of glinting ember-red. It watches without blinking. 
+		As if it has been watching you longer than you've been alive.
+
+		It doesn’t speak. It [i]remembers[/i]. You feel it before you understand it—a prickle behind your eyes, the taste of smoke and old rain in your throat. 
+		Somewhere in your mind, a door creaks open, spilling a memory you didn’t know you still carried. A lullaby in a language you never learned. 
+		The smell of your mother’s hands.
+
+		The ash rat scurries forward and sits beside your foot, as though it had never not been there. It does not beg affection. It is memory made flesh. 
+		And it has chosen you.
+
+		In its spirit form, the ash rat becomes indistinct, more suggestion than animal—a drifting ribbon of ember-traced shadow, slipping through cracks, 
+		whispering half-sung echoes of things lost. You might see it vanish into a broken mirror. You might hear it laughing in your dreams.
+
+		It remembers everything you forget. And not all of it belongs to you.
+		*goto before_familiar
+
+	#ARCTIC FOX
+		You almost miss it.
+
+		White upon white, still as snowfall. The only giveaway is the glint — not from its eyes, but from the silence around it. 
+		A cold too clean. A pause too precise. And then it blinks.
+
+		The Arctic Fox watches from the drift’s edge, half-vanished into frost. Its coat is not blank—it’s luminous. 
+		Hints of moon-blue, storm-gray, glacial silver move beneath the white, like veins beneath skin. 
+		Its ears flick, sharp and listening, though no sound follows. Not yet.
+
+		You take a step. It doesn’t run. It doesn’t come closer either. This is not a test of loyalty—it is a test of stillness.
+
+		The Arctic Fox does not speak, not in ways you’ll recognize at first. It offers presence, then absence. 
+		Warmth, then the reminder of what it costs. It is not wild the way fire is wild. It is wild like the wind: uncatchable, unseen until it’s already past. 
+		And yet—somehow—it’s yours.
+
+		It follows in silence. You never hear its paws. But you will feel its gaze at your back when the path goes dark. 
+		You will smell cold stone, and pine-skin, and old storm. 
+		And sometimes, in the corner of your eye, you’ll see a white shape curled small beside your bed. Guarding. Waiting. Dreaming with you.
+
+		Its spirit form is something else entirely.
+
+		Not beast, not shadow. A drifting corona of snow and spectral light, its fur breaking into flakes mid-step. It leaves no prints. 
+		Only memory. You might see its outline in the frost on glass. Or in the pause between your breath and your name.
+
+		The Arctic Fox does not tempt or tease. It [i]endures[/i].
+
+		When others rage, it watches. When others burn, it burrows. When you break, it does not speak—
+		—it lies beside the pieces and waits with you in the cold.
+
+		Until you are ready to rise.
+		*goto before_familiar
+
+	#COALCAT
+		You find her curled in the ashes of an old firepit, where no living thing should be sleeping. 
+		A black cat, sleek and small, with white-tipped paws and a single white mark beneath her eye, like the trail of an old tear.
+
+		She stretches. Yawns. Blinks slow, gold eyes. Then pads toward you with the kind of disdain only a creature ancient and uncaring can afford.
+
+		She climbs into your lap without permission. And lays her head on your chest.
+
+		The coalcat is a guardian of thresholds. She does not protect you from danger—she ensures you know when it's coming. 
+		Her purring stills fear, but her claws remain sharp. She prefers twilight and doorways, loves hiding in spaces others overlook.
+
+		When spirit-born, she elongates into something smoky, tail too long, eyes full of stars. 
+		She becomes a dream-thing, the keeper of hidden passageways and secret names.
+
+		She will not follow commands. But she will walk beside you, if she [i]deems[/i] you worthy.
+
+		And she always knows who’s watching.
+		*goto before_familiar
+
+	#MURK OWL
+		You do not see it arrive.
+
+		Only the hush it brings.
+
+		Not silence, but a heavier kind — the way sound folds when snow falls at midnight, or how a church feels just before a name is spoken aloud. 
+		The trees seem to draw back. Even your thoughts hush, involuntarily.
+
+		Then you look up. And it’s there.
+
+		Perched just above you, barely more than a shape in the dark. 
+		Its feathers are a shifting gray-black, not like smoke, but like ink poured into water — roiling, slow, uncertain. 
+		Its eyes are the opposite of flame: pale, silvery, full of unlight. Like they’ve seen too many things they wish they hadn’t. And are still watching.
+
+		The Murk Owl does not blink. It does not flinch when you move. It waits. Not as a predator — not exactly. As a witness.
+
+		When it speaks — if it ever does — the voice is not a voice. 
+		It is the creak of old wood, the sigh of wind beneath a door, the whisper of wings where none should beat. 
+		You’ll hear it in the moments between thoughts. The owl does not offer guidance. It asks questions you’d rather not answer.
+
+		You might find it perched above your bed. Or outside a window that shouldn’t open. 
+		Or standing, impossibly still, on the path ahead… where no branches reach.
+
+		In spirit form, it becomes near-formless. A knot of shadow and ghostlight. The echo of feathers brushing your shoulder. 
+		Sometimes, only the eyes remain — hovering in the dark, patient, unreadable.
+
+		The Murk Owl sees into hidden places. It knows what festers, what waits. It remembers the things you’ve buried — and not all of them were mistakes.
+
+		It is not comfort.
+		It is [i]truth[/i].
+
+		And it has chosen you not for your courage — but for your capacity to survive the knowing.
+		*goto before_familiar
+
+	#FEN ECHO
+		You first notice the scent—wet stone, moss, the iron tang of old water. Then the ripple. 
+		A shimmer at the edge of your shadow, as if the air itself had a tide. 
+		From it steps a dog, black as silted riverbeds, with paws the color of rotting leaves and eyes like lanterns lit beneath the surface.
+
+		It doesn’t bark. It arrives.
+
+		The Fen Echo watches you with a stillness that isn’t canine. It knows more than it should. Not of words, but of weight. Of sorrow. Of drowning things. 
+		When it steps forward, it does not pad—it glides, paws leaving no mark on the earth, though the ground dampens beneath them.
+
+		It sits beside you. Quiet. Steady. And suddenly, you feel [i]less alone[/i] in your grief.
+
+		The Fen Echo is drawn to pain, but not to feed on it. To anchor it. To witness it without flinching. If you cry, it does not comfort you. 
+		It simply remains, a breathing silence to hold the edge of what you cannot name.
+
+		When the veil lifts, and its spirit emerges, the Fen Echo becomes a creature of river and mist. 
+		Its body flows—sometimes with legs, sometimes without—its form constantly shifting, reforming, never fully fixed. The eyes remain. 
+		Twin moons, too distant to touch. In this form, it can speak, but rarely does. And when it does, its voice sounds like yours underwater.
+
+		The Fen Echo doesn’t obey. It follows. It mirrors. It senses what you won’t admit, and moves when your heart is ready before your mind is. 
+		Sometimes, when you sleep, it curls beside your bed. Sometimes, you wake to wet footprints and no sign of it at all.
+
+		It has been called to those who carry burdens that aren’t entirely theirs. 
+		It has walked with the grieving, the forgotten, the ones asked to be strong too long. And now, it has chosen you.
+
+		Not to lift your sorrow.
+
+		But to make sure you never drown in it.
+		*goto before_familiar
+
+	#GRAVETONGUE LIZARD
+		It’s there before you see it.
+
+		Perched on stone that shouldn’t be warm, bones tucked beneath its scaled belly, tail looped like a sigil. 
+		It doesn’t blink. Just stares. Eyes like molten metal cooling beneath thin glass, fixed on you with a gaze that knows how death settles into marrow.
+
+		The Gravetongue Lizard is small—no longer than your hand—but its presence pulls at the edges of the world. 
+		The air smells faintly of myrrh and iron, and for a moment, your heartbeat doesn’t feel like your own. It feels older. Borrowed.
+
+		When it moves, it does so deliberately. As if each motion were part of an old ritual, half-forgotten. 
+		Its tongue flickers—black, forked, too long—and you hear something behind your ear. Not a word. A name. Yours, but spoken like a question.
+
+		It climbs your shoulder uninvited. Its feet are cold and dry, but not unpleasant. 
+		It settles at your collar like a secret, tail curling near your throat. You know, somehow, that it listens to the dead. And they listen back.
+
+		The Gravetongue doesn’t protect you in any obvious way. It doesn’t fight, or frighten off. It [i]remembers[/i]. 
+		Speaks in riddles that arrive too late or too early. It curls around your wrist when someone lies. 
+		It flicks its tail against your skin when someone thinks of death. 
+		When you walk near places where the veil thins—burial grounds, ruins, places forgotten—it hums in your blood like a tuning fork struck against bone.
+
+		Its spirit form is stranger still.
+
+		When unseen, it slithers through dust and memory. Its body dissolves into smoke and fossil, a skeletal glimmer threaded with ash-light. 
+		You’ve seen it move across old gravestones without touching them. 
+		You’ve heard it sing—not music, but a vibration you feel in your teeth, a lullaby for things that have stopped breathing.
+
+		The Gravetongue Lizard is not comforting. But it is loyal. Fiercely. Once it chooses you, it will not leave. Even if you beg.
+
+		It knows where you will be buried.
+		And it has already memorized the shape of your name in stone.
+		*goto before_familiar
+
+	#BRINDLE HARE
+		You don’t see it until it runs.
+
+		A flash of motion across the field. Something low to the ground, legs tucked tight, moving with the kind of velocity that feels like memory fleeing light. 
+		By the time you register it, the hare has already stopped. Sitting. Watching.
+
+		It’s mottled, not quite brown, not quite gray. 
+		A coat like old bark and bruised cloud, streaked with pale stripes that shimmer faintly—like the suggestion of scars rather than markings. 
+		One ear stands upright; the other bends slightly at the tip, like it once listened to something it wasn’t supposed to.
+
+		It does not twitch nervously, as hares should. It waits with stillness that feels… earned. 
+		And then it approaches—not cautiously, but with the resolve of something that has already fled too many times and grown tired of it.
+
+		The Brindle Hare does not grant bravery. It reveals where it already lives [i]inside[/i] you.
+
+		When you run, it runs faster—not to escape, but to lead. When you stand, it circles you once and stops at your back. 
+		Not guarding. Just present. Like a second heartbeat. It doesn’t judge your fear. But it never pretends you don’t have it.
+
+		Its spirit form flickers at the edge of vision. Antlers sometimes grow from its brow—tine-thin and translucent as winter branches. 
+		Sometimes its paws don’t touch the ground. It leaves no tracks, only the soft pulse of wind through grass where it passed. 
+		You might glimpse it in dreams, sprinting through moonlight without shadow. Or feel it brush against your knee when there’s no one there.
+
+		The Brindle Hare doesn’t speak. But it always hears. And it always runs toward the place you won’t go alone.
+
+		It doesn’t expect you to be fearless.
+
+		Just to follow.
+		*goto before_familiar
+
+*label before_familiar
+Are you sure that this is your true companion?
+*choice
+	#Yes
+		*goto after_familiar
+	
+	#No
+		*goto choose_familiar
+
+*label after_familiar
+*if (ash_rat)
+	*goto after_ash_rat
+*if (artic_fox)
+	*goto after_artic_fox
+
+*if (coal_cat)
+	*goto after_coal_cat
+
+*if (murk_owl)
+	*after_murk_owl
+
+*if (fen_echo)
+	*goto after_fen_echo
+
+*if (gravetongue_lizard)
+	*goto after_g_liz
+
+*if (brindle_hare)
+	*goto after_b_hare
+
+*label after_ash_rat
+The hearth is cold.
+	
+Not just unlit—cold, as though something long buried still lingers in the ashes. You kneel, brushing aside soot. A whisper slips under your fingers. 
+Not sound—a feeling. Smoke. Lullabies. A memory you never lived, but grieve anyway.
+	
+And then—eyes.
+	
+Red. Small. Watching from within the soot. The rat steps forward, thin tail dragging lines through charcoal dust. It climbs onto your knee and sits.
+	
+Your breath catches.
+	
+A scent of rain on burned wood. A flash of someone’s hands—a touch you remember only in feeling, not fact. 
+The ash rat curls its tail around your wrist like a shackle. Not to bind, but to mark.
+
+It does not ask.
+	
+It simply is. And somehow, you already know it always has been.
+*page_break Next
+	
+The fire has long since died, but warmth lingers in the hearth’s stones. You sit on the floor, cross-legged, as the Ash Rat curls near the cinders, unmoving.
+
+You speak aloud—about nothing in particular. About dreams you can't remember. A street you used to walk. A name that feels like dust in your mouth.
+
+The rat lifts its head.
+
+Without a sound, it steps onto your knee, and then onto your chest. Its weight is nothing. Its heat, ancient. 
+For a breathless second, its nose touches your forehead.
+
+And then your vision [i]blurs[/i].
+
+You are not in the room anymore. You are sitting in a memory. One that isn’t yours. Or maybe it was. A lullaby echoes. Smoke curls. 
+You taste honey and ash.
+
+When you blink, you are alone again.
+
+But the Ash Rat remains, nestled in your scarf. Quiet. Unblinking. Watching.
+*goto next_animal_s
+
+*label after_artic_fox
+The snow has fallen too quietly.
+No wind. No birdcall. Just white—stretching out in all directions. You step through the drift, and for a moment, you think you’re alone. 
+Then you stop. Not because you saw it.
+
+Because it saw you.
+
+The fox is there. Already watching. Already waiting. Its fur gleams—pearled with stormlight and secrets. Its eyes are glacial, unreadable. 
+Not cold in cruelty—cold in endurance.
+
+You move. It doesn’t.
+
+The silence between you deepens, then shifts. Something unspoken passes. You don’t know what you offered. But it was enough.
+
+The Arctic Fox turns. Begins to walk. And though its feet leave no prints, you follow.
+*page_break Next
+	
+Night falls colder than expected. You curl into your cloak beneath a pine tree, hands numbed to stillness.
+
+Then—movement.
+
+The Arctic Fox doesn’t approach. It circles you slowly, barely making a sound over snow. You close your eyes.
+
+And stillness becomes something else.
+
+You begin to breathe with the cold instead of against it. Your heartbeat slows. You hear your pulse in the silence like a soft drum.
+
+Then, warmth.
+
+When you open your eyes, the fox is curled against your side. Fur against fur. Bone against bone.
+
+You do not speak.
+
+But you understand: it chose you because you knew how to listen to the hush inside yourself.
+*goto next_animal_s
+	
+*label after_coal_cat
+You return to the ruined firepit without meaning to.
+
+Twilight hangs heavy. Shadows stretch. You expect emptiness. Instead, there’s warmth—small, purring, alive. 
+A cat lies coiled in the ash, blinking slowly, gold eyes catching light that isn’t there.
+
+She yawns. Pads forward.
+
+With no hesitation, she climbs into your lap and places her head against your chest. You freeze—but not out of fear. Out of recognition.
+
+She purrs. And in that sound, something else purrs back—inside you. Old doors creak. Names long hidden shift like dust. You were not waiting for her.
+
+But she was always waiting for you.
+*page_break Next
+
+You light a candle. Not for warmth, but company.
+
+The Coalcat appears without warning, as she always does—slinking from shadow with an arched back and flicking tail.
+
+She watches you with disdain, then climbs into your lap as though offended by the wait.
+
+You reach to pet her—and she bats your hand away. Hisses once. But then presses her forehead to your chest.
+
+You don’t know why—but your heartbeat stutters. You feel seen in a way no eye ever sees.
+
+Later, you find claw marks on your dream. You swear she was there, pacing the edges of a corridor your mind forgot.
+
+And in the morning, she sleeps beside you.
+*goto next_animal_s
+
+*label after_murk_owl
+You stand at the forest’s edge, heart pounding too loud.
+
+Then—silence.
+
+A pressure in your chest. Not fear. Stillness. You look up. The sky has thickened with dusk. And above you, a shape unfolds from shadow. Silent wings. 
+Ink-poured feathers.
+
+The owl lands on a branch just above you. It watches.
+
+A question hangs between you—not spoken. Not even known. Your name, perhaps. Or what it will mean from now on. The Murk Owl tilts its head. It does not blink.
+
+Then—without sound—it glides to you.
+
+You feel no talons. Only [i]shadow[/i]. Only weight. It settles on your shoulder.
+
+And suddenly, the silence is yours too.
+*page_break Next
+
+You wake in the middle of the night, unsure why.
+
+The Murk Owl is perched above you, on a branch that wasn't there when you slept. Its head tilts.
+
+You try to speak. Nothing comes.
+
+Instead, it spreads its wings. Soundless. You follow.
+
+Through forest. Fog. Unseen paths.
+
+Eventually, you arrive at a still pond. The owl lands at the edge. You kneel, compelled.
+
+Your reflection isn’t your face. It’s the face you wear in fear. In anger. In shame.
+
+You meet its gaze through the water.
+
+The owl hoots—low, resonant, like breath through bone.
+
+And then the face changes. To one of quiet strength.
+
+You look up.
+
+The owl is gone. But a single feather lies on your shoulder, where your doubt used to be.
+*goto next_animal_s
+	
+*label after_fen_echo
+The mist clings to your boots.
+
+You’ve walked farther than you should’ve. Into the marsh. Into the forgetting. The air tastes like wet stone and old stories. 
+And then, just at the edge of your shadow—a ripple.
+
+A dog-shaped shadow rises from the fog.
+
+Eyes like drowned lanterns. Fur like river-silt and moss. It does not growl. It does not pant. 
+It simply comes forward, pawsteps leaving damp impressions that vanish the moment you look.
+
+It sits beside you.
+
+You don’t speak. You don’t move.
+
+Then, without touching, the sorrow in you shifts. Eases. The Fen Echo remains, unmoving. Guarding your silence. Mirroring your grief.
+
+It has chosen you.
+
+Not because you called.
+
+Because it heard what you didn’t say.
+*page_break Next
+
+The bog breathes.
+
+Mists coil like ribbon through reeds as the Fen Echo moves ahead of you, silent as dusk. You follow it not because you understand—but because you can't not.
+
+It leads you to a still pool. Black water. Moonless sky.
+
+You kneel.
+
+It sits beside you.
+
+You stare into the water—and your reflection begins to speak. Not aloud. Not in language. But in feeling.
+
+The sorrow you’ve carried. The one you keep folded small in your chest—it rises. Thick as mud. Wet as grief.
+
+The dog leans against you.
+
+Not to comfort. But to endure it with you.
+
+And in that endurance, the ache lessens. Just a little.
+
+When you stand, the Fen Echo is beside you.
+
+You are not healed. But you are not alone.
+*goto next_animal_s
+	
+*label after_g_liz
+The grave wasn’t marked.
+
+Just stone and dust. And something pulsing under it. You reach toward it. Not the stone—the feeling. And then, beneath your fingers, something moves.
+
+A flicker. A breath. A lizard, dark as ash and old blood, climbs atop the stone.
+
+Its eyes meet yours. Bright and old.
+
+It slithers to your shoulder, feet dry and cold. And stays. You hear something in your ear—your name, but not yours. 
+The way it might sound on someone else’s tongue. Someone who knew you once. Or will.
+
+The Gravetongue presses its tail against your throat.
+
+And in that pressure, a [i]vow[/i] is made.
+*page_break Next
+
+You sit by an ancient grave no one tends.
+
+The Gravetongue Lizard crawls from your shoulder and coils on the stone. Its tongue flickers once.
+
+And then you hear the dead.
+
+Not voices. Not clearly.
+
+Feelings. Regrets. Warnings. Love, lost and still echoing.
+
+The lizard’s body pulses with pale glow as if drawing breath from forgotten names.
+
+It slithers back onto your hand. Wraps itself like a bracelet around your wrist.
+
+In your veins, a chill. But also clarity.
+
+From now on, in places of death and silence, you will not be deaf.
+
+The lizard ensures that even the forgotten will have a voice—through you.
+*goto next_animal_s
+
+*label after_b_hare
+You see it out of the corner of your eye.
+
+A flash of brindled fur. Dappled legs. Ears tipped like brushstrokes. The hare moves like thought—there, gone, almost imagined. 
+You chase it—not with force, but curiosity.
+
+It pauses.
+
+Looks back. And runs.
+
+But never too far. Never where you can’t follow. Over roots. Through brambles. Through places you didn’t know you could fit.
+
+Until suddenly—it stops.
+
+Sits.
+
+And [i]waits[/i].
+
+When you step closer, it does not flee. It simply tilts its head, nose twitching, as though approving your pace. Not because you were fastest.
+
+Because you were true.
+
+The Brindle Hare doesn’t hop away again. It stays.
+*page_break Next 
+
+You chase it at first.
+
+The hare darts through tall grass and moonlight, flashing between shadows like a falling star.
+
+You try to follow. But you fall. You bleed. You laugh.
+
+It returns.
+
+Without judgment, it noses your wound. Then sits beside you.
+
+You both look up at the stars.
+
+The hare twitches once. Then—leaps through the sky.
+
+A trail of glowing marks lingers in the air where it bounded.
+
+You blink. It’s in your lap.
+
+You realize then—it wasn’t about the chase.
+
+It was about knowing when to stop running.
+
+It was always running with you.
+*goto next_animal_s
+
+*label next_animal_s
+*page_break You don’t remember falling asleep
+
+There was a fire. The hush of your familiar’s breathing. The faint scent of pine, or ash, or salt—
+
+But then...
+
+A sky that isn’t a sky.
+
+It arches above you like a shell of cracked porcelain, veined with gold and humming with something just below sound. Stars hang too close. One of them blinks.
+
+You’re standing. Alone. Or no—your familiar is here too, though not as it was. Larger, maybe. Or older. 
+Its eyes are the same, but deeper, as if they’ve seen this place before.
+
+The world around you shimmers with wrongness. Trees that grow in loops. A staircase that curls into the air, leading nowhere. 
+The ground pulses underfoot like breath. Or blood.
+
+You try to speak, but your voice comes out as frost. It falls from your lips and shatters.
+
+Then—they appear.
+
+Two figures, opposite each other, across a mirror-flat stretch of water that wasn’t there a moment ago. They don’t walk toward you. They unfold into place.
+
+One is robed in shadow and root, a [i]crown of something broken[/i] coiled in their hair. Their face is featureless. 
+Their voice comes from the air behind your head:
+
+[i]“The crossing bids farewell to one—choose not, for choice is vain.”[/i]
+
+The other is firelight and thorn, smiling without teeth. They lean forward from their side of the water, and speak into your bones:
+
+[i]“Yet one of you hath already fallen.”[/i]
+
+You don’t understand. You feel it more than hear it. Like a dream you forgot and then remembered too late.
+
+Your familiar growls—or is it singing?
+*page_break You look down
+
+Your reflection is missing.
+
+And in its place — two figures.
+
+Both you. But wrong.
+
+The first stands too still. Its head turns, slowly, but its face is smooth where eyes should be—only skin, stretched tight like paper over an empty frame. 
+It tilts its head, as if listening.
+
+The second wears your face too well. Your exact smile, but wider. Held too long. It shows too many teeth. It doesn't blink.
+
+You stagger back. The water at your feet shivers, dark as oil. The two versions of you do not follow.
+
+But they do not vanish.
+
+They simply wait.
+
+They are watching.
+
+Even the eyeless one.
+[i]Especially[/i] the eyeless one.
+
+And suddenly, you have the distinct, sourceless feeling—
+that one of them is not trapped in the reflection at all.
+That it is standing somewhere just behind you.
+
+Breathing your breath.
+*page_break Next
+
+The silence is broken by the robed figure.
+
+[i]“It was not thine to choose the path ahead,
+But what within thee must be cast and shed.”[/i]
+
+[i]“Or whom to be,”[/i] the one with a toothless smile replies.
+
+Suddenly, the sky cracks. Hairline fissures race across the heavens.
+
+And as they splinter, light floods the dreamworld like blood from a wound—
+
+The figures vanish.
+The water boils.
+The voice returns, but closer now—right behind your ear:
+
+[b]"Found you."[/b]
+*page_break The End... For Now...
+
+[i]That’s all for now.[/i]
+
+The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
+and pulling threads that will take you further into Ashwood and everything it hides.
+
+If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
+Your feedback means the world and helps shape where the path leads next!
+
+Thank you for playing.
+Thank you for reading.
+And thank you for walking with me into the dark.
+
+Until soon.
+
+[i]Your Audrine[/i]
