@@ -37,24 +37,28 @@ What is your gender?
 	#Female
 		*set gender "female"
 		*set person_word "woman"
+		*set female true
 		You are female, a young woman of striking beauty and strength, but with a mystery lingering in her eyes.
 		*goto female_name
 
 	#Male
 		*set gender "male"
 		*set person_word "man"
+		*set male true
 		You are male, a young man marked by quiet strength and sharp features, with a storm of questions hidden behind his eyes.
 		*goto male_name
 
 	#Non-binary
 		*set gender "non-binary"
 		*set person_word "person"
+		*set el_pr true
 		You are non-binary, embracing an identity that exists beyond the conventional. Your strength is not defined by gender.
 		*goto nb_name
 
 	#Custom
 		*set gender "custom"
 		*set person_word "person"
+		*set el_pr true
 		What is your gender identity? 
 		*input_text gender
 		Your gender identity is ${gender}. It’s something unique to you.

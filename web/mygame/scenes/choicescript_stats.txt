@@ -168,6 +168,9 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 	*if (meet_familiars)
 		#Familiars and Their Choosing
 			*goto familiars_diary
+	*if (magic_awakened)
+		#Magic
+			*goto magic_types
 
 
 *label relationship_stats
@@ -284,3 +287,99 @@ But I record what I know:
 	It ran when I approached. But not far. Just enough to show me the path I didn’t know I feared.
 	There’s bravery in it—quiet, instinctive. Not the kind that fights. The kind that moves. That lives. That doesn’t wait for permission.
 	It reminds me that running can be holy too.
+
+*label magic_types
+[b]Echoweaving[/b]
+[i]“The past never vanishes. It sings beneath your skin.”[/i]
+
+[i]Nature:[/i]
+Echoweaving is the magic of memory, resonance, and inherited truth. Echoweavers listen to the echoes that linger in places, people, and even bloodlines. 
+They don’t simply recall what was — they can pull it forward, weave it into the present, alter its thread. Time, for them, is not linear. It hums in layers.
+
+[i]Abilities:[/i]
+
+Reading echoes from objects or spaces (memories imprinted on matter)
+
+Reconstructing past events in dreamlike clarity
+
+Altering how memories are perceived or passed on
+
+Speaking to ancestral echoes — fragments of voices long gone
+
+[i]Cost/Drawback:[/i]
+Truth becomes slippery. The more you echo, the more you risk losing your own voice. Some Echoweavers forget what memories are theirs.
+
+[i]Aesthetic:[/]
+Veins of silver light, flickering visions like threads in air, voices overlapping like whispered song.
+
+[b]Whisperbinding[/b]
+“Words have weight. Names hold power. Promises bind.”
+
+[i]Nature:[/i]
+Whisperbinding is the magic of language, names, and control. 
+Whisperbinders understand that every being, every truth, has a secret name — and to speak it is to claim it. 
+They can unravel enchantments, twist intentions, silence lies, or tie their voice into a person’s very breath.
+
+[i]Abilities:[/i]
+
+Binding creatures or people through spoken oaths
+
+Silencing enchantments or incantations
+
+Discerning true names or hidden meanings
+
+Commanding, banishing, or sealing through precise language
+
+[i]Cost/Drawback:[/i]
+If a Whisperbinder breaks a vow, their voice may fracture — temporarily or permanently. Too much use, and the throat burns with the weight of stolen speech.
+
+[i]Aesthetic:[/i]
+Threads of ink suspended in the air, whispers that reshape space, sound rippling like heat.
+
+[b]Soulrooting[/b]
+“The soul is a seed. The body, the soil. What grows from it — that is your truth.”
+
+[i]Nature:[/i]
+Soulrooting is the most intimate form of magic — one that delves into life itself. 
+It is the magic of connection, empathy, and inner truths. A Soulrooter touches not just the body, but the essence beneath it. 
+They heal, bind, sever, or nurture from the soul outward.
+
+[i]Abilities:[/i]
+
+Deep healing — not just of wounds, but of traumas and spiritual scars
+
+Entering or sharing dream-planes and internal landscapes
+
+Severing soul-ties or curses rooted in spirit
+
+Strengthening bonds — between people, between magic, between selves
+
+[i]Cost/Drawback:[/i]
+To root too deeply is to take on the burden of others. Soulrooters can lose themselves in someone else’s pain. If their own soul is unstable, the magic turns wild.
+
+[i]Aesthetic:[/i]
+Green-gold light beneath the skin, like veins glowing with memory. A scent of loam, blood, or rain. Dreamlike stillness when the magic moves.
+
+[b]Bloodspell[/b]
+“Power costs. Yours is written in your veins.”
+
+[i]Nature:[/i]
+Bloodspell is raw, primal, and dangerous — the magic of sacrifice, will, and unflinching truth. 
+Bloodspellcasters draw power from their own life force (or another’s), shaping it into potent spells. 
+It’s not evil by nature, but feared — because it does not lie.
+
+[i]Abilities:[/i]
+
+Ritual magic involving blood, bone, or pain
+
+Summoning, cursing, or defending with visceral force
+
+Bargaining with spirits or forgotten gods through sacrifice
+
+Drawing strength from wounds or turning harm into fuel
+
+[i]Cost/Drawback:[/i]
+It always takes something. A drop of life. A piece of self. Bloodspell leaves marks — scars that may never heal, voices that linger long after.
+
+[i]Aesthetic:[/i]
+Dark crimson sigils that burn on the skin, glimmering patterns in air or ash. The smell of iron, old stone, and something older still.

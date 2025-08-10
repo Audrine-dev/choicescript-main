@@ -773,11 +773,11 @@ The Church.
 
 Your breath catches.
 
-They ride through Ashwood like a blade cutting clean through cloth. Six wear the crimson and bone of the Church—the Light of Valtessa. 
+They ride through Ashwood like a blade cutting clean through cloth. Six wear the crimson and bone of the Church—[i]the Light of Valtessa[/i]. 
 Towering, masked, unflinching. Their armor gleams, but it’s the masks that freeze you. Blank bone. No faces. [i]No mercy[/i].
 
 The other four are marked by the Crown: royal sigils, leaner builds, no masks—only worn leather and weapons that have seen real use. 
-Their leather is worn but sturdy, their movements cautious, as if balancing between loyalty and restraint. Their presence is quieter. Watching. Measuring.
+Their leather is worn but sturdy, their movements cautious, as if balancing between loyalty and restraint. Their presence is quieter. Watching. [i]Measuring.[/i]
 
 No one speaks.
 
@@ -1597,3 +1597,5 @@ That if I was careful, if I stayed quiet long enough, the storm would pass.”
 She looks up at you.
 
 [i]“But the storm is here. And it knows your name.”[/i]
+*page_break Next Chapter
+*goto_scene chapter6

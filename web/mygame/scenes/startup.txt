@@ -8,6 +8,7 @@
   chapter4
   chapter5
   chapter6
+  chapter7
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -91,6 +92,11 @@
 *create meet_familiars false
 *create knows_eshael false
 *create knows_verryn false
+*create male false
+*create female false
+*create el_pr false
+*create familiar_an ""
+*create magic_type ""
 
 *label prologue
 

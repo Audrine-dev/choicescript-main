@@ -280,7 +280,8 @@ You’re close.
 		“Where is he now?” you ask, voice barely more than a whisper.
 
 		Your mother’s gaze shifts away, a shadow passing over her features.
-		“He never returned from the war. Officially, they say he’s missing—lost in a battle that claimed many. But sometimes, I wonder if he’s still out there somewhere, trapped in a fight that never ends.”
+		“He never returned from the war. Officially, they say he’s missing—lost in a battle that claimed many. But sometimes, 
+		I wonder if he’s still out there somewhere, trapped in a fight that never ends.”
 
 		She pulls her cloak tighter around her shoulders, eyes reflecting the flicker of the flame.
 		“Whatever fate holds for him, you carry a piece of both their hearts. And that’s why you must be ready.”
@@ -319,7 +320,7 @@ She turns to you, eyes steady and fierce.
 “The Church will come again. They always do. But you… you’re beginning to awaken. And with awakening comes choice.”
 
 Her voice lowers to a whisper, yet it carries weight beyond the cavern’s walls:
-“They’ll say your mother was wicked. That she called on shadows. But what she called was a choice. And what she gave… was you.”
+“They’ll say your mother was wicked. That she called on shadows. But what she called was a choice. And what she gave… [i]was you[/i].”
 
 The silence that follows is heavy, filled with the echoes of lives lost and futures yet to be forged.
 *page_break Next
@@ -340,7 +341,8 @@ You don’t speak — not yet. The air is too thick with things unsaid.
 She doesn’t look at you — just stares into the water like it might hold something she’s lost.
 
 “I was a midwife. I helped people. That was all I knew. Until the night she came to me — bleeding, barely able to stand, carrying you wrapped in a cloak.”
-Her voice catches. “She didn’t beg. She didn’t cry. She just looked me in the eye and said, ‘Keep her safe. Hide her where even the fire can’t find her.’”
+Her voice catches. “She didn’t beg. She didn’t cry. She just looked me in the eye and said, ‘Keep ${possessive_pronouns} safe. 
+Hide ${possessive_pronouns} where even the fire can’t find ${possessive_pronouns}.’”
 
 You can feel your own heartbeat now — louder than before.
 *page_break Next
@@ -351,7 +353,7 @@ Her voice trembles, then steadies. “Not because I understood your blood, or he
 
 She steps aside and gestures to the stone table. The cloth bundle lies waiting. The pendant. The knife. The letter.
 
-“She left these here, in this place. This sanctuary belonged to women like her. Witches, maybe. Maybe more than that. 
+“She left these here, in this place. This sanctuary belonged to women like her. [i]Witches, maybe.[/i] Maybe more than that. 
 I’ve never dared to touch the language in her books — it’s like it’s alive.”
 
 Her gaze sharpens. “But you’re starting to feel it, aren’t you?”
@@ -373,8 +375,8 @@ Dust and silence have claimed this place, and her presence feels like an apology
 
 She stops at the center — where the pool reflects the impossible sliver of moonlight above. Her voice is steady, but her hands tremble.
 
-“She called it Kireth’nal,” she murmurs. 
-“Said it meant… ‘the last breath that remembers.’ That’s where we are. Where she came, when there was nowhere left to run.”
+“She called it [i]Kireth’nal[/i],” she murmurs. 
+“Said it meant… [i]‘the last breath that remembers.’[/i] That’s where we are. Where she came, when there was nowhere left to run.”
 
 She kneels and pulls open the cloth bundle — the one you carried here.
 
@@ -412,6 +414,8 @@ You press the fabric to your chest. You can feel the other language now — humm
 Her gaze is full of a grief she’s never spoken.
 
 “I couldn’t teach you. But I kept the door open. I kept the breath warm.”
+*set knows_eshael true
+*set knows_verryn true
 *page_break Next
 
 The stone table is worn with time and rain, its surface soft with moss at the edges. 
@@ -717,6 +721,7 @@ You choose.
 
 		You’ve been marked. Not just as a reader — but as a witness.
 		*set echoweaving +10
+		*set magic_type "echoeaving"
 		*goto after_book_choice
 
 	#WHISPERBINDING — Emotion Magic
@@ -744,6 +749,7 @@ You choose.
 
 		You know now: this isn’t a spellbook. It’s a vessel. And every spell it holds was once a feeling too big to contain.
 		*set whisperbinding +10
+		*set magic_type "whisperbinding"
 		*goto after_book_choice
 
 	#SOULROOTING — Spirit Magic
@@ -771,6 +777,7 @@ You choose.
 
 		And behind your eyes, a forest stirs. Waiting.
 		*set soulrooting +10
+		*set magic_type "soulrooting"
 		*goto after_book_choice
 
 	#BLOODSPELL — Sacrificial Magic
@@ -798,6 +805,7 @@ You choose.
 
 		And gods help you — you want to answer.
 		*set bloodspell +10
+		*set magic_type "bloodspell"
 		*goto after_book_choice
 
 *label after_book_choice
@@ -873,8 +881,6 @@ A word. Or the idea of one. Not to be spoken, but felt. You don’t need to ask 
 Because the moment you see it, a feeling roots deep behind your ribs:
 
 [i]"Kaelwen." - Called into life.[/i]
-*set knows_verryn true
-*set knows_eshael true
 
 And now, beneath that word, three more symbols unfurl slowly. [i]Waiting.[/i]
 
@@ -1294,7 +1300,7 @@ Waiting for the next call.
 		whispering half-sung echoes of things lost. You might see it vanish into a broken mirror. You might hear it laughing in your dreams.
 
 		It remembers everything you forget. And not all of it belongs to you.
-		*goto before_familiar
+		*goto choose_familiar
 
 	#ARCTIC FOX
 		You almost miss it.
@@ -1327,7 +1333,7 @@ Waiting for the next call.
 		—it lies beside the pieces and waits with you in the cold.
 
 		Until you are ready to rise.
-		*goto before_familiar
+		*goto choose_familiar
 
 	#COALCAT
 		You find her curled in the ashes of an old firepit, where no living thing should be sleeping. 
@@ -1346,8 +1352,7 @@ Waiting for the next call.
 		She will not follow commands. But she will walk beside you, if she [i]deems[/i] you worthy.
 
 		And she always knows who’s watching.
-		*goto before_familiar
-
+		*goto choose_familiar
 	#MURK OWL
 		You do not see it arrive.
 
@@ -1380,7 +1385,7 @@ Waiting for the next call.
 		It is [i]truth[/i].
 
 		And it has chosen you not for your courage — but for your capacity to survive the knowing.
-		*goto before_familiar
+		*goto choose_familiar
 
 	#FEN ECHO
 		You first notice the scent—wet stone, moss, the iron tang of old water. Then the ripple. 
@@ -1410,7 +1415,7 @@ Waiting for the next call.
 		Not to lift your sorrow.
 
 		But to make sure you never drown in it.
-		*goto before_familiar
+		*goto choose_familiar
 
 	#GRAVETONGUE LIZARD
 		It’s there before you see it.
@@ -1442,7 +1447,7 @@ Waiting for the next call.
 
 		It knows where you will be buried.
 		And it has already memorized the shape of your name in stone.
-		*goto before_familiar
+		*goto choose_familiar
 
 	#BRINDLE HARE
 		You don’t see it until it runs.
@@ -1471,36 +1476,55 @@ Waiting for the next call.
 		It doesn’t expect you to be fearless.
 
 		Just to follow.
+		*goto choose_familiar
+	
+	#You already know which of these is your companion
 		*goto before_familiar
 
 *label before_familiar
 Are you sure that this is your true companion?
 *choice
-	#Yes
+	#ASH RAT
+		*set familiar_an "ash_rat"
 		*goto after_familiar
-	
-	#No
-		*goto choose_familiar
+
+	#ARCTIC FOX
+		*set familiar_an "artic_fox"
+		*goto after_familiar
+
+	#COALCAT
+		*set familiar_an "coal_cat"
+		*goto after_familiar
+	#MURK OWL
+		*set familiar_an "murk_owl"
+		*goto after_familiar
+
+	#FEN ECHO
+		*set familiar_an "fen_echo"
+		*goto after_familiar
+
+	#GRAVETONGUE LIZARD
+		*set familiar_an "gravetongue_lizard"
+		*goto after_familiar
+
+	#BRINDLE HARE
+		*set familiar_an "brindle_hare"
+		*goto after_familiar
 
 *label after_familiar
-*if (ash_rat)
+*if (familiar_an = "ash_rat")
 	*goto after_ash_rat
-*if (artic_fox)
+*if (familiar_an = "artic_fox")
 	*goto after_artic_fox
-
-*if (coal_cat)
+*if (familiar_an = "coal_cat")
 	*goto after_coal_cat
-
-*if (murk_owl)
-	*after_murk_owl
-
-*if (fen_echo)
+*if (familiar_an = "murk_owl")
+	*goto after_murk_owl
+*if (familiar_an = "fen_echo")
 	*goto after_fen_echo
-
-*if (gravetongue_lizard)
+*if (familiar_an = "gravetongue_lizard")
 	*goto after_g_liz
-
-*if (brindle_hare)
+*if (familiar_an = "brindle_hare")
 	*goto after_b_hare
 
 *label after_ash_rat
@@ -1521,8 +1545,7 @@ The ash rat curls its tail around your wrist like a shackle. Not to bind, but to
 It does not ask.
 	
 It simply is. And somehow, you already know it always has been.
-*page_break Next
-	
+
 The fire has long since died, but warmth lingers in the hearth’s stones. You sit on the floor, cross-legged, as the Ash Rat curls near the cinders, unmoving.
 
 You speak aloud—about nothing in particular. About dreams you can't remember. A street you used to walk. A name that feels like dust in your mouth.
@@ -1871,20 +1894,5 @@ The water boils.
 The voice returns, but closer now—right behind your ear:
 
 [b]"Found you."[/b]
-*page_break The End... For Now...
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*page_break Next Chapter
+*goto_scene chapter7
