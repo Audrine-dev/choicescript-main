@@ -128,7 +128,7 @@ Neither choice is lesser. Neither choice is wrong.
 But once you step forward, the world will remember.
 *choice
 	#I want to read from the beginning!
-		*prologue
+		*goto prologue
 
 	#Give me the shortcut!
 		*goto premade_characters
