@@ -1516,11 +1516,17 @@ And ripping it out.
 
 		You don’t flinch, although you can [i]feel[/i] it.
 
-		The spell spirals outward, curling around her ribs, threading through the places where pain has made its home. 
-		You give it form — a whisper, a vow, a shield.
+		Dark crimson sigils bloom across your skin, curling like brands that glow for a heartbeat before unraveling into ash. 
+		From them, moths unfurl — fragile, trembling things with wings traced in veins of scarlet light. 
+		They drift between you, weightless, leaving trails of dust that glitter like embers before fading.
 
 		Your blood hums with it: Shaevren, [i]Shaevren[/i], [b]Shaevren![/b] In sacred contexts, [i]Shaevren[/i] doesn’t just mean "live" — it’s closer to 
 		[i]“to live as intended by Venora”[/i], with spiritual alignment. And you can feel it. Venora's will flowing through you. Saving. Healing. [i]Taking.[/i]
+		
+		You don’t flinch. You cannot.
+
+		The moths circle lower, threading into her ribs, carrying the blood’s whisper where pain has made its nest. 
+		You feel the spell coil through her, not tearing, not soothing — reshaping. A vow, red as flame. A shield, bound in flesh.
 
 		And Alin shudders. Her eyes flutter open — just a second, just enough.
 
@@ -1649,20 +1655,5 @@ And somewhere, in the tangled depths of shadow and silence, ${elden_pron} [i]swe
 Not while ${elden_pron} still draws breath.
 
 A soft wind stirs, carrying whispers through the trees. [i]The hunt[/i] is coming. But so is [i]the reckoning[/i].
-*page_break The End... For Now...
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*page_break Next Chapter
+*goto_scene chapter8

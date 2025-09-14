@@ -1,14 +1,16 @@
 *title The Last Witch: Shadows of the Ashwood Trials
 *author Audrine
 *scene_list
-  startup
-  chapter1
-  chapter2
-  chapter3
-  chapter4
-  chapter5
-  chapter6
-  chapter7
+	startup
+	chapter0
+	chapter1
+	chapter2
+	chapter3
+	chapter4
+	chapter5
+	chapter6
+	chapter7
+	chapter8
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -31,7 +33,6 @@
 *create met_draegan false
 *create met_sol false
 *create met_cass false
-*create met_nyric false
 *create met_kai false
 *create met_lysandra false
 *create met_elden false
@@ -56,6 +57,7 @@
 *create sol_big_pronpp ""
 *create sol_pronpp ""
 *create sol_worm ""
+*create sol_him ""
 *create elden_pron ""
 *create elden_big_pron ""
 *create elden_pronp ""
@@ -97,9 +99,436 @@
 *create el_pr false
 *create familiar_an ""
 *create magic_type ""
+*create seen_trial false
+*create inside_knowledge false
+*create safe_and_unseen false
+*create true_purpose_of_the_trial false
+*create twisted_whispers false
+*create venora_saved_tomas false
+*create you_owe_Elden false
+*create Tomas_is_dead false
+*create Tomas_is_alive false
+
+*label introduction
+[b]Introduction[/b]
+
+The lantern burns low. Its flame is steady, but shadows cling to the edges of stone, deep and unyielding. 
+A story waits here, written in blood and bone, in whispers and fire. A story that belongs to you.
+
+You may walk its path from the very beginning—slow steps into darkness, choices shaping the marrow of who you are.
+Or… you may step forward, into the newest chapter, with a past already carved behind you. A name, a history, a heart still your own, but carried to this moment by hands unseen.
+
+Both paths are yours. Both are true.
+
+If you choose to begin at the start, the world will open like a wound, fresh and raw, waiting for every decision you make.
+If you choose the shortcut—if you take up the mantle of a life already lived—you may stand where the story now burns brightest, unburdened by the steps that led here.
+
+Neither choice is lesser. Neither choice is wrong.
+
+But once you step forward, the world will remember.
+*choice
+	#I want to read from the beginning!
+		*prologue
+
+	#Give me the shortcut!
+		*goto premade_characters
+
+	#Give me a look at the Tumblr!
+		*goto ashwood_socials
+
+*label ashwood_socials
+You stand at the threshold.
+The tale before you is long, winding, and unafraid of shadow.
+Some will walk it step by step, bleeding with every choice.
+Others may wish to leap forward, to wake in the newest chapter, already marked by a past not of their own making.
+
+Both paths are open.
+
+If you would begin at the beginning — turn the page. The world will meet you with fire and silence alike.
+
+If you would wake later, stepping into the story already written in blood, a ready-made vessel waits for you.
+The details lie beyond this page, in the quiet archive kept elsewhere:
+
+*link https://www.tumblr.com/thelastwitchif?source=share/ Ahswood
+*choice
+	#I want to read from the beginning!
+		*prologue
+		
+	#Give me the shortcut!
+		*goto premade_characters
+
+*label premade_characters
+You may choose from one of the following premade characters and jump straight to the newest chapter:
+*choice
+	#Selene, the sympathetic echoweaver (female)  
+		*set name "Selene"
+		*set gender "female"
+		*set person_word "woman"
+		*set female true
+		*set hair_color "black"
+		*set hair_length "long"
+		*set hair_structure "wavy"
+		*set eye_color "blue"
+		*set height "tall"
+		*set pronouns "she"
+		*set possessive_pronouns "her"
+		*set capital_pronouns "She"
+		*set capital_possessive_pronouns "Her"
+		*set appearance "worn clothes"
+		*set birthmark "neck"
+		*set posture "with a purpose"
+		*set echoweaving 20
+		*set whisperbinding 0
+		*set soulrooting 0
+		*set bloodspell 0
+		*set willpower 2
+		*set empathy 5
+		*set veilsense 1
+		*set stoneveil 3
+		*set magic_awakened true
+		*set mother_rel 50
+		*set father_rel 50
+		*set sol_rel 50
+		*set lysandra_rel 50
+		*set elden_rel 50
+		*set kai_rel 50
+		*set cass_rel 50
+		*set draegan_rel 0
+		*set met_draegan false
+		*set met_sol true
+		*set met_cass true
+		*set met_kai true
+		*set met_lysandra true
+		*set met_elden true
+		*goto ashwood_ro
+
+	#Maris, the strong-willed whisperbinder (female)  
+		*set name "Maris"
+		*set gender "female"
+		*set person_word "woman"
+		*set female true
+		*set hair_color "blonde"
+		*set hair_length "short"
+		*set hair_structure "straight"
+		*set eye_color "blue"
+		*set height "short"
+		*set pronouns "she"
+		*set possessive_pronouns "her"
+		*set capital_pronouns "She"
+		*set capital_possessive_pronouns "Her"
+		*set appearance "worn clothes"
+		*set birthmark "neck"
+		*set posture "with a purpose"
+		*set echoweaving 0
+		*set whisperbinding 20
+		*set soulrooting 0
+		*set bloodspell 0
+		*set willpower 5
+		*set empathy 2
+		*set veilsense 1
+		*set stoneveil 3
+		*set magic_awakened true
+		*set mother_rel 50
+		*set father_rel 50
+		*set sol_rel 50
+		*set lysandra_rel 50
+		*set elden_rel 50
+		*set kai_rel 50
+		*set cass_rel 50
+		*set draegan_rel 0
+		*set met_draegan false
+		*set met_sol true
+		*set met_cass true
+		*set met_kai true
+		*set met_lysandra true
+		*set met_elden true
+		*goto ashwood_ro
+
+	#Cael, the all-seeing soulrooter (male)  
+		*set name "Cael"
+		*set gender "male"
+		*set person_word "man"
+		*set male true
+		*set hair_color "red"
+		*set hair_length "short"
+		*set hair_structure "straight"
+		*set eye_color "hazel"
+		*set height "very tall"
+		*set pronouns "he"
+		*set possessive_pronouns "him"
+		*set capital_pronouns "He"
+		*set capital_possessive_pronouns "Him"
+		*set appearance "rugged clothes
+		*set birthmark "across his ribs"
+		*set posture "with quiet intensity"
+		*set echoweaving 0
+		*set whisperbinding 0
+		*set soulrooting 20
+		*set bloodspell 1
+		*set willpower 3
+		*set empathy 1
+		*set veilsense 5
+		*set stoneveil 1
+		*set magic_awakened true
+		*set mother_rel 50
+		*set father_rel 50
+		*set sol_rel 50
+		*set lysandra_rel 50
+		*set elden_rel 50
+		*set kai_rel 50
+		*set cass_rel 50
+		*set draegan_rel 0
+		*set met_draegan false
+		*set met_sol true
+		*set met_cass true
+		*set met_kai true
+		*set met_lysandra true
+		*set met_elden true
+		*goto ashwood_ro
+
+	#Thalen, the stoneveiled bloodspeller (male)  
+		*set name "Thalen"
+		*set gender "male"
+		*set person_word "man"
+		*set male true
+		*set hair_color "blonde"
+		*set hair_length "chin-length"
+		*set hair_structure "straight"
+		*set eye_color "blue"
+		*set height "tall"
+		*set pronouns "he"
+		*set possessive_pronouns "him"
+		*set capital_pronouns "He"
+		*set capital_possessive_pronouns "Him"
+		*set appearance "refined clothes"
+		*set birthmark "collarbone"
+		*set posture "with such a grace"
+		*set echoweaving 0
+		*set whisperbinding 0
+		*set soulrooting 0
+		*set bloodspell 20
+		*set willpower 2
+		*set empathy 1
+		*set veilsense 2
+		*set stoneveil 5
+		*set magic_awakened true
+		*set mother_rel 50
+		*set father_rel 50
+		*set sol_rel 50
+		*set lysandra_rel 50
+		*set elden_rel 50
+		*set kai_rel 50
+		*set cass_rel 50
+		*set draegan_rel 0
+		*set met_draegan false
+		*set met_sol true
+		*set met_cass true
+		*set met_kai true
+		*set met_lysandra true
+		*set met_elden true
+		*goto ashwood_ro
+
+	#Arin, the all-seeing echoweaver (nonbinary)  
+		*set name "Arin"
+		*set gender "nonbinary"
+		*set person_word "person"
+		*set hair_color "silver"
+		*set hair_length "short"
+		*set hair_structure "curly"
+		*set eye_color "brown"
+		*set height "average"
+		*set gender "non-binary"
+		*set person_word "person"
+		*set el_pr true
+		*set appearance "refined clothes"
+		*set birthmark "behind the ear"
+		*set posture "with such a grace"
+		*set echoweaving 20
+		*set whisperbinding 0
+		*set soulrooting 0
+		*set bloodspell 0
+		*set willpower 1
+		*set empathy 2
+		*set veilsense 5
+		*set stoneveil 1
+		*set magic_awakened true
+		*set mother_rel 50
+		*set father_rel 50
+		*set sol_rel 50
+		*set lysandra_rel 50
+		*set elden_rel 50
+		*set kai_rel 50
+		*set cass_rel 50
+		*set draegan_rel 0
+		*set met_draegan false
+		*set met_sol true
+		*set met_cass true
+		*set met_kai true
+		*set met_lysandra true
+		*set met_elden true
+		*goto ashwood_ro
+
+	#Joryn, the strong-willed bloodspeller (nonbinary)  
+		*set name "Joryn"
+		*set gender "nonbinary"
+		*set person_word "person"
+		*set hair_color "brown"
+		*set hair_length "very long"
+		*set hair_structure "curly"
+		*set eye_color "brown"
+		*set height "average"
+		*set gender "non-binary"
+		*set person_word "person"
+		*set el_pr true
+		*set appearance "worn clothes"
+		*set birthmark "wrist"
+		*set posture "with such a grace"
+		*set echoweaving 0
+		*set whisperbinding 0
+		*set soulrooting 0
+		*set bloodspell 20
+		*set willpower 5
+		*set empathy 2
+		*set veilsense 1
+		*set stoneveil 1
+		*set magic_awakened true
+		*set mother_rel 50
+		*set father_rel 50
+		*set sol_rel 50
+		*set lysandra_rel 50
+		*set elden_rel 50
+		*set kai_rel 50
+		*set cass_rel 50
+		*set draegan_rel 0
+		*set met_draegan false
+		*set met_sol true
+		*set met_cass true
+		*set met_kai true
+		*set met_lysandra true
+		*set met_elden true
+		*goto ashwood_ro
+
+*label ashwood_ro
+One more thing before I can let you go to explore Ashwood. What gender should your love interests have?
+*choice
+	#All of the selectable ones are men.
+		*set sol_pron "he"
+		*set sol_big_pron "He"
+		*set sol_pronp "him"
+		*set sol_pronpp "his"
+		*set sol_big_pronpp "His"
+		*set sol_worm "man"
+		*set elden_pron "he"
+		*set elden_big_pron "He"
+		*set elden_pronp "him"
+		*set elden_pronpp "his"
+		*set elden_big_pronpp "His"
+		*set elden_worm "man"
+		*set elden_him "himself"
+		*set cass_pron "he"
+		*set cass_big_pron "He"
+		*set cass_pronp "him"
+		*set cass_pronpp "his"
+		*set cass_big_pronpp "His"
+		*set cass_worm "man"
+		All selectable love interests are now men.
+		*goto_scene chapter8
+
+	#All of the selectable ones are women.
+		*set sol_pron "she"
+		*set sol_big_pron "She"
+		*set sol_pronp "her"
+		*set sol_pronpp "her"
+		*set sol_big_pronpp "Her"
+		*set sol_worm "woman"
+		*set elden_pron "she"
+		*set elden_big_pron "She"
+		*set elden_pronp "her"
+		*set elden_pronpp "her"
+		*set elden_big_pronpp "Her"
+		*set elden_worm "woman"
+		*set elden_him "herself"
+		*set cass_pron "she"
+		*set cass_big_pron "She"
+		*set cass_pronp "her"
+		*set cass_pronpp "her"
+		*set cass_big_pronpp "Her"
+		*set cass_worm "woman"
+		All selectable love interests are now women.
+		*goto_scene chapter8
+	
+	#Neither. I want to set them manually. 
+		[b]Enjoy![/b]
+		*goto manually
+	
+*label manually
+Is Solian he/she?
+*choice
+	#Prince Solian – The Honorable Protector - He
+		*set sol_pron "he"
+		*set sol_big_pron "He"
+		*set sol_pronp "him"
+		*set sol_pronpp "his"
+		*set sol_big_pronpp "His"
+		*set sol_worm "man"
+		*set sol_him "himself"
+		*goto elden_sett
+
+	#Princess Solian – The Honorable Protector - She
+		*set sol_pron "she"
+		*set sol_big_pron "She"
+		*set sol_pronp "her"
+		*set sol_pronpp "her"
+		*set sol_big_pronpp "Her"
+		*set sol_worm "woman"
+		*set sol_him "herself"
+		*goto elden_sett
+
+*label elden_sett
+Is Elden he/she?
+*choice
+	#Elden – The Quiet Protector - He
+		*set elden_pron "he"
+		*set elden_big_pron "He"
+		*set elden_pronp "him"
+		*set elden_pronpp "his"
+		*set elden_big_pronpp "His"
+		*set elden_worm "man"
+		*set elden_him "himself"
+		*goto cass_sett
+
+	#Elden – The Quiet Protector - She
+		*set elden_pron "she"
+		*set elden_big_pron "She"
+		*set elden_pronp "her"
+		*set elden_pronpp "her"
+		*set elden_big_pronpp "Her"
+		*set elden_worm "woman"
+		*set elden_him "herself"
+		*goto cass_sett
+
+*label cass_sett
+Is Cassariel he/she?
+*choice
+	#Cassariel - The Devouted Blade - He
+		*set cass_pron "he"
+		*set cass_big_pron "He"
+		*set cass_pronp "him"
+		*set cass_pronpp "his"
+		*set cass_big_pronpp "His"
+		*set cass_worm "man"
+		*goto_scene chapter8
+
+	#Cassariel - The Devouted Blade - She
+		*set cass_pron "she"
+		*set cass_big_pron "She"
+		*set cass_pronp "her"
+		*set cass_pronpp "her"
+		*set cass_big_pronpp "Her"
+		*set cass_worm "woman"
+		*goto_scene chapter8
 
 *label prologue
-
 [b]Prologue[/b]
 
 Run! [i]Run[/i]! [b]RUN[/b]!!
@@ -172,6 +601,5 @@ And this night would be the night that changed [i]everything[/i].
 
 *page_break End of Prologue
 *goto_scene chapter1
-
 
 

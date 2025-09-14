@@ -159,6 +159,9 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 *choice
 	#Relationships
 		*goto relationship_stats
+	*if (magic_awakened)
+		#Your mark
+			*goto your_mark
 	*if (knows_verryn)
 		#Vérryn
 			*goto vérryn_dictionary
@@ -189,9 +192,6 @@ The ones you draw close will shape your story—and you.
 *if (met_sol)
 	*stat_chart
 		percent sol_rel Relationship with Solian
-*if (met_nyric)
-	*stat_chart
-		percent nyric_rel Relationship with Nyric
 *if (met_lysandra)
 	*stat_chart
 		percent lysandra_rel Relationship with Lysandra
@@ -207,6 +207,17 @@ The ones you draw close will shape your story—and you.
 *if (met_draegan)
 	*stat_chart
 		percent draegan_rel Relationship with Draegan
+*finish
+
+*label your_mark
+[b]The mark on my body[/b]
+
+I first noticed it as a faint warmth on my skin, a shimmer too small to see but impossible to ignore. 
+Each time I reach for magic, it stirs beneath the surface, a quiet pulse that reminds me of its presence. 
+At first, it felt insignificant, almost like a whisper against my arm. But with every spell, it spreads, curling and stretching in patterns I can’t predict. 
+Sometimes it tingles, sometimes it hums softly, as if aware of my thoughts before I even speak them. 
+I wonder how far it will go, how deeply it will etch itself into me, and whether it will ever feel like I own my own body again. 
+And yet… I can’t help but be drawn to it, fascinated by the way it grows with me, marking not just my skin but the rhythm of my days
 *finish
 
 *label vérryn_dictionary
@@ -382,4 +393,7 @@ Drawing strength from wounds or turning harm into fuel
 It always takes something. A drop of life. A piece of self. Bloodspell leaves marks — scars that may never heal, voices that linger long after.
 
 [i]Aesthetic:[/i]
-Dark crimson sigils that burn on the skin, glimmering patterns in air or ash. The smell of iron, old stone, and something older still.
+Dark crimson sigils bloom across the skin like brands, their edges glowing faintly before dissolving into the air as ash. 
+From the marks, moths unfurl — fragile wings traced with vein-like patterns, their bodies glimmering as though spun from blood and shadow. 
+They drift weightlessly, leaving behind trails of scarlet dust that shimmer like embers before fading. 
+The air carries the metallic tang of iron, the damp chill of old stone, and a whisper of something ancient, watching.

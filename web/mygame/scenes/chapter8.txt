@@ -1,0 +1,1786 @@
+*label chapter8
+
+[b]Chapter 8 - The Law of Bone and Blood[/b]
+
+The Cradle hums low with the sound of dripping water and the faint rustle of leaves pressed against stone. 
+Shadows move across the walls as the lantern sways, its flame stubborn in the cool, damp air.
+
+Alin sits propped against a woven blanket, her skin still pale but her eyes sharp in a way that tells you she’s been holding something [i]back[/i].
+
+She waits until Laemir is gone, footsteps fading down the tunnel. Only then does she speak, her voice barely above the whisper of the lantern.
+
+[i]“They’ve set the trial.”[/i]
+
+The words drop like stones into still water.
+
+Your throat tightens.
+
+[i]“Trial?”[/i]
+
+Alin nods once, jaw working. “Tomas. They’re calling it judgment under [i]the Law of Bone and Blood[/i].” 
+Her gaze flickers toward you, as if weighing whether to go on. “[i]The Light[/i] will preside.”
+
+You don’t need to ask which [i]Light[/i] — the image of bone-white masks and crimson cloth is already burning behind your eyes.
+
+“They say he harbored one of the cursed. A traveler. Someone… [i]touched by Venora[/i].” Alin’s fingers knot in the blanket. 
+“And they’ll make a spectacle of him for it.”
+*page_break Next
+
+The lantern’s sway slows. The air in the Cradle feels heavier, the stone walls closer. Outside, you can almost hear the church bells waiting.
+
+The news comes like a knife slipped between ribs — quiet, sure, impossible to ignore.
+
+They will try Tomas at dawn.
+In the square.
+Before the whole of Ashwood.
+
+No one says the word execution yet. [i]They don’t need to.[/i]
+
+Outside, the wind carries the low hum of voices — rumor moving like smoke between houses, curling under doors. Every whisper smells of [i]fear[/i].
+
+You know the square will be draped in crimson and bone. You know [i]the Light of Valtessa[/i] will come not to listen, but to make an example.
+And you know Tomas — stubborn as the roots under this village — [i]will not beg[/i].
+
+The thought of him standing alone before them is unbearable.
+*page_break Next
+
+Alin studies you for a long moment, her eyes sharp despite the weariness pulling at her frame.
+“You can’t just walk into it,” she says, voice low. “[i]The Light[/i] doesn’t forget faces. And if they look too closely…” 
+She lets the thought hang, heavy as the stone above your heads.
+
+You glance toward the Cradle’s narrow mouth — a dark slit leading back to the world above. The path feels shorter now. [i]Closer.[/i]
+
+Outside, you can almost hear the wood being hauled to the square, the hammering of the platform where Tomas will stand. 
+Where [i]the Church[/i] will speak [i]their[/i] truth, and call it holy.
+
+You’ve seen trials before.
+[i]You’ve seen how they end.[/i]
+
+The choice presses in, hot against your ribs. Stay hidden, and Tomas faces them alone. 
+Step into the open, and risk drawing [i]the Light’s[/i] gaze to yourself — to the magic your family has worked so hard to keep buried.
+
+Somewhere in the back of your mind, a whisper you don’t want to name:
+[i]If you go, you might not be the only one watching.[/i]
+*choice
+	#Go to the trial 
+		Dawn comes thin and gray, the kind of light that makes the world look colder than it already is.
+		Ashwood is not awake yet — [i]not properly[/i] — but you can feel it holding its breath.
+
+		Every door you pass is shut tight, nailed against the rising storm of fear. 
+		Heavy oak, scarred and worn by seasons of sorrow, stands like silent sentinels guarding secrets no one dares to share. 
+		Shutters hang at angles that just barely reveal the flicker of restless eyes—watchful, [i]wary[/i], as if the walls themselves might bleed whispers.
+
+		Inside, hushed voices cling to shadows, weaving prayers thin as spider silk, hoping the storm will pass unnoticed. 
+		Curtains flutter briefly in cracked windows, like pale flags surrendering to the quiet dread hanging heavy in the air. 
+		No laughter, no clatter—only the faint, brittle hum of anticipation, curling and twisting through alleys like smoke.
+
+		Speaking of smoke—thin, curling tendrils rise from crooked chimneys, drifting upward like ghosts reluctant to leave their graves. 
+		It smells of burnt wood, of lost warmth, and something [i]darker[/i]: the faint, bitter scent of ash carried on the breath of the morning. 
+		The sky, a dull gray canvas, presses down as if eager to swallow the village whole.
+		*set willpower +1
+		*page_break Next
+
+		Your boots echo sharply against the uneven cobblestones, the sound strange in its loneliness—too loud, too clear in the stillness. 
+		Each step feels swallowed by the heavy quiet, as if the stones themselves are holding their breath beneath your weight. 
+		Somewhere far off, a bell tolls once—deep, slow, and final—its [i]mournful[/i] peal hanging in the air like a knife poised to fall.
+
+		You imagine the square stirring beneath the shadow of the looming church spires—the stage being set with cruel precision. 
+		The heavy scent of incense mingles with the metallic tang of fear, and the silent crowd gathers like shadows drawn to a flame. 
+		Somewhere in that gathering, fate waits, as cold and certain as the dawn itself.
+
+		They will drape it in bone and crimson, because that’s what they do.
+		They will speak of purity and justice, because that’s what they always say.
+		And they will cut someone down in the name of mercy, because that is what [i]the Light of Valtessa[/i] calls [i]salvation[/i].
+		*page_break Next
+
+		Your steps slow as the square comes into view.
+
+		The gallows has been replaced by something… cleaner.
+		A raised platform of pale wood, polished until it gleams, ringed with tall, white-masked [i]Crimson Inquisitors[/i]. 
+		A thin strip of crimson carpet leads up to it like a wound stitched into the stone.
+
+		*if (angered_soldier)
+			Tomas stands at its center, hands bound but shoulders straight. His shirt has been torn, dirt ground into the fabric, but his eyes burn — bright, stubborn, unyielding.
+
+		*else
+			Tomas stands at the center, wrists bound, shirt torn and heavy with dirt. His shoulders sag, eyes dulled to ash. Whatever fire once lived there has burned low, leaving only the hollow glow of a man who’s already lost.
+
+		Two Crimson guards flank him, still as statues, their glaives catching the early light.
+		The air around them hums faintly.
+
+		You push forward through the crowd gathering like stormwater.
+		No one speaks above a murmur, yet the tension hums like a swarm of unseen insects. 
+		Some avert their eyes when you pass. Others look too long, as if trying to decide whether they know you — whether they should.
+
+		And then you see ${cass_pronp}.
+		*page_break Next
+
+		Stepping out from behind the curtain of crimson, a figure dressed in ivory and scarlet. The youngest Inquisitor in decades. 
+		The one they call [i]Saint-born[/i].
+
+		${cass_big_pronpp} mask is absent, which is somehow worse — pale features carved in composure, eyes like frost over deep water.
+		${cass_big_pron} moves without hurry, but the crowd parts as though pushed by wind.
+
+		When ${cass_pronpp} gaze sweeps over you, [i]it stops[/i].
+		Just for a breath.
+		Enough to feel it pierce through skin, through thought, down to the marrow.
+		And then it moves on, as if you were no more remarkable than the stone [i]beneath[/i] ${cass_pronp} feet.
+
+		The Saint-born takes ${cass_pronpp} place at the head of the platform, hands resting lightly on the hilt of a blade sheathed in bone. 
+		${cass_big_pronpp} voice is not loud, but it carries.
+
+		[i]“By the Law of Bone and Blood, the accused shall stand before the Light. Their deeds weighed. Their soul measured.”[/i]
+
+		It’s ritual, rote. But here, under the watch of that many eyes, it feels like scripture made into a blade.
+
+		Tomas doesn’t flinch. Doesn’t speak.
+		And still, you feel the weight of every heartbeat between their words.
+
+		The Crimson Inquisitors close in.
+		[i]The trial begins.[/i]
+		*set seen_trial true
+		*goto con_trial
+	
+	#Try to help from the shadows
+		You remain in the Cradle long after Alin’s voice fades into the quiet, the words [i]Law of Bone and Blood[/i] still echoing in your head. 
+		The lantern’s flame leans toward you with every slow breath, as if urging you to move — but you don’t.
+
+		Your fingers trace the worn grooves in the stone wall, each line a memory of how long this place has kept you hidden. 
+		You think of Tomas in the square, of bone-white masks gleaming in the morning light, and the way the crowd will gather — not to help, but [i]to watch[/i].
+
+		Outside, the wind shifts. 
+		Somewhere above the Cradle’s mouth, you hear the faint creak of a sign swinging on rusted chains, 
+		the soft thump of boots on the packed earth of the main road.
+
+		You tell yourself there’s nothing you can do tonight. That rushing into the square will only put more necks under the blade. 
+		That patience is the [i]wiser[/i] path.
+
+		And yet…
+
+		Every heartbeat feels too loud, pressing against your ribs like it wants out. 
+		You pace, each step circling back to the same dark truth: [i]Tomas will be in their hands by dawn[/i].
+
+		When the lantern sputters low, you force yourself to lie down on the cot. Sleep does not come. 
+		The Cradle’s walls seem to pulse with the world above — muffled voices, the clink of metal, the distant ringing of hammers.
+
+		They are building something.
+
+		And whatever it is, it’s meant for him.
+
+		By the time your eyes finally close, the cold taste of iron and smoke has already crept into your dreams.
+		*page_break Next
+		
+		The Cradle breathes slow in the hours before dawn, its walls damp with the night’s chill. 
+		You slip past Alin’s sleeping form, careful not to stir the blanket at her shoulders. 
+		The lantern is out, leaving only the faint glimmer of moonlight filtering through the cracks above.
+
+		You don’t risk the main path. Instead, your boots find the narrow vein of earth that winds between half-forgotten barns and crooked fences. 
+		The air smells faintly of damp hay and smoke carried from the square. 
+		You keep low, weaving between leaning sheds and doorways that yawn open to rooms long abandoned.
+
+		Somewhere ahead, a murmur rides the air. [i]Crimson Inquisitors.[/i]
+
+		You press into the shadow of a leaning wall, the wood splintering under your palms. 
+		Their voices drift closer, low and sharp, just enough to catch edges of meaning.
+
+		“…harbored her for weeks, they say.”
+		“…trial’s just for show. [i]The verdict’s been written.[/i]”
+		A pause. The scrape of boots in gravel.
+		“…[i]the Light[/i] wants the crowd to see her name on his lips.”
+		*page_break Next
+
+		Her name. You feel it like a hand on your throat. They know more than they’ve said — more than Tomas has told anyone.
+
+		When their voices fade, you move on, the streets tightening around you until they give way to the open stretch before the square. 
+		You don’t go closer. Not yet.
+
+		Instead, you climb.
+
+		The bell tower greets you with a groan of weathered wood, its ladder cold beneath your fingers. 
+		From here, the square spreads like a stage laid bare — crimson cloth draped over the platform, 
+		bone-white masks glinting faintly in the morning’s first light.
+
+		Tomas stands at the center, bound. You look away before the sight can fix itself too deep in your mind.
+
+		A ripple moves through the crowd.
+
+		[i]The Light of Valtessa approaches.[/i]
+
+		They part for the figure in ivory and crimson — the youngest Inquisitor in decades, the one whose voice is said to still storms. 
+		The robe catches the wind, gilded edges snapping against the cold. 
+		The head turns, sunlight catching in the pale sweep of hair, and ${cass_pronpp} gaze cuts clean through the morning haze. 
+		The mouth is set in an unreadable line — not cruel, not kind, but carrying the weight of someone who already knows how this will end.
+		*page_break Then — a pause
+
+		The head turns.
+
+		From this distance, you tell yourself ${cass_pronpp} eyes cannot truly find you through the crowd. 
+		And yet the stillness in ${cass_pronpp} gaze feels precise, deliberate, as if ${cass_pron} sees you — not the tower, not the shadows, but [i]you[/i].
+
+		The moment breaks when the crowd stirs again, swallowing ${cass_pronpp} attention.
+
+		You retreat deeper into the tower, breath quiet, heart loud. The boards shift underfoot — not from your weight, but from [i]another[/i].
+
+		A soldier.
+
+		You flatten against the inner wall, the scent of leather and oil sharp in your nose as boots cross the floorboards just above. 
+		A shadow stretches over you, pausing long enough to make your pulse thunder in your ears. 
+		Then — movement again, the sound of the ladder creaking as they descend.
+
+		Only when their steps fade into the crowd’s murmur do you risk leaning back toward the tower’s slit window.
+
+		Below, the Crimson Inquisitor raises a hand, and the square falls silent.
+		*set seen_trial true
+		*goto con_trial
+	
+	#Stay hidden but prepare for what comes after 
+		The Cradle moves in whispers.
+		Not the soft kind that comfort, but the kind that scrape like steel along the walls. Boots scuff on stone, muted and quick. 
+		Hands pass bowls, blankets, scraps of paper — always with the unspoken urgency of people who know that one sound too loud could mean the end.
+
+		The air tastes sharper today.
+		Like [i]fear[/i] left too long in the dark.
+
+		You pace the narrow chamber, each turn bringing you back to the same rough-hewn wall where roots push through like the bones of the earth. 
+		The lantern above sways, throwing shadows that twitch along the stone — too quick, too restless, like they feel what you do.
+
+		You try not to think about what’s happening above ground, but it’s [i]impossible[/i].
+		In your mind, you see the square — the stage set in crimson and bone. 
+		You see Tomas, bound. You hear the voices, the jeers, the low hum of judgment. 
+		You imagine the way his eyes might have dulled since you last saw him, the stubborn fire smothered under the weight of rope and law.
+
+		A soft footstep pulls you from the spiral.
+		*page_break Next
+
+		Alin leans in the archway, one shoulder braced against the stone. 
+		She’s wrapped in a shawl too thin for the chill, but her gaze carries heat enough to burn.
+		“You’re wearing grooves into the floor,” she says quietly.
+
+		“I can’t just—” You stop, swallowing hard. “I should be there.”
+
+		Her eyes flicker, sharp with something between anger and grief. 
+		“[i]And what would that change?[/i] You’d be caught before you reached the square. [i]The Light[/i] doesn’t come to listen — they come to make examples.”
+
+		You hate how right she is.
+		And yet the thought of Tomas standing alone gnaws at you like rot in the bone.
+
+		“Safe isn’t the same as good,” you say.
+
+		“No,” she agrees. “But alive is the only way you’ll be able to do anything that matters later.” Her voice softens. 
+		“You know what they’d do to you if they found you there. Having impure thoughts.”
+
+		The words sink in, heavy as stone.
+
+		Somewhere above, a bell tolls.
+		*page_break Next
+		
+		It’s faint, but the sound crawls into the marrow of the Cradle, threading through the walls until you can feel it in your teeth. 
+		One toll. Another. Steady. [i]Unforgiving.[/i]
+
+		You close your eyes, letting the sound paint the rest for you. The square shifting. The crowd leaning in. The Light stepping forward. The noose — or the blade — waiting.
+
+		The trial unfolds in your head like a nightmare you can’t wake from.
+
+		When the bells finally stop, the silence is worse. It’s too sudden, too complete, like the world is holding its breath.
+
+		It’s Laemir who brings the news back, her voice low, her face [i]pale[/i]. 
+		She sits beside the fire and doesn’t speak for a long time, only rubbing a hand over her jaw as though trying to scrub away the memory.
+
+		“You weren’t wrong,” she says finally. “[i]The Light[/i] didn’t come to listen. They came to [i]burn[/i].”
+
+		The room stills. No one moves.
+
+		“They sent a Crimson Inquisitor,” she continues, eyes fixed on the flames. 
+		“Not just any — The Saint. [i]The Devoted Blade[/i].” The way she says the name carries weight, the kind that makes the air heavier. 
+		“Youngest to wear the crimson in decades. Said to have never faltered in judgment. People… [i]kneel[/i] when ${cass_pron} passes.”
+
+		You picture it from her words alone — the sweep of ivory and crimson robes, the way the crowd might part like water. 
+		A presence that doesn’t need to shout to be heard. The kind of gaze that could flay the truth from your skin without touching you.
+
+		Laemir’s voice hardens. “They say [i]The Saint[/i] spared no words for Tomas, but when ${cass_pron} looked at him… 
+		it was like ${cass_pron}’d already passed sentence.”
+
+		A shiver runs through you that has nothing to do with the cold.
+		*page_break Next
+
+		Then comes the part Laemir almost doesn’t want to say. “They’ve named another. Someone tied to Tomas. They’re [i]hunting[/i] them now.”
+
+		The Cradle goes quiet in that dangerous way — not with peace, but with tension strung so tight you can hear it hum.
+
+		Your stomach knots.
+		Because you know whoever it is… [i]they won’t be the last[/i].
+
+		You turn back toward the shadowed tunnel that leads deeper underground. You could stay here, as Alin says — alive. Waiting. Watching. [i]Planning.[/i]
+
+		But every breath in the Cradle feels smaller now, tighter. The world above is moving, and hiding from it doesn’t stop the storm from coming.
+
+		And you know this won’t be the last time you’re forced to choose between safety and the fire in your chest.
+		*goto con_after_trial
+
+*label con_trial
+The square blooms with sound.
+Not the sound of life, of markets or laughter, but something heavier, thick with dread. Every breath from the gathered crowd rises like smoke and hangs in the air, [i]waiting[/i].
+
+Crimson banners drape the stage, their edges frayed but spotless, washed in the pale light of dawn. 
+Bone-white symbols of [i]the Church[/i] hang stark against the wood, hollow-eyed, staring at everyone and no one at once.
+
+At its center, Tomas stands.
+Rope binds his wrists, raw from struggle, but there is no fight left in the slump of his shoulders. His shirt hangs torn, dirt clinging to fabric and skin alike. 
+He doesn’t look at the crowd. He doesn’t look at the men who brought him here. His gaze is fixed downward, as if the stones might open and swallow him whole.
+
+Once, you remember, Tomas’s laugh had been sharp, warm, filling the tavern until every shadow retreated. Now, the silence around him feels like [i]a grave[/i] already dug.
+
+The crowd shifts restlessly. Mothers press their children close. Men with clenched jaws and lowered eyes keep their hands on their belts as though gripping something invisible. 
+[i]No one dares to speak. No one dares to move.[/i]
+*page_break And then — the sound of boots
+
+The procession enters. Crimson robes sweep the stones, bone-white insignias catching the morning light. 
+Soldiers move with mechanical precision, their armor ringing with every step. But it is not they who hold the square in their grasp.
+
+It is the figure that follows.
+
+[i]Cassariel.[/i]
+
+You don’t need anyone to name ${cass_pronp} — the square itself seems to shrink when ${cass_pron} appears. 
+Robes of ivory and crimson fall flawless around ${cass_pronp}, each step measured, as if the world itself adjusts to ${cass_pronpp} pace. 
+${cass_big_pronpp} face is bare — no mask, no shroud, only the austere line of features carved with something [i]colder[/i] than stone.
+
+${cass_big_pronpp} gaze sweeps the crowd once, and in that moment, silence is absolute. 
+No cough, no rustle, no whisper dares break it. When ${cass_pronpp} eyes pass over you, even at a distance, it is like being seen through, [i]unmade[/i], laid bare to the bone.
+
+${cass_big_pron} takes the stage with no fanfare, no words wasted. A simple raise of ${cass_pronpp} hand, and the guards force Tomas to his knees.
+
+[i]“By the Law of Bone and Blood,”[/i] the Saint’s voice cuts clean across the square — not loud, but precise, a blade through silence. [i]“You are called to judgment.”[/i]
+
+*if (angered_soldier)
+	Tomas does not flinch. His chin lifts, eyes steady, voice raw but unshaken: “I’ll not beg forgiveness nor for kindness.” The words hang in the air, defiance cutting sharper than any blade.
+*else
+	Tomas flinches, a shadow of defiance flickering and dying before it can take hold. His lips part, but no words come.
+*page_break Next
+
+The charges are read aloud — harboring one touched by Venora, a cursed. A traveler. Not you.
+But the word cuts as though it [i]were[/i]. Every whisper presses the weight of guilt into your bones, 
+until it feels as if all eyes could find you in the crowd, [i]hidden or not[/i].
+
+Each word lands heavy, shaping the air into a cage.
+
+The crowd stirs only when Cassariel’s gaze sweeps across them, cold and unyielding. 
+[i]“The stain of corruption spreads. It festers not only in the body, but in the heart. To shelter such blight is to share in its sin.”[/i]
+
+There is [i]no protest[/i].
+[i]No plea[/i] from Tomas.
+
+Cassariel steps closer. One hand rises, [i]pale in the dawn[/i], and rests against Tomas’s chin. 
+${cass_big_pron} lifts his face — not with cruelty, but with the inevitability of stone pressing down on bone. 
+His eyes, once so fierce and full of life, are glassy now, rimmed red from sleeplessness or tears never shed.
+
+[i]“Confess,”[/i] the Saint utters. Not a question. Not a demand. A sentence already written.
+
+Tomas’s lips part. For an instant, the ghost of his old stubborn fire flickers. But it falters, smothered under a weight too heavy to carry. 
+A sliver of dread passes across his eyes. His shoulders collapse inward, and when his voice comes, it is splintered wood on stone.
+
+“I… only wished to help.”
+
+The words hang in the square like smoke.
+
+Cassariel’s expression does not change. ${cass_big_pron} let his chin go, and his head bows again. 
+The crowd murmurs — not in anger, not in sympathy, but in the muted relief of those watching another take the punishment they most fear.
+
+The judgment is already decided. You see it in the set of Cassariel’s jaw, in the soldiers shifting at the edge of the stage.
+
+[i]The Law of Bone and Blood allows no mercy.[/i]
+*page_break Next
+
+The air itself feels colder, the banners heavier, the square smaller as Cassariel lifts ${cass_pronpp} hand once more.
+
+“This judgment stands,” ${cass_pron} says. [i]“By bone, by blood, by flame.”[/i]
+
+The words are not ${cass_pronpp} alone. The Crimson Inquisitors ring the square like iron teeth, and as Cassariel’s hand falls, their voices rise in unison — 
+a low, [i]resonant[/i] chorus that thrums in your bones.
+
+[i]“By bone, by blood, by flame.”[/i]
+
+Again, louder, as though the air itself must be bound to the vow.
+
+[i]“By bone, by blood, by flame.”[/i]
+
+The crowd flinches at the sound, but no one moves. No one dares.
+
+And though the fire has not yet touched him, though the act itself is still to come — in that moment, Tomas is already gone.
+
+You feel it.
+And you know the world will not be the same when the flames rise.
+*goto con_after_trial
+*page_break Next
+
+*label con_after_trial
+The Cradle feels smaller than it ever has, the stone walls pressing in like ribs around a broken heart.
+No one speaks at first. The only sound is water dripping from the ceiling into the shallow pool near the wall — steady, unfeeling, like the tolling of a bell that refuses to end.
+
+Alin is the first to break.
+Her voice comes sharp, ragged, too big for the narrow chamber.
+“[i]They didn’t even let him speak.[/i]”
+
+She’s pacing, blanket fallen from her shoulders, bare feet slapping the cold stone. Her hands twist in front of her, fingers clawing the air as though she could still tear him free. 
+“They dragged him like some animal, read their lies like scripture, and called it [i]law[/i]. Bone and blood? Flame? 
+That wasn’t judgment. That was [i]murder dressed up in holy words.[/i]”
+
+Laemir doesn’t flinch at the bite in her tone. She sits by the fire-pit, hands folded neatly in her lap, her eyes following the shadows that dance along the stone. 
+Her silence is heavier than shouting — the silence of someone who has seen this [i]before[/i].
+
+You can’t stand still.
+*if (seen_trial)
+	The memory of the square, of Tomas with shoulders squared and head high, is carved behind your eyes. Every blink replays it — the crimson banners, Cassariel’s hand raised, the words that split the air like a blade. [i]By bone, by blood, by flame.[/i]
+
+Your throat is tight when you finally speak.
+“They wanted fear. They wanted to show us what happens when we stand too close.”
+
+Alin turns on you, eyes wet and burning all at once. “So what? We bow our heads and hide while they burn the ones who dare to help? 
+Tomas is ash because of them. Because he—because he—” Her voice cracks, her breath falters. She presses her fists to her eyes.
+
+“Laemir,” you whisper, desperate, because the air is cracking around you and you can’t hold it alone.
+*page_break Next
+
+Your mother’s gaze shifts, slow and deliberate. For a moment you see the years in her eyes — not just fear, but [i]exhaustion[/i], the kind that seeps into bone. 
+When she speaks, it is with a steadiness that demands silence.
+“Tomas chose,” she says. Her words fall heavy, shaping the chamber into something sharp. “He chose to stand, as many have, knowing the cost. 
+That choice does not rest on your shoulders, child. It rests on [i]theirs[/i].” Her eyes flicker toward the world above, where bells still echo. 
+“On the Light. On those who kill in Valtessa’s name and call it [i]holy[/i].”
+
+Alin shakes her head, shoulders trembling. “It isn’t enough to say that. If we keep hiding, there won’t be anyone left to make those choices. 
+They’ll burn us all, one by one, until even memory is ash. They will kill anyone they deem a threat.”
+
+The lantern sways. Shadows crawl across the walls like restless hands.
+
+You realize they’re both right.
+You feel the truth in Laemir’s calm, in Alin’s fire — the weight of grief and the weight of fury. 
+And in the silence that stretches between their words, you hear it: [i]the unspoken question clawing at all of you[/i].
+
+What now?
+
+Do you scatter into the dark, try to survive another day beneath [i]the Church’s eye[/i]?
+Do you rise, knowing the flame will burn higher, brighter, if you step too close?
+
+[i]The Cradle holds its breath, waiting for an answer.[/i]
+*choice
+	#You will save Tomas even if it costs you everything
+		The Cradle no longer feels like shelter. It feels like a tomb.
+		Every breath tastes of stone and ash, every lantern flicker paints Tomas’s face across the walls. 
+		Not as he was, but as he will be — flames at his feet, chains at his wrists. The thought presses down until you cannot sit still.
+
+		Laemir’s hand brushes your arm as you rise, a tether of calm you nearly tear away from. Her voice is quiet, steady, as though she already knows the storm in you.
+		[i]“Child.”[/i]
+		Just that word. A plea, [i]a warning[/i].
+
+		But the fire in your chest will not be cooled.
+		You shake your head.
+		“No. I can’t—” The words scrape out raw. “I can’t stay here while they burn him. I won’t.”
+
+		Alin’s eyes snap to yours, a wild light sparking through grief. For a moment she looks like she might [i]stop you[/i], 
+		might throw her weight against yours to keep you tethered. But then her mouth twists, 
+		bitter and trembling, and she laughs — not with joy, but with something closer to [i]despair[/i].
+		“Of course. Of course you’d say that.” She presses her sleeve across her wet cheek, smearing the tears away. “Do you even hear yourself? 
+		Do you even know what they’ll do if they catch you?”
+
+		“I know.”
+		And you do. You know the weight of crimson cloth, of bone-white hands raised in judgment. You’ve felt the bite of fear in your marrow since you were old enough to remember. 
+		But fear isn’t enough to still you now.
+
+		You think of Tomas.
+		His laugh, low and crooked. The way he scolded you like a child and then pressed an apple into your hand when no one was looking. 
+		The way he stood, straight-backed, even when the crowd turned their eyes away.
+		*page_break You owe him more than silence
+
+		The bells above toll again, shivering the walls of the Cradle. The trial will not wait.
+
+		Alin steps in front of you, blocking the narrow tunnel. “If you do this, you’ll be walking straight into their hands. 
+		Cassariel may see you for what you are. And when they do…” Her throat works, words breaking on the edges. “…you won’t just doom yourself. [i]You’ll doom us all.[/i]”
+
+		The lantern sways.
+		Laemir’s eyes, dark and heavy, rest on you. Her silence is not approval, but neither is it [i]refusal[/i]. 
+		She sees you, sees the choice already carved into your chest. When she finally speaks, it is with a weight that settles deep into your bones.
+		“Then do not go as a child,” she says softly. [i]“Go as one who understands the cost.”[i]
+
+		Alin’s hands shake as she steps aside, fury and sorrow warring in her eyes. She doesn’t bless you. She doesn’t curse you either. She just turns away, shoulders heaving.
+
+		The tunnel breathes cold against your face as you step into it.
+		Each footfall is a vow.
+
+		[i]You will save Tomas.
+		Even if it costs you everything.[/i]
+		*set willpower +2
+		*goto saving_Tomas
+		*page_break Next
+	
+	#You will not save Tomas. You will not take the risk
+		The Cradle breathes around you like a living thing, stone walls damp with sorrow.
+		Alin’s voice still hangs in the air, sharp with fire: [i]We can’t just hide.[/i]
+		But the truth weighs heavier, colder, sinking into your ribs until you feel hollow.
+
+		You close your eyes.
+		The square is there, carved behind your lids — Tomas bound, banners crimson, Cassariel’s hand raised in final judgment. 
+		The thought of it cuts, but so does the truth you cannot ignore.
+
+		[i]If you go, you will be caught. If you are caught, you will burn.[/i]
+		And not just you. Laemir. Alin. Every soul who has given you bread, water, shelter. The Cradle will be torn stone from stone, its bones bared to [i]the Light[/i].
+
+		Your voice comes slow, heavy, each word a stone you can barely lift.
+		[i]“We can’t.”[/i]
+
+		Alin spins on you, eyes wide, fury brighter than any flame. “We can’t?” Her fists clench, trembling. 
+		“They’re going to kill him! They’re going to make a [i]spectacle[/i] of him, and you—” She chokes on the words, her whole body shaking. 
+		“You would let him go like [i]that[/i]?”
+
+		The silence after her cry feels like a wound.
+
+		Laemir’s hand rises, not to silence, but to anchor. “Alin.” Her tone is calm, but sharp enough to cut. “You know the truth as well as I do. 
+		If the child goes, Tomas’s fire will not be the only one lit. You will watch the whole Cradle burn.”
+
+		The younger woman’s jaw works, breath ragged, tears blurring her eyes until she cannot see you clearly. Her voice breaks into a whisper, 
+		as though the anger has drained to leave only grief. “And what, then? We just sit here? While they take another, and another, 
+		until there’s no one left but us and these damn walls?”
+		*page_break Your chest aches
+		
+		Every word she throws is a blade you cannot dodge. She is not wrong. None of them are wrong.
+
+		But the truth remains.
+		[i]You can’t save Tomas.[/i]
+		Not without dooming everything else.
+
+		Your throat closes as you speak. “I… can’t.” The words taste like ash, heavy and bitter. “I won’t risk you. Any of you. If they take him, it’s already too late.”
+
+		Alin stares at you like you’ve betrayed her. [i]Maybe you have.[/i] She shakes her head, laughing once, sharp and broken. 
+		[i]“Coward,”[/i] she spits. [i]“You’re a coward.”[/i] She turns, shoving past into the shadows, her steps harsh and uneven.
+
+		The Cradle is quieter without her, but heavier too.
+
+		Laemir exhales, long and slow, her gaze fixed on the fire-pit’s dying glow. “You chose the only path left to you,” she murmurs. It should comfort you. It doesn’t. 
+		“Tomas knew the cost when he opened his door. He knew the law. He knew the risks. He chose, as we all must.”
+
+		You try to swallow, but your throat is dry. The air tastes of smoke that hasn’t even reached you yet. You know it will.
+
+		When the bells toll again, you do not move. You sit, stone pressed to your back, listening as the world above cracks open without you.
+
+		[i]Tomas’s death will not be yours to stop. But it will be yours to carry.[/i]
+		*set empathy -2
+		*goto not_saving_Tomas
+		*page_break Next
+
+*label saving_Tomas
+The Cradle exhales you like a secret into the paling dark. The tunnels’ damp stone gives way to frost-tipped earth, and the first hints of dawn smolder faintly behind the treeline.
+
+Your breath clouds in front of you as you move, each step too loud, too human, against the silence of a town waiting for judgment.
+
+Ashwood does not sleep.
+
+You see it in the lanterns burning too late in shuttered windows, the way shadows stir behind them like trapped moths. 
+You see it in the crimson cloth unfurled above doorways, [i]strips of judgment[/i] trembling in the dawn wind.
+
+Soldiers march in twos along the street, boots hammering stone. Their armor hums faintly when they move, iron chiming against iron. 
+Already the square is being dressed for spectacle — scaffolds pulled into place, torches waiting to be lit, banners stretched across wooden beams like arteries.
+
+Rumor is in the air, thicker than smoke. A hiss at a corner, a muttered prayer at a threshold. You can almost taste it — the raw iron of fear.
+
+And you are part of it now.
+
+[i]How you move next matters.[/i]
+*choice
+	#Go through the alleys
+		You slip sideways, into the narrow arteries behind the main streets, where walls lean close and refuse collects in damp heaps. 
+		The alleys smell of rot and coal dust, a mix that clings to your tongue. 
+		Here, the air is colder, shadows deeper, but the sound of the soldiers’ boots carries more clearly.
+
+		You flatten against the rough stone of a tanner’s workshop as two crimson-clad patrolmen pass, their voices low.
+
+		[i]“…said he harbored one of the cursed. Touched by Venora.”[/i]
+		[i]“Not just a stranger. The Light already knows more than they’re saying. You’ll see.”[/i]
+
+		Their words snag in your chest. [i]The Light[/i] knows more. More than the town, more than Tomas himself, maybe even more than you. A hidden script already written.
+
+		The patrol slows, the scrape of armor louder in the narrow passage. You hold your breath, counting the rhythm of their boots as they pause to mutter again.
+
+		[i]“He’s in the cellar, under the chapel. Old stone, thick. They’ll march him to the square at dawn.”[/i]
+
+		A secret not meant for ears like yours. [i]You etch it into memory.[/i]
+
+		Only when their steps fade do you move again, weaving deeper through the crooked channels of Ashwood’s spine. 
+		Here, windows are shuttered so tightly you wonder if the wood will splinter. You feel the weight of eyes behind them, watching you pass but never daring to open.
+
+		By the time you emerge near the edge of the square, your boots are mud-soaked, your palms scraped, and your lungs raw with the chill. 
+		[i]But your ears carry truths the banners will not reveal.[/i]
+		*set inside_knowledge true
+		*page_break Next
+		
+		The alleys spit you out at the edge of the square, your lungs raw with frost and coal dust. Mud cakes your boots, and your palms sting where stone scraped them. 
+		You smell like smoke and rot, like the secrets you’ve stolen.
+
+		The square is a living thing — a great mouth yawning open, ready to devour what is brought to it. 
+		Crimson banners hang like veins from the scaffolds, snapping softly in the dawn wind. 
+		Villagers gather in hushed knots, their faces pale, eyes darting, their whispers sharp with fear.
+
+		[i]But you know something they do not.[/i]
+
+		Tomas is held beneath the chapel, chained in old stone. And the Light — [i]Cassariel[/i] — already knows more than this town believes. 
+		They will not come to weigh truth against lies. They come to strip away hope.
+
+		Soldiers march across the wooden stage, boots hollow on the planks. Their presence is more than discipline — it is choreography, setting [i]the rhythm of fear[/i]. 
+		You track their patterns, the way two peel off near the chapel’s door, the way others tighten their ranks at the square’s edge.
+
+		The knowledge coils inside you. A map in your blood. A truth heavy enough to break you if you hold it too long.
+
+		And then the bell tolls. Once. [i]Twice.[/i]
+
+		The crowd stiffens. The banners breathe. And the stage awaits.
+
+		You draw deeper into shadow, heart pounding, knowing exactly where Tomas comes from, and what it means when he does.
+		*goto cass_entrance
+		*page_break Next
+		
+	#Move alongside the forest edge
+		You turn from the stone, toward the dark spines of the forest that clutch Ashwood’s flank. Roots twist up from the earth like bones breaking through skin, 
+		and every step muffled by pine needles feels like trespassing in your own home.
+
+		From the treeline, the town looks almost peaceful. Lanterns glow like fireflies, the square hums with preparation, crimson banners shiver as if in warning. 
+		You crouch low, moving carefully through the thickets, each snapped twig sounding like thunder in the still morning.
+
+		You keep yourself apart from the patrols, safer here where branches shield you and your breath disappears into bark. But every step feels like time dripping away.
+
+		And then you see it — the skeleton of the square. Wooden scaffolds dragged into place, torches bristling like teeth. 
+		Soldiers positioned at the edges, their stances not defensive but watchful, [i]controlling[/i]. This is not a trial, you realize. [i]It is a stage.[/i]
+
+		The view from here is wide. You see choke points, routes of escape, the way guards rotate in patterns like dancers in a grim ritual. 
+		You could slip through gaps if you dared.
+
+		But you also know you’ve [i]missed[/i] something — the whispers in taverns, the soldier’s idle tongues. 
+		[i]Knowledge is traded in shadows, and you’ve stayed too far from them.[/i]
+
+		Still, what you carry is its own kind of truth: [i]the trial is already a trap, and the square its mouth[/i].
+		*set safe_and_unseen true
+		*page_break Next
+		
+		From the forest’s edge, the town looks carved from smoke and fear. 
+		You crouch low behind thickets, watching villagers drift like [i]pale moths[/i] toward the square, each step drawn as if by thread.
+
+		The square itself is [i]a trap[/i], and you know it. From here you see how the scaffolds curve inward, a pen masquerading as a stage. 
+		You see how soldiers post themselves at choke points — alleys sealed by armored backs, archers high on roofs. 
+		[i]No escape, not for Tomas, not for anyone who dares protest.[/i]
+
+		It is not a trial. It is [i]containment[/i].
+
+		You slip closer through the trees, every pine needle snapping like a snapped vow beneath your boots. The torches bristle, unlit, waiting for flame. 
+		The banners sway like arteries in the wind.
+
+		You miss the whispers in the alleys, the muttered fragments of soldiers’ talk. You don’t know where Tomas is held, or how [i]the Light[/i] frames their story. 
+		But you know the shape of the jaws closing around him.
+
+		The bell tolls, its sound cutting into bark, into bone.
+
+		The crowd stiffens. The square shudders with breath.
+
+		From your vantage you see the first crimson figures moving — soldiers at the edges, a priest setting out the iron-bound book, 
+		a boy too young to be awake carrying a torch taller than himself.
+
+		The trial will not be about words. You feel it deep, marrow-deep. The banners are not cloth — they are warnings, already written.
+
+		And as you move closer, heart battering ribs, you understand: if Tomas is to survive, it will be against the shape of this trap, not the judgment within it.
+		*goto cass_entrance
+		*page_break Next
+	
+	
+	#Use the high ground that rooftops give you
+		You climb. Fingers sting as they grip cold stone, boots slipping once, twice, before you haul yourself onto the first ledge. 
+		Tiles are slick with frost, and the shingles groan faintly beneath your weight.
+
+		But once you rise above the alleys, Ashwood unfolds beneath you like a wound stitched in crimson.
+
+		Smoke curls from chimneys, mixing with the pale light of morning. Soldiers march in lines below, their crimson banners trailing like veins. 
+		From here, you are unseen. From here, you can see it all.
+
+		You creep along the slanted rooflines, crouched low, cloak dragging. The higher you climb, the more the square reveals itself — torches, scaffolds, 
+		and at its center [i]the stage of judgment[/i].
+
+		Then — voices drift upward. Faint, but carried on the morning air.
+
+		[i]“The Light doesn’t come for judgment. Not really.”[/i]
+		
+		[i]“Then why?”[/i]
+		
+		[i]“…to remind us what happens when mercy is mistaken for strength.”[/i]
+
+		The words strike cold. This is no trial. This is instruction — a lesson carved in flesh and flame.
+
+		And then you see ${cass_pronp}.
+
+		Cassariel. ${cass_big_pronpp} stride deliberate, ${cass_pronpp} figure cutting through the dawn like a blade. No mask. No veil. 
+		Pale hair catching what little light the sky offers. 
+		
+		The crowd parts before ${cass_pronp} without a word, as though compelled.
+
+		And then — impossibly — ${cass_pronpp} gaze lifts.
+
+		Straight toward you.
+
+		Your pulse stumbles. You press flat against the tiles, cheek scraping frost, heart slamming like a drum. When you dare to lift your head again, ${cass_pron} is gone.
+
+		But the certainty remains, chilling your bones. [i]You were seen.[/i]
+		*set true_purpose_of_the_trial true
+		*page_break Next
+		
+		The tiles creak as you crawl higher, frost biting your fingers, your breath dragging out in sharp, white gasps. From above, Ashwood is a wound stitched in crimson. 
+		The square at its heart beats slow and inevitable.
+
+		The rooftops give you more than a view — they give you the shape of the trial.
+
+		Villagers gather below in pressed knots, murmurs shivering like dry leaves. 
+		Soldiers march in lines that cut the square into quadrants, crimson banners slicing the morning air. 
+
+		And the knowledge you carry is heavier than whispers. This is no trial. [i]This is spectacle.[/i] A lesson carved in bone and blood for everyone who dares watch.
+
+		The bell tolls. Once. Twice.
+
+		Below, the square breathes as one, the sound trembling up through wood and stone into your ribs. Soldiers tighten their ranks. 
+		A priest lays the iron-bound book on the stand.
+
+		And from your high vantage, unseen but marked, [i]you wait for Tomas to be brought forth[/i].
+		*goto cass_entrance
+		*page_break Next
+
+*label cass_entrance
+They drag Tomas like a carcass, though his feet still scrape and stumble against the boards. 
+The square is quiet in a way that feels alive, as though the crowd itself is holding one collective breath. Even the wind has dropped.
+
+Tomas staggers once, nearly falling, and the soldier jerks his chain hard enough to wrench a groan from his throat. The sound echoes too loudly in the hush. 
+[i]No one moves.[/i] No one dares.
+
+They shove him to the center of the stage.
+
+His hands are bound tight, rope digging raw into wrists, the skin swollen where blood no longer moves freely. His shirt is torn, mud and ash ground into the fabric. 
+Hair hangs in his face like tangled wire. 
+But his eyes—
+*if (angered_soldier)
+	fire smoldering low, a spark refusing to die, teeth clenched as though to bite down on fate itself.
+	
+*else
+	glassy, hollow, rimmed in red from sleepless nights, the light gone from their depths.
+
+Tomas stands at the square’s heart, and the square devours him whole.
+*page_break Next
+
+The crowd presses closer but not too close, every face half-hidden in hoods, in shawls, in shadow. Mothers clutch children by the wrists, pulling them tight against their skirts. 
+Men stand stiff, hands clasped behind backs, jaws working. No one speaks.
+
+Every window is shuttered, but you feel eyes burning from cracks. [i]Ashwood itself is watching.[/i]
+
+Above it all, banners snap like veins, crimson against pale dawn. They ripple, restless, as if they too wait for blood.
+
+You are hidden, but your heart is not. It thunders so loud you fear someone will hear. The boards creak beneath Tomas’s weight, and each sound is a drumbeat. Each silence is worse.
+
+A priest steps forward first, robes stiff with frost, the iron-bound book clutched like a weapon. He clears his throat, but the sound falters, swallowed by the square. 
+He forces it out again, louder this time:
+
+[i]“Under the Law of Bone and Blood, we gather once more to carry out the judgment.”[/i]
+
+The words fall heavy, shaping the air into iron. The villagers shift uneasily. A baby whimpers, quickly hushed.
+
+[i]Tomas does not bow his head.[/i]
+
+The priest’s voice quavers, reciting the charges: harboring one cursed, touched by Venora, a traveler. 
+A threat to [i]the Light[/i] and to the order of flesh and faith. Each word is sharp as flint, striking sparks in the still air.
+
+The silence that follows is unbearable
+
+Then — a sound.
+
+[i]Boots.[/i]
+
+Measured, deliberate, cutting through the boards like steel across stone.
+
+The banners ripple harder. The crowd stirs, voices rising in whispers like dry leaves.
+*page_break And Cassariel appears
+
+${cass_big_pron} does not need a mask. ${cass_big_pron} does not need to raise ${cass_pronpp} voice. 
+The air itself bends as ${cass_pron} arrives, as though the square had been waiting all along for this one figure to step into it.
+
+Cassariel moves with no haste, and yet each stride seems to arrive before the eye can follow. 
+The crowd parts like water, not with panic but with reverence, a compulsion that tightens throats and lowers eyes.
+
+${cass_big_pronpp} hair, pale as bleached bone, falls in deliberate order despite the damp dawn. 
+It [i]gleams[/i] faintly where the sun’s first light catches, a cold halo, [i]too perfect[/i] to be natural. 
+${cass_big_pronpp} skin is unmarred, as though fire or blade had never touched it, smooth in a way that unsettles—untouched by years, by weather, 
+by [i]the ordinary decay[/i] of mortal flesh.
+
+The robes ${cass_pron} wears are not merely red. They are [i]the color of wounds[/i] at their freshest, the color of banners soaked through in rain, 
+stitched with threads that shimmer faintly as though wet. Veins of darker crimson run along the folds, branching like rivers through a map of cloth. 
+When the wind brushes them, they do not flap or snap like fabric but [i]shift heavily[/i], as if each layer bore weight far greater than silk should.
+
+Around ${cass_pronpp} throat hangs no ornament, no chain, [i]no mark of rank[/i]—only skin bared, unadorned, yet more [i]commanding[/i] than any crown. 
+${cass_big_pronpp} hands, pale and long-fingered, emerge from the sleeves with unsettling grace, every motion sharp, [i]precise[/i], as if rehearsed through lifetimes.
+
+And ${cass_pronpp} eyes—
+
+At first, you think them gray. But when the lantern light sways or the banners ripple, you see flecks beneath the pale surface: 
+hints of blue, ash, even a strange faint gold, like a sky seen through smoke. They are not the eyes of someone young, though no wrinkle mars ${cass_pronpp} face. 
+They are eyes that have watched fire take hold and not blinked. Eyes that measure not flesh but marrow.
+
+The people nearest the stage cannot meet them. They lower their gazes as Cassariel passes, as if exposure too long might sear the sight from them. 
+Even the priest [i]falters[/i], clutching his book tighter, bowing deeper than the law requires.
+*page_break Cassariel does not acknowledge him
+
+${cass_big_pron} walks as inevitability walks. Like judgment that has already been decided.
+
+And when ${cass_pron} reaches the platform and stands before Tomas, 
+the square is silent in a way that feels less like reverence and more like the hush before an executioner’s blade falls.
+The soldiers stand straighter. The priest bows low.
+
+[i]Cassariel does not bow.[/i]
+
+${cass_big_pron} mounts the platform, and though ${cass_pron} has not spoken yet, the silence deepens. The entire square leans forward, pulled taut like a string.
+
+And you—[i]hidden[/i], watching, your heart hammering against ribs—know you are caught in that silence too.
+
+Cassariel stops before Tomas.
+
+${cass_big_pronpp} gaze lingers, sharp enough to cut, cold enough to burn. For a long moment ${cass_pron} simply looks at him, head tilted slightly, 
+as though weighing his soul against a measure only ${cass_pron} can see.
+
+Tomas shifts, chains rattling. His breath comes ragged.
+
+The crowd seems to breathe with him, each inhale stolen, each exhale stifled.
+
+Finally Cassariel speaks, voice quiet but carried on air so still that every word [i]slices[/i] through the square.
+
+“The stain of corruption spreads. It festers not only in the body, but in the heart. To shelter such blight…” ${cass_big_pron} pauses, and the air itself seems to lean in. 
+“…is to share in its sin.”
+
+The crowd shivers.
+
+Tomas trembles.
+
+And you, pressed into shadow, feel the weight of that gaze sweep outward, past him, past the crowd, as if searching—reaching—toward the very place where you hide.
+*page_break Next
+
+The square is taut with expectation, every breath measured, every step deliberate. Tomas stands at the center, 
+shoulders squared, eyes defiant—or perhaps that’s memory fooling you, because the strain in his jaw and the shallow rise of his chest betray the weight he bears. 
+The crowd is a living thing, pressed tight against one another, murmurs winding through them like smoke curling around stone.
+
+Cassariel walks the stage with measured inevitability, robes flowing crimson and ivory, hair catching the weak morning light, a figure both [i]divine and terrifying[/i]. 
+The soldiers flank him, armor gleaming, eyes unyielding. Every movement is choreographed for maximum impression, [i]the Law of Bone and Blood[/i] made flesh before your eyes.
+
+And Tomas faces it all alone. The charges are read aloud again, the words slicing the air: harboring the cursed, sheltering the touched, aiding a blasphemer. 
+
+You clench your fists. Magic hums faintly beneath your skin, restless and eager, but the answer is not yet clear. To move—or to wait—is a weight heavier than stone. 
+The crowd watches Tomas as though he were already condemned, the inevitability of Cassariel’s judgment folding over him like a shroud.
+
+And then, in a breath between accusations, a crack appears—not in the stage, not in the Law, but in the rhythm of certainty. 
+A pause in a guard’s step, a flicker of doubt on a villager’s face, a misstep in the procession. It is small, but it is there. 
+The world itself seems to lean toward a question: [i]Will someone act? Will someone break the shape of inevitability?[/i]
+
+Your heart hammers. Every instinct, every whisper of power, every memory of past warnings and lessons points toward a single truth: 
+Tomas will not endure the full weight of this trial alone. 
+[i]And now, the choices reveal themselves, urgent, impossible, calling your name through the heat of fear and anticipation.[/i]
+*choice
+	#Whisper into the ears of the crowd
+		The crowd leans in, silent but for the occasional scrape of boots and the soft shuffle of cloaks. 
+		The sun barely brushes the rooftops, gilding banners with fleeting gold. 
+		You move along the periphery, a shadow among shadows, breathing the same air that presses against Tomas’s back. 
+		Every step is measured, every heartbeat a drumbeat in the hush.
+
+		Your voice barely rises above a whisper, but it is enough. Enough to curl like smoke into a villager’s ear, enough to seed doubt in a guard’s mind. 
+		[i]“The Light has been deceived… the wrong man stands accused…”[/i] It slips into another, softer this time, carried in the rhythm of your breath: 
+		[i]“The cursed walk among us, but not in this one… see it before it is too late.”[/i]
+
+		You step closer, unseen, your words drifting like leaves across the square. [i]“Do you see? Justice is blind tonight,”[/i] you murmur, and another fragment finds its mark: 
+		[i]“Who truly hides corruption? Look closer before you strike.”[/i] 
+		The villagers stir subtly, a shuffle of feet, a half-formed question on a tongue that had been too afraid to speak.
+
+		[i]“Do you serve the Light—or your fear?”[/i] your voice coils around a soldier at the edge of the stage, carrying the weight of a truth he cannot name. 
+		[i]“Truth bends quietly in shadow… they have led you astray.”[/i] 
+		You let the words linger, and another reaches a merchant who remembers kindness in a world that has forgotten it: 
+		[i]“Remember the kindness he once showed… does it not speak louder than their accusations?”[/i]
+
+		[i]“The law demands blood, but conscience demands something else,”[/i] you breathe, the syllables twisting into the murmurs now creeping through the crowd. 
+		[i]“Will you be part of the ruin… or will you pause before the fire takes him?”[/i]
+
+		Each fragment falls like a stone into water, rippling outward, touching ears that had held only terror moments before. 
+		Hesitation blooms, soft, uncertain, but alive—a crack in the rhythm of the trial, a moment that could shift everything.
+
+		You slip past a group of onlookers huddled near the stage. One woman clutches her children closer, wide-eyed. 
+		Her husband glances at the soldiers, then at Tomas, the suspicion in his gaze shifting imperceptibly as your whispered words curl into his mind. 
+		A boy nearby stiffens, hearing your murmur as though it were the voice of truth, and shivers.
+
+		Cassariel’s gaze sweeps across the square, pale hair catching dawn’s first light, robes flowing like liquid crimson. 
+		Every soldier is still, every hand poised, but somewhere deep in the tide of humanity, a crack begins to widen. A whispered word becomes a thought. 
+		*page_break A thought becomes a doubt
+
+		You skirt closer to the stage, eyes fixed on Tomas. He stands straighter now, some spark of recognition—or hope—igniting. 
+		You can almost see it flicker in the set of his jaw, a defiance unbroken even under the weight of accusation. 
+		The murmurs grow louder, not from you, but from those you have touched without them knowing. Hesitation rises in the hearts of the fearful.
+
+		A guard shifts, weight uneven, just for an instant. Another looks up at Cassariel, brow furrowed, questioning the certainty that had seemed unassailable. 
+		The moment stretches thin, a fragile filament between order and chaos.
+
+		Then, like a fracture in stone, it happens. The stage is a hive of activity, not yet violent, but disrupted. Guards glance at one another, searching for assurance. 
+		Tomas’s hands are still bound, but his shoulders rise higher, back straighter. 
+		You feel it—the possibility, the opening, the crack in inevitability that might allow him to slip free.
+
+		A woman near the front whispers urgently to her neighbor, [i]“They have it wrong… it’s not him…”[/i] The words cascade, fragile yet contagious. 
+		Tomas’s eyes flicker toward the edges of the square, catching yours for the briefest instant, a spark of understanding.
+
+		The crowd becomes a living thing, uncertainty spreading like wildfire. Cassariel notices, yes—but ${cass_pronpp} face remains impassive. 
+		The soldiers hesitate, if only for a breath, and that breath is all it takes.
+
+		The chaos is quiet but swift. Tomas is pulled back from the center of judgment, guided through hidden alleys and turned corners, 
+		unseen hands making paths that had been invisible moments before. Your whispers have done their work—but at [i]a cost[/i]. Those murmurs, seeds of doubt, will linger. 
+		They may twist, mutate, and return to you in ways unforeseen. [i]For now, Tomas is safe, but the ripples you have cast will follow you far beyond this dawn.[/i]
+		*set twisted_whispers true
+		*set Tomas_is_alive true
+		*goto the_aftermath_of_the_trial
+		
+	#You feel Venora’s shadow trying to guide you
+		The air trembles. You feel it first in your bones, a resonance unbidden, wild and ancient. 
+		The trial unfolds like a tapestry, each thread tight with tension, each face in the crowd a mirror of fear and expectation. 
+		Tomas stands at the center, shoulders squared, eyes locked forward—but the weight of the square presses in, a tide threatening to drown him.
+
+		Then it stirs within you. Not your will, not a conscious thought, but [i]the echo of her[/i]: Venora’s fire, ancient and unrestrained, threading through your veins. 
+		A pulse in the stone, a tremor in the banners above, a whisper in the wind that carries no tongue.
+
+		The torches shiver, casting flickering tongues of light that twist across the cobblestones, painting the square in crimson and shadow. 
+		The banners snap as if caught in a violent wind, but the air is still, heavy with a tension that tastes metallic and ancient. 
+		Each echo of fabric against itself seems too loud, a drumbeat against the quiet panic growing among the watchers. 
+		The scent of iron and smoke rises, but there is no fire—only the invisible weight of something older, [i]something bending the very rules of the world[/i], 
+		pressing against the edges of perception.
+
+		You don’t speak. You don’t move. Yet everything pulses through you: 
+		the anxious murmur of villagers, the shifting of boots on stone, the subtle intake of breath before a scream is made. 
+		The crowd stirs instinctively, stepping back as if the square itself is alive, sensing [i]the anomaly[/i] in the air. 
+		Soldiers shift, unease knitting their brows, scanning the square for a cause, for a spark that could explain the tremor of their reality. 
+		The cobblestones groan beneath the weight of the anticipation, and the square becomes a living thing, quivering with expectation, 
+		caught in a delicate balance between awe and terror.
+
+		Cassariel lifts a hand, a signal meant to command, but the air [i]resists[/i], curling around them like a living barrier. 
+		Their robes, already crimson as blood, ripple [i]unnaturally[/i], the threads catching light in patterns too deliberate, too purposeful, like veins moving beneath skin. 
+		The banners twist and writhe, a forest of cloth bending in a storm that has no wind. 
+		Eyes follow, some skyward, drawn to the strange dance above; others track the trembling cobbles, searching for an explanation in the cracks and shadows. 
+		A low hum rises from the crowd, a sound made not by voice but by the collective thrum of fear and wonder. 
+		Chaos blooms quietly in their hearts, and in that bloom, the tiniest of cracks appears.
+		*page_break Next
+
+		Tomas moves. Not with rash haste, not in desperation, but with the deliberate precision of one who has practiced in shadows far deeper than these streets. 
+		Every step calculated, measured, each movement guided by instinct sharpened by years of surviving impossible odds. 
+		The guards [i]hesitate[/i]—one glances at another, uncertainty flickering across their features—and in that pause, the square itself bends, 
+		shadows stretching unnaturally long, alleyways opening where they should have been closed, doors creaking just enough to offer escape. 
+		The echo of Venora’s power hums in the air, invisible but palpable, shielding him, []twisting[/i] perception, masking his presence with something almost sentient. 
+		And before any hand can reach him, before the crowd can comprehend the shift, he is gone, swallowed by the night and the magic that protects him.
+
+		The square erupts—not in relief, not in triumph, but in something [i]rawer[/i], something that tastes of fear laced with awe. Voices rise in scattered whispers, 
+		[i]“Did you see that? How—what—?”[/i] Soldiers snap to attention, glancing at one another, faces taut with disbelief, their certainty fractured. 
+		And all eyes, eventually, turn to Cassariel, whose figure stands immovable amid the chaos. They do not panic, do not shout; their posture is a blade held steady in a storm. 
+		But even [i]the unflinching[/i] cannot hide the tightening of a jaw, the subtle narrowing of eyes. 
+		The impossible has occurred, and they know it, every inch of their being acknowledging the intrusion of a power far beyond the ordinary.
+		*page_break Next
+
+		And you—your chest burns with it. The warmth, the echo of fire threading through you, the undeniable resonance of something older, deeper than yourself. 
+		You feel the surge of energy that guided him, protected him, a force that is at once terrifying and magnificent. You did not act alone. 
+		Something ancient, vigilant, and [i]impossibly powerful[/i] intervened in the trial, bending the fates that had seemed so absolute. 
+		Tomas lives, not because of courage alone, not merely because of skill, but because of something you cannot yet name, cannot yet fully comprehend.
+
+		Cassariel’s gaze finds yours, a fleeting connection that freezes time. 
+		Sharp, calculating, a silent promise etched in the line of ${cass_pronpp} mouth and the hard tilt of ${cass_pronpp} head: [i]this will not be forgotten[/i]. 
+		${cass_big_pron} has seen the unseen, recognized the impossible, and now marked it as a debt, a note in a ledger that will follow you across every shadowed step you take. 
+		You understand—this act, this intrusion into the balance of power, has [i]consequences[/i] that will not be kind.
+
+		The world tilts imperceptibly, subtly, yet irrevocably. The square breathes again, slow and measured, as if trying to forget the moment it almost [i]shattered[/i]. 
+		The trial continues, voices raised again in formal cadence, but it is hollow now, lacking the center it once had. 
+		Whispers thread through the crowd, curling like smoke around the legs of soldiers, across the cracked cobblestones, brushing ears with wonder, fear, and awe alike. 
+		The story of what just happened will grow in the telling, morphing, bending perception, but one truth remains unshakable: [i]Tomas lives[/i]. 
+		And in his survival, the square, the Church, and the world itself have been irrevocably altered.
+		*set venora_saved_tomas true
+		*set Tomas_is_alive true
+		*goto the_aftermath_of_the_trial
+		
+	#You will collect an old debt
+		The square thrums with tension. 
+		Tomas stands on the stage, shoulders straight, chest rising and falling with slow, deliberate breaths, 
+		yet you can see the strain—[i]the weight[/i] pressing into every line of his body. The crowd watches, held in the invisible grip of [i]The Light of Valtessa[/i], 
+		their eyes wide, their breaths shallow. Even the torches seem to burn with quiet apprehension, shadows flickering across the faces of the gathered villagers.
+
+		You do not move. [i]You cannot[/i]. But you see. Every glance, every footstep, every tightening of a hand on a rail—all of it threads through your mind. 
+		And then you remember. The debts owed, the quiet kindnesses unnoticed, the lives you or Tomas have touched without the world seeing.
+
+		From the far edges of the square, movement catches your eye. 
+		A villager you once aided, long forgotten in the haste of everyday survival, pauses in their work, a basket of food abandoned at their feet. 
+		A guard, [i]young[/i], who had once allowed Tomas to pass when orders might have demanded arrest, hesitates mid-step. And then, like a shadow materializing from memory, 
+		[i]Elden[/i] emerges—silent, unseen, blending with the tree line at the forest’s edge, eyes bright and sharp, hands ready.
+
+		The moment is delicate. Imperceptible. Yet it begins to bend the fabric of the trial. 
+		One guard steps aside; a cart blocks a vantage point; a shouted order falls unheard. 
+		A door creaks open behind the stage. Someone coughs—[i]a false alarm[/i], yet perfectly timed. 
+		[i]The Law of Bone and Blood[/i] begins to stumble, its precision disrupted not by force, but by loyalty, by memory, [i]by debts unpaid[/i].
+		*page_break Next
+
+		Tomas shifts, sensing the imperceptible fracture. He does not run blindly; he does not falter. 
+		He moves with careful calculation, following the paths opening before him, guided by unseen hands who remember his past [i]kindnesses[/i], 
+		his small acts of courage, his quiet strength. Each step is deliberate, every motion a dance with chance.
+
+		The crowd stirs. Whispers snake through the air: [i]“Who moves there? Did you see?”[/i] Eyes dart, suspicions ripple, 
+		but the Crimson Inquisitors of [i]the Light[/i] cannot identify the source. Their ceremonial precision falters. The rhythm of judgment breaks, and in that rupture, 
+		Tomas slips through—a figure carved from shadows and trust, unseen yet supported by a network of silent debts.
+
+		Cassariel’s gaze sweeps the square. ${cass_big_pronpp} lips tighten, jaw rigid, as ${cass_pron} perceives the fracture in [i]${cass_pronpp}[/i] design. 
+		Not magic, not chaos—mere loyalty, [i]memory[/i], quiet courage. And it is enough. 
+		Tomas vanishes. One moment he is there beneath the banners, a figure bowed beneath judgment, and the next the square swallows him whole. 
+		Alleys bend in ways they should not, barns yawn open like waiting mouths, the dark fringe of the forest gathers him close. 
+		To the villagers he is gone as if dissolved into the stone itself. To you he is alive—fleeing, breathing, [i]safe for now[/i], 
+		though the world beyond these streets will know nothing of his survival.
+		*page_break Next
+
+		Your lungs remember to move. The breath leaves you jagged, sharp as glass, relief coursing through you with the sting of something too sweet, 
+		too bitter, too costly to savor. The air tastes of iron and ash and fear. Tomas lives, yes. [i]But lives are not spared freely.[/i] 
+		This kind of salvation carries strings—threads woven by unseen hands, obligations that tighten like cords around the throat. Someone intervened. 
+		Someone kept faith when all else had broken. Someone opened a door, looked the other way, or bent a law that was never meant to bend. 
+		And now you feel it: you, Tomas, Elden—bound not by choice, but by the weight of [i]the debt[/i] that belongs to all of you.
+
+		The square itself does not breathe so easily. The trial does not end because the accused has vanished. 
+		It hangs, half-complete, its ritual severed, bleeding meaning into the air. Murmurs swell into confusion, disbelief, indignation. 
+		A child cries, hushed quickly by a mother who dares not lift her eyes. Soldiers jostle each other, uncertain whether to pursue, to strike, or to wait. 
+		And all the while, the banners above still writhe faintly, the aftertaste of something unearthly lingering like smoke in a closed room.
+		*set you_owe_Elden true
+		*set Tomas_is_alive true
+		*goto the_aftermath_of_the_trial
+
+*label the_aftermath_of_the_trial
+The square empties slowly, but not in silence. People do not run, not openly—not while the Inquisitors remain, crimson still vivid under the sickly dawn. 
+They peel away in knots, hushed voices clinging to the cobbles like fog. 
+Mothers clutch children tighter, men mutter half-sentences, eyes darting to the alleys as if Tomas might yet emerge, a shadow refusing to die. 
+Suspicion walks beside every villager. None trust what they saw, and yet all know it will not be forgotten.
+
+[i]Tomas is gone.[/i]
+
+Gone, and yet his absence fills the space louder than fire ever could. 
+The trial, meant to end with certainty, with cleansing flame, has been severed mid-breath. The ritual is broken, and rituals do not break cleanly. 
+They leave splinters. [i]They leave wounds.[/i]
+
+You stand pressed against the stone, watching as the Crimson Inquisitors gather. Their crimson robes snap in the windless air, sharp as torn banners of war. 
+Cassariel does not speak immediately. ${cass_big_pron} is still, so still that the crowd’s noise falters, [i]dies[/i], bends toward that silence. 
+When at last ${cass_pron} turns, ${cass_pronpp} pale hair catching the pallid light, ${cass_pronpp} eyes are knives unsheathed. No mask hides ${cass_pronp}. 
+${cass_big_pron} needs none. ${cass_big_pronpp} fury is naked and honed, and it promises that this wound will not close without [i]blood[/i].
+*page_break Next
+
+Cassariel lets the silence bleed until the square itself aches from it. Then, at last, ${cass_pronpp} voice rises—not loud, but [i]heavy[/i], like a hand pressed on every throat.
+
+“You have witnessed tonight what happens when mercy is mistaken for weakness.”
+
+${cass_big_pron} steps forward, crimson robe catching the weak light. No torch flickers now; even fire seems [i]to bow[/i] before ${cass_pronp}.
+
+“The guilty man is gone. He is not cleansed. His stain will fester. 
+And those who shield him—those who whisper lies into your ears, those who open doors for shadows—have bound themselves to [b]his[/b] sin.”
+
+The crowd shudders. Mothers clutch children tighter. A guard swallows hard, hand twitching on his weapon.
+
+“This is not his trial alone,” Cassariel says, eyes sweeping the villagers, unblinking, endless. 
+“This is yours. Every breath you take will prove your loyalty or your [i]betrayal[/i]. Every eye that looks away will be seen. Every silence will be heard.”
+
+${cass_big_pron} pauses, long enough that the square itself seems to draw breath with ${cass_pronp}.
+
+[i]“Do not mistake his escape for victory. It is only delay. The Light does not forget. The Light does not forgive. And the Light has already marked those who stray.”[/i]
+
+${cass_big_pronpp} gaze lifts slightly—upward, yet not toward the heavens. [i]Toward you.[/i] 
+Not directly, not fully, but close enough that your chest locks tight, your skin prickles. ${cass_big_pron} knows. ${cass_big_pron} cannot prove it, not yet—but ${cass_pron} knows.
+
+Cassariel lowers ${cass_pronpp} hand at last, final as a blade returning to its sheath.
+
+“Return to your homes. Pray for strength. [b]The hunt begins.[/b]”
+
+And just like that, the trial is over—not ended, not resolved, but suspended in the air like a storm about to break.
+*page_break Next
+
+The whispers coil already. You hear them as you retreat, as you slip through the edge of the square like smoke through cracks in a wall. 
+
+*if (twisted_whispers)
+	The wrong man… the cursed walks among us still… Cassariel deceived… Your words—if they were yours—echo back at you, distorted, reshaped by fear. They no longer belong to you. They belong to the town, to its panic, to the way people crave reason even in madness. And reason twists. Reason corrodes. What you began as survival may yet bloom into poison.
+
+*if (venora_saved_tomas)
+	Perhaps it was not your words at all. Perhaps it was something else that turned the square into a living thing, trembling under invisible weight. The torches that bent without wind, the banners that writhed like veins alive, the cobblestones that groaned like bone under strain. Venora’s shadow—[i]your shadow[i]—rising unbidden, unshaped, a hand too large for your frame pressing down upon the world. You did not call it, and yet it answered. It is power, [i]yes[/i]. It is salvation, [i]yes[/i]. But it is also recognition. Cassariel felt it. Saw it. And now [i]the Light will hunt you[/i] not as rumor, but as certainty.
+
+*if (you_owe_Elden)
+	Now you owe. A hand that once you held, or once held you. A favor remembered, a debt repaid. A soldier whose grip slackened, a villager whose eyes turned away, Elden’s shadow moving just out of sight. The kind of help that asks no coin in the moment, but carves its tally deep all the same. [i]Tomas walks free because someone chose to risk themselves in silence.[/i] And now you, and he, and Elden are marked not only by escape, but by obligation. [i]You owe.[/i]
+
+However it happened, the result is the same.
+
+Tomas is not in the square.
+
+And the square will never be the same.
+
+The walk back is endless. Every turn of the alley feels too narrow, every shadow too deep. 
+The weight of what happened presses close, your skin still humming as though the trial clings to you, stitched into your bones. 
+Behind you, the bells toll again—one, two, three, a hollow lament. It is not for the dead, not this time. It is for order. For the breach of order. And it tolls for [i]you[/i].
+
+You keep to the edge, pressed against cold stone, as the Inquisitors’ robes flare crimson against the dusk.  
+The torches are too bright now, too hot, painting the square in a fever glow.
+
+You think you are unseen. You think you are part of the stone.
+
+Then—
+
+[i]A hand.[/i]
+
+Not the hand of an Inquisitor, not the clutch of authority, but something sharper because it is known. 
+It finds your wrist with precision, not fumbling, not pleading, but claiming. Before your breath can rise, you are pulled from the square, the stone, the torches—into shadow.
+
+An alley swallows you whole. The shouts of the square grow muffled, replaced by the thundering in your chest.
+
+[i]And in that dark[/i]
+*choice
+	#A hand that belongs to Solian
+		The hand that pulls you is strong but careful, as though its owner fears hurting you more than being caught. 
+		You’re tugged into a narrow alley, the sound of bells echoing overhead, muffled by the press of stone walls. 
+		Your shoulder collides with ${sol_pronpp} chest, and ${sol_pronpp} arm steadies you before you can stumble.
+
+		“Are you alright?” Sol’s voice is low but urgent, the kind of whisper that trembles with more concern than fear. 
+		${sol_big_pronpp} eyes dart past you, scanning the square behind, then fall back to your face with open relief. “Gods, you scared me. 
+		Standing out there like—” ${sol_big_pron} cuts ${sol_him} off, shaking ${sol_pronpp} head. “Never mind. You’re here. You’re safe.”
+
+		${sol_big_pronpp} breath hitches, not from running but from the weight of the moment. 
+		The crowd’s roar still hangs in the air, the shouts of confusion and anger a tide that refuses to ebb. 
+		The torches flicker red against the stone, shadows jerking like wild animals.
+
+		Solian leans close, shoulders hunched to make ${sol_him} smaller in the darkness, though ${sol_pronpp} body still shields you instinctively. 
+		${sol_big_pron} smells of leather and steel, but beneath it something warm, earthy, familiar. ${sol_big_pronpp} voice softens. 
+		“I saw them looking at you. Cassariel… the others. I thought—” ${sol_big_pronpp} words break off, and ${sol_pron} swallows. [i]“I thought I’d lose you too.”[/i]
+
+		For a moment, the bells are the only sound between you. One, two, three, heavy as hammer-blows. ${sol_big_pronpp} hand is still on your arm, firm but not binding. 
+		[i]A tether, not a chain.[/i]
+		*page_break Next
+
+		${sol_big_pron} smiles then—an anxious, crooked smile, the kind ${sol_pron} gives when the world feels too sharp and ${sol_pron} wants to blunt it with light. 
+		“You don’t even know how reckless you are, do you? Charging into storms like you’re untouchable. I swear, you’ll give me [i]grey hair[/i] before my time.” 
+		${sol_big_pronpp} voice wavers on the edge of laughter, though ${sol_pronpp} eyes are still too bright, too shaken.
+
+		The alley breathes with you, the world outside held at bay by ${sol_pronpp} presence. 
+		But you feel the truth pressing in: the trial is broken, the balance shattered, and Cassariel will not forget. 
+		You open your mouth to say it—to remind ${sol_pronp} that this is only the beginning—but Solian shakes ${sol_pronpp} head before you can.
+
+		“Don’t,” ${sol_pron} whispers. “Not tonight. Just… stay with me. Let me keep you safe, just this once. [i]Please.[/i]”
+
+		There’s nothing commanding in it. No debt, no bargain, no hidden edge. Only earnestness, so open it aches.
+
+		The bells toll again. The crowd’s noise swells and falls. 
+		And Solian’s hand lingers, warm and steady in the dark, anchoring you to something good, something loyal, something that refuses to let go.
+		*goto after_ro_encounter
+		*page_break Next
+	
+	#A hand that belongs to Elden
+		The hand that seizes you is enormous, calloused, and unyielding. Not cruel—never cruel—but [i]absolute[/i]. 
+		You’re pulled into shadow before you can even cry out, the world of firelight and fury cut off by stone. 
+		The bells thunder on behind you, three heavy tolls that shake the marrow, but here, in the narrow throat of the alley, only your heartbeat fills the silence.
+
+		You twist, ready to resist, ready to fight—but then you see ${elden_pronp}.
+
+		${elden_big_pron} fills the space. The alley looks too small for ${elden_pronpp} presence, stone bowing inward to frame ${elden_pronp}. 
+		Broad shoulders, a breastplate dulled by time but polished at the edges from use. 
+		${elden_big_pronpp} face—half-shadowed—bears no malice. Only quiet weight, as if carved from the same stone that surrounds you.
+
+		For a moment, neither of you speak. The crowd roars in the square, Cassariel’s voice cutting like a blade through the chaos, 
+		but here—here the silence is thick, [i]measured[/i].
+		
+		*if (you_owe_Elden)
+			*goto you_do_owe_elden
+		
+		*else
+			*goto you_do_not_owe_elden
+	
+	
+	#A hand that belongs to Kai
+		The hand is quick, almost careless in its urgency, dragging you through a gap between barns into the narrow passage behind them. 
+		You collide with them shoulder-first, breath knocked loose.
+
+		Kai grins, though the smile is sharp, feral, born of adrenaline rather than ease. “You like standing in the open, don’t you? 
+		Thought you might wave at them next.” Their voice is low, teasing, but beneath it lies the thrum of fear.
+
+		They lean close, [i]too close[/i], eyes gleaming with mischief in the dark. “Cassariel saw you. Maybe not with ${cass_pronpp} eyes, 
+		but ${cass_pron} felt you. I know it. You’re marked now.”
+
+		The bells toll again, shaking dust from the rafters. Kai flinches, but only slightly, then grins wider, masking it. “Good thing I’m here, yeah? 
+		You’d be roasted without me. Or worse—forgotten.”
+
+		They step back, flourishing like an actor on a stage, though the space is too narrow, the night too grim. 
+		Still, there is something in the movement that sparks—like laughter in a graveyard, [i]wrong but alive[/i].
+
+		“Come on. Let’s move before they send their hounds sniffing. I’ll keep you one step ahead.”
+
+		You hesitate. Their grin falters, just for a breath, before returning, sharper. “Don’t look at me like that. You want to live, don’t you? Then trust me.”
+
+		And you realize: with Kai, survival will never be simple. It will always taste of danger, of smoke, of laughter carved into fear.
+		*goto after_ro_encounter
+		*page_break Next
+	
+	
+	#A hand that belongs to Lyssandra
+		The hand that catches you is smaller, trembling, but no less insistent. You are pulled into shadow, and for a heartbeat you think it a dream, a trick of exhaustion.
+
+		Then you see her.
+
+		Lyssandra.
+
+		Her cloak is travel-stained, her hair loose, eyes wide as stormlight. She should [b]not[/b] be here. 
+		You know it—she was gone the moment the Crimson Inquisitors came, slipping out with her bundles and books before their boots struck the square. 
+		And yet, here she stands, breath ragged from running, clutching at you like someone who has broken every vow just to return.
+
+		“I shouldn’t…” Her voice cracks, low, sharp with fear. “I shouldn’t be here. If they see—” She stops herself, biting down hard on the words. 
+		Her gaze flicks back toward the square, where Cassariel’s voice still carries like a blade across stone.
+
+		For a long moment, neither of you speak. The alley presses close, the bells still tolling, the square alive with chaos you cannot re-enter. 
+		Lyssandra’s fingers loosen, but she doesn’t let go.
+
+		[i]“I couldn’t leave you,”[/i] she says at last. Not loud, not strong—just the truth, bared and raw.
+
+		There is no plan in her eyes. No strategy, no clever trick. Only a risk she could not stop herself from taking.
+
+		And in that silence, you know: she should not be here. And yet, she is.
+		*goto after_ro_encounter
+		*page_break Next
+	
+	
+	#A hand that belongs to Cassariel
+		The hand that takes you is nothing like the others. It is [i]cold[/i], elegant, inevitable. You are not pulled—you are claimed.
+
+		The alley closes around you, and when you turn, Cassariel is there.
+
+		No mask. No robe to shield ${cass_pronpp} presence. Only the terrible clarity of ${cass_pronpp} gaze, pale and merciless in the dark. 
+		The torches from the square do not reach this place, and yet ${cass_pronpp} face is lit, as though the shadows themselves bend to [i]reveal[/i] ${cass_pronp}.
+
+		“You thought yourself hidden,” ${cass_pron} says softly. ${cass_big_pronpp} voice is not raised, but the alley itself seems to carry it, echoing, amplifying, 
+		until it fills your skull. 
+		[i]“But I saw you. I felt you.”[/i]
+
+		The bells toll. Cassariel does not look away.
+
+		“Tomas is gone. Vanished like smoke. And where smoke curls, fire waits.” ${cass_big_pronpp} hand tightens on your arm, not cruelly, but inexorably. 
+		“You carry something. Something older. [i]Something that belongs to me.[/i]”
+
+		${cass_big_pronpp} face draws closer, until ${cass_pronpp} breath brushes your cheek. “You cannot hide it. Not from me.”
+
+		Then ${cass_pron} releases you. Steps back.
+
+		The alley yawns wide, but it is no freedom. Only reprieve.
+
+		Cassariel’s eyes linger on yours, glinting with promise. “Run, if you must. But remember—what flees always returns. And when you return...”
+
+		${cass_big_pron} vanishes, as if the shadows fold ${cass_pronp} away.
+
+		And you are left trembling, not with cold, not with fear, but with inevitability.
+		*goto after_ro_encounter
+		*page_break Next
+
+*label you_do_owe_elden
+Finally, ${elden_pronpp} voice comes. Low. Careful. Like one who has not spoken in years, and now fears the sound of ${elden_him}.
+“You should not have been there.”
+
+It is not rebuke. Not quite. More… statement. A truth pressed into the dark between you. 
+${elden_big_pronpp} eyes—mismatched, unreadable—hold yours with steady gravity, and for a moment you feel like a child caught in the gaze of a mountain.
+
+${elden_big_pronpp} hand loosens from your arm. Not apology, but permission. ${elden_big_pron} studies you in silence, 
+and you realize this is not the first time ${elden_pron} has watched you. 
+Only the first time ${elden_pron} has allowed you to watch ${elden_pronp} back.
+
+“I kept you from their eyes,” ${elden_pron} says, almost hesitant, as though speaking aloud cracks something private. “That is all I will say of it.”
+
+${elden_big_pronpp} breath clouds in the cold. ${elden_big_pron} does not step closer, does not demand thanks. Only stands, immense and still, like a sentinel pulled into flesh. 
+There is something almost reverent in ${elden_pronpp} [i]restraint[/i].
+
+Beyond the alley, torches hiss, soldiers shout. The square is unraveling, and yet here is this ${elden_worm}—this shadow made solid—offering no chain, no bargain. Only presence.
+
+“You are not safe,” ${elden_pron} says simply. Not warning. Not comfort. Only fact. “But you are alive.”
+
+The words settle between you, heavy as iron.
+
+You want to speak, but no words come. ${elden_big_pron} does not seem to expect them. 
+Already, ${elden_pronpp} gaze has shifted toward the mouth of the alley, to the wavering light beyond, as if listening to something only ${elden_pron} can hear.
+
+And when ${elden_pronpp} eyes return to you, for just a breath, they soften. Not much. But enough to tell you this: [i]you are not alone in being marked[/i].
+*goto after_ro_encounter
+*page_break Next
+
+*label you_do_not_owe_elden
+${elden_big_pronpp} mismatched gaze is steady, unreadable. No demand, no menace. Just weight. 
+${elden_big_pronpp} hand falls from your arm the instant you are steady, as though ${elden_pron} cannot bear to linger in contact.
+
+“They would have seen you,” ${elden_pron} says simply. ${elden_big_pronpp} voice is quiet, almost reluctant, but steady. “Now they have not.”
+
+That is all.
+
+The square roars, Cassariel’s fury slicing the air, but Elden does not look back. ${elden_big_pron} doesn’t ask for gratitude, doesn’t name a cost. 
+Already ${elden_pron} is turning away, massive shoulders eclipsing the alley’s weak light.
+
+You breathe in to speak, but the words falter. ${elden_big_pron} does not wait for them.
+
+When ${elden_pron} looks back, just once, it is not to bind you. Not to remind you. Only to be certain you are still there. [i]Alive.[/i]
+
+Then ${elden_pron} is gone, footsteps swallowed by the chaos outside, leaving no shadow but your own.
+*goto after_ro_encounter
+*page_break Next
+
+*label after_ro_encounter
+When at last the Cradle’s stone mouth swallows you, the silence there is not relief. It is taut, waiting to snap. 
+Laemir waits near the firepit, her hands busy with nothing, her eyes fixed on the entrance as though she could drag you through it by sheer will. 
+Alina stands too, [i]restless[/i], shoulders sharp with unspent rage. Neither speaks at first. They look at you, they search your face, and they know.
+
+[i]“He’s alive,”[/i] you say, though your voice feels foreign, cracked with the weight of everything unspoken.
+
+Alina exhales hard, a choked sound, half-sob, half-snarl. She turns away, fists braced against the wall. Laemir closes her eyes. 
+Her hands unclench slowly, but she does not cross the space to embrace you. Relief, yes—but threaded with [i]fear[/i] too thick to disguise.
+
+“Alive,” she repeats at last. [i]“For now.”[/i]
+
+The words sit between you like stones, undeniable. For now. Because the trial was not an end, only a fracture. Cassariel does not forget. [i]The Church does not forgive.[/i] 
+The villagers do not unhear what they heard, whether it was your whispers, Venora’s shadow, or the debt’s hand. 
+What happened in that square will spill out like blood from a wound, carried into homes, into prayers, into judgments yet to come.
+
+“Do you understand what this means?” Laemir asks, voice low, steady. Not accusing. Not yet.
+*page_break You do
+
+[i]It means[/i] Tomas lives, but every path that brought him freedom has its price.
+[i]It means[/i] Cassariel will scour the town, the roads, the forest, until the breach is sealed.
+[i]It means[/i] whispers will grow teeth, suspicion will take root, and even those who prayed for Tomas might now turn to the Church, desperate to prove their own loyalty.
+[i]It means you are bound[/i]—by rumor, by shadow, by debt—and there is no severing cleanly what has already been tied.
+
+Alina spins back toward you, eyes bright with fury and grief both. “We should’ve ended it tonight,” she hisses. “Should’ve struck when they were weak, when the crowd turned. 
+Let them burn in their own fire instead of watching us crawl back to the dark.”
+
+Laemir cuts her a look, sharp enough to silence her for a moment. But only a moment. Alina’s words are not wrong. They are dangerous, [i]but not wrong[/i].
+
+And you—your heart is still pounding with the memory of the square, of Cassariel’s gaze finding yours like [i]the cold edge of a blade[/i]. 
+You know the truth: the trial is not over. 
+*page_break [i]It has only begun[/i]
+
+The night stretches long in the Cradle. 
+Whispers follow you, not only in your mind but in truth—echoes of your own words crawling through the village above, carrying seeds you did not mean to sow. 
+Dreams clutch at you with iron fingers, Venora’s shadow still lingering in your veins, [i]fire without flame[/i]. 
+*if (you_owe_Elden)
+	And beneath it all, the quiet knowledge of debt hums steady: someone acted, and someday they will come to collect.
+
+You saved Tomas. The cost has not yet been counted.
+
+But it will be.
+
+And when it comes due, it will not be yours alone to bear.
+*goto the_strange_dream
+
+
+
+*label not_saving_Tomas
+[i]Tomas will burn.[/i]
+
+The thought moves through the Cradle like smoke, coiling into corners, curling through ribs. Alina weeps without sound. 
+
+Laemir watches you. Shee says nothing. She does not need to; her silence is the question.
+
+Alina’s hands work the hem of her sleeve raw, her lips pale where she bites them. When your eyes catch hers, she flinches as if the truth in you might strike her.
+
+The Cradle is not safe tonight. Not truly. Not with the weight of [i]judgment[/i] pressing down from above, squeezing through the earth itself. 
+You can almost hear it in the drip of water from the roots, in the creak of old beams, in the hush that thickens each time the bells strike.
+
+The fire has not yet been lit, but you feel it already—heat in the marrow, smoke in the lungs, the promise of light tearing through the dark.
+
+And now choice presses sharp against you.
+
+You could stay. Stay where the walls hide the sight, where the smell of damp and earth may be enough to drown the smoke. 
+Stay where no one will see you watch, where your breath can break unheard.
+
+Or you could go. Climb back up into the air, into the press of bodies, into the eyes that burn as fiercely as the torches. 
+[i]You could see Tomas fall to flame[/i], not through whispers, not through bells, but with your own eyes.
+
+The Cradle waits. The world above waits.
+
+And you? You are caught in the marrow of decision, knowing that whether you stay in the dark or walk into the fire, there will be no unseeing.
+
+[i](A Whisper in the Dark:[/i]
+
+[i]The choice before you is not a fork in fate. The end does not change.[/i]
+
+[i]Whether your eyes linger on the fire, or turn away, the world will burn the same.[/i]
+
+[i]But still, I ask you:
+Do you wish to watch? Or do you wish to be spared?[/i]
+
+[i]Choose not for the story. Choose for yourself.)[/i]
+*choice
+	#You do not wish to see Tomas's fate
+		The Cradle feels too tight the morning of the trial. Stone sweats with damp, roots push down through the ceiling as if they too want to see what is happening above. 
+		You can taste the tension in the air, sharp as iron. 
+
+		Alina’s pacing cuts the air into restless strokes. She has not spoken much since Tomas's sentencing, but now words spill in fragments, in stabs.
+		“We should go. We should be there. We can’t just—just sit while—” Her breath snags, breaks. 
+		[i]“They’ll burn him. They will burn him and we will be down here counting roots.”[/i]
+
+		Laemir sits straighter, her presence like an anchor in the storm of thoughts. “And what would you do, [i]girl[/i]? Walk into the square and shout [b]‘stop’[/b]? 
+		Throw yourself into the fire beside him?” She shakes her head. Her voice is not unkind, but it cuts. 
+		“Sometimes the only mercy we can give the doomed is to bear the truth of their end. And sometimes not even that.”
+
+		Your own silence burns heavier than either of them. You want to speak—want to say you will go, or that you will not—but the words knot in your throat. 
+		The Cradle presses closer, the walls leaning in.
+		*page_break Then the bells begin
+
+		One, then two. Slow, deliberate, reverberating through the earth. The sound is not just sound but vibration—stone trembling, dust sifting down from the cracks. 
+		Everyone in the Cradle stills.
+
+		“That’s the beginning,” someone whispers. “They’ve dragged him out.”
+
+		Alina moves toward the stairs, as if to bolt, but Laemir’s hand shoots out and grips her wrist. “Stay.” The word lands heavy. 
+		“Do not make me lose two friends in one day.”
+
+		The third bell sounds. The air in the Cradle shifts, thickens. You imagine the square above, packed shoulder to shoulder, every eye pinned on Tomas. 
+		You imagine Cassariel stepping forward, ${cass_pronpp} pale hair catching the light. 
+		You have never seen ${cass_pronp} through executing a judgment, not like this—but your mind paints ${cass_pronp} anyway, 
+		a figure carved from inevitability, voice sharp as judgment itself.
+
+		More bells. The rhythm changes, quicker, urgent. And beneath the bells—something else. A low thrum of voices, rising and falling like the tide. 
+		[i]Chants.[/i] Words too muffled to hear in clarity, yet you know them. You’ve heard them whispered before, a litany passed down like a curse:
+		[b]By bone, by blood, by flame![/b]
+
+		The sound hits harder than a blade. You do not need sight to know the cadence, 
+		to imagine the Crimson Inquisitors standing in perfect formation, robes bleeding red against the pallid light. 
+		The crowd would echo them, some out of fear, some out of fervor, some because silence is more dangerous than speech.
+		*page_break Next
+
+		Alina presses her fists against her mouth, biting the skin to keep from screaming. Laemir holds her shoulders, grounding her, grounding herself. 
+		
+		And then—silence.
+
+		The bells stop. The chants cut off mid-breath. The Cradle holds its breath with the world above.
+
+		You can feel your own heartbeat in your teeth. 
+		For a moment you think—perhaps, perhaps something has [i]stopped it[/i], perhaps someone has stepped in, perhaps Tomas will walk free—
+
+		The sound that follows kills the thought before it lives.
+
+		A roar, low at first, then climbing. The roar of a crowd breaking into cries, into screams, into the keening pitch of [i]horror[/i]. 
+		And beneath it, faint but unmissable, a crackle. A hiss. The unmistakable voice of fire.
+
+		The Cradle becomes a tomb of sound. The fire is not here, yet it is everywhere—crawling along the stone, chewing through air, devouring. Someone sobs. 
+		Laemir begins to pray, drowning in her own words.
+
+		Alina tears herself free of Laemir’s grip and slams both fists against the wall. [b]“No!”[/b] Her scream scrapes raw, animal. 
+		“No, no, no!” She kicks the stone until her foot bleeds, until her voice frays into nothing. Laemir does not stop her this time. 
+		She only closes her eyes, lips moving soundlessly, a prayer or a curse or both.
+
+		You do not move. You cannot. The fire you cannot see fills you. The chanting still rattles in your bones. [i]By bone, by blood, by flame.[/i] 
+		You were not there, and yet you will carry it. You chose absence, but absence does not protect.
+
+		The bells return. Slow, final. Not the beginning, not the chants, not the fever pitch of the crowd. These tolls are different. 
+		Spaced like heartbeats, heavy as earth dropping into a grave. One. Two. Three.
+		*page_break The death toll
+
+		[i]And in that toll, the last of Tomas falls away.[/i]
+
+		The silence after the bells feels sharper than the sound itself. No one speaks at first. 
+		Dust drifts from the ceiling, tiny ghosts of ash that have no business here, and yet—they settle on your skin like a reminder.
+
+		Alina curls into herself in the corner, rocking with each breath, a keening still caught in her throat. 
+		Laemir finally rises, tall and steady, though her face looks older by years in the span of moments. She lays a hand on your shoulder. 
+		The weight of it grounds you and crushes you at once.
+
+		“You did right,” she says, voice low, voice steady. “There was nothing you could have done. Nothing.”
+
+		The words do not comfort. They are not meant to. They are [i]a tether[/i], a thread in the dark, but they do not ease the weight pressing into your chest. 
+		Because you know the truth: there is always something one can do. You simply did not do it.
+
+		You close your eyes, but the bells toll still. They will always toll.
+
+		When the Cradle finally releases you, hours later, the world above is changed. The air stinks of ash though the fire burned in the square. 
+		Villagers walk like sleepwalkers, their eyes [i]hollow[/i], their mouths moving soundlessly. Crimson banners sag in the damp, [i]heavy with smoke[/i].
+
+		And at the center of it all: absence. No Tomas. No words. Only [i]the scar[/i] of what has been done.
+
+		You walk home, though the word home feels broken. Every alley feels narrower, every step heavier. 
+		The bells do not sound now, but you hear them anyway, echoing in your bones. One, two, three. They do not toll for Tomas alone. They toll for order. 
+		They toll for silence. They toll for you.
+
+		Because you stayed.
+
+		Because you did nothing.
+
+		[i]Because absence is its own choice, its own mark, its own chain.[/i]
+		*set Tomas_is_dead true
+		*goto the_strange_dream
+		*page_break Next
+
+	#You wish to see the sentence being carried out
+		The Cradle’s walls feel too small, too close. 
+		The air tastes of damp and dust and roots, and the thought of staying—of sitting in the dark while the world burns above—chokes you more than smoke ever could.
+
+		When the bells begin, you are already halfway up the stair. 
+		Alina makes a sound behind you, half-plea, half-warning. Laemir’s voice follows, low and heavy, meant to anchor:
+		[i]“Child. Do not go.”[/i]
+
+		But you go.
+
+		The stair coils up into the world, every step a drumbeat, the echo of the bells bleeding down through stone. 
+		Your hand trails the wall, rough under your fingertips, until stone gives way to wood, and wood to air.
+
+		And then you are outside.
+		*page_break The square is alive
+
+		[i]Alive[/i] with fire, though not yet lit. [i]Alive[/i] with voices, thick as stormclouds. 
+		[i]Alive[/i] with bodies pressed shoulder to shoulder, faces raised toward the dais. 
+		Crimson banners drape the high stone, stiff in the still air. 
+		The Crimson Inquisitors stand like pillars, their robes so vivid they cut the eye. At their center, like the spearpoint of a blade, stands Cassariel.
+
+		And beside ${cass_pronp}—Tomas.
+
+		The world narrows to him.
+
+		He looks smaller on the platform than he ever did in life, smaller even than when they dragged him away. 
+		Chains coil his wrists, his throat, gleaming like wet teeth in the light. His hair clings damp against his face. His eyes find the crowd, but they do not search. 
+		They do not plead. They only look.
+
+		For a moment, you think he [i]sees[/i] you.
+
+		The bells fall silent. The square holds its breath.
+
+		And then Cassariel speaks.
+
+		${cass_big_pronpp} voice is not loud, yet it carries, carried by the silence that bends to it. Smooth, sharp, deliberate, it cuts through the crowd without effort.
+		[b]“People of Valtessa. We stand as one beneath the Light.”[/b]
+
+		The crowd answers—not with words, but with the shift of breath, the tilt of bodies leaning forward.
+
+		Cassariel lifts ${cass_pronpp} hands, pale as bone. [b]“A shadow has lived among you. A man touched not by grace but by corruption. 
+		A man who has taken the bread of your tables, the kindness of your hearths, and returned it with rot. Today, before the Light, before truth itself, he is revealed.”[/b]
+
+		${cass_big_pronpp} words echo like bells. Each syllable falls like a weight.
+
+		You feel the press of the crowd against you, their hunger, their fear. You hear whispers, low but sharp. “Cursed.” “Marked.” “Witch-born.” Words tossed like stones.
+		*page_break Tomas does not flinch
+
+		Cassariel steps closer to him, eyes bright with something that is not merely duty. ${cass_big_pronpp} voice softens, dangerous in its calm.
+		[b]“You stand accused, Tomas of Ashwood, of consorting with darkness. 
+		By blood, by bone, by flame, we shall see the truth. If the Light finds you pure, you will walk free. If not…”[/b]
+
+		${cass_big_pron} does not finish. ${cass_big_pron} does not need to.
+
+		The Crimson Inquisitors move as one. Torches flare. The scent of pitch and smoke thickens the air. A shiver runs through the crowd, part thrill, part dread.
+
+		Alina’s voice is not here to stop you. Laemir’s hand is not here to anchor you. There is only you, and Tomas, and the fire waiting to be born.
+
+		[i]The chanting begins.[/i]
+
+		Low at first, a murmur, but swelling, surging, fed by the voices of the crowd:
+		[b]By blood, by bone, by flame.[/b]
+
+		Each word rattles in your ribs. Each repetition grows louder, heavier, until the air itself seems to chant. Torches blaze brighter. The square shakes with sound.
+
+		Tomas closes his eyes. His lips move—not words for them, not prayers to [i]The Light[/i], but something smaller, quieter. You cannot hear it. You know you never will.
+		*page_break The first torch is lowered
+
+		[i]The fire takes.[/i]
+
+		The crowd surges forward, pressed against itself, faces alight with the reflection of flames. Some cheer, some cry, some cover their mouths with shaking hands.
+
+		The fire climbs, alive, hungry. Smoke coils into the sky like a second banner. The smell of pitch, of cloth, of flesh, hits your lungs like a blow. 
+		You gag, but you do not move.
+
+		You do not move.
+
+		[i]You cannot move.[/i]
+
+		Because Tomas does not scream.
+
+		Not at first.
+
+		For a moment you believe—hope—that the fire will not take him, that [i]the Light[/i], however false, will spare him. That something greater will intervene.
+
+		But the flames rise higher. And then the sound comes.
+
+		It tears through the square, through the chants, through the roar of fire. A raw, human sound, so sharp it feels like glass in your chest. It does not last long.
+		The fire eats too quickly.
+
+		And still the crowd chants. Still the bells toll. Still Cassariel stands, serene as if in prayer, eyes lifted toward the smoke.
+
+		You stand among them, and you see it all. You smell it, taste it, feel it burn into your skin. [i]You do not look away.[/i] You cannot.
+
+		And yet—
+
+		For the barest heartbeat, the smoke does not rise as it should. It coils, bends, shapes itself into something vast. 
+		A crown of shadow, a shiver of wings, eyes that open where no eyes should be. The air hums low, as if the stone beneath your feet remembers an older name.
+
+		[i]Valtessa.[/i]
+
+		No one else stirs. No one else gasps. 
+		The crowd only chants, blind to the figure breaking through the veil, blind to the hand that reaches almost-close before vanishing again into ash.
+
+		The vision shreds as quickly as it forms, smoke unraveling into nothing. 
+		And you are left wondering if it was sight at all—or simply madness, grief carving shapes into flame.
+		*page_break Next
+
+		When it is over, the chanting fades. The bells toll slow, final, heavy. [i]One. Two. Three.[/i]
+
+		The crowd disperses like tide withdrawing, leaving the square scorched, empty, ruined. Ash drifts on the air, soft as snow. The banners sag. The torches gutter.
+		And at the center: absence.
+
+		[i]Tomas is gone.[/i]
+
+		Cassariel turns to the people, ${cass_pronpp} voice carrying again, smooth and cold:
+		[b]“Let all who harbor shadow and venom beware. The Light sees. The Light burns. The Light endures.”[/b]
+
+		And the people bow their heads. Some weep. Some nod. Some stare blankly, hollowed out by what they have seen.
+
+		You are among them.
+		But you alone carry the mark of what stood in the smoke.
+
+		You walk away, though every step feels heavy, as if chains drag your feet. The smoke clings to you. The sound of chanting clings to you. The sight of fire clings to you.
+
+		When you return to the Cradle, silence greets you. Alina looks up, searching your face for an answer you cannot give. Laemir does not ask, because she already knows.
+
+		You sit in the dark, the echoes of the square burning inside you.
+
+		And you understand this: [i]you will carry the trial with you always[/i].
+
+		Not because you saved Tomas.
+
+		Not because you failed him.
+
+		[i]But because you saw.[/i]
+
+		[i]And it changed something inside you.[/i]
+		*set Tomas_is_dead true
+		*goto the_strange_dream
+		*page_break Next
+
+
+*label the_strange_dream
+The dream does not begin with sleep. It begins with silence.
+
+You stand on a plain that stretches farther than sight, black soil cracked like old scars. 
+The wind around you moves without sound, carrying the smell of iron and something older, salt and rot and ash all at once.
+
+The ground is littered with bones. Not scattered, not random—arranged. Some lie in lines as though whole battalions fell at once. 
+Others are stacked like offerings. Spears pierce ribs, skulls grin up at you, empty sockets catching faint glimmers of dying light. 
+Flags sag on poles long rotted, their colors bled into gray.
+
+Every step you take makes the bones shift, crunching underfoot like dry leaves. The sound is the only thing [i]alive[/i] here.
+
+And then you see [i]him[/i].
+
+A figure in the distance, so still at first you mistake him for another ruin. 
+[i]Chains[/i] stretch from his limbs to a monolith of stone blacker than night, taller than towers. 
+The links pulse faintly, as though alive, as though [i]veins[/i] rather than iron. They hum. You feel it in your teeth, in your marrow.
+
+The figure lifts his head. Pale fire flickers in his eyes, cold and consuming. His voice carries across the plain without effort, without breath.
+
+[i]“You came.”[/i]
+
+You do not remember walking closer, but suddenly you are there, at the edge of his shadow. 
+The chains groan, taut with some invisible weight. His face is both young and ancient, sharp as carved stone. A stranger, and yet… [i]not[/i].
+
+He surveys the bones scattered around him. “Each one thought themselves free. Each one chose. And still, here they lie.” 
+His smile curves, bitter and amused. “Names buried, oaths forgotten, paths swallowed by silence.”
+
+Your throat is dry. You manage only a whisper. [i]“Who are you?”[/i]
+*page_break Next
+
+His laugh is quiet, low, the sound of a blade sliding from its sheath. “The wrong question. Ask instead: [i]What will you become[/i]?”
+
+He shifts, and the chains rattle like distant thunder. 
+One of the links trembles, cracks hairline white as if straining against itself. He doesn’t pull. [i]He doesn’t fight.[/i] 
+He simply looks at you, and the metal yields, groaning as if your presence alone weakens it.
+
+[i]“Every chain can be broken,”[/i] he says softly. [i]“Every bond can be undone. But there is always a price. Do you know yours?”[/i]
+
+The plain ripples. The bones shift, skulls turning, jaws opening. A thousand empty mouths whisper your name. Your skin prickles, your blood stutters.
+
+You try to step back. The ground grips you. The monolith looms, larger, nearer, though you [i]never[/i] moved. 
+The stranger leans forward as the second chain splinters with a sound like ice breaking. 
+His icy blue eyes burn brighter with golden flecks, no warmth, no mercy, only [i]hunger[/i] dressed as calm.
+
+[i]“You are the key,”[/i] he breathes. [i]“The lock. The blade. The wound. You are all of it. And you are mine.”[/i]
+
+The final chain rattles, iron shrieking against stone. The whisper of bones swells into a roar, a storm of voices chanting, begging, warning.
+
+And then—
+
+The last link shatters.
+
+He surges forward, not bound, not chained, towering, and his hand reaches for yours—
+
+—but the world bends.
+
+It folds inward, bones collapsing into dust, fire sucked into ash, the plain dissolving into black glass. For a moment there is nothing. Not silence, not dark. 
+*page_break Nothing
+
+And then: a sound. Slow, measured, like the toll of a bell stretched across an eternity.
+
+You turn—though you don’t remember deciding to move—and they are there.
+
+Not the chained figure. Something older. Something still.
+
+The air thickens, heavy with frost. Time itself stutters, slowing, as though each breath must claw its way forward. 
+Shadows sharpen and lengthen, clinging to you like chains of their own.
+
+They stand just beyond reach. Skin pale as moonlight reflected on frozen water, robes that shift and ripple as though stitched from starlight poured across cracked glass. 
+Their eyes—silver at first glance, but too deep, too endless—catch yours. 
+Within them stirs a tide of indigo, moving slow as oceans between stars. Looking at them feels like remembering something you never lived. [i]Déjà vu[/i] pressed into your bones.
+
+You know without knowing: you’ve met them before. [i]Or will.[/i]
+
+Their voice, when it comes, is not loud. It doesn’t need to be. It falls into you, steady and inescapable.
+
+“You walk the path of endings.”
+
+The plain tilts, reels. Behind you, shadow of the chained figure flickers, straining against nothing, furious but distant, as though caught behind glass. 
+His hunger burns still, but it cannot breach the stillness here.
+
+[i]“You think yourself free,”[/i] the figure continues, gaze calm, merciless, [i]endless[/i]. 
+“But all threads fray. All flames gutter. All futures are stolen before they bloom.”
+
+You try to speak, but your voice catches in your throat. The air feels thick, heavy, as if every word must claw against centuries to escape.
+
+They step closer. The stars in their robe shift, aligning like constellations in a sky only he remembers. 
+“The chained one offers change. He offers chaos. And you would take it, thinking it hope.”
+
+A flicker of the chained figure again. You know his name. Somewhere deep down, you do, and you try to remember.  
+Chains dragging across the void, fire licking like a wound refusing to close. His eyes burn hotter when the silver figure speaks, as if [i]enraged[/i] by his presence.
+*set met_draegan true
+*page_break [i]Draegan[/i]
+
+That is his name. Of that, you are absolutely certain.
+
+“But change is only another form of ruin,” the pale god whispers. Their hand lifts, long fingers tracing a line through the air. Time itself ripples around the gesture. 
+You feel it in your pulse, your blood skipping a beat. “I am what follows. I am what remains when all else fails. [i]I am inevitability.[/i]”
+
+The words settle into you like stones.
+
+“You cannot save him. Not Tomas. Not the village. Not yourself.” The silver deepens in their gaze, indigo stirring like a storm beneath. 
+“Each choice you make is a path already closed. Each step brings you back here, [i]to me[/i].”
+
+For a moment, you glimpse them—shattered echoes of yourself flickering in the air: you running, you burning, you falling, you kneeling in chains. 
+Futures that never reach their end. [i]Futures stolen.[/i]
+
+The figure does not smile. They do not threaten. They only look at you as though you are already theirs.
+
+“Do not mistake the illusion of choice for freedom,” they say, softer now, almost tender. “All things bend. All things break. And when you do, I will be waiting. 
+To deliver the inevitable”
+
+The world begins to shudder. The bones return, Draegan’s fire flares, shadows collapse inward. 
+You feel yourself torn between them—the hunger of the chained god, the cold finality of the silver future.
+
+And then both voices overlap, a discordant harmony that splits you open:
+
+[i]“You are mine.”[/i]
+*page_break The End... For Now...
+
+[i]That’s all for now.[/i]
+
+The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
+and pulling threads that will take you further into Ashwood and everything it hides.
+
+If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
+Your feedback means the world and helps shape where the path leads next!
+
+Thank you for playing.
+Thank you for reading.
+And thank you for walking with me into the dark.
+
+Until soon.
+
+[i]Your Audrine[/i]

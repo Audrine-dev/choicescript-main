@@ -63,7 +63,7 @@ What is your gender?
 		*input_text gender
 		Your gender identity is ${gender}. It’s something unique to you.
 		*goto nb_name
-
+	
 *page_break
 
 *label female_name
@@ -569,6 +569,7 @@ Is Solian he/she?
 		*set sol_pronpp "his"
 		*set sol_big_pronpp "His"
 		*set sol_worm "man"
+		*set sol_him "himself"
 		*goto elden_sett
 
 	#Princess Solian – The Honorable Protector - She
@@ -578,6 +579,7 @@ Is Solian he/she?
 		*set sol_pronpp "her"
 		*set sol_big_pronpp "Her"
 		*set sol_worm "woman"
+		*set sol_him "herself"
 		*goto elden_sett
 
 *label elden_sett
