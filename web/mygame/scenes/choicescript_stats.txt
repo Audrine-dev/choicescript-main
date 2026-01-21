@@ -162,6 +162,8 @@ And in the way you move—${posture}, quiet, deliberate—there’s a sense that
 	*if (magic_awakened)
 		#Your mark
 			*goto your_mark
+	#Valdyr
+		*goto valdyr_dictionary
 	*if (knows_verryn)
 		#Vérryn
 			*goto vérryn_dictionary
@@ -192,21 +194,39 @@ The ones you draw close will shape your story—and you.
 *if (met_sol)
 	*stat_chart
 		percent sol_rel Relationship with Solian
+*if (love_meter_sol)
+	*stat_chart
+		percent sol_love Solian’s Devotion
 *if (met_lysandra)
 	*stat_chart
 		percent lysandra_rel Relationship with Lysandra
+*if (love_meter_lyssandra)
+	*stat_chart
+		percent lyssandra_love Lyssandra’s Cherish
 *if (met_elden)
 	*stat_chart
 		percent elden_rel Relationship with Elden
+*if (love_meter_elden)
+	*stat_chart
+		percent elden_love Elden’s Affection
 *if (met_kai)
 	*stat_chart
 		percent kai_rel Relationship with Kai
+*if (love_meter_kai)
+	*stat_chart
+		percent kai_love Kai’s Adoration
 *if (met_cass)
 	*stat_chart
 		percent cass_rel Relationship with Cassariel
+*if (love_meter_cass)
+	*stat_chart
+		percent cass_love Cassariel’s Longing
 *if (met_draegan)
 	*stat_chart
 		percent draegan_rel Relationship with Draegan
+*if (love_meter_draegan)
+	*stat_chart
+		percent draegan_love Draegan’s Desire
 *finish
 
 *label your_mark
@@ -219,6 +239,17 @@ Sometimes it tingles, sometimes it hums softly, as if aware of my thoughts befor
 I wonder how far it will go, how deeply it will etch itself into me, and whether it will ever feel like I own my own body again. 
 And yet… I can’t help but be drawn to it, fascinated by the way it grows with me, marking not just my skin but the rhythm of my days
 *finish
+
+*label valdyr_dictionary
+[b]Valdyr dictionary[/b]
+[i]Valdyr is the sacred and punishing language of the Church of the Light — spoken only by priests, inquisitors, and the faithful during rites of fire, confession, and judgment.
+It is not a living tongue but a weapon of obedience, meant to command, condemn, and cleanse. Every word strikes like iron, every breath is a prayer through pain.[/i]
+
+[i]Val[/i] = pure / sanctified / worthy
+
+[i]Dyr[/i] = tongue / flame / command
+
+Valdyr then means [i]The Pure Tongue[/i] or [i]The Flame-Speech[/i] — the language through which the Light itself burns the world clean.
 
 *label vérryn_dictionary
 [b]Vérryn dictionary[/b]

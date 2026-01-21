@@ -11,6 +11,7 @@
 	chapter6
 	chapter7
 	chapter8
+	chapter9
 
 *create echoweaving 0
 *create whisperbinding 0
@@ -39,6 +40,7 @@
 *create name ""
 *create gender ""
 *create person_word ""
+*create kid_word ""
 *create hair_color ""
 *create hair_length ""
 *create eye_color ""
@@ -108,6 +110,26 @@
 *create you_owe_Elden false
 *create Tomas_is_dead false
 *create Tomas_is_alive false
+*create love_meter_sol false
+*create sol_love_slowburn false
+*create sol_love_fastburn false
+*create love_meter_elden false
+*create kai_love_slowburn false
+*create kai_love_fastburn false
+*create love_meter_kai false
+*create love_meter_lyssandra false
+*create love_meter_cass false
+*create love_meter_draegan false
+*create sol_love 0
+*create elden_love 0
+*create kai_love 0
+*create lyssandra_love 0
+*create cass_love 0
+*create draegan_love 0
+*create animal_d ""
+*create examine_pyres_remains false
+*create you_know_they_are_after_sol false
+
 
 *label introduction
 [b]Introduction[/b]
@@ -177,6 +199,7 @@ You may choose from one of the following premade characters and jump straight to
 		*set appearance "worn clothes"
 		*set birthmark "neck"
 		*set posture "with a purpose"
+		*set animal_d "doe"
 		*set echoweaving 20
 		*set whisperbinding 0
 		*set soulrooting 0
@@ -214,6 +237,7 @@ You may choose from one of the following premade characters and jump straight to
 		*set height "short"
 		*set pronouns "she"
 		*set possessive_pronouns "her"
+		*set animal_d "doe"
 		*set capital_pronouns "She"
 		*set capital_possessive_pronouns "Her"
 		*set appearance "worn clothes"
@@ -258,6 +282,7 @@ You may choose from one of the following premade characters and jump straight to
 		*set possessive_pronouns "him"
 		*set capital_pronouns "He"
 		*set capital_possessive_pronouns "Him"
+		*set animal_d "deer"
 		*set appearance "rugged clothes
 		*set birthmark "across his ribs"
 		*set posture "with quiet intensity"
@@ -294,6 +319,7 @@ You may choose from one of the following premade characters and jump straight to
 		*set hair_color "blonde"
 		*set hair_length "chin-length"
 		*set hair_structure "straight"
+		*set animal_d "deer"
 		*set eye_color "blue"
 		*set height "tall"
 		*set pronouns "he"
@@ -341,6 +367,7 @@ You may choose from one of the following premade characters and jump straight to
 		*set person_word "person"
 		*set el_pr true
 		*set appearance "refined clothes"
+		*set animal_d "doe"
 		*set birthmark "behind the ear"
 		*set posture "with such a grace"
 		*set echoweaving 20
@@ -383,6 +410,7 @@ You may choose from one of the following premade characters and jump straight to
 		*set appearance "worn clothes"
 		*set birthmark "wrist"
 		*set posture "with such a grace"
+		*set animal_d "doe"
 		*set echoweaving 0
 		*set whisperbinding 0
 		*set soulrooting 0

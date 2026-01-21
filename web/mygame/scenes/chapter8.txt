@@ -100,11 +100,20 @@ Somewhere in the back of your mind, a whisper you don’t want to name:
 		A thin strip of crimson carpet leads up to it like a wound stitched into the stone.
 
 		*if (angered_soldier)
-			Tomas stands at its center, hands bound but shoulders straight. His shirt has been torn, dirt ground into the fabric, but his eyes burn — bright, stubborn, unyielding.
-
+			*goto angered_soldier_1	
+			
 		*else
-			Tomas stands at the center, wrists bound, shirt torn and heavy with dirt. His shoulders sag, eyes dulled to ash. Whatever fire once lived there has burned low, leaving only the hollow glow of a man who’s already lost.
+			*goto else_angered_soldier
 
+		*label angered_soldier_1
+		Tomas stands at its center, hands bound but shoulders straight. His shirt has been torn, dirt ground into the fabric, but his eyes burn — bright, stubborn, unyielding.
+		*goto after_sol_check
+
+		*label else_angered_soldier
+		Tomas stands at the center, wrists bound, shirt torn and heavy with dirt. His shoulders sag, eyes dulled to ash. Whatever fire once lived there has burned low, leaving only the hollow glow of a man who’s already lost.
+
+		
+		*label after_sol_check
 		Two Crimson guards flank him, still as statues, their glaives catching the early light.
 		The air around them hums faintly.
 
@@ -353,11 +362,20 @@ ${cass_big_pron} takes the stage with no fanfare, no words wasted. A simple rais
 [i]“By the Law of Bone and Blood,”[/i] the Saint’s voice cuts clean across the square — not loud, but precise, a blade through silence. [i]“You are called to judgment.”[/i]
 
 *if (angered_soldier)
-	Tomas does not flinch. His chin lifts, eyes steady, voice raw but unshaken: “I’ll not beg forgiveness nor for kindness.” The words hang in the air, defiance cutting sharper than any blade.
+	*goto tomas_def
 *else
-	Tomas flinches, a shadow of defiance flickering and dying before it can take hold. His lips part, but no words come.
+	*goto tomas_not_def
+
+*label tomas_def
+Tomas does not flinch. His chin lifts, eyes steady, voice raw but unshaken: “I’ll not beg forgiveness nor for kindness.” The words hang in the air, defiance cutting sharper than any blade.
+*goto con_af_tom
+
+*label tomas_not_def
+Tomas flinches, a shadow of defiance flickering and dying before it can take hold. His lips part, but no words come.
+*goto con_af_tom
 *page_break Next
 
+*label con_af_tom
 The charges are read aloud — harboring one touched by Venora, a cursed. A traveler. Not you.
 But the word cuts as though it [i]were[/i]. Every whisper presses the weight of guilt into your bones, 
 until it feels as if all eyes could find you in the crowd, [i]hidden or not[/i].
@@ -758,11 +776,19 @@ His hands are bound tight, rope digging raw into wrists, the skin swollen where 
 Hair hangs in his face like tangled wire. 
 But his eyes—
 *if (angered_soldier)
-	fire smoldering low, a spark refusing to die, teeth clenched as though to bite down on fate itself.
+	*goto tomas_still_def	
 	
 *else
-	glassy, hollow, rimmed in red from sleepless nights, the light gone from their depths.
+	*goto tomas_still_not_def
+	
+*label tomas_still_def
+fire smoldering low, a spark refusing to die, teeth clenched as though to bite down on fate itself.
+*goto tomas_sq
 
+*label tomas_still_not_def
+glassy, hollow, rimmed in red from sleepless nights, the light gone from their depths.
+*goto tomas_sq
+*label tomas_sq
 Tomas stands at the square’s heart, and the square devours him whole.
 *page_break Next
 
@@ -1767,20 +1793,5 @@ You feel yourself torn between them—the hunger of the chained god, the cold fi
 And then both voices overlap, a discordant harmony that splits you open:
 
 [i]“You are mine.”[/i]
-*page_break The End... For Now...
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*page_break Next Chapter
+*goto_scene chapter9

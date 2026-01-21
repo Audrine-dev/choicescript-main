@@ -37,6 +37,8 @@ What is your gender?
 	#Female
 		*set gender "female"
 		*set person_word "woman"
+		*set kid_word "girl"
+		*set animal_d "doe"
 		*set female true
 		You are female, a young woman of striking beauty and strength, but with a mystery lingering in her eyes.
 		*goto female_name
@@ -44,6 +46,8 @@ What is your gender?
 	#Male
 		*set gender "male"
 		*set person_word "man"
+		*set kid_word "boy"
+		*set animal_d "deer"
 		*set male true
 		You are male, a young man marked by quiet strength and sharp features, with a storm of questions hidden behind his eyes.
 		*goto male_name
@@ -51,6 +55,8 @@ What is your gender?
 	#Non-binary
 		*set gender "non-binary"
 		*set person_word "person"
+		*set kid_word "kiddo"
+		*set animal_d "doe"
 		*set el_pr true
 		You are non-binary, embracing an identity that exists beyond the conventional. Your strength is not defined by gender.
 		*goto nb_name
@@ -58,8 +64,10 @@ What is your gender?
 	#Custom
 		*set gender "custom"
 		*set person_word "person"
+		*set kid_word "kiddo"
+		*set animal_d "doe"
 		*set el_pr true
-		What is your gender identity? 
+		What is your gender identity?		
 		*input_text gender
 		Your gender identity is ${gender}. It’s something unique to you.
 		*goto nb_name
@@ -516,6 +524,7 @@ What about love interests?
 		*set sol_pronpp "his"
 		*set sol_big_pronpp "His"
 		*set sol_worm "man"
+		*set sol_him "himself"
 		*set elden_pron "he"
 		*set elden_big_pron "He"
 		*set elden_pronp "him"
@@ -539,6 +548,7 @@ What about love interests?
 		*set sol_pronpp "her"
 		*set sol_big_pronpp "Her"
 		*set sol_worm "woman"
+		*set sol_him "herself"
 		*set elden_pron "she"
 		*set elden_big_pron "She"
 		*set elden_pronp "her"

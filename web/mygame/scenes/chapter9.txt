@@ -1,0 +1,1496 @@
+*label chapter9
+
+[b]Chapter 9 - Ashes of Dawn[/b]
+
+The dream shatters like glass.
+
+You wake gasping, chest tight, lungs clawing for air that isn’t there. 
+The room swims in gray half-light, walls pressing close. 
+The weight of the dream hangs heavy in your skull — whispers of inevitability, a shadowed figure you cannot name, 
+[i]a god’s voice[/i] unraveling futures like threads slipping through fingers.
+
+Your skin is damp. Just like your matted ${hair_color} hair. Breath comes in shallow, ragged pulls. 
+For a moment, you’re not certain this bed is real, or that the dawn bleeding through the shutters belongs to this world and not the one you just clawed your way out of.
+
+The silence that follows feels wrong.
+
+Too still. Too open.
+
+You push yourself upright, the sheets tangled around your legs like roots trying to hold you in place. 
+It takes a moment before you recognize the room — the uneven timber beams, the cracked windowpane, the faint scent of sage and smoke.
+
+[i]Home.[/i]
+
+Not the Cradle’s stone corridors, not Laemir’s quiet voice echoing off damp walls.
+
+The Cradle had become too dangerous. Too many eyes had seen too much.
+*page_break Next
+
+The Cradle is behind you now.
+
+You left it before dawn, its hollow tunnels still whispering your name as you sealed the door shut for the last time. 
+You couldn’t risk staying — not after what happened. Not after the trial. 
+The Crimson Inquisitors would scour every corner of Ashwood by now, chasing ghosts of magic and rumor. 
+If they found the Cradle — your mother’s relics, the sigils carved into the stone, the faint shimmer of power still sleeping there — they’d know.
+
+They’d [i]know[/i] it was you. You would be caught red-handed.
+
+So you buried it.
+*line_break
+[i]Walked away.[/i]
+*line_break
+Tried to convince yourself that walking away meant surviving.
+
+But even here, the memory follows.
+
+When you close your eyes, you still see the square —
+*if Tomas_is_alive
+	*goto tomas_alive_con
+*if Tomas_is_dead
+	*goto tomas_dead_con
+
+*label tomas_alive_con
+The crowd roared as the flames were struck — but they never reached him.
+
+*if (twisted_whispers)
+	Whispers had already begun to coil through the square, seeds you’d planted hours before: doubts, names, half-truths slipping between the faithful like smoke. By the time the torch was lifted, half the watchers were turning on the other half.
+
+*if (venora_saved_tomas)
+	You remember the shadow that moved when you reached too far. The air bending like it remembered your mother’s voice. The light had gone wrong that night — torches flickering, fire bending away from the stake, a sudden wind rising from nowhere. And then — chaos. A soldier stumbling. Chains snapping. A voice (maybe yours, maybe something older) shouting his name.
+
+*if (you_owe_Elden)
+	You remember the debt you now owe. The massive soldier giving you a helping hand. [i]Elden[/i]. [i]Tomas walks free because someone chose to risk themselves in silence.[/i] And now you, and he, and Elden are marked not only by escape, but by obligation.
+	
+When it was over, Tomas was gone — carried into the dark by hands you still can’t name.
+
+But the fire remained.
+[i]And now, so does the hunt.[/i]
+*goto after_tomas_con
+
+*label tomas_dead_con
+You remember it. You [i]feel it[/i] in your bones. The crowd presses in like a tide. Faces blur into one another — fear, hunger, devotion — all feeding on the same light. 
+The stake rises from the center, wrapped in chains and soaked in oil.
+
+Tomas stands bound, his shirt torn, [i]the mark of the accused[/i] carved into his shoulder. His eyes search the crowd once — desperate, human — and find nothing to hold onto.
+
+The chant builds, low and rhythmic. By bone, by blood, by flame.
+
+You remember the way your knees locked. The way your breath turned to stone in your throat. You could have spoken. Could have moved. 
+Instead, you stood still as the torch touched the kindling.
+
+The fire caught too quickly. It always does.
+
+He didn’t scream at first — just stared at the sky, lips moving in words you couldn’t hear. When he did, it wasn’t pain that broke his voice, but disbelief.
+
+The light filled the square, [i]a cruel dawn[/i], and the people of Ashwood turned their faces toward it like worshippers.
+
+You remember the smell. The sound.
+[i]You remember doing nothing.[/i]
+*goto after_tomas_con
+
+*label after_tomas_con
+You open your eyes.
+
+The memory fades, but its heat lingers under your skin. The morning light through the shutters is the same color as the flames — dull, [i]gold[/i], merciless.
+
+The Cradle is gone. Tomas is gone — one way or another.
+*line_break
+And you are still here.
+*page_break Next
+
+People move through the square like ghosts — quiet, deliberate, avoiding the center as though the ground itself remembers.
+No one speaks of what happened. Not aloud. [i]Not yet.[/i]
+
+The Crimson Inquisitors have already cleared their post. Only the scent of sanctified oil lingers — [i]sharp, metallic[/i] — mingling with the faint sweetness of [i]burned cedar[/i]. 
+Someone must have tried to mask the smell. It didn’t work. Nothing could.
+
+You stop at the edge of the square. The world feels thinner here, as if the fire hollowed out more than wood and flesh. 
+Even the wind moves carefully, unwilling to disturb what’s been left behind.
+
+Ash drifts across your boots, pale and pure as snowfall. It sticks when you try to brush it away, clinging stubbornly, like it [i]knows[/i] you. [i]Knows what you did.[/i]
+
+Laemir would tell you to go home — to stay unseen, to let the Inquisitors believe their work is finished. But part of you can’t. 
+Not yet. The square is [i]a wound[/i], and you can’t look away from it.
+
+Somewhere beneath the blackened stake, the truth still smolders.
+Whether Tomas burned there or vanished into the dark — [i]the village will decide soon enough which story to believe[/i].
+
+For now, they all wear the same silence.
+*page_break All scared
+
+A door slams down one of the narrow lanes, startling a flock of crows from the eaves. They scatter into the gray sky, their cries sharp, echoing. 
+The sound carries too far, like everything does in the wake of fire.
+
+You turn from the square at last. The air behind you still hums — a faint vibration in your bones, as if the village itself hasn’t forgotten what was taken from it.
+
+[i]Ashwood is awake.[/i]
+*line_break
+And nothing in it feels quite human anymore.
+*page_break Next
+
+You look around.
+*line_break
+The morning after the trial dawned gray, as if even the sun [i]hesitated[/i] to rise above Ashwood. 
+The air was thick with smoke, acrid and clinging, seeping into clothes and hair and skin until the whole village smelled of burned [i]blackthorn[/i]. 
+It clung to the stones, the rooftops, the very breath of the people who woke into this day.
+
+The square lay scarred.
+
+Charred wood leaned in brittle shapes where the pyre had burned hottest, spitting sparks into the night. 
+
+*if (Tomas_is_dead)
+	The blackened skeleton of the stake still jutted from the ground, a warning written in ash and iron.
+	
+The cobblestones beneath were streaked dark — not all of it blood, not all of it fire.
+
+Children passed the square in silence, their parents tugging them along by the wrist. 
+But some could not help glancing back, wide-eyed, whispers forming on their lips. 
+A few mimicked the chant they had heard echoing through the night — [i]by bone, by blood, by flame[/i] — their high voices shrill in the cold air. 
+The sound carried, thin and sharp, before their mothers shushed them with sharp hands and sharper looks.
+
+[i]The crowd was gone, but its echo lingered.[/i]
+
+*if (Tomas_is_alive)
+	*goto tomas_alive_scene
+*else
+	*goto tomas_dead_scene
+
+*label tomas_alive_scene
+The square held more than ash. Blood, too, in a trail that cut from the stake to the edge of the crowd before vanishing into shadow. 
+Some swore they had seen him torn free at the last moment, dragged away by hands they could not name. 
+Others swore it was a trick, that no man could escape flame without witchcraft.
+
+Rumors swelled, spilling from doorways and taverns, each retelling more frantic than the last. 
+Some said Tomas was [i]a demon’s pawn[/i], others whispered he had been blessed by the goddess [i]Venora[/i] herself. 
+His name was spoken like a curse, or like a prayer. But always — [i]always[/i] — suspicion coiled with it.
+
+Someone had helped him. Someone had woven shadow into the night. 
+*goto talk_square
+
+*label tomas_dead_scene
+The square stank of [i]death[/i]. The stake still smoked where flesh had burned, and no one would go near it, not even [i]the priests[/i] who had ordered it lit. 
+The villagers passed wide around, clutching [i]Valtessa's[/i] charms to their chests, muttering prayers under their breath.
+
+Tomas’s name was not spoken. It had already become [i]dangerous[/i], a memory that the Church would sooner see ground into silence than kept alive. 
+Yet the silence was worse than rumor. It spread like [i]rot[/i], thick and heavy, leaving behind a vacuum where defiance had once breathed.
+*goto talk_square
+
+*label talk_square
+You felt it in the air. The village itself held its breath, waiting for something to crack.
+
+You stood at the edge of the square, boots sinking into damp ash. The smoke made your throat raw, each breath catching as if it did not want to be drawn. 
+Around you, the villagers moved quickly, heads down, their eyes fixed anywhere but the ruined center. 
+Their silence was louder than shouts, and their fear was a knife pressed to your ribs.
+
+[i]The Inquisition had left its mark.[i]
+*page_break Next
+
+The church bells tolled late that morning, heavy and slow. 
+Each strike carried across Ashwood like a hammer against bone, reverberating through the square, the rooftops, the hollow spaces of the Cradle below. 
+[i]The Light of Valtessa[/i] did not need to patrol the streets today. 
+Its presence lingered in the rhythm of those bells, in the way villagers lowered their voices, in the way every door seemed to close just a little too fast when footsteps passed.
+
+Somewhere above, the crimson banner of the Church fluttered in the cold air. 
+Its fabric was dark with last night’s damp, heavy as dried blood, but its golden sigil still caught the weak light — sharp, deliberate, merciless.
+
+[i]The Serpent Beneath the Flame.[/i]
+
+A serpent coiled in a near-perfect ring, jaws straining toward its own tail — eternity almost within reach. 
+But from the center rose a blade of fire, slender and bright, its lower edge driving clean through the serpent’s skull. 
+The creature’s circle, [i]its promise of forever[/i], shattered by [i]judgment[/i].
+
+The wind caught the banner, making the flame seem to flicker, [i]alive[/i] for a heartbeat — burning the serpent anew.
+
+The symbol watched you from above, impassive and unblinking.
+A reminder, whispered in silk and gold, of what the Church does to those who [i]dare[/i] complete the circle.
+
+The symbol spoke its own sermon:
+*line_break
+[i]To reach for eternity is to be burned by it.[/i]
+
+And under those banners, men called themselves [i]righteous[/i].
+*page_break Next
+
+Your thoughts turned to the Cradle. Beneath the village, the tunnels would be restless. 
+No one would sleep easy after what had happened — whether Tomas had escaped or burned, the Cradle was marked by it. 
+Whispers would be running wild: of betrayal, of curses, of whether it was [i]wise to stay[/i]. Fear was a living thing down there, fed by smoke and rumor, swelling in the dark.
+
+But before you could retreat back into the comfort of your own home, you lingered, unable to shake the square’s pull.
+
+You could almost hear it still.
+
+The roar of the crowd, the chant that had cut through the night. The crackle of fire, or the sudden silence of its being smothered. 
+Cassariel’s voice, calm and terrible, threading through it all.
+
+It clung to your ears even now, though the square was empty.
+
+Someone brushed past you, muttering low. You caught only fragments — [i]traitor… witch-blood… eyes everywhere[/i]. 
+Another voice answered in hurried whispers, keep your head down, keep your prayers strong.
+
+You turned, but the faces melted into the crowd, vanishing like smoke.
+
+*label at_the_square
+For a moment you stood alone in the square’s ruins, and the silence pressed heavier than the night’s noise.
+The smoke curls low around your boots, tugging at your thoughts, urging you toward motion.
+*choice
+	*disable_reuse #Examine the pyre’s remains
+		You move closer.
+
+		The world narrows to the blackened shape at the square’s heart — the place where night burned itself away. 
+		The air still tastes of blackthorn smoke and iron. Each step sinks into ash-soft snow, muffling sound, dulling the rhythm of your heartbeat until even that feels distant.
+
+		The pyre looms like a skeleton half-buried. Charred beams jut upward, skeletal fingers clutching at the gray sky. Beneath them, the ground is scorched to glass. 
+		The stones have melted together in places — fused by heat so intense it turned the square itself into a monument.
+
+		You crouch. The warmth still lives there, faint and pulsing like a dying ember. 
+		You brush your fingertips across the soot, and it clings — soft as dust, but heavier somehow. The kind of heaviness that doesn’t wash away.
+		
+		*if (Tomas_is_dead)
+			There’s no sign of Tomas. Not really. Only the echo of what might have been him — a hollow in the ash, roughly human in shape, or maybe the absence of one.
+
+		The villagers will see what they want to see.
+		*line_break
+		[i]An execution.[/i]
+		*line_break
+		[i]A miracle.[/i]
+		*line_break
+		[i]A warning.[/i]
+
+		You’re not sure which one you believe.
+		*page_break Next
+
+		The scent catches you then — not smoke, but something beneath it, faint and bitter. 
+		Sanctified oil, the kind the Inquisitors use to [i]“cleanse”[/i] what cannot be forgiven. It coats the air, thick and sweet, clinging to your tongue like [i]guilt[/i].
+
+		A glint breaks through the soot. You reach for it before you think.
+
+		It’s small — half a medallion, scorched along one edge. The sigil has melted, but the faint outline remains: a serpent coiled around a broken flame. 
+		[i]The Serpent Beneath the Flame.[/i]
+
+		You stare at it for too long. The symbol seems to pulse in your hand, the metal still holding the memory of fire.
+
+		Then — a flicker.
+		Not from the medallion, but the air around it.
+
+		A breath of heat ripples across your skin. For a heartbeat, the world wavers — the square, the snow, the charred stake — all swallowed by a vision that isn’t your own.
+
+		You see Tomas — or something wearing his outline — [i]standing within the fire[/i]. His eyes are open, calm even as the flames climb his shoulders. 
+		He doesn’t scream. He only watches, as if the burning were a truth he’d known long before it came.
+
+		Behind him, a shadow moves — [i]not human, not wholly divine[i]. [i]It watches, too.[/i]
+		*page_break Next
+
+		The vision breaks with the sting of cold air. You’re kneeling again, the medallion clutched too tightly in your hand, the imprint of the serpent [i]seared[/i] into your palm.
+
+		When you open your fingers, a faint line of blood beads across your skin — small, but precise, as if drawn by purpose.
+
+		Somewhere beyond the square, a bell tolls. Once. [i]Twice.[i]
+
+		*if (Tomas_is_dead)
+			*goto tom_dead_snake
+		*else
+			*goto tom_not_dead_snake
+		
+		*label tom_dead_snake
+		By the third chime, the wind has shifted, and the last of the pyre’s smoke drifts upward, carrying whatever was left of Tomas into the pale morning sky.
+		*goto con_scene
+		
+		*label tom_not_dead_snake
+		By the third chime, the wind has shifted, and the last of the pyre’s smoke drifts upward, carrying whatever was left of Tomas's memory into the pale morning sky.
+		*goto con_scene
+		
+		*label con_scene
+		You rise slowly. The medallion feels heavy, almost alive.
+
+		The serpent’s circle never closed.
+		*line_break
+		[i]And for the first time, you wonder if that was mercy… or design.[/i]
+		*set examine_pyres_remains true
+		*goto at_the_square
+	
+	*disable_reuse #Search the crowd nearby
+		You lift your head and let your gaze move through the thinning mist.
+
+		The square has begun to breathe again — faint murmurs rising, footsteps scuffing across the cobbles. 
+		Villagers drift at the edges, as though gravity itself pulls them toward the ruins but fear keeps them circling wide.
+
+		Faces blur together at first: gray, hollowed, touched by the same smoke. 
+		But then you see them — small fractures in the silence, eyes that linger a heartbeat too long, lips that move though no prayer escapes.
+
+		[i]Someone knows something.[/i]
+		*line_break
+		[i]Someone always does.[/i]
+
+		You move carefully, weaving through the quiet bodies. Every glance feels like a blade turned edge-first. 
+		A woman grips her child tighter when you pass. 
+		*if (examine_pyres_remains)
+			A man mutters a blessing under his breath, though his gaze never leaves your hands. You can almost feel the old words crawling against your skin — [i]Vel’zeth drakh Krathuun[/i] -  The Unclean One beneath the Flame. That is the heretical phrasing used by inquisitors in the Light's language [i]Valdyr[/i]. 
+
+		They don’t say it. They don’t have to.
+		*page_break Next
+
+		Near the fountain, a figure bends low to collect something from the ground. 
+		At first, they look like another mourner, face half-hidden by a hood. But the way they move — precise, rehearsed — pricks at your instincts. 
+		The gloved hand dips into the soot and retrieves a sliver of metal. [i]Serpent’s sigil[/i] flashes once, and then it’s gone into their sleeve.
+
+		You step closer.
+
+		The hood lifts slightly — just enough to catch a glimpse of crimson thread stitched into the hem. Inquisitor.
+
+		Your pulse stutters. [i]You shouldn’t be here.[/i] Not this close.
+
+		But curiosity has always been stronger than caution.
+
+		“Not all ash belongs to the dead,” the hooded one murmurs, their voice soft, genderless, unhurried. 
+		They don’t look up, but you know the words are meant for you. “Some carry memory. Some carry guilt.”
+
+		You try to speak — to ask who they are, what they’re doing here — but your throat feels dry, as if the air itself resists sound.
+
+		When you blink, the figure is gone. The space where they stood holds only the faint imprint of boots and a trace of [i]iron[/i] in the air.
+
+		You turn sharply, scanning faces, searching for any sign — and that’s when you notice another presence watching.
+
+		A boy, no older than twelve, stands in a doorway across the square. His eyes are [i]too old[/i] for his face. He doesn’t flinch when you meet them. 
+		He only tilts his head, as though trying to remember where he’s seen you before.
+
+		Then, with quiet certainty, he presses a finger to his lips.
+
+		[i]A warning[/i], or [i]a promise[/i].
+		*page_break You can’t tell
+
+		The church bells toll again, closer now. The crowd scatters at once, like leaves torn from a branch.
+
+		Within moments, you’re alone again. Only the echo of footsteps remains — and the faint, metallic taste of being seen.
+
+		You draw your cloak tighter and turn away from the square. The serpent’s banner catches the wind overhead, its flame gleaming gold against the gray.
+
+		Whatever the Inquisitors saw last night, whatever they suspect — it hasn’t ended with Tomas.
+
+		[i]It has only begun to circle closer.[/i]
+		*goto at_the_square
+	
+	*disable_reuse #Seek the path behind the square
+		You slip through the thinning crowd and into the narrow lane that runs behind the square.
+
+		Here, the world feels closer — the walls lean inward, the air thick with old smoke and frost. 
+		The further you go, the quieter the village becomes, until even [i]the bells fade[/i] into distant memory. 
+		Only the crunch of ash under your boots remains, soft and rhythmic as a heartbeat.
+
+		The path twists between shuttered houses, their windows black with soot. You can smell the pyre still — its ghost carried on the wind.
+
+		For a moment, you let yourself breathe.
+
+		Then a sound breaks the stillness.
+		Not loud — just a shift, a scrape of movement too deliberate to be wind.
+
+		You freeze.
+
+		A figure steps out from behind the crooked fence at the alley’s end — tall, broad-shouldered, the hood of a tattered cloak pulled low over their face. 
+		Their presence fills the narrow space like a held breath.
+
+		For a heartbeat, you think it might be an Inquisitor.
+		But the way they stand — the hesitation in it — says otherwise.
+
+		“Shouldn’t be here,” the voice comes, low and rough, not unkind but edged with [i]warning[/i]. 
+		“They’re still searching. You linger too long, and they’ll start to wonder why.”
+
+		Your pulse tightens. You take a step back, ready to turn, but something in the voice stops you — something familiar.
+		*page_break “Elden?”
+
+		The name slips out before you can call it back.
+
+		The hood lifts just enough for the light to catch ${elden_pronpp} face — the scar along ${elden_pronpp} jaw, 
+		the dark mismatched eyes that never quite look away even when they should. ${elden_big_pronpp} expression is unreadable, caught somewhere between relief and reproach.
+
+		“You shouldn’t know my name here,” ${elden_pron} says, quietly. “Not today.”
+
+		${elden_big_pron} glances toward the square, where the faint murmur of voices still echoes. 
+		${elden_big_pronpp} hand tightens around the strap of the pack slung across ${elden_pronpp} shoulder. 
+		You notice the faint tremor in it — not fear, exactly, but something like restraint.
+
+		“They’re sweeping the lower streets,” ${elden_pron} continues. “Asking questions about what happened last night. About Tomas. About traitors.”
+
+		Your stomach twists. “Then he—?”
+
+		Elden shakes ${elden_pronpp} head once, a sharp, silent warning. “Not here.”
+
+		A pause. The air between you hums — heavy with everything unsaid.
+		*page_break Next
+
+		${elden_big_pron} steps closer, lowering ${elden_pronpp} voice. “You think they don’t see? They do. Maybe not all of it, but enough to make them hungry. 
+		You go back to your house, you keep the shutters closed, and you wait until [i]the Light[/i] finds something brighter to burn.”
+
+		${elden_big_pron} turns to go, but you reach out — a reflex more than a thought. 
+		Your fingers catch the edge of ${elden_pronpp} cloak, and for an instant, ${elden_pron} stops.
+
+		There’s blood on the fabric. [i]Dried.[/i] Not Elden's, maybe — but not clean either.
+
+		“Elden,” you whisper, “what did you do?”
+		
+		${elden_big_pron} doesn’t answer right away. 
+		The silence stretches until it starts to ache — long enough for the smoke to drift between you, veiling ${elden_pronpp} face in gray. 
+		When ${elden_pron} finally speaks, ${elden_pronpp} voice sounds worn at the edges, as if scraped against stone.
+		*line_break
+		[i]“What I had to.”[/i]
+		The words are simple, but they sound like confession. Like an ending disguised as mercy.
+
+		You take a step closer, boots grinding against frost and soot. 
+		The scent of smoke still clings to everything — to your skin, to ${elden_pronpp} coat, to the breath that trembles between you.
+		*goto elden_choices_talk
+	
+	*selectable_if (examine_pyres_remains) #Return home
+		The fog follows you home.
+
+		It trails behind you through the narrow lanes of Ashwood, curling between your boots and the uneven cobbles. 
+		Every house along the way seems smaller than before — doors bolted, shutters latched. 
+		A village pretending to sleep even as it listens for the next knock of the Inquisitors.
+
+		Your house waits at the end of the lane, where the birch trees thin and the river begins to darken. Smoke curls weakly from the chimney, more gray than white. 
+		The sight should bring comfort. It doesn’t.
+
+		You pause at the threshold, fingers brushing the door. The wood feels damp beneath your touch, the grain swollen from the night’s frost. 
+		For a heartbeat, you consider turning back — as if stepping inside might somehow make all of it real.
+		*page_break You push the door open
+		
+		Warmth greets you — faint, uneven — the lingering breath of a dying hearth. The smell of herbs and iron hangs in the air. 
+		A pot sits cooling on the table, half-empty, the steam long gone.
+
+		Laemir looks up from beside the fire. 
+		Her hands are wrapped around a cup of tea gone cold, her dark hair loose around her shoulders. 
+		There’s a tremor in her fingers that she hides by setting the cup down too quickly.
+
+		“You’re back,” she says, voice low, steady by force of will. “I thought—” She doesn’t finish.
+
+		Your adoptive father — his name still a weight you can’t bring yourself to speak — stands near the window. 
+		A large man, worn at the edges like stone weathered by years of wind. He’s cleaning his hands with a cloth already stained from his work at the tannery. 
+		When he sees you, he nods once, the motion slow and deliberate.
+		*page_break Next
+		*goto at_home_talk
+
+*label elden_choices_talk
+${elden_big_pron} turns slightly, half-shadowed, half-lit by the weak dawn. 
+The muscles in ${elden_pronpp} jaw shift once — a habit of restraint, the kind that comes from too many words swallowed before they could become mistakes.
+
+For a moment, you could let ${elden_pronp} go.
+Or you could make ${elden_pronp} stay.
+
+The choice hangs between you, fragile as breath.
+*choice
+	#Stop ${elden_pronp} and demand the truth
+		[i]“Elden!”[/i]
+
+		Your voice breaks the stillness, sharper than you meant it to. The sound carries, echoing off stone and smoke, drawing the faintest turn of ${elden_pronpp} head.
+
+		${elden_big_pron} pauses — shoulders tight, blood dark on ${elden_pronpp} sleeve. For a moment you think ${elden_pron}’ll keep walking, pretend ${elden_pron} didn’t hear. 
+		Then ${elden_pron} exhales — the kind of breath that sounds like it hurts to let go — and turns halfway toward you.
+
+		“Why are you bleeding?” you ask.
+
+		[i]No answer.[/i] Only that look — guarded, assessing — like ${elden_pron}’s weighing how much truth you can bear before it becomes dangerous.
+
+		“You were there last night,” you press. “Not at the pyre. Somewhere else. I saw the smoke beyond the ridge.”
+
+		${elden_big_pron} flinches — barely, but enough.
+
+		You step closer. “Who did you fight?”
+
+		Elden’s gaze drifts to [i]the banner[/i] near the village — the serpent pierced by flame — before returning to you. 
+		${elden_big_pronpp} voice, when it comes, is low and rough, like gravel dragged through blood.
+		“Killers,” ${elden_pron} says. [i]“Paid ones.”[/i]
+
+		“For what?”
+
+		${elden_big_pronpp} jaw works, silent for a beat. Then, quieter:
+		“For someone who wasn’t supposed to live through the night.”
+
+		There’s weight behind the words — something that hums beneath them, dangerous and careful.
+
+		You frown. “You’re talking in riddles again. Who?”
+
+		${elden_big_pron} meets your eyes at last, and something shifts there — a spark of the ${elden_worm} you once half-knew, 
+		the one who used to walk the riverbank in silence, before the [i]King’s Guard[/i] carved all softness out of ${elden_pronp}.
+
+		“You shouldn’t ask,” ${elden_pron} says, but ${elden_pronpp} tone isn’t harsh — it’s almost pleading. “Not here.”
+
+		Blood drips from ${elden_pronpp} fingertips, dark against the ash. You notice then that the wound isn’t shallow — 
+		a deep cut through the glove, the kind that speaks of a blade meeting [i]bone[/i].
+
+		${elden_big_pron} sees your glance. [i]“It’s nothing.”[/i]
+		*page_break “That’s not nothing.”
+
+		“Better me than the one they wanted.”
+
+		Something in ${elden_pronpp} eyes falters — a flash of exhaustion, too human for the mask ${elden_pron} wears.
+
+		“Elden… who did they want?” you whisper.
+
+		${elden_big_pron} doesn’t answer. 
+		But the way ${elden_pronpp} gaze shifts, for just a heartbeat, toward the direction of the old road, where you have found the stranger, Solian, 
+		tells you more than words could.
+
+		The air feels colder suddenly. The fog wraps tight, like something listening.
+
+		“You shouldn’t follow,” ${elden_pron} says again, but softer this time. “And if you see me again, forget the name you just spoke.”
+
+		Before you can reply, ${elden_pron} turns away. The morning swallows ${elden_pronp} whole — one step, then another — 
+		until only the faint scuff of boots and the thin trail of blood remain.
+
+		You stand alone in the gray quiet, the smoke curling low around your ankles. 
+		Somewhere in the distance, a bell tolls — slow, deliberate, as if marking the start of something you don’t yet understand.
+		*set you_know_they_are_after_sol true
+		*goto at_the_square
+	
+	#Talk to ${elden_pronp} about the past
+		“I didn’t think you’d come back,” you say softly.
+
+		That stops ${elden_pronp}. ${elden_big_pron} half-turns, enough for the light to catch ${elden_pronpp} face.
+
+		“You remember me?”
+
+		“I remember a kid who never spoke,” you say. “Who watched everyone else like ${elden_pron} was already somewhere else.”
+
+		${elden_big_pron} huffs a quiet, humorless laugh. “Guess I was.”
+
+		The silence stretches, heavy but not cruel.
+
+		“You were sent to the capital,” you continue. “To train under the King’s Guard. Laemir said it was an honor.”
+
+		Elden’s mouth twists — not quite a smile. “It was a cage with polished walls.”
+
+		The words sound rehearsed, as if ${elden_pron}’s said them before in ${elden_pronpp} mind a hundred times but never out loud.
+
+		You study ${elden_pronp} — the shadows beneath ${elden_pronpp} eyes, 
+		the faint tremor in ${elden_pronpp} hand where it rests near ${elden_pronpp} sword. “You didn’t light the pyre, did you?”
+
+		${elden_big_pronpp} gaze flicks toward you, sharp and startled. “You shouldn’t ask questions like that.”
+
+		“Then tell me I’m wrong.”
+
+		${elden_big_pron} doesn’t.
+
+		The silence that follows says everything.
+
+		When ${elden_pron} finally steps back, the fog catches around ${elden_pronp} like a closing curtain. “You don’t owe me memory,” ${elden_pron} says. 
+		“Forget whatever kid you think I was.”	
+		*goto at_the_square
+	
+	#Let ${elden_pronp} go
+		You don’t stop ${elden_pronp}. Not this time.
+
+		The air between you stretches thin — one heartbeat, two — and then ${elden_pron} turns and walks into the fog. 
+		The sound of ${elden_pronpp} boots fades until it’s swallowed by the morning quiet.
+
+		You stand where ${elden_pron} left you, the forest yawning open around you like a wound that refuses to close.
+
+		The scent of smoke clings to your tongue, to the back of your throat. When you finally breathe, it tastes like ash and something almost like regret.
+
+		Somewhere, a raven calls — sharp, distant. The sound makes the hairs on your arms rise.
+
+		You look toward the edge of the square, where the fog seems to pulse faintly with light.
+		Something moves beneath it — faint, rhythmic, almost alive.
+
+		And though you tell yourself it’s just the morning settling, the air itself feels watchful.
+
+		You wrap your arms around yourself and turn away.
+		
+		And then ${elden_pron}’s gone, swallowed by fog and smoke, ${elden_pronpp} footsteps fading into the hum of the waking village.
+
+		You stand there for a long moment, your breath clouding in the cold. 
+		The path behind the square feels emptier than before, yet somehow the air still carries the ghost of ${elden_pronpp} voice — and beneath it, 
+		the faint, rhythmic echo of something moving beneath Ashwood’s quiet skin.
+		*goto at_the_square
+		
+*label at_home_talk
+Laemir doesn’t ask where you’ve been. She doesn’t need to. The smell of [i]smoke[/i] clings to you, and the truth is written plain in your eyes.
+
+For a while, no one speaks. The quiet fills the house like fog fills the streets — thick, inevitable.
+
+Laemir breaks it first.
+*line_break
+“They’ll come again,” she says, her voice barely above a whisper. “They always do, after a burning. Looking for [i]echoes[/i].”
+
+Your father’s jaw tightens, but he says nothing. His gaze flicks toward the window, then back to you.
+
+“They’ll start asking questions about Tomas,” Laemir continues. “And about who was seen near the square last night. If anyone mentions—”
+
+She stops herself. The rest hangs unspoken between you.
+
+You lower your eyes. [i]“I was careful.”[/i]
+
+“I know, ${name},” she says softly. [i]“But that isn’t always enough.”[/i]
+
+She stands and moves closer, her hands hovering near your face, like she means to touch your cheek but thinks better of it. 
+“I can feel it,” she murmurs. “Something’s stirring in the air. Magic doesn’t fade after use — it lingers. It listens.”
+
+Your pulse quickens. “You think they’ll sense it?”
+
+“I think the Light will try,” she says. “And if they can’t find its source, they’ll burn everything that smells of it.”
+
+Your father’s voice breaks through, low and certain. “They will [i]not[/i] touch this house.”
+*page_break Even he doesn’t sound convinced
+
+You glance toward the small window. Beyond the glass, the fog thickens, curling like smoke over the frozen fields. 
+Somewhere in the distance, a church bell tolls once, then again — slow, deliberate, marking the hour like a warning.
+
+For a moment, none of you breathe.
+
+Then Laemir straightens, her expression hardening. “Wash up. Rest if you can. You’ll need your strength soon.”
+
+“Why?”
+
+Her eyes flick toward the door, toward the village that waits beyond. “Because this won’t end with Tomas.”
+
+You frown. “What do you mean?”
+
+Laemir’s lips part, then press shut again. When she finally speaks, her voice has gone thin — the kind that belongs to old fears finally waking.
+“Word came this morning. [i]The Queen is coming.[/i]”
+
+The words drop like a stone into the quiet. Even the fire seems to flinch, its crackle softening into a hush.
+
+Your father straightens from his post by the window. “Here? To Ashwood?”
+
+Laemir nods. “They say the King hasn’t risen from his bed in weeks. She’s taken his place in council — and now she travels north to restore order herself.” 
+Her gaze meets yours. “Where the Inquisition’s fire hasn’t burned deep enough, she brings her own flame.”
+*page_break Next
+
+A chill prickles the back of your neck. You’ve never seen her — only heard the whispers.
+That her crown gleams brighter than the Light she claims to serve.
+*line_break
+That her smile can silence a court.
+*line_break
+That mercy, to her, is just another form of judgment.
+
+Your father mutters something low, sharp. “If the Queen comes here, it’s not to talk.”
+
+Laemir swallows. “And she won’t come alone.”
+
+You look up. “What do you mean?”
+
+Her eyes flicker, wary. “She never travels without her [i]Shadow[/i].”
+
+The name catches in your throat — or would have, if she’d spoken it.
+A man carved from silence and obedience.
+A figure who stands just behind her throne — [i]never at her side, never in her light[/i] — and yet seems to shape the air she breathes.
+
+No one knows his name.
+Only that wherever he walks, truth bends to meet him.
+
+Laemir lowers her voice to a whisper. “They say he sees what others can’t. That he can look through walls, through people.” 
+Her hands tremble. “If he’s with her, child, then you’ll have nowhere to hide.”
+*page_break Next
+
+The words settle heavy in the air — a truth you already knew, but needed someone to say aloud.
+
+You look between them — Laemir with her trembling hands and fierce heart, your father with his quiet resolve — and realize this house is no longer a shelter. 
+It’s a spark waiting to be noticed.
+
+You move toward your room, every step echoing louder than it should. 
+The floorboards creak, the fire sputters, and in the silence between sounds, you swear you hear that faint hum again — steady, low, almost like a heartbeat beneath the wood.
+
+You stop at your door. The noise fades. Only the fog breathes outside.
+
+Still, it feels like something’s listening.
+And somewhere beyond that fog — past the edge of the waking world — a woman crowned in light rides toward Ashwood…
+…and behind her, the shadow that does not belong to her follows close.
+*page_break Next
+
+[i]Ashwood breathes smoke.[/i]
+
+The morning carries it — thick, bitter, and lingering — curling from blackened rooftops and through the tangled branches that fringe the village. 
+Blackthorn ash settles in the gutters and clings to the thatch, dulling the [i]gold[/i] of the autumn light. 
+The world feels still, too still, as though the village itself were holding its breath after screaming all night.
+
+When you step outside, the air is damp and cold, the kind that seeps through fabric and into bone. 
+The scent of burned wood clings to everything — to your clothes, to your hair, to the earth itself. 
+Beneath it lingers something [i]coppery[/i], faint but impossible to ignore.
+
+Children carry buckets from the well, faces pinched pale, their eyes averted from the square. The men repair fences that weren’t broken. 
+Women hang cloths that will never come clean. No one looks at the blackened stake at the village’s heart, but everyone feels its presence.
+
+From here, you can still see it — the pyre’s remains standing stark and wrong against the dull morning light.
+
+Somewhere above, a raven cries once, sharp and cold, before vanishing into the smoke-hazed sky.
+
+Behind you, the door creaks open.
+*line_break
+"${name}," Your mother's voice carries the weight of sleepless hours — “don’t wander far. They’re saying riders came through the pass before dawn.”
+
+You glance back at her. Her hair is unbound, her shawl half-slipped from one shoulder, but her eyes are steady. 
+There’s fear in them, yes — but something else, too. [i]Anticipation.[/i]
+*page_break “Riders?”
+
+She nods once. “The Queen’s retinue, they say. And her [i]Right Hand[/i] rides with her.”
+
+The words fall like stones into water, and for a moment all you can hear is the dull echo of your own heartbeat. The Queen. [i]Here.[/i]
+The last time she left the capital, it was to watch an execution.
+
+You look past Laemir, toward the gray horizon. Smoke curls along the ridge like a waiting storm.
+
+“She wouldn’t come to Ashwood,” you murmur.
+*line_break
+Laemir doesn’t answer. She doesn’t need to.
+
+*label today_agenda
+You pull your cloak tight over your ${appearance} and step out into the cold, damp street. 
+The cobblestones are streaked dark from rain that fell in the night, washing little away. 
+The village hums faintly — hammers striking, whispers threading through the air. Somewhere, a chant of the Light is being carried out, its sound hollow and slow.
+
+[i]Ashwood lives, but only barely.[/i]
+
+And today, it’s yours to walk.
+*choice
+	*disable_reuse #Converse with Laemir
+		The smoke has sunk low over Ashwood, crawling through the streets like something that refuses to die.
+		Your boots leave dark prints on the threshold. The air inside the house is warmer, but not by much — it smells of old ash and damp wood, of tea long gone cold.
+
+		[i]Laemir is waiting.[/i]
+
+		She stands near the hearth, her shawl drawn tight, face pale beneath the flicker of the firelight. 
+		Your father’s shadow lingers behind her, silent, leaning against the doorframe with the stillness of someone holding himself together by habit.
+
+		Laemir’s gaze sweeps over you, and her voice comes low, sharp as a struck chord.
+		“You went to the square.”
+
+		It isn’t a question.
+		*line_break
+		You don’t answer.
+
+		The silence between you tightens until it hums. The fire cracks. The rafters groan. Somewhere outside, a crow calls once and falls quiet again.
+
+		Laemir moves closer. “Do you have any idea what it means to be seen there? After what happened?" 
+		*if (Tomas_is_alive)
+			Laemir lowers her voice "After what you did?”
+
+		Her words hit harder than they should. 
+		You can still taste the night in the back of your throat — the heat, the screams, the way Tomas’s name tore itself from your lungs whether you wanted it to or not.
+
+		“I couldn’t stay here,” you manage. “Someone had to—”
+
+		“No,” she cuts in. “No one had to. That’s the lie that gets people killed.”
+
+		You swallow back the tremor in your voice. “Tomas would’ve—”
+		
+		*if (Tomas_is_dead)
+			“Tomas is gone.” Her tone cracks on the last word, and the air between you wavers.
+
+		For a long moment, neither of you speaks. The fire sputters low, light trembling across the walls. 
+		You look down — your hands are still smudged with ash, still shaking faintly.
+
+		Your father shifts by the door, clearing his throat. “They’re saying riders were seen past the river,” he murmurs. “Royal ones.”
+
+		Laemir’s head turns sharply. 
+		*page_break [i]“The Queen?”[/i]
+
+		He nods once. “Her retinue. And the Shadow’s with her.”
+
+		Something cold moves through the room — quieter than fear, heavier than dread. You remember the voice in your dream: You are the key. The lock. The blade. [i]The wound.[/i]
+		Your stomach knots.
+
+		“Why?” you ask softly. “Why would she come here?”
+
+		Laemir meets your eyes, and there’s something in her gaze you’ve never seen before — pity, maybe. 
+		Or the hollow acceptance of someone who’s seen a storm gathering and knows there’s no use closing the shutters.
+
+		“Because this won’t end with Tomas,” she says. “Because the fire wasn’t enough. Because [i]the Queen[/i] does not like loose ends.”
+
+		She looks toward the window, where the last light of day is beginning to fade — bruised [i]gold[/i] bleeding into gray. 
+		“Ashwood is about to be scoured clean, ${name}. Of questions. Of doubts. Of [i]people[/i].”
+
+		You step closer, lowering your voice. “Then we’ll leave. Before she arrives.”
+		*page_break Next
+
+		Laemir shakes her head. “And go where? There’s no outrunning what hunts you, not when it’s wearing a crown. No. You’ll stay. 
+		You’ll keep your head down. [i]You’ll survive.[/i]”
+
+		Her hand lifts, trembling as she brushes a thumb against your cheek. “That’s all I ask. Don’t give her a reason to look your way.”
+
+		You want to promise her. You want to believe you can.
+
+		But the dream still hums behind your eyes — [i]Draegan’s[/i] broken chains, [i]Nirael’s[/i] words, the weight of inevitability pressing closer.
+		You know, even as you nod, that the Queen is not the only one coming.
+
+		Laemir turns away first, hiding her face from the firelight. “Go wash. Change your clothes. You smell like smoke.”
+
+		You linger a moment longer, caught between her voice and the faint hum rising beneath the floorboards — 
+		that low, rhythmic thrum that feels almost like a heartbeat buried under the wood.
+
+		Then you move toward your room. The house creaks around you, old and familiar, yet tonight every sound feels sharper. 
+		The fire pops, your father murmurs something to Laemir that you can’t make out, and outside, the wind carries the distant clang of hooves on stone.
+
+		The Queen is coming.
+		*line_break
+		And with her, the Shadow.
+
+		You pause at your door. The hum fades again. Only the fog breathes outside.
+
+		Still, it feels like something’s listening.
+		*goto today_agenda
+		*page_break Next
+	
+	*disable_reuse #Seek out your father
+		You hesitate in the hall. Laemir’s words cling like smoke, their edges sharp against the quiet.
+		Part of you wants to stay — to obey, to breathe, to let the world turn without you for once.
+		But the silence of the house feels too tight. [i]Too full.[/i]
+
+		You glance toward the back door, where the faint smell of pine resin drifts in — clean, sharp, alive.
+		Your father must be in the shed again. He always is when he doesn’t know how to pray.
+
+		You draw your cloak tighter and step outside.
+		*page_break Next
+
+
+		The shed sits at the edge of the yard, half swallowed by climbing ivy. 
+		The roof sags slightly under years of rain and sun, but the door still fits clean into its frame — his work, like everything he builds, [i]endures[/i].
+
+		Inside, the smell hits first — sawdust, oil, and smoke, cut through with the faint sweetness of cedar. 
+		The air hums faintly with the rhythm of his tools. Measured, patient.
+		He’s working on something small today — the frame of a chair, maybe, or a cradle that’s never been filled.
+
+		He doesn’t look up when you enter. “Couldn’t sleep?”
+		His voice is rough, steady — a man carved out of quiet.
+
+		You step closer. “I wasn’t trying to.”
+
+		He pauses, sets the chisel down, and wipes his hands on a rag. The silence between you is familiar — the kind that holds more than words ever could.
+
+		“I heard about the square,” he says finally. “Could see the smoke from here.”
+
+		There’s no accusation in it. Just the weight of something he’s too tired to name.
+
+		“I went,” you admit.
+		*page_break “I know.”
+
+		That makes you look up. He meets your eyes for a heartbeat — gray-blue, worn, kind, but unyielding — before turning back to his work.
+		“I figured you would,” he murmurs. [i]“You’ve got your mother’s spine. Never learned how to look away when you should.”[/i]
+
+		The scrape of his blade against wood fills the space that follows. You watch his hands — scarred, calloused, steady — shaping the world in quiet defiance of its breaking.
+
+		“Mother said the Queen’s riders are close.” you say softly.
+
+		He nods once. “Aye. They’ll come for answers.”
+
+		“About Tomas?”
+
+		“About everything.”
+
+		He sets the chisel aside, leaning both hands on the bench. 
+		“You need to understand something, [i]${kid_word}[/i]. 
+		When kings and queens start asking questions, they already [i]know[/i] the answers. They’re just waiting to see who [i]lies[/i].”
+		*page_break The words sink deep
+
+		He’s not a man of poetry, but sometimes his truth lands sharper than Laemir’s fear.
+
+		You cross your arms, the chill of the shed sinking into your skin. “So what do we do?”
+
+		He exhales, long and low. “We do what we’ve always done. Keep the hearth burning. Keep our names clean. And when the crown looks this way—” 
+		he meets your gaze again, level and unflinching “—you don’t give them a reason to dig.”
+
+		For a long moment, neither of you moves. Dust drifts through a beam of pale light cutting through the half-open door. 
+		The scent of wood smoke and resin thickens the air, strangely comforting, like a memory you can still hold onto.
+
+		Then he speaks again, quieter. “I built this house with my own hands. Every beam, every nail. If the Queen wants to tear it down, she’ll have to do it herself.”
+		A faint smile, tired but proud. “Until then, we live.”
+
+		You smile back — [i]or try to[/i]. “That’s your answer for everything.”
+
+		“It’s the only one that’s ever worked.”
+		*page_break Next
+		
+		You stay a while longer, helping him tidy the tools, pretending for a moment that the world isn’t about to change again.
+		But outside, the wind shifts — carrying with it the distant thrum of hooves on the main road.
+
+		The Queen’s riders are drawing near.
+
+		[i]And somewhere among them rides the Shadow.[/i]
+		*goto today_agenda
+		*page_break Next
+	
+	*disable_reuse #Encounter Solian
+		The door creaks softly behind you as you step into the yard, leaving the warm, resin-scented dim of the shed.
+		The morning has sharpened while you were inside — the light thinner, the wind colder, the village holding its breath beneath a sky the color of tarnished silver.
+
+		You pull your cloak tighter around you, but a shiver runs up your spine anyway.
+
+		Someone is watching.
+
+		You don’t see ${sol_pronp} at first.
+
+		You feel ${sol_pronp}.
+
+		A presence, familiar as a half-remembered song, lingering at the edges of your senses.
+		Then a shadow shifts near the stone wall by the apple trees — and there ${sol_pron} is.
+
+		Solian.
+
+		${sol_big_pron} leans against the rough stone as though ${sol_pron}’s been waiting a while, 
+		shoulders tense beneath ${sol_pronpp} travel-worn cloak. ${sol_big_pronpp} hair is wind-tossed, darker in the gray light, 
+		and the healing bandages beneath ${sol_pronpp} shirt pull tight when ${sol_pron} straightens. ${sol_big_pronpp} breath fogs faintly in front of ${sol_pronp}.
+
+		“Sorry,” ${sol_pron} says, voice soft, almost apologetic. “I didn’t mean to startle you.”
+
+		You blink. “You didn’t.”
+
+		${sol_big_pron} almost smiles, but something in ${sol_pronpp} eyes betrays ${sol_pronp} — 
+		something haunted and raw, a mix of last night’s terror and something more personal. Something ${sol_pron}’s not ready to name.
+		*page_break Next
+
+		“You weren’t home when I checked earlier.”
+		${sol_big_pron} says it lightly. Too lightly.
+		The kind of lightness you use when hiding panic.
+
+		“I went to the square,” you answer.
+
+		${sol_big_pronpp} jaw tightens — not in anger. In fear.
+		${sol_big_pron} steps closer without thinking, fingers twitching as though ${sol_pron} wants to reach for you but isn’t sure ${sol_pron}’s allowed.
+
+		“You shouldn’t go there alone,” ${sol_pron} murmurs.
+
+		“You went,” you counter.
+
+		“I didn’t say I was smart.”
+		A ghost of humour.
+		It fades quickly.
+		“Are you… alright?”
+
+		You don’t lie. Not to ${sol_pronp}.
+
+		“No,” you say quietly. “But neither are you.”
+
+		${sol_big_pronpp} eyes flicker — surprise, then something warmer.
+		${sol_big_pron} swallows. [i]Hard.[/i]
+
+		The distance between you is three steps at most, but it feels smaller.
+		Or maybe ${sol_pron} makes it feel smaller, standing in the cold morning with ${sol_pronpp} heart practically in ${sol_pronpp} throat.
+
+		“I didn’t sleep,” ${sol_pron} admits. “Every time I closed my eyes, I kept thinking—”
+		${sol_big_pron} cuts ${sol_him} off, shakes ${sol_pronpp} head.
+		“It doesn’t matter.”
+
+		“It matters to me,” you say.
+		*page_break That stops ${sol_pronp} dead
+
+		Solian’s gaze lifts to yours, and for a moment ${sol_pron} forgets to breathe.
+		The wind shifts, carrying the smell of frost and smoke between you, and ${sol_pronpp} eyes soften in that way you’ve seen only a handful of times — 
+		when ${sol_pron}’s too tired to keep ${sol_pronpp} walls up, or too worried to pretend ${sol_pron} isn’t.
+
+		“I thought something happened to you,” ${sol_pron} says quietly. “Last night. When everything went wrong and I couldn’t find you afterward—”
+		${sol_big_pron} exhales sharply.
+		“I don’t… handle that well.”
+
+		The admission hangs between you, [i]fragile and bare[/i].
+		${sol_big_pron} looks away, rubbing the back of ${sol_pronpp} neck like ${sol_pron} regrets saying it out loud.
+
+		You step closer.
+
+		Just one step.
+
+		${sol_big_pron} freezes — not out of fear, but because you’ve taken away ${sol_pronpp} ability to pretend ${sol_pron} doesn’t care.
+
+		“Sol,” you say softly, “I’m here.”
+
+		Slowly, [i]painfully slowly[/i], ${sol_pron} looks back at you.
+		Something unspoken flickers there, bright and frightening and impossibly tender.
+
+		You could touch ${sol_pronp} now. [i]If you wanted.[/i]
+		*line_break
+		You could close the distance.
+		*page_break You could let ${sol_pronp} close it
+
+		${sol_big_pronpp} fingers twitch again, closer this time, brushing the air near your sleeve.
+		*goto sol_love_decide
+	
+	*disable_reuse #Talk to Kai
+		You spot them before they spot you.
+
+		Kai sits on the low wall beside the old well — legs pulled up, boots muddy, a smear of charcoal dragged across their cheek like war paint. 
+		They’re hunched over a folded scrap of parchment, shoulders curled tight, as if trying to make themselves smaller against the wind.
+
+		Same Kai as always — a bundle of restless energy wrapped in a body that won’t stay still — but something in their posture is… quieter. [i]Sharper.[/i] 
+		Like they’ve learned how to carry weight that wasn’t theirs to begin with.
+
+		You step closer.
+
+		“Kai.”
+
+		Their head snaps up. For a moment their eyes widen — gray, bright and full of mischief — and then a grin blooms across their face, fast and reckless.
+
+		“Look who finally crawled out of Laemir’s nest.” They hop down from the wall, brushing dust from their trousers. 
+		“I thought you’d be stuck in there all night with the fog and the gloom and the… uh—”
+
+		Their smile falters, just a flicker.
+		*line_break
+		“—everything.”
+
+		You don’t answer right away. Ashwood is too loud tonight in all the wrong ways. The empty square. The soldiers the village pretended not to see. 
+		Elden’s bloodstains drying somewhere behind you.
+
+		Kai nudges your shoulder with theirs — light, careful.
+		A gesture that once would’ve sent both of you tumbling into the dirt in a laughing heap.
+
+		“You okay?” they ask. [i]Soft.[/i] No deflection. No jokes.
+
+		Just concern, raw as scraped knuckles.
+
+		You release a breath you didn’t realize you’d been holding.
+		*page_break “I’m… trying to be.”
+
+		Kai studies you the way only someone who grew up beside you can — seeing every flinch, every shadow, every lie you almost tell yourself.
+
+		“Yeah,” they murmur. “Feels like we’re all trying, these days.”
+
+		They tuck their parchment away, but not before you glimpse messy sketches of Ashwood — rooftops drawn in hurried strokes, 
+		the well, the square, lines darkening where they pressed too hard.
+		All of it edged with little notations: dates, times, strange [i]symbols[/i] you don’t recognize.
+
+		Kai catches your glance and shoves the paper deeper into their pocket.
+
+		“Just drawing,” they say too quickly. “Keeps my hands from punching things.”
+
+		You raise a brow.
+
+		Kai grimaces. “Fine. Keeps my hands busy so I don’t say something I can’t take back.”
+
+		A gust of wind rattles the well’s rope, creaking like old bones. Kai’s gaze flickers toward the square, where the pyre used to be. Where Tomas—
+
+		Their throat works.
+
+		“They won’t let this drop,” they say quietly. “You know that, right? What happened today? What they did? People don’t forget scenes like that.”
+
+		You can’t tell if they mean the villagers or the Inquisitors.
+		*page_break Maybe both.
+
+		Kai continues before you can form a reply.
+		“I’ve been meaning to find you since… gods, since dawn. But you were gone and I didn’t want to run into soldiers asking questions they shouldn’t ask.” 
+		Their jaw tenses. “And I didn’t want you walking around alone.”
+
+		There it is.
+		*line_break
+		The part they never say directly.
+		*line_break
+		The part they hide under jokes and bravado.
+
+		They worry about you.
+		*line_break
+		Even now. 
+		*page_break [i]Especially now.[/i]
+
+		Kai drags in a breath, hands curling at their sides like they’re holding back twenty different impulses at once.
+
+		“Will you walk with me?” they ask finally.
+
+		Not a command. Not an assumption.
+
+		A question. Offered gently.
+		An anchor thrown your way, asking nothing but that you don’t drift off into the dark alone.
+
+		The village stretches ahead — lamplight flickering, fog glued to the rooftops, whispers tucked into every narrow street.
+
+		With Kai at your side, the world feels… not safer.
+		But less sharp. Less likely to swallow you whole.
+
+		You nod.
+
+		Kai’s shoulders ease, the tension melting just enough to show the person you remember beneath the new edges life has carved into them. 
+		They fall into step beside you — close, but not crowding, attuned to the way you breathe, the way you brace yourself.
+		*goto walk_w_kai
+
+	#You have explored enough for now
+		*goto end_of_en
+
+*label walk_w_kai
+Your pace matches easily.
+*line_break
+And together, you walk into the fog.
+*choice
+	#Reach for their hand [i](Spark the romance)[/i]
+		The space between you is small. Measured in inches. 
+		
+		But it feels vast. A chasm filled with years of scraped knees, stolen apples, and things you were too young to name. 
+		
+		But the pyre changed the math. The fire burned away the patience. You don’t look at Kai. [i]You can’t.[/i] If you look, you might stop. 
+		Instead, you let your hand drift. A ghost of a movement. Your fingers brush theirs. Once. Twice. Cold skin against cold skin. Kai freezes. 
+		Their breath hitches, a tiny, fractured sound in the quiet dark. They don’t pull away. Emboldened, you close the distance. 
+		
+		You lace your fingers through theirs—tight. [i]Desperate.[/i] It isn’t a gentle hold. It’s a grip. It’s the way a drowning sailor grabs a rope. 
+		Kai’s hand spasms, then squeezes back. [i]Hard.[/i] The contact sends a shock through you that has nothing to do with magic. It’s sharper. 
+		More dangerous. 
+		
+		“Don’t let go,” you whisper. The words tumble out before you can check them. 
+		Kai squeezes tighter, their thumb running a frantic, soothing line over your knuckles.
+		
+		“Never,” they choke out. [i]“Not while I’m breathing.”[/i] The fog swallows the street ahead, but the terror recedes. 
+		Just a fraction. Because his hand is warm. And for the first time, the heat isn’t burning you. 
+		*line_break
+		It’s holding you.
+		*set love_meter_kai true
+		*set kai_love_fastburn true
+
+		*goto today_agenda
+		
+	#Bump your shoulder against theirs and hold the contact [i](Slow-Burn / Reserved Path)[/i]
+		You keep your hands deep in your pockets. Fists clenched. Hiding the tremor. But you drift closer. 
+		
+		You lean into their space, letting your shoulder collide with theirs. Not a stumble. [i]A choice.[/i] 
+		You press against them, matching their stride, stealing their warmth. It’s a weight you know. Solid. [i]Real.[/i] 
+		
+		Kai stiffens for a heartbeat, surprised by the contact—and then they soften. They lean back. A silent architecture. 
+		Two stones propping each other up so the wall doesn’t collapse. “You’re crowding me,” Kai murmurs, but there’s no bite in it. 
+		Only a breathless sort of relief. “Shut up,” you say. [i]“It’s cold.”[/i] 
+		
+		“It is,” they agree. They don’t move away.
+		
+		The silence between you changes texture. It’s no longer empty. It’s heavy with things unsaid. With the memory of how they looked at you by the well. 
+		You could cross the line. You could turn, right here in the mud and the mist, and ask them what those sketches really mean. 
+		What you mean. But the night is too fragile. So you just walk. Shoulder to shoulder. A shield wall of two. Safe. [i]For now, this is enough.[/i]
+		*set love_meter_kai true
+		*set kai_love_slowburn true
+		*goto today_agenda
+		
+	#Nudge them and nod toward the hidden sketches [i](Be their partner in crime - Platonic)[/i]
+		Sentiment is a luxury. You can’t afford it. Not tonight. You need Kai. 
+		But you don’t need the kid who chased frogs with you in the creek. You need [i]the guard[/i] who survives.
+		
+		You nudge their arm, your eyes fixed on the shadows ahead. “Those drawings,” you say. Low. Sharp. “The ones in your pocket.”
+		
+		Kai blinks, the softness in their expression hardening into confusion. “What about them?” 
+		
+		“You were marking guard rotations,” you state.
+		
+		It’s not a question. “Blind spots. The places the Light doesn’t look.” Kai stops walking.
+		
+		The playful grin is gone entirely now, replaced by a wary, focused intensity. [i]The soldier.[/i] “Maybe,” they say carefully. 
+		“Maybe I was just drawing scenery.” 
+		
+		“We don’t have time for scenery, Kai.” You turn to face them.
+		
+		You strip the emotion from your voice, leaving only the iron underneath. “If the Queen is coming, the village is going to be a cage. 
+		I need to know where the bars are weak.” Kai stares at you. A long, searching look.
+		
+		They seem to [i]mourn[/i] something, just for a second—the loss of the easy comfort you used to share. Then they nod. Quick. Professional.
+		
+		“The north wall,” Kai says, their voice dropping to a whisper. “The shift change leaves a three-minute gap near the old mill. I marked it.” 
+		
+		You nod back. “Good.” You start walking again. The distance between you is back. It’s colder this way. [i]But it’s safer.[/i]
+		*goto today_agenda
+		
+*label sol_love_decide
+“I know… I shouldn’t ask,” ${sol_pron} whispers, voice barely more than breath, “not today. Not after everything.”
+${sol_big_pron} swallows, eyes searching yours.
+“But I need to know you’re safe. That’s all.”
+
+[i]A lie.[/i]
+
+Not the words — the simplicity of them.
+
+You can see it in the way ${sol_pron} looks at you. Like you’re the only familiar thing in a world that keeps shifting under ${sol_pronpp} feet.
+
+Like ${sol_pron}’s afraid to hold on and more afraid to let go.
+
+You feel your heartbeat in your throat. You feel Solian's too, or maybe that’s just the air between you warming.
+
+“Solian,” you murmur, [i]“I’m not going anywhere.”[/i]
+
+${sol_big_pronpp} breath stutters. Something inside ${sol_pronp} loosens — [i]or breaks[/i] — you can’t tell which.
+
+A silence settles over the yard, thick and soft, charged with unspoken answers.
+A connection waiting for your choice.
+A tether you can [i]strengthen[/i]. Or [i]sever[/i].
+*choice
+	#Step Closer [i](Romantic Initiation)[/i]
+		You move closer.
+
+		Not much — just enough that your sleeves brush, just enough that ${sol_pron} feels you choose to be near ${sol_pronp}.
+
+		Solian stops mid-step.
+
+		${sol_big_pronpp} breath catches, a soft, startled sound — 
+		as though [i]your closeness[/i] is something ${sol_pron}’s imagined too many times and never trusted ${sol_him} to reach for.
+
+		Slowly, ${sol_pron} turns to face you.
+
+		${sol_big_pronpp} gaze flickers 
+		
+		*if (height = "short") 
+			down — not to your lips, not yet — but to your hand, where your fingers hover barely an inch from ${sol_pronpp}.
+		
+		*if (height = "average")
+			down — not to your lips, not yet — but to your hand, where your fingers hover barely an inch from ${sol_pronpp}.
+		
+		*if (height = "tall")
+			straightforward — not to your lips, not yet — but to your hand, where your fingers hover barely an inch from ${sol_pronpp}.
+
+		*if (height = "very tall")
+			upwards — not to your lips, not yet — but to your hand, where your fingers hover barely an inch from ${sol_pronpp}.
+
+		${sol_big_pron} lifts ${sol_pronpp} eyes again.
+		There’s something fragile there.
+		Something bright.
+
+		“Are you sure?” ${sol_pron} asks, [i]barely a whisper[/i].
+
+		This time, you don’t need words.
+		You let your fingers brush ${sol_pronpp} — feather-light, deliberate.
+
+		${sol_big_pron} inhales sharply, and you feel it — the warmth blooming through ${sol_pronp}, the careful joy, the quiet disbelief that you could choose [i]${sol_pronp}[/i].
+
+		When ${sol_pron} speaks, ${sol_pronpp} voice shakes.
+
+		“Alright,” Solian breathes. “Then… I’ll match your pace.”
+
+		Your heart thuds once, hard.
+
+		The tether between you tightens.
+
+		[i]Romance has begun — tentative, delicate, real.[/i]
+		*set love_meter_sol true
+		*set sol_love_fastburn true
+		*goto rejoin_all_paths
+		*page_break Next
+
+	#Hold the Distance [i](Slow-Burn / Reserved Path)[/i]
+
+		You take a few steps back just enough to put a hand’s width of air between you.
+
+		Solian notices.
+		${sol_big_pron}, hides it well — but not well enough.
+
+		The disappointment is a flicker, faint and quickly extinguished. ${sol_big_pron} offers you a small, steady smile instead.
+
+		“Friends then,” ${sol_pron} says gently, warmth threading through the word. “Good. I… need that too.”
+
+		And ${sol_pron} means it.
+		Even if part of ${sol_pronp} aches for more.
+
+		${sol_big_pron} walks beside you without brushing your sleeve, without reaching for you.
+		But ${sol_pronpp} presence stays warm at your side — steady, loyal, careful.
+
+		A bond forms here too, woven from patience rather than fire.
+		[i]A slow burn waiting for a spark you may or may not kindle later.[/i]
+		*set love_meter_sol true
+		*set sol_love_slowburn true
+		*goto rejoin_all_paths
+		*page_break Next
+
+	#Redirect [i](Friendship Only)[/i]
+		You look at ${sol_pronp} squarely.
+
+		“Sol,” you say, “I care about you. I do. But not… like that.”
+
+		For a heartbeat, everything inside ${sol_pronp} stills.
+
+		Then — slowly — ${sol_pron} lowers ${sol_pronpp} head in a nod.
+		Hurt flickers across ${sol_pronpp} face, honest and unguarded.
+
+		But ${sol_pron} doesn’t pull away.
+
+		${sol_big_pron} steps back into your space, not closer but steadier — anchoring ${sol_him}, anchoring you.
+
+		“Then I’ll stand with you,” ${sol_pron} says softly. “In whatever way you choose. That’s enough.”
+
+		${sol_big_pron} says it without bitterness.
+		Without expectation.
+
+		Just truth.
+
+		The tension eases, reshaping itself into something gentler — a thread of trust uncolored by longing.
+
+		[i]You get a friendship, clear and strong.[/i]
+		*goto rejoin_all_paths
+		*page_break Next
+
+*label rejoin_all_paths
+The road stretches ahead, winding toward the heart of Ashwood.
+Behind you, the smoke of the pyre thins in the rising light.
+
+*if (sol_love_fastburn) 
+	Beside you — closer than ${sol_pron}’s ever dared to walk, ${sol_pronpp} sleeve brushing yours with every step — Solian matches your pace with a quiet, breathless certainty, as though a single inch of distance would undo whatever just sparked between you..
+	*goto sol_con
+*elseif (sol_love_slowburn)
+	Beside you — close enough to feel the warmth of ${sol_pronp}, but still wrapped in a careful space the two of you haven’t named yet — Solian keeps pace with you, every step promising something neither of you is ready to claim but neither of you wants to lose.
+	*goto sol_con
+*else
+	Beside you — steady, easy, and without the pull of anything unspoken — Solian falls into step with you, ${sol_pronpp} presence a quiet reassurance rather than a question.
+	*goto sol_con
+*label sol_con
+And for the first time since the trial, the day feels like it might hold more than ash.
+*goto today_agenda
+
+*label end_of_en
+You walk.
+
+The mud under your boots is stiffening, fighting you with every step. 
+It turns from sludge to iron as the temperature drops, locking the earth into a grey, unyielding grimace.
+
+Ashwood feels [i]hollowed out[/i]. Scraped clean. Like a fruit left to rot on the vine, the skin intact but the sweetness inside turned to black, buzzing pulp.
+
+Usually, this time of day is loud. It should be a living thing. 
+The rhythmic clang-clang-clang of the smithy’s hammer singing against hot steel. The haggle of fishmongers arguing over the price of river trout. 
+The shrieking of children chasing stray dogs through the puddles, their laughter cutting through the gloom.
+
+But today, the anvil is cold. The trout lie dead and staring in unsalted barrels. The children are hidden behind bolted doors.
+
+[i]Today, there is only the wind.[/i]
+*page_break Next
+
+It drags its belly through the eaves, whistling low and sharp through the cracks in the timber. It hunts through the empty alleyways, searching for something it can’t find.
+
+It smells of wet wool. Of stagnant water. And smoke.
+
+Old smoke. The kind that doesn’t wash out. The kind that clings to the thatch and the stone and the hair on your arms. It sits heavy in the air, greasy and distinct.
+
+You taste it on the back of your tongue. Acrid. [i]Bitter.[/i]
+
+It tastes like guilt. It tastes like the silence of a hundred people who would watch a man burn and do nothing about it.
+
+You pass the baker’s shop. The door is barred.
+
+You pass the weaver’s cottage. The shutters are drawn tight, like eyelids squeezed shut against a nightmare.
+
+No one looks at you.
+
+A few shapes move in the periphery—shadows flitting between alleyways, heads bowed, shoulders hunched. 
+They move quickly, eyes fixed on the ground. Avoiding notice. Avoiding the sky. Avoiding [i]you[/i].
+
+Because to look is to acknowledge. And to acknowledge is to be next.
+
+You reach the edge of the high street, where the cobblestones give way to the beaten dirt road leading to the gates.
+
+The air changes.
+
+It happens in a heartbeat. The damp, stagnant fog suddenly turns brittle. The wind dies, choked off by a pressure that descends from the clouds like a heavy hand.
+*page_break You stop
+
+Your breath mists in front of you. White and sharp.
+
+A single flake drifts down.
+
+It lands on the back of your glove. Perfectly formed. Pale as bone. [i]It doesn’t melt.[/i]
+
+Another follows. Then another.
+
+[i]Snow.[/i]
+
+Ashwood hasn’t seen snow before the turning of the year in a decade. But here it is. Cold. [i]Unnatural.[/i] 
+Falling over the mud, over the silence, over the scars the Light left behind.
+
+Then you feel it. A vibration in your teeth. A tremor in the ground.
+
+And then-
+*line_break
+The sound tears through the grey.
+
+[i]A horn.[/i]
+
+Deep. Guttural. A brazen, metallic roar that echoes off the valley walls and rattles the marrow in your bones. It is not a request for entry. It is a declaration.
+
+A dog barks in the distance, frantic, then is suddenly silenced.
+
+A shutter slams somewhere nearby.
+
+Your pulse stutters, then kicks into a gallop. The magic in your blood wakes up, prickling at your fingertips, sensing [i]the threat[/i] before your mind can name it.
+
+You look toward the gates.
+
+The silence of Ashwood is gone.
+
+The storm isn’t coming.
+*page_break It’s here.
+
+The gates do not open so much as they [i]surrender[/i].
+
+They groan inward, iron hinges screaming against the rust, clearing the way.
+
+First, the vanguard. A wall of white, silver and red. Faceless like the Inquisitors. A heartbeat of leather and steel that vibrates through the soles of your boots.
+
+Then, the carriage.
+
+It is a monstrosity of gilded wood and glass, etched with the sunburst of Valtessa. Inside, you catch a glimpse of the Queen. A profile cut from porcelain. 
+A crown of thorns woven from gold. She looks beautiful in the way a blade is beautiful. Sharp, cold, capable of ending you without a change in pulse.
+
+The carriage slows. The wheels grind against the freezing mud, a sound like teeth on bone. 
+Through the crystal pane, she is framed like a saint in a reliquary. [i]The Queen.[/i] She sits perfectly still. 
+Her posture is rigid, her spine a rod of iron. She does not lean back against the velvet cushions. She does not seek comfort. She stares straight ahead. 
+
+Her profile is sharp, cut from ice and diamond. Then, her head turns. Just a fraction. The movement is mechanical. [i]Precise.[/i]
+
+Her hair is not grey, nor blonde. It is white. Absolute. [i]Spectral.[/i] 
+It is pulled back from her face in a severe, intricate braid that coils like a sleeping serpent against her skull, woven with threads of silver and pinned with needles of bone. 
+Not a single strand is out of place. It looks heavy. It looks painful. She wears it like [i]a penance[/i].
+ 
+Her eyes-pale, glacial, empty of mercy-sweep over the village. She sees the mud. She sees the fear. She sees the smoke rising from the chimneys. 
+And she feels… nothing. No disgust. No pity. Only a cold, mathematical calculation. 
+
+Ashwood is not a village to her. It is a stain. And she has come to scrub it clean. 
+
+For a second, her gaze drifts over the crowd where you stand. The temperature drops several degrees. Your breath freezes in your throat. 
+She doesn’t see you. She sees a number. A resource. A thing to be measured, used, or [i]discarded[/i]. Then, the carriage lurches forward. She looks away. 
+And the cold [i]remains[/i], settling into the stones of the street like a curse.
+*page_break Next
+
+But the fear that grips your throat isn't for her.
+
+It’s for [i]the heat[/i] that follows.
+
+Because the air doesn’t freeze. It burns.
+
+A scent cuts through the rot of the village, sudden and violent. Amber. Polished leather. [i]Sweet smoke.[/i] 
+It is intoxicating, thick enough to taste, drowning out the smell of the mud.
+
+And then, he rides through the smoke.
+
+[b]Draegan[/b]
+
+He wears no armor. No crest. He rides a nightmare of a horse, but he sits in the saddle with a predator’s grace, relaxed, almost bored.
+
+He is dressed in layers of dark leather and crimson silk, the fabric tailored to perfection, hugging broad shoulders. 
+The deep plunge of his neckline reveals pale skin flushed with a faint, impossible heat—like a fire is quietly consuming him from the inside out.
+*page_break He moves, and the air ripples
+
+Chains—delicate, silver things sewn into his velvet coat—chime with every step of his mount. A soft, haunting music that slides under your skin.
+
+The light seems to bend around him. The shadows of the gate stretch toward him, hungry, pooling around the blood-red swirls embroidered on his coat.
+
+He is [i]chaos[/i] sculpted into art.
+
+His hair is a crown of wild black curls, untamed yet perfect, shifting with a restless energy that mirrors the man himself.
+
+The crowd should be shrinking back. They should be running. But they are leaning forward. Pulled by a gravity they don’t understand. A moth’s instinct to find the flame.
+
+And then, as if hearing the frantic rhythm of your heart across the distance, he turns.
+
+His gaze sweeps the crowd.
+
+And stops.
+*page_break [i]On you[/i]
+
+His eyes are icy blue, flecked with smoldering liquid gold. They sparkle with mischief, but the weight behind them is crushing. 
+It is the look of a hunter who has just found the ${animal_d} in the thicket.
+
+[i]He smiles.[/i]
+
+It is a slow, knowing thing. A weapon wrapped in velvet. It promises danger. It promises delight. It promises that he knows exactly what you are hiding in the dark of your blood.
+
+[i]I see you,[/i] the smile says.
+
+[i]I have been waiting.[/i]
+
+The snow falls harder now, burying the world in white silence. But you don’t feel the cold anymore.
+
+You only feel him.	
+*page_break The End... For Now...
+
+[i]That’s all for now.[/i]
+
+The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
+and pulling threads that will take you further into Ashwood and everything it hides.
+
+If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
+Your feedback means the world and helps shape where the path leads next!
+
+Thank you for playing.
+Thank you for reading.
+And thank you for walking with me into the dark.
+
+Until soon.
+
+[i]Your Audrine[/i]
