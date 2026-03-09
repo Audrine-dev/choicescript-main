@@ -1043,13 +1043,13 @@ ${cass_big_pron} grabs your arm. ${cass_big_pronpp} grip is iron-hard and absolu
 [i]"Not a sound,"[/i] ${cass_pron} breathes, ${cass_pronpp} voice brushing against your temple.
 
 ${cass_big_pron} drags you into the deep, shadowed alcove directly behind the stone altar. It is a space built for holy relics, not people. It is entirely [i]too small[/i].
-*if (short)
+*if (height = "short")
 	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to shield you from sight.
-*if (average)
+*if (height = "average")
 	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to shield you from sight.
-*if (tall)
+*if (height = "tall")
 	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to try and shield you from sight.
-*if (very tall)
+*if (height = "very tall")
 	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to try and shield you from sight.
 
 The heavy, visceral red of ${cass_pronpp} robes envelops you, smelling of old copper, incense, and rain. The fabric drags heavily across your legs. 
