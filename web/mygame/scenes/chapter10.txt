@@ -297,7 +297,7 @@ The fear of something inevitable.
 "He didn't just find you," she says, her voice trembling.
 
 She reaches out, hovering her hand over the stone but refusing to touch it. The air between her fingers and the pendant hisses, a sound like water hitting a hot skillet.
-* page_break "He claimed you."
+*page_break "He claimed you."
 
 She looks at the window, where the sun is beginning to bleed out behind the clouds. The light is failing.
 
@@ -831,7 +831,7 @@ Cassariel’s jaw tightens. ${cass_big_pron} grips the edge of the altar, ${cass
 
 Being against evil doesn't make you good, ${cass_pronpp} mentor had once told ${cass_pronp}. It only makes you a weapon. And a weapon must be pointed.
 
-But ${cass_pronp} aim is faltering.
+But ${cass_pronpp} aim is faltering.
 *page_break Next
 
 ${cass_big_pron} remembers the way ${pronouns} looked. Not terrified like the rest of the villagers. [i]Defiant.[/i] Like a flame refusing to be snuffed out. 
