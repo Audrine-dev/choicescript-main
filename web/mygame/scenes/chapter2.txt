@@ -142,7 +142,7 @@ the kind that demanded reverence without ever raising its voice.
 The others had fallen behind but ${sol_pron} could still hear them in the distance—laughter echoing through the trees, 
 hooves muffled by moss, the occasional sharp whistle signaling to no one in particular. But ${sol_pron} had always ridden ahead. 
 It was easier that way. To be the first to see. The first to feel. No ceremony, no watching eyes. 
-Just the steady rhythm of ${sol_pronpp} horse beneath him and the fractured light above, shifting like water through the branches.
+Just the steady rhythm of ${sol_pronpp} horse beneath ${sol_pronp} and the fractured light above, shifting like water through the branches.
 
 Then came the stag.
 
@@ -162,7 +162,7 @@ Not until ${sol_pronpp} horse let out a sound—raw, broken—and the ground van
 The world tilted sideways.
 
 ${sol_big_pron} hit the earth hard. Pain fractured through ${sol_pronpp} body—shoulder, ribs, leg. Each impact sent a shock of white through ${sol_pronpp} skull. 
-Leaves exploded around him, sky spinning in fractured shards through the canopy above.
+Leaves exploded around ${sol_pronp}, sky spinning in fractured shards through the canopy above.
 
 Then everything stopped.
 
@@ -185,7 +185,7 @@ a ${sol_worm} who no longer felt like an heir.
 ${sol_big_pron} wondered, not for the first time, what it would be like to be nameless. 
 To let the crown fall away, weightless. To be just a ${sol_worm} in the woods, bones bruised and bleeding, and no one coming.
 
-The thought stayed with him, even as ${sol_pronpp} eyes began to slip shut.
+The thought stayed with ${sol_pronp}, even as ${sol_pronpp} eyes began to slip shut.
 
 Eventually, the forest faded.
 

@@ -525,6 +525,7 @@ What about love interests?
 		*set sol_big_pronpp "His"
 		*set sol_worm "man"
 		*set sol_him "himself"
+		*set sol_king "king"
 		*set elden_pron "he"
 		*set elden_big_pron "He"
 		*set elden_pronp "him"
@@ -549,6 +550,7 @@ What about love interests?
 		*set sol_big_pronpp "Her"
 		*set sol_worm "woman"
 		*set sol_him "herself"
+		*set sol_king "queen"
 		*set elden_pron "she"
 		*set elden_big_pron "She"
 		*set elden_pronp "her"
@@ -580,6 +582,7 @@ Is Solian he/she?
 		*set sol_big_pronpp "His"
 		*set sol_worm "man"
 		*set sol_him "himself"
+		*set sol_king "king"
 		*goto elden_sett
 
 	#Princess Solian – The Honorable Protector - She
@@ -590,6 +593,7 @@ Is Solian he/she?
 		*set sol_big_pronpp "Her"
 		*set sol_worm "woman"
 		*set sol_him "herself"
+		*set sol_king "queen"
 		*goto elden_sett
 
 *label elden_sett

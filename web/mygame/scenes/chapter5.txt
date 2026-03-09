@@ -634,7 +634,7 @@ It is a slow morning, and you still have some time left before you have to visit
 
 		[i]A pause.[/i]
 
-		“My family… they burned a witches when I was a child.” ${sol_big_pronpp} voice is very soft now. “One of them... She was kind. 
+		“My family… they burned the witches when I was a child.” ${sol_big_pronpp} voice is very soft now. “One of them... She was kind. 
 		Taught me names for herbs before The Light taught me names for sin. They said her words were poison. That she spoke temptation.”
 
 		${sol_big_pronpp} gaze drops to your hands. “But hers were the first hands that ever held mine like they meant to keep me.”

@@ -1,0 +1,1477 @@
+*label chapter10
+
+[b]Chapter 10 - The Mark[/b]
+
+The procession passes.
+
+The carriage rolls on, now just a black scar moving against the white snow, heading toward the Keep on the hill. The soldiers follow, a rhythmic tide of steel.
+
+But you are not watching them anymore.
+
+You are staring at the mud.
+
+You are [i]shaking[/i].
+
+It starts in your hands, a fine, violent tremor that travels up your arms and settles in your teeth.
+
+It isn’t the cold.
+
+It’s the heat.
+
+A phantom fever rages under your skin. The place where Draegan’s eyes met yours feels branded. Scalded. 
+As if he reached across the distance and pressed a thumb of hot iron against your soul.
+
+Your magic—usually a quiet, humming thing in the back of your mind—is screaming. It recoils, terrified and thrilled all at once. It recognizes him.
+
+Chaos, it whispers. Source.
+
+"Hey."
+
+A hand on your shoulder. Solid. [i]Real.[/i]
+
+You jump, a gasp tearing out of your throat.
+
+Kai is there. Were they here before? Their face is pale, their eyes wide and searching. They look at you like you’re glass that’s about to shatter.
+
+"You’re bleeding," they say. Their voice sounds far away. Underwater.
+
+You touch your nose. Your fingers come away red.
+
+"I’m fine," you lie. The words taste like copper. "It’s just... the cold."
+
+Kai opens their mouth to argue, to grab you, to drag you somewhere safe... 
+*line_break
+but a shout cuts through the air.
+
+"Squadron Four! Form up!"
+
+The order is sharp. A whip crack.
+
+Kai flinches. They look at the officer shouting near the gate, then back at you. They are torn.
+
+“I have to go,” they say, the words hurried, [i]desperate[/i]. “Go home. Do not stop. Do not talk to anyone. I’ll find you tonight.”
+
+They squeeze your shoulder, hard, and then they are gone. Swallowed by the white and grey of the Vanguard.
+*page_break You are alone
+
+And the village is no longer yours.
+
+You turn. You walk.
+
+Head down. Hands buried in your pockets to hide the shaking.
+
+The streets are [i]different[/i] now. The silence has changed. It isn’t the silence of waiting anymore; it’s the silence of prey hoping the predator is full.
+
+You pass a window. A woman is weeping behind the shutters.
+
+You pass the tavern. The door is hanging open, a stool overturned in the snow.
+
+You don’t run. Running attracts [i]attention[/i]. You walk with the practiced invisibility Laemir taught you when you were younger. Be the stone. Be the shadow. [i]Be nothing.[/i]
+
+You reach your house.
+
+The timber frame groans in the wind. The chimney is cold. Your father must be at the workshop; Laemir is likely somewhere in the forest.
+*page_break Next
+
+You slip inside and bolt the door behind you.
+
+You lean your back against the wood, sliding down until you hit the floor. You close your eyes, waiting for the heat in your blood to die down. 
+Waiting for the smell of amber and smoke to fade from your memory.
+
+But the smell doesn’t fade.
+
+It gets [i]stronger[/i].
+
+Your eyes snap open.
+
+The room is dim, lit only by the grey light filtering through the oiled parchment of the window. It is your home. 
+The rough-hewn table. The drying herbs hanging from the rafters. The chair where your father sits.
+
+But the air is [i]wrong[/i].
+
+It is thick. Warm. Sweet.
+
+It smells like him.
+
+You scramble to your feet, your heart hammering a frantic rhythm against your ribs.
+
+*if mother_rel >= 80
+	“Mom? Dad?” you call out.
+*if mother_rel <= 79
+	“Laemir?” you call out.
+
+Silence.
+
+Then you see it.
+
+On the table.
+
+Right in the center, where your father usually leaves his carving tools.
+
+A box.
+
+It is small, wrapped in black velvet that seems to absorb the meager light of the room. It sits there, impossible and undeniable. An obsidian stone in a river of grey.
+
+There is no note. No name.
+
+But you know.
+
+Your magic surges toward it, pulled like the tide to the moon.
+
+He hasn’t just [i]seen[/i] you.
+
+He has been here. Inside [i]your[/i] space. While the snow fell and the village trembled, the [i]Dark Flame[/i] walked through your door.
+
+You step closer. The floorboards creak.
+
+The box is [i]unsealed[/i].
+*page_break Next
+
+The pull is irresistible.
+
+It hooks into your navel, dragging you forward. Your common sense is screaming — [i]trap, trap, trap[/i] — but your blood is singing a completely different song. 
+It recognizes the signature on the magic. It [i]wants[/i] to answer.
+
+[i]You reach out.[/i]
+
+Your hand trembles, just once, before your fingers brush the black velvet.
+
+It is soft. Unnaturally so. Like the fur of a creature that hunts in the dark.
+
+You flip the lid open.
+
+There is no latch. It gives way silently, revealing the heart of the trap.
+
+Inside, resting on a bed of crimson silk, lies [i]a pendant[/i].
+
+It is a shard of obsidian, rough-hewn and jagged, bound in silver wire that looks like thorns. It shouldn’t be beautiful. It looks sharp enough to cut. [i]Violent.[/i]
+
+But it [i]pulses[/i].
+
+A faint, rhythmic glow beats from the center of the stone. Gold. Liquid and alive. Like a heart trapped in glass.
+
+You stare at it.
+
+The smell of amber and woodsmoke flares, filling the small room, drowning out the scent of drying herbs.
+*page_break [i]"Beautiful, isn't it?"[/i]
+
+The voice isn't in the room. It’s in your skull.
+
+You gasp, stumbling back, your hand flying to your temple.
+
+It is [i]his[/i] voice. Low. Honeyed. Rasping against your thoughts like a physical touch.
+
+"Don't be afraid, little spark. I haven't come to snuff you out. Not yet."
+
+You grit your teeth, forcing your own magic to rise, to build a wall around your mind. 
+*if (venora_saved_tomas)
+	Venora’s Shadow coils in your chest, hissing at the intrusion.
+
+The voice laughs. A dark, delighted sound.
+
+"Good. You have teeth. I was hoping you would."
+
+You look back at the box. At the pendant.
+
+"What is this?" you whisper to the empty room.
+
+"An invitation," the voice answers. "The Queen will demand your obedience. I demand only your [i]attention[/i]."
+
+The presence in your mind recedes, leaving behind a cold emptiness that feels [i]worse[/i] than the intrusion.
+*page_break But the pendant remains
+
+You reach out and pick it up.
+
+It is heavy. Heavier than stone should be.
+
+And hot.
+
+It burns against your palm, not with pain, but with a feverish warmth that seeps into your skin, traveling up your wrist, seeking your pulse.
+
+It feels familiar.
+
+It feels like something you lost a long time ago.
+
+You turn it over in your hand. On the silver backing, etched in script so fine you almost miss it, is a single word.
+
+Midnight.
+
+The front door rattles.
+
+The spell breaks. The smell of amber vanishes, replaced instantly by the cold draft of [i]Ashwood[/i].
+
+You shove the pendant into your pocket, your heart slamming against your ribs, just as the latch lifts.
+
+Laemir enters.
+
+She looks exhausted. Her shawl is wet with snow, her face grey and drawn. She brings the cold in with her.
+*page_break She stops
+
+Her eyes scan the room. Then they snap to you.
+
+She sniffs the air.
+
+Her expression hardens. Fear, sharp and sudden, cuts through her exhaustion.
+
+"You had a visitor," she says.
+
+It isn't a question.
+
+What do you say?
+*choice
+	#I don't know what you mean - Lie
+		"I don't know what you mean." The lie tastes like ash and sits heavy on your tongue, clumsy and thick.
+		
+		You shove your hand deeper into your pocket, your fingers curling around the stone until your knuckles turn white. [i]It burns.[/i] A secret fever against your palm.
+		
+		You force yourself to meet her eyes. To keep your face smooth. To bury the panic under a layer of frost.
+		
+		"I just got back," you say. "The door was locked." But the air around you still smells of amber. Of smoke. Of [i]him[/i].
+		
+		And Laemir isn't looking at your face. She's looking at your [i]hand[/i].
+		*set mother_rel -10
+		*goto mom_con
+	
+	#The whole village is crawling with soldiers - Deflect
+		"The Queen is here." You step back, putting distance between you and the table. Between you and [i]the accusation[/i] in her eyes.
+		
+		"The whole village is crawling with them," you say, your voice rising, sharp and brittle. "Soldiers. Inquisitors. I saw them dragging people out of the tavern." 
+		You gesture to the window, to the grey light, to the world ending outside.
+		
+		*if mother_rel >= 80
+			"We need to bar the door, mum. We need to hide." It’s a good distraction. [i]A valid fear.[/i] But it doesn't explain the heat in the room. Or the way your heart is trying to beat its way out of your chest.
+		*if if mother_rel <= 79
+			"We need to bar the door, Laemir. We need to hide." It’s a good distraction. [i]A valid fear.[/i] But it doesn't explain the heat in the room. Or the way your heart is trying to beat its way out of your chest.
+		*set mother_rel -10
+		*goto mom_con
+		
+	#He left this - Confess
+		You don't speak. [i]You can't.[/i] The truth is too heavy to carry alone.
+		
+		Slowly, you pull your hand from your pocket. The movement feels like wading through water. Thick. [i]Resistant.[/i]
+		
+		You open your fingers and then quickly close them back.
+		
+		The obsidian pendant sits on your palm, drinking the light. The gold pulse at its center beats in time with your own blood.
+		
+		Laemir’s breath hitches. A sound of pure, unadulterated terror.
+		
+		[i]"He left this,"[/i] you whisper. The words hang in the air, final as a gravestone.
+		
+		"He was here."
+		*set mother_rel +5
+		*goto mom_con
+
+*label mom_con
+The words die in the space between you.
+
+Laemir steps forward. The exhaustion falls from her face, replaced by the sharp, terrifying clarity of a woman looking at a predator’s tracks.
+
+She ignores everything but the closed fist of your hand.
+
+"Don't," she says. [i]Rough.[/i] Low.
+
+She reaches out. Her fingers are ice-cold against your wrist. A shocking contrast to the fever burning in your palm.
+*page_break [i]"Open it."[/i]
+
+You hesitate. The heat in your hand pulses, possessive and alive. It doesn't want to be shared. It wants to stay hidden against your skin.
+
+"Open it," she commands. A plea wrapped in an order.
+
+You unclench your fingers.
+
+The movement is stiff. Reluctant.
+
+The obsidian pendant sits there, drinking the grey light of the room. The gold heartbeat at its center flares, casting a faint, sickly glow onto Laemir’s face.
+
+She recoils.
+
+She doesn't scream. She doesn't gasp. She stops breathing entirely.
+
+"Draegan," she whispers. The name breaks in her mouth like dry bone.
+
+She looks at the stone, then up at you. And for the first time since you were a child, you see [i]true fear[/i] in her eyes. Not the fear of soldiers, or fire, or pain.
+
+The fear of something inevitable.
+
+"He didn't just find you," she says, her voice trembling.
+
+She reaches out, hovering her hand over the stone but refusing to touch it. The air between her fingers and the pendant hisses, a sound like water hitting a hot skillet.
+* page_break "He claimed you."
+
+She looks at the window, where the sun is beginning to bleed out behind the clouds. The light is failing.
+
+"Midnight," you say. The word feels foreign on your tongue. "It says Midnight."
+
+Laemir closes her eyes. A shudder runs through her, violent and sudden.
+
+"Then we have hours," she says, turning away, moving toward the loose floorboard where she keeps the old books. "Not to run. You can't run from a [i]God[/i]."
+
+She pulls a tome from the dark, the leather cracked and smelling of the Cradle.
+
+"We have hours to make sure you [i]survive[/i] the conversation."
+*page_break SOLIAN'S POV
+
+[b]SOLIAN'S POV[/b]
+
+The pain is a living thing.
+
+It coils around Solian’s ribs, tight and hot, digging its claws into the fresh bandages. Every breath is a negotiation. Every movement is a mistake.
+
+${sol_big_pron} sits on the edge of the low cot, staring at the floorboards. The room, a commandeered chamber in the village head’s house, smells of stale lavender and old dust.
+
+It’s quiet.
+
+But it’s not peaceful.
+
+The air in the room has changed. The temperature has dropped, snapping the moisture in the air into frost.
+
+${sol_big_pron} doesn’t look up. ${sol_big_pron} doesn’t have to.
+
+${sol_big_pron} knows that silence. ${sol_big_pron} was raised in it.
+
+"You look," a voice says, smooth and cold as polished glass, "like a ruin."
+
+Solian closes ${sol_pronpp} eyes. ${sol_big_pron} takes a breath, bracing ${sol_him} against the pain in ${sol_pronpp} side, and forces a smile. 
+It feels brittle on ${sol_pronpp} face.
+
+"Mother," ${sol_pron} rasps. "I see you didn’t dress for the mud."
+
+${sol_big_pron} looks up then.
+
+The Queen stands in the doorway. She is immaculate. Her white furs are [i]untouched[/i] by the grime of Ashwood. 
+Her silver hair is coiled tight, a crown of steel and bone. She looks less like a mother and more like a verdict.
+
+She doesn't smile back.
+*page_break Next
+
+She steps into the room. The door shuts behind her, sealing them in.
+
+She doesn't rush to ${sol_pronp}. She doesn't reach out to touch ${sol_pronpp} forehead, to check for fever, to see if her child is still whole.
+
+She stops three paces away. Just out of reach.
+
+Her pale, glacial eyes sweep over ${sol_pronp}. Dissecting. [i]Calculating.[/i]
+
+She looks at the blood seeping through the linen at ${sol_pronpp} side. She looks at the dirt under ${sol_pronpp} fingernails. 
+She looks at the exhaustion carved under ${sol_pronpp} eyes.
+
+She doesn't see pain. She sees damage to [i]an asset[/i].
+
+"They almost had you," she says. Her voice is devoid of fear. It is merely a statement of fact. "My spies tell me the arrow missed your heart by an inch."
+
+[i]"Lucky me,"[/i] Solian mutters, leaning back against the wall.
+
+"Luck had nothing to do with it." Her gaze sharpens. "You were careless, Solian. You left the protection of the Vanguard. You ran into the woods like a child playing at freedom."
+
+"I was hunting," ${sol_pron} lies.
+
+"You were running," she corrects. "And nearly died for it."
+*page_break Solian looks away
+
+${sol_big_pronpp} hand drifts to ${sol_pronpp} side, hovering over the wound.
+
+${sol_big_pron} remembers the bite of the steel. The cold shock of the impact. The way the world tilted and went grey.
+
+And then… the heat.
+
+[i]The Angel.[/i]
+
+${sol_big_pron} remembers the hands that grabbed ${sol_pronp}. Not rough, like the soldiers. Desperate. Warm. 
+${sol_big_pron} remembers the voice pulling ${sol_pronp} back from the dark.
+
+${sol_big_pron} owes ${sol_pronpp} life to a stranger in the woods. A shadow with eyes like a storm.
+
+"Someone intervened," the Queen says, watching ${sol_pronp} closely. Too closely. "Who was it?"
+*page_break Solian’s heart stutters
+
+${sol_big_pron} thinks of ${name}. Of the way they looked at ${sol_pronp}. Fear mixed with fierce determination.
+
+If ${sol_pron} tells her...
+
+If ${sol_pron} tells the Queen about the Angel...
+
+She will stat a hunt. She will take that wild, beautiful creature and cage it. Or worse.
+
+"I don't know," Solian says. ${sol_big_pron} forces ${sol_pronpp} voice to be bored. Dismissive. "Some villager. I didn't see their face. They ran off before I could thank them."
+
+The Queen stares at ${sol_pronp}. The silence stretches, taut as a bowstring.
+
+She knows ${sol_pron} is [i]lying[/i].
+
+But she doesn't press. Not yet.
+
+"It doesn't matter," she says, turning toward the window, looking out at the snow-choked village. "We have secured the perimeter. The Shadow is here. You are safe now."
+
+She turns back to ${sol_pronp}.
+
+[i]"And you are finished running."[/i]
+
+It isn't a request.
+*page_break Next
+
+"Pack your things, Solian. The carriage leaves at dawn. You are returning to the capital."
+
+Solian looks at her. At the crown of thorns woven into her hair. At the complete lack of warmth in the woman who gave ${sol_pronp} life.
+
+${sol_big_pron} thinks of the Angel in the woods. The only real thing ${sol_pron} has touched in years.
+
+"And if I refuse?" ${sol_pron} asks softly.
+
+The Queen’s expression doesn't change. But the temperature in the room drops another ten degrees.
+
+"You are the Heir," she says. "You do not have the luxury of refusal."
+
+She turns and walks to the door.
+
+"Heal quickly, my child. The throne does not wait for wounds to close."
+
+She leaves.
+
+And Solian is left alone in the cold, clutching ${sol_pronpp} side, praying that the Angel stays hidden. Praying that the snow covers their tracks.
+
+Because the Queen has arrived.
+
+[i]And she destroys everything she touches.[/i]
+*page_break [b]${name}'s POV[/b]
+
+[b]${name}'s POV[/b]
+
+The hours pass like water dripping from a cracked stone.
+
+Slow.
+
+[i]Agonizing.[/i]
+
+Laemir does not sit. She moves through the small room with the frantic, practiced efficiency of a midwife preparing for a difficult birth.
+
+She isn't chanting. She isn't weaving spells. She is crushing dried sage and rowan berries between her fingers until the air smells sharp and bitter.
+
+She is building a defense out of the earth.
+
+"The books in the Cradle call him [i]the Hunger[/i]," she murmurs, her hands working over a small pouch of rough leather. 
+"They say he doesn't break you. He waits until you break yourself."
+
+She stops. She looks at you. Her hands are red from the cold water and the work. Human hands. Hands that are rough and warm.
+*if mother_rel >= 80
+	"He will offer you things, [i]my child[/i]. Things that sound like freedom."
+*if mother_rel <= 79
+	"He will offer you things, [i]${name}[/i]. Things that sound like freedom."
+
+She presses the pouch into your palm. It is light, filled with salt, iron filings, and a twist of dried nettle.
+
+"But freedom doesn't come from gods. It comes from [i]surviving[/i] them."
+
+She goes to the hearth. She pulls a piece of cold charcoal from the edge of the fire.
+*page_break "Give me your hand."
+
+She doesn't draw a rune of power. She draws a simple, jagged line across your palm. A mark of soot. [i]An old superstition.[/i] 
+A midwife’s trick to ward off sickness, or bad luck, or the evil eye.
+
+"Iron and ash," she whispers. "To remind you of who you are. To remind you that you are real, and he is just... [i]smoke[/i]."
+
+It’s not magic. It’s just dust. But when she closes your fingers over it, you feel steadier. Grounded by her belief, if nothing else.
+*choice 
+	#Hold onto her belief. 
+		You close your hand tight, trapping the mark inside.
+		
+		It doesn't pulse like the pendant in your pocket. It doesn't burn with a cosmic heat.
+		
+		It just sits there. Rough and real.
+		
+		You look at the woman who raised you. A [i]mortal[/i] woman, trying to fight a god with nothing but fireplace ash and fierce, [i]desperate love[/i].
+		
+		"Thank you," you whisper.
+		
+		The words are small against the dark. But they are true.
+		
+		You don't know if iron and ash can stop the change. You don't know if anything can.
+		
+		But as you turn toward the door, you let her belief become your armor. You carry the soot like a shield.
+		*set mother_rel +5
+		*goto wind__outside
+	
+	#Dismiss the gesture.
+		You pull your hand back.
+		
+		You look at the smudge of black dust on your skin. It already looks like a stain. Like a bruise.
+		
+		It isn't magic. It's just [i]dirt[/i].
+		
+		And dirt won't stop the Hunger that Wears a Face.
+		
+		"This won't save me, Laemir," you say.
+		
+		Your voice is flat. [i]Hollow.[/i] Stripped of the comfort she’s trying to offer.
+		
+		You see her flinch, a tiny, wounded movement, but you don't take the words back. You can't.
+		
+		You can't afford illusions tonight. If Draegan wants to unmake the world, superstition won't protect you. Only power will.
+		
+		You wipe the excess soot on your trousers and turn toward the door, leaving her standing alone by the dying fire.
+		*set mother_rel -10
+		*goto wind__outside
+
+*label wind__outside
+Outside, the wind shifts. The light fails completely.
+*page_break Next
+
+Ashwood is dark.
+
+But the pendant in your pocket is burning.
+
+It pulls at you. Not a suggestion. [i]A command.[/i]
+
+You go to the door.
+
+Laemir stands by the fire, wiping the soot from her fingers onto her apron. She looks small tonight. Fragile against the dark. 
+A woman standing between a god and her child with nothing but a stick of charcoal.
+
+"Come back," she says. It is the only order she has ever given you that sounded like a prayer.
+
+You open the door.
+
+The cold hits you.
+
+[i]And the night begins.[/i]
+*page_break Next
+
+You step out.
+
+The cold hits you like a physical blow. It is a living thing, biting at your exposed skin, seeking the heat of your blood.
+
+[i]Ashwood is a graveyard.[/i]
+
+The windows are dark. The doors are barred. The snow has covered the mud, turning the village into a landscape of white humps and grey shadows.
+
+You keep your head down. You keep your hand in your pocket, fingers clenched around the pendant.
+
+[i]It burns.[/i]
+
+It acts as a compass, pulling you not toward the forest, nor the church, but toward the heart of the village.
+
+You move through the alleyways. Be the stone. Be the shadow.
+
+You avoid the patrols easily. They are loud, their armor clanking, their torches cutting jagged wounds in the dark. 
+They are looking for enemies on the outside. They don’t expect the enemy to be walking quietly down the main street.
+
+The smell hits you first.
+
+Not the amber and spice of the God.
+
+But the wet, acrid stench of charcoal.
+*page_break The Square
+
+You stop at the edge of the open space. The wind howls here, unobstructed, whipping the snow into a frenzy.
+
+In the center stands the pyre.
+
+It is a black scar on the white earth. The stake is still there, charred and empty. The ropes that held Tomas are gone, but the stain of his trial remains.
+
+And standing there, looking at the stake as if it were a piece of art he is critiquing, is Draegan.
+
+He is not hiding.
+
+He stands in the open, bathed in the pale light of the moon.
+
+He wears the same dark coat, the velvet absorbing the night. He wears no hat, no scarf. The snow falls around him, but it does not touch him.
+
+The flakes shy away inches from his skin, melting into steam before they can land.
+
+He is a heat source. A furnace burning in the shape of a man.
+
+The reality around him feels... [i]thin[/i].
+
+The shadows cast by the stake are too long. They stretch toward him, unnatural and hungry, pooling at his boots like loyal dogs. 
+The air shimmers, blurring the line between the man and the night.
+
+He doesn’t turn.
+*if (Tomas_is_dead)
+	"They killed a man here," he says.
+*if (Tomas_is_alive)
+	"They tried to kill a man here," he says.
+
+His voice carries over the wind, effortless and clear. It slides into your ear as if he were standing right beside you.
+
+"They tied him to a post. They read him a verse about mercy. And then they set him on fire."
+
+He reaches out. He runs a gloved hand down the charred wood of the stake. A caress.
+
+"That is their [i]Order[/i]. That is their [i]Justice[/i]."
+
+He turns then.
+
+Those eyes—blue ice and liquid gold—find you in the shadows. He doesn't need to look for you. He knows exactly where you are.
+*if (female)
+	"Tell me, little witch," he says, a smile curling the corner of his mouth. "Does that look like a world worth saving to you?"
+*if (male)
+	"Tell me, little witcher," he says, a smile curling the corner of his mouth. "Does that look like a world worth saving to you?"
+*if (el_pr)
+	"Tell me, little witchling," he says, a smile curling the corner of his mouth. "Does that look like a world worth saving to you?"
+
+What do you do?
+*choice
+	#Keep your distance.
+		You don't move.
+		
+		The shadows of the alleyway cling to you, thick and freezing. You let them hide you.
+		
+		You curl your fingers inward, pressing your nails into the charcoal line Laemir drew on your palm. Iron and ash. Real. I am real.
+		
+		You let the silence stretch. You let the wind howl between you.
+		
+		If he is a god, let him come into the dark to find you.
+		
+		You won't step into his light.
+		
+		Draegan chuckles. A low, vibrating sound that warms the freezing air.
+		
+		He doesn't turn his head, but his eyes slide toward your hiding place, piercing the gloom effortlessly.
+		*if (female)
+			"Shy," he murmurs, his voice a velvet caress. "Or just smart? It doesn't matter, little witch. The dark has always been my favorite place to play."
+		*if (male)
+			"Shy," he murmurs, his voice a velvet caress. "Or just smart? It doesn't matter, little witcher. The dark has always been my favorite place to play."
+		*if (el_pr)
+			"Shy," he murmurs, his voice a velvet caress. "Or just smart? It doesn't matter, little witchling. The dark has always been my favorite place to play."
+		*goto aft_draeg
+
+	#Confront Him.
+		You step forward.
+		
+		Your boots crunch against the frozen mud, loud as a snapped bone in the dead square.
+		
+		You leave the safety of the alley and step into the pale moonlight. Into his heat.
+		
+		The air around the pyre smells of old death, but the air around him smells of sweet smoke and ruin.
+		
+		You stop ten paces away. You don't look at the charred stake. You don't look at the ashes. You look at him.
+		
+		"You didn't bring me here to talk about justice," you say. Your voice is steady. A blade drawn from its sheath.
+		
+		Draegan's smile widens. The liquid gold in his eyes catches the moonlight, flaring with sudden, terrifying interest.
+		
+		"Direct," he purrs, turning fully to face you. "I like that. Justice is such a tedious, mortal concept anyway. No. I brought you here to talk about power."
+		*goto aft_draeg
+		
+	#Agree with Him.
+		You step out of the shadows.
+		
+		The snow crunches beneath your boots, but you don't feel the cold anymore. You feel the pull.
+		
+		You walk toward the pyre. Toward the black scar on the earth.
+		
+		You look at the charred wood where Tomas screamed. 
+		You think of the Queen in her glass carriage, looking at Ashwood like dirt to be swept away. You think of the Light, burning the world to save it.
+		
+		You look back at Draegan. At the chaos waiting in his eyes.
+		
+		"No," you say, your voice quiet, but it carries perfectly through the winter air. "It doesn't."
+		
+		Draegan goes perfectly still and for a heartbeat, the wind stops.
+		
+		Then, he smiles. It isn't a playful smirk. It is a slow, predatory grin that promises the end of the world.
+		
+		He steps away from the stake, moving toward you with that hypnotic, liquid grace.
+		
+		"Finally," he whispers, the honeyed rasp of his voice syncing perfectly with your pulse. "Someone who sees the cage for exactly what it is."
+		*goto aft_draeg
+
+*label aft_draeg
+He closes the distance between you.
+
+He doesn't walk. He glides. A dark flame flickering over the snow. 
+The delicate silver chains woven into his velvet coat chime with every step, a soft, haunting music that syncs perfectly with your pulse.
+
+The winter cold retreats, chased away by the unnatural, intoxicating heat radiating from his skin. 
+The scent of amber, polished leather, and sweet woodsmoke wraps around you, thick and heavy.
+
+He stops just out of arm's reach. Close enough that you have to look up into those impossible eyes. Blue ice drowning in liquid gold.
+
+"They'll ask you to bleed for a world that [i]hates[/i] you," he says softly.
+
+His voice is honey and rasp. A velvet caress that slides straight past your defenses.
+
+"Venora gave your bloodline [i]a gift[/i], and then she abandoned you to the wolves. 
+Nirael whispers in your dreams that your fate is sealed. 
+The Light [i]burns[/i] your neighbors to keep their altars warm, and the Queen looks at you like a stain on her perfect, freezing floors."
+
+He tilts his head. The gold in his eyes swirls with playful, deadly mischief.
+*page_break Next
+
+"They call it a grand design. A divine balance." A slow, dangerous smile curves his lips. [i]"I call it a slaughterhouse."[/i]
+
+He begins to circle you. Slow. [i]Hypnotic.[/i] A predator admiring the edge of a beautiful blade. You don't turn to track him. You just feel him. 
+The heat pressing against your back. The chime of the silver.
+
+"I am going to unmake it," he murmurs, his voice right by your ear. "The laws. The prophecies. The cold, dead gods sitting on their silent thrones. 
+I am going to tear down the tapestry they wove and weave a [i]new[/i] one."
+
+He steps back into your line of sight.
+
+"A cosmos where chaos isn't a punishment, but a canvas. Where the dark isn't something you hide in, but something you rule. 
+Where power belongs to those bold enough to take it, and fate is just a word used by the weak."
+
+He raises a hand.
+
+He doesn't touch you. He lets his long, pale fingers hover just a breath away from your cheek. But the heat is there. 
+An ember pressing against your skin, leaving a phantom brand.
+
+It feels warm. It feels like [i]safety[/i]. And that is the most terrifying part of all.
+
+"The Crown wants to cage you," Draegan whispers, his gaze locking onto yours, stripping away every secret you've ever kept. 
+"The Light wants to burn you. I am the only one who wants to set you [i]free[/i]."
+
+He lowers his hand, the smile softening into something that looks dangerously like genuine affection.
+*if (female)
+	"I am going to burn the cage, little witch. I am going to become the fire that unmakes the sky."
+*if (male)
+	"I am going to burn the cage, little witcher. I am going to become the fire that unmakes the sky."
+*if (el_pr)
+	"I am going to burn the cage, little witchling. I am going to become the fire that unmakes the sky."
+
+He takes one step back, leaving the choice suspended in the smoky air between you.
+
+"The only question is... do you want to hold the match with me?"
+*choice
+	#And what happens to the people inside the cage when it burns?
+		You don't step back.
+		
+		The heat is too good. The promise is too sweet.
+		
+		You look at the charred stake in the center of the square, thinking of Laemir’s soot-stained hands. Thinking of Kai in a silver uniform.
+		
+		You look back up into the smoldering gold of his eyes.
+		
+		"And what happens to the people inside the cage when it burns?" you ask. Your voice is barely a whisper, but it cuts through the heavy air.
+		
+		Draegan’s smile softens into something ancient and terrible.
+		
+		"The weak turn to ash," he murmurs, his presence wrapping around you like a heavy velvet cloak. "And the strong learn to breathe smoke. 
+		You are not meant to weep for the ants when you are reshaping the mountain, little spark. You are meant to stand at the peak."
+		
+		He tilts his head, his gaze a velvet trap.
+		
+		"And I want you at the peak with me."
+		*goto draeg_end_sc
+		
+	#You don't want to set me free. You just want to own the leash.
+		You dig your nails into your palm.
+		
+		You press into the jagged line of charcoal Laemir drew there. Iron and ash. I am real. 
+		
+		The grounding pain pushes through the intoxicating fog of amber and smoke. You straighten your spine.
+		
+		"You don't want to set me free," you say. Your voice is a whip crack in the silent square.
+		
+		You meet his gaze, refusing to flinch from the liquid gold.
+		
+		"You just want to own the leash."
+		
+		Draegan goes perfectly still. The wind howls around you, but the air between you is dead silent.
+		
+		Then, he laughs.
+		
+		It is a rich, dark, delighted sound that vibrates against your ribs.
+		
+		"Oh, you are magnificent," he purrs, his eyes sparkling with predatory thrill. 
+		"I don't want to leash you. I want to unleash you. But I suppose I will just have to prove it to you, won't I?"
+		*goto draeg_end_sc
+	
+	#Step back from his heat.
+		It is too much.
+		
+		The smell of amber. The haunting chime of the silver chains. The crushing weight of a god casually offering to unmake the sky.
+		
+		Your magic is screaming in your blood, desperate to answer him, to surrender to the chaos.
+		
+		You stumble backward.
+		The movement breaks the spell. The freezing wind of Ashwood slams into you, biting through your clothes, stinging your face with ice. It is a harsh, brutal cold.
+		
+		But it is real.
+		
+		You gasp, putting another step, then another, between you and the furnace of his skin.
+		
+		Draegan doesn't pursue you.
+		
+		He stands by the pyre, perfectly still, watching you retreat. 
+		The knowing smile never leaves his face. It is the look of a hunter who has already closed the trap, even if the prey hasn't realized it yet.
+		
+		"Run, if you must," his voice slides into your mind, effortless and smooth. 
+		"Hide in the cold. But eventually, the freeze will reach your bones. And when it does... you will come looking for the fire."
+		*goto draeg_end_sc
+
+*label draeg_end_sc
+You will not listen to this any longer. You need to get away from this. [i]From him.[/i]
+
+He does not chase after you.
+*page_break CASSARIEL’S POV
+
+[b]CASSARIEL’S POV[/b]
+The stone floor of the chapel is freezing, but Cassariel does not feel the cold.
+
+${cass_big_pron} kneels before the altar of the Light.
+
+${cass_big_pron} has been kneeling for two hours. ${cass_big_pronpp} spine is perfectly straight. ${cass_big_pronpp} breathing is a measured, silent rhythm. 
+Across ${cass_pronpp} eyes, ${cass_pron} wears the ceremonial silver-threaded blindfold of the Inquisitors, 
+a physical reminder that the Devoted do not look upon the sins of the world, they only see the will of the Light.
+
+${cass_big_pronpp} sword rests on the altar before ${cass_pronp}. The steel is polished to a mirror shine, reflecting the flickering, angry light of a hundred votive candles.
+
+${cass_big_pron} is praying for clarity.
+
+${cass_big_pron} is praying for the strength to bring the fire. To purge this rotting, mud-choked village of the shadows that cling to it.
+
+But the prayer will not come.
+
+Instead, every time ${cass_pron} seeks the divine silence of the Light, ${cass_pron} sees [i]them[/i].
+
+The heretic. The spark in the crowd. The one the Queen has come to execute.
+
+Cassariel’s jaw tightens. ${cass_big_pron} grips the edge of the altar, ${cass_pronpp} knuckles turning white.
+
+Being against evil doesn't make you good, ${cass_pronpp} mentor had once told ${cass_pronp}. It only makes you a weapon. And a weapon must be pointed.
+
+But ${cass_pronp} aim is faltering.
+*page_break Next
+
+${cass_big_pron} remembers the way ${pronouns} looked. Not terrified like the rest of the villagers. [i]Defiant.[/i] Like a flame refusing to be snuffed out. 
+When ${cass_pron} had sensed the hum of wild, untamed magic in the crowd earlier today, ${cass_pronpp} hand had gone to the hilt of ${cass_pronpp} blade. 
+It was ${cass_pronpp} duty to strike ${possessive_pronouns} down. To drag ${possessive_pronouns} before the Crimson Inquisitors.
+
+But ${cass_pron} hadn't.
+
+${cass_big_pron} had let ${possessive_pronouns} walk away.
+
+A sin of omission. A crack in the marble of ${cass_pronpp} faith.
+
+Cassariel reaches up. ${cass_big_pronpp} fingers, calloused from years of wielding the holy blade, catch the edge of the silver blindfold.
+
+Cassariel pulls the blindfold away.
+
+${cass_big_pron} opens ${cass_pronpp} eyes. They are a piercing, ashy grey, reflecting the violence of the candlelight. 
+${cass_big_pron} stares at the judging Valtessa above the altar.
+
+${cass_big_pron} expects to feel guilt. ${cass_big_pron} expects to feel the crushing weight of ${cass_pronpp} god's judgment for ${cass_pronpp} hesitation.
+
+But ${cass_pron} only feels a terrifying, unfamiliar hunger.
+
+${cass_big_pron} picks up ${cass_pronpp} sword. The steel sings softly as it leaves the stone.
+
+*if (el_pr)
+	If they are a witch, ${cass_pron} must hunt them. If they are the enemy, ${cass_pron} must destroy them. [i]Only through fire can the world be reborn whole.[/i]
+*else
+	If ${pronouns} is a witch, ${cass_pron} must hunt ${possessive_pronouns}. If ${pronouns} is the enemy, ${cass_pron} must destroy ${possessive_pronouns}. [i]Only through fire can the world be reborn whole.[/i]
+
+But as Cassariel walks down the aisle of the empty church, the shadows wrapping around ${cass_pronpp} white hair, ${cass_pron} knows the truth ${cass_pron} refuses to speak aloud.
+*page_break Next
+
+${cass_big_pron} isn't hunting ${possessive_pronouns} to kill ${possessive_pronouns}.
+
+${cass_big_pron} is hunting ${possessive_pronouns} because ${cass_pron} cannot bear the thought of anyone else finding ${possessive_pronouns} first.
+
+[i]If you damn me[/i], the quiet, treacherous thought whispers in ${cass_pronpp} mind, louder than any prayer, [i]then I will walk into hell with your name on my lips[/i].
+*page_break [b]${name}'s POV[/b]
+
+[b]${name}'s POV[/b]
+Draegan's laugh follows you, a dark, velvet sound that tangles in your hair and [i]burns[/i] against the back of your neck as you run.
+
+You don't look back. You tear through the frozen streets, your boots slipping on the hardened mud, your lungs burning with the icy air. 
+You just need a place where the shadows don't feel alive. A place where the scent of amber and sweet smoke cannot reach you.
+
+The church looms at the end of the street.
+
+Its heavy oak doors are banded in iron. [i]A fortress of the Light.[/i] The one place Draegan’s chaos surely cannot—or will not—enter.
+
+You throw your weight against the wood. The door groans, heavy and ancient, and you slip inside, shoving it shut behind you.
+
+The silence hits you like a physical weight.
+
+It is a different kind of cold in here. It isn't the biting winter wind. It is the sterile, absolute cold of holy stone and unanswered prayers. 
+The air smells of frankincense, melting wax, and old dust.
+
+You press your back against the heavy door, closing your eyes, dragging in ragged, desperate breaths. Your hands are shaking. 
+The charcoal mark Laemir drew on your palm is smeared with sweat.
+
+[i]You are safe.[/i]
+
+"The doors of the Light are open to the penitent," a voice says from the dark. "But you did not enter like someone looking for forgiveness."
+
+Your eyes snap open.
+
+[b]You are not alone.[/b]
+*page_break Next
+
+${cass_big_pron} steps out from the shadows of the pillars.
+
+${cass_big_pron} does not wear the white and silver of the Vanguard. ${cass_big_pron} is a blade of the Church, and ${cass_pron} wears their violence like a second skin.
+
+${cass_big_pronpp} robes are a red so deep and visceral it makes your teeth ache. 
+It is the color of a fresh kill bleeding out in the snow. 
+The fabric doesn't catch the candlelight. It drinks it. 
+It is embroidered with thick, arterial patterns—darker, bruised threads that seem to throb just beneath the surface if you stare too long. 
+When ${cass_pron} steps forward, the cloth doesn't rustle like normal fabric. It drags. 
+It moves with the dense, suffocating weight of a slow hemorrhage, pooling around ${cass_pronpp} boots as if saturated with a liquid that refuses to dry.
+
+Cassariel. The Devoted Blade.
+
+${cass_big_pron} stops at the edge of the candlelight. The silence between you is stretched so tight it threatens to snap. 
+${cass_big_pron} doesn't draw ${cass_pronpp} blade, but every line of ${cass_pronpp} body is rigid. A weapon waiting for the order to strike.
+
+${cass_big_pron} tilts ${cass_pronpp} head, looking at you.
+
+At first, you think ${cass_pronpp} eyes are gray. 
+But when the lantern light sways and the chapel banners ripple, you see flecks beneath the pale surface: hints of blue, ash, even a strange faint gold, 
+like a sky seen through smoke. They are not the eyes of someone young, though no wrinkle mars ${cass_pronpp} face. They are eyes that have watched fire take hold and not blinked. 
+Eyes that measure not flesh but marrow.
+
+And right now, they are measuring you.
+
+${cass_big_pron} steps closer. The heavy, measured tread of ${cass_pronpp} boots echoes off the vaulted ceiling.
+
+"You smell of the outside," Cassariel says softly. 
+${cass_big_pronpp} voice is a low, even cadence. 
+It is a voice designed to pass judgment, yet it trembles with an undercurrent of something entirely unholy. [i]"You smell of smoke. And panic."[/i]
+
+${cass_big_pron} stops mere feet from you. 
+${cass_big_pron} is close enough now that you can see the pulse beating at the base of ${cass_pronpp} throat, just above the silver collar of ${cass_pronpp} armor.
+
+${cass_big_pron} knows what you are. You felt ${cass_pronpp} gaze on you in the crowd earlier today. 
+${cass_big_pron} is a hound of the Light, and you are the witch standing in ${cass_pronpp} sanctuary. 
+By all the laws of Ashwood and the Crown, ${cass_pron} should call the Inquisitors. ${cass_big_pron} should drag you to the pyre you just fled.
+
+But ${cass_pronpp} hand leaves the hilt of ${cass_pronpp} sword.
+
+"What were you running from?" ${cass_pron} asks, the question slipping out like [i]a confession[/i] ${cass_pron} didn't mean to make.
+*choice
+	#"I just needed a place to breathe."
+		You push yourself off the heavy oak door.
+		
+		You will not cower. Not before a god in the square, and not before a zealot in the sanctuary.
+		
+		You force your breathing to slow. You meet those smoke-colored eyes and refuse to look away.
+		
+		"I'm not looking for forgiveness," you say, your voice steadier than your hands. "I just needed a place to breathe."
+		
+		Cassariel’s jaw tightens.
+		
+		${cass_big_pron} is used to people falling to their knees when the Devoted Blade approaches. ${cass_big_pron} is used to tears. To confessions spilling from terrified lips.
+		But you just stand there. Defiant. A spark in ${cass_pronpp} sterile church.
+		
+		${cass_big_pron} takes another step. The heavy, blood-red fabric of ${cass_pronpp} robes drags across the stone.
+		
+		"You are breathing," ${cass_pron} says, ${cass_pronpp} voice a low, [i]dangerous[/i] hum. "But your heart is beating like a trapped bird."
+		
+		${cass_big_pron} looks at your hand, still clenched around the charcoal mark, and then back up to your face.
+		
+		"The Light demands truth, not bravery. And you are suffocating on [i]a lie[/i]."
+		*goto cass_altar
+		
+		
+	#"The curfew. I didn't want to be caught out in the dark."
+		You look away from ${cass_pronp}.
+		
+		You look at the flickering candles, at the stone pillars, anywhere but into the eyes that measure marrow.
+		
+		"The curfew," you say, keeping your voice flat. Unremarkable. "The Queen’s soldiers are everywhere. I didn't want to be caught out in the dark."
+		It is a mundane lie. A human fear.
+		
+		But Cassariel is not a Vanguard soldier. ${cass_big_pron} is a hound of the Light.
+		${cass_big_pron} doesn't step back. ${cass_big_pron} steps closer.
+		
+		The scent of frankincense and melting wax is overwhelmed for a second by the phantom smell of amber and sweet woodsmoke clinging to your clothes. Draegan’s scent.
+		
+		Cassariel inhales sharply.
+		
+		${cass_big_pronpp} eyes darken, the flecks of blue and gold swallowed by storm-cloud gray.
+		
+		"The Vanguard do not smell of brimstone and ruin," ${cass_pron} whispers, so close now that you can feel the cold radiating from ${cass_pronpp} armor. 
+		"They do not leave the scent of ancient fire on your skin."
+		
+		${cass_big_pron} tilts ${cass_pronpp} head, ${cass_pronpp} gaze heavy and possessive.
+		
+		"You did not run from men tonight. [i]Try again.[/i]"
+		*goto cass_altar
+	
+	
+	
+	#"Something that wants to unmake the world."
+		Your shoulders drop.
+		The exhaustion hits you all at once. The adrenaline drains away, leaving you hollow and freezing.
+		
+		You look at the Devoted Blade. At the cross of Valtessa above the altar. At the bloody, visceral red of ${cass_pronpp} robes.
+		
+		"Something that wants to unmake the world," you whisper.
+		The words hang in the freezing air. Honest. Fractured.
+		
+		Cassariel freezes.
+		
+		The rigidity of the holy executioner fractures, just for a second. 
+		The hand resting near ${cass_pronpp} sword twitches—not to draw the blade, but as if ${cass_pron} wants to reach out. To steady you.
+		${cass_big_pron} has been taught that the world is already perfect under the Light. That only heretics speak of unmaking.
+		But when ${cass_pron} looks at you—shaking, terrified, smelling of a dark, impossible magic—${cass_pron} doesn't see a heretic.
+		${cass_big_pron} sees something ${cass_pron} wants to protect.
+		
+		"The world will not be unmade," Cassariel says. ${cass_big_pronpp} voice loses its sharp, judgmental edge. It becomes something softer. [i]A vow.[/i] 
+		"Not while I draw breath."
+		
+		${cass_big_pron} steps directly in front of you, placing ${cass_pronpp} body between you and the heavy oak doors. A living shield clothed in the color of wounds.
+		
+		"Tell me its name."
+		*goto cass_altar
+
+*label cass_altar
+The heavy iron latch of the church doors clacks.
+
+It echoes through the vaulted ceiling, loud as a gunshot in the sterile silence.
+*page_break Cassariel freezes
+
+The doors groan inward, admitting the howling wind and the rustle of heavy, formal vestments. These are men of the cloth. [i]The Crimson Inquisitors.[/i]
+
+"The perimeter is secure. The Queen's hounds are occupied in the lower village."
+
+It is the voice of the High Priest.
+
+Cassariel looks at the doors, then down at you.
+
+By all the laws of ${cass_pronpp} faith, ${cass_pron} should step aside. ${cass_big_pron} should let ${cass_pronpp} superiors find you. 
+${cass_big_pron} should hand you over to the fire.
+
+Instead, ${cass_pron} moves.
+
+${cass_big_pron} grabs your arm. ${cass_big_pronpp} grip is iron-hard and absolute, pulling you backward.
+
+[i]"Not a sound,"[/i] ${cass_pron} breathes, ${cass_pronpp} voice brushing against your temple.
+
+${cass_big_pron} drags you into the deep, shadowed alcove directly behind the stone altar. It is a space built for holy relics, not people. It is entirely [i]too small[/i].
+*if (short)
+	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to shield you from sight.
+*if (average)
+	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to shield you from sight.
+*if (tall)
+	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to try and shield you from sight.
+*if (very tall)
+	${cass_big_pron} presses you back against the freezing stone wall and steps in right against you, using ${cass_pronpp} body to try and shield you from sight.
+
+The heavy, visceral red of ${cass_pronpp} robes envelops you, smelling of old copper, incense, and rain. The fabric drags heavily across your legs. 
+The silver of ${cass_pronpp} armor bites through your clothes, cold and unyielding, but the chest beneath it is burning. 
+${cass_big_pron} is so [i]close[/i] you can feel the steady, measured, devout thud of ${cass_pronpp} heartbeat.
+*page_break You stop breathing
+
+Footsteps ring out on the stone floor, stopping just in front of the altar. Inches away from where Cassariel has you pinned in the dark.
+
+"The kid still lives," a second voice hisses. A Bishop. "I saw them carry ${sol_pronp} into the headman's house. How did our hunter fail?"
+
+"The arrow was true," the Inquisitor replies, his voice cold and clinical. 
+"It was meant to pierce ${sol_pronpp} heart. To cleanse the corrupted bloodline before the Queen could solidify her reign. The Light willed it."
+
+[b]"Then why is the Heir still breathing?!"[/b] the Bishop demands.
+*page_break Next
+
+"Because some rat in the woods intervened," the Inquisitor growls. "Our hunter tracked the blood trail. 
+The kid collapsed, and should have bled out in the snow. But someone found ${sol_pronp}. 
+Someone dragged ${sol_pronpp} dead weight through the mud, hid ${sol_pronp}, and stitched ${sol_pronp} back together before we could finish the job."
+
+You swallow hard. The charcoal mark on your palm smears against the stone wall.
+
+Your mind flashes back to the woods. To the terrifying weight of the ${sol_worm} slung over your shoulder. 
+To the copper smell of ${sol_pronpp} blood soaking into your coat. To Laemir’s hands, slick with red, frantically packing herbs into the wound to stop the bleeding. 
+You didn't use magic. You just refused to let ${sol_pronp} die.
+
+You saved the Heir to the Crown. And you saved ${sol_pronp} from the Church. [i]The weight of it all falls on you.[/i]
+
+"The Queen believes it was a hunting accident," the Inquisitor continues, pacing in front of the altar. 
+"She is using her Vanguard to scour the woods for the one who saved ${sol_pronp}. We must find them first. 
+If the Crown secures the savior, they secure the Heir's loyalty. Find the villager. Burn them for defying the Light's will. 
+And we will try for the kid again when the dust settles."
+
+[i]In the dark, you feel Cassariel's body trembling against yours.[/i]
+
+It is a minute, violent tremor. The shaking of a ${cass_worm} holding up a crumbling sky.
+
+${cass_big_pron} has killed for these men. ${cass_big_pron} has watched fire take hold of innocents because these men told ${cass_pronp} it was holy. 
+And now, they are standing at the altar of ${cass_pronpp} god, 
+plotting the murder of a ${sol_worm} and the burning of the mortal ${cass_pron} is currently shielding with ${cass_pronpp} own body.
+
+The footsteps on the other side of the altar begin to retreat, the heavy doors groaning as the holy men step back out into the freezing night. The latch falls shut.
+*page_break The church is silent again
+
+But Cassariel does not step back.
+
+${cass_big_pron} keeps you pinned against the wall, the heavy weight of ${cass_pronpp} bloody robes still caging you in. ${cass_big_pronpp} breath is ragged.
+
+${cass_big_pron} lifts a hand. Scarred fingers, shaking visibly now, brush against your jaw, tipping your face up to meet ${cass_pronpp} gaze in the suffocating dark.
+
+The lantern light catches ${cass_pronpp} eyes. The smoke and the gold are drowning. You are looking at a ${cass_worm} whose entire religion has just bled out on the floor.
+
+${cass_big_pron} imagines the way you smelled of panic. [i]The way you ran.[/i] ${cass_big_pron} looks at your hands, imagining them stained with the Heir's blood.
+
+"The woods," Cassariel whispers. The words are barely a breath, rough and utterly broken. "It was you."
+${cass_big_pron} stares at you, measuring not your marrow, but your truth.
+
+The words are barely a breath, rough with a terrifying realization. [i]"What did you do?"[/i]
+*page_break Next
+
+${cass_big_pron} doesn't ask you to confirm it. ${cass_big_pron} doesn't need to.
+
+The truth is written in the terrified spike of your pulse under ${cass_pronpp} hand. It is written in the mud on your boots and the exhaustion carved under your eyes.
+
+Cassariel closes ${cass_pronpp} eyes.
+
+For a moment, ${cass_pron} looks like a statue crumbling from the inside out. The absolute, terrifying certainty that has held ${cass_pronpp} spine straight for years snaps.
+
+${cass_big_pron} lets you go.
+
+${cass_big_pron} steps back, the heavy red robes swirling around ${cass_pronpp} boots like a pool of fresh blood. 
+${cass_big_pron} creates a foot of space between you—cold, empty space—but ${cass_pron} keeps ${cass_pronpp} body angled toward the doors, 
+shielding you from a threat that is no longer there.
+
+"They tried to kill ${sol_pronp}," ${cass_pron} whispers.
+
+It isn't a question. It is a verdict.
+
+${cass_big_pron} looks at ${cass_pronpp} hands. The hands that have held the sword of the Light. 
+The hands that have served the men who just admitted to ordering the slaughter of a ${sol_worm} in the woods.
+
+${cass_big_pron} looks sick.
+
+"Go," ${cass_pron} says.
+
+The word is rough. Grated out of a throat that feels too tight.
+
+You hesitate. You look at ${cass_pronp}—the Devoted Blade, standing in the ruin of ${cass_pronpp} own faith.
+
+"Cassariel—"
+
+"Go," ${cass_pron} snaps, ${cass_pronpp} eyes snapping open. The smoke and gold are turbulent, violent. "Before I remember my vows. Before they come back."
+
+${cass_big_pron} reaches out, grabbing the heavy iron handle of the side door—the servants' entrance. 
+${cass_big_pron} cracks it open. The wind howls, biting and vicious, cutting through the incense-heavy air of the chapel.
+
+You step toward the cold. You step toward freedom.
+
+But as you cross the threshold, ${cass_pronpp} hand shoots out.
+
+${cass_big_pron} catches your wrist. ${cass_big_pron} doesn't pull you back. ${cass_big_pron} just holds you there, suspended between the sanctuary and the storm.
+
+"You smell of amber," ${cass_pron} says.
+
+${cass_big_pronpp} voice is low. Urgent.
+
+"You smell of him. The Shadow in the square."
+
+${cass_big_pron} looks at you, ${cass_pronpp} gaze stripping you down to the bone. ${cass_big_pron} knows you met Draegan. 
+${cass_big_pron} knows you saved the Heir. ${cass_big_pron} knows you are carrying secrets that could burn the entire kingdom down.
+
+"Wash it off," Cassariel commands. A plea disguised as an order. "If the Inquisitors smell the Shadow on you... not even I will be able to stop what happens next."
+
+${cass_big_pron} releases you.
+
+"Run."
+*page_break You stumble out into the snow
+
+The heavy door slams shut behind you, sealing the Devoted Blade inside with ${cass_pronpp} dead gods.
+
+You are alone in the dark again.
+
+But the night has changed.
+
+The wind feels sharper. The shadows feel deeper.
+
+You force yourself to move. You keep your head down, skirting the edge of the village, avoiding the torchlight of the patrols. 
+You make it to the river that runs behind the miller's house.
+
+You break the thin ice at the edge with a stone. 
+You plunge your hands into the freezing black water, scrubbing at your skin, scrubbing at your clothes, 
+trying to wash away the scent of Draegan's amber and the phantom touch of the holy ${cass_worm}'s armor.
+
+You numb yourself until you can't feel the cold.
+*page_break Next
+
+Laemir is waiting.
+
+The house is warm. It smells of dried sage and the metallic tang of blood that never quite leaves the floorboards.
+
+Laemir is sitting by the hearth. She isn’t frantic. She isn’t holding a knife. She is just staring into the fire, her hands resting heavily in her lap.
+
+She looks up when you enter. She sees the water dripping from your coat. She sees the terror you haven't quite managed to scrub off.
+
+"The kid is upstairs," she says knowingly.
+
+She nods toward the stairs.
+
+"${sol_big_pron} asked for water. And ${sol_pron} asked for you."
+
+You nod, stripping off your soaked coat. You hang it by the door, your hands shaking slightly.
+
+You need to check the bandages. You need to make sure the fever hasn't taken ${sol_pronp}. ${sol_big_pron} is just a ${sol_worm} you found in the snow. 
+Just someone who got unlucky.
+
+But as you reach for the basin of fresh water, Cassariel’s voice echoes in your mind, cold and sharp as a blade.
+
+The arrow was true. It was meant to pierce ${sol_pronpp} heart.
+
+The Heir is still breathing.
+*page_break You stop
+
+You look at the curtain.
+
+You think of the wound. The precise, deadly placement of the arrow. 
+The fine linen of the shirt ${sol_pron} was wearing beneath ${sol_pronpp} rough hunter's furs—linen that felt too soft for a peasant.
+
+You think of the way ${sol_pron} speaks. Soft. Educated. Hiding ${sol_pronpp} accent behind a rougher cadence, but slipping when ${sol_pron}’s in pain.
+
+The basin rattles as you pick it up.
+
+You walk upstairs and push the door open.
+
+Solian is sitting up.
+
+${sol_big_pron} looks pale. ${sol_big_pronpp} skin is the colour of old parchment, dark circles bruised under ${sol_pronpp} eyes. 
+${sol_big_pronpp} chest is wrapped in thick layers of linen, the red stain seeping through just slightly over ${sol_pronpp} heart.
+
+${sol_big_pron} looks... normal.
+
+${sol_big_pron} looks like the friend who showed you the forbidden scripts. 
+The kid who laughs at ${sol_pronpp} own bad jokes and shares ${sol_pronpp} bread without asking for anything in return.
+
+${sol_big_pron} smiles when ${sol_pron} sees you. It is a genuine, crooked thing.
+
+"You look terrible," ${sol_pron} rasps, ${sol_pronpp} voice rough with sleep. "Did you fall in the river?"
+*page_break Next
+
+${sol_big_pron} tries to shift, to make room for you on the edge of the cot, but ${sol_pron} winces, ${sol_pronpp} hand flying to ${sol_pronpp} chest. 
+The blood seems fresh.
+
+"Careful," you say automatically.
+
+You set the basin down. You shouldn't touch ${sol_pronp}. You should back away slowly.
+
+But you don't. You reach out and check the bandage.
+
+The wound is right where Cassariel said it would be. An inch from the heart. [i]A kill shot.[/i]
+
+"The village is crawling with soldiers," you say quietly. You keep your eyes on ${sol_pronpp} wound. "The Queen has arrived."
+
+Solian stiffens under your hand.
+
+"I heard," ${sol_pron} says. ${sol_big_pronpp} voice loses its warmth. It becomes flat. [i]Resigned.[/i] "She... tends to make an entrance."
+
+"They are looking for someone," you continue. "They say the Heir to the Throne was injured in a hunting accident. They say ${sol_pron} is missing."
+
+You look up.
+*page_break You look ${sol_pronp} in the eye.
+
+Solian doesn't look away. ${sol_big_pron} doesn't panic. ${sol_big_pron} just looks tired. [i]So incredibly tired.[/i]
+
+"They are tearing the woods apart, Solian. The Church is involved. The Vanguard is involved."
+
+You step back, your heart hammering against your ribs.
+
+"You told me you were a [i]nobody[/i]."
+
+Solian closes ${sol_pronpp} eyes. ${sol_big_pron} leans ${sol_pronpp} head back against the rough wooden wall of your cottage. 
+${sol_big_pron} looks less like a ${sol_king} and more like a trapped animal that has finally stopped running.
+
+"I am," ${sol_pron} whispers. "When I'm here... that's all I am."
+
+${sol_big_pron} opens ${sol_pronpp} eyes again. They are sad. [i]Apologetic.[/i]
+
+"I didn't want you to know. I didn't want this to touch you."
+
+"It's too late for that," you say. The betrayal tastes bitter in your mouth. "You're ${sol_pronp}. You're the Heir."
+
+Solian looks at the low ceiling, at the drying herbs hanging from the rafters. The simple, quiet life ${sol_pron} has been pretending to live.
+
+"I am," ${sol_pron} admits. [i]"And I am so sorry."[/i]
+*choice
+	#"You lied to me."
+		You look at your hands.
+		
+		You can still feel the sticky warmth of ${sol_pronpp} blood on your skin. You remember the terror that gripped you when you thought that someone was dying in the snow.
+		
+		But it wasn't a friend. It was a ${sol_king} playing in the mud.
+		
+		"You lied to me," you say. Your voice isn't loud, but it is sharp enough to cut. "For weeks, you sat at our table. You ate our bread. 
+		I dragged you through the bloodied mud, Solian. I risked Laemir’s life to stitch you back together."
+		Solian flinches. The guilt on ${sol_pronpp} face is raw and entirely human.
+		
+		"You didn't think I deserved to know who I was saving?" you ask, the betrayal burning in your chest.
+		
+		"I wanted to be Solian," ${sol_pron} whispers, ${sol_pronpp} voice cracking.
+		
+		${sol_big_pron} looks down at ${sol_pronpp} bandaged chest. 
+		
+		"If I told you I was the Heir... you would have looked at me the way everyone else does. With fear. 
+		Or with greed. I just... I just wanted [i]one[/i] place in the world where I was only a ${sol_worm}."
+		*goto sol_conf
+	
+	#"Do you have any idea what they will do to us if they find you here?"
+		The walls of the cottage suddenly feel completely hollow.
+		
+		The smell of dried sage isn't enough to cover the stench of the danger sitting on the cot.
+		
+		"Do you have any idea what they will do to us?" you breathe, your eyes darting toward the window, out into the freezing dark. 
+		"If the Queen’s Vanguard finds you bleeding in a peasant's bed? If the Inquisitors realize we touched the royal bloodline without their holy permission?"
+		
+		You look back at ${sol_pronp}. The panic is a cold fist closing around your throat.
+		
+		"They will burn Laemir. They will burn me. They will burn this house to the ground and salt the earth. You brought the Crown to our door."
+		
+		Solian’s expression tightens. The easy charm vanishes, replaced by a sudden, terrifying clarity. 
+		${sol_big_pron} sees the absolute terror in your eyes, and ${sol_pron} realizes exactly what ${sol_pronpp} fantasy of freedom may cost you.
+		
+		"They won't touch her or you," Solian says. ${sol_big_pronpp} voice drops, the soft cadence of the hunter gone, replaced by the iron [i]authority[/i] of the Heir. 
+		"I swear it to you. I will not let them harm this house."
+		*set sol_rel +5
+		*goto sol_conf
+	
+	#"The Queen is here. You need to leave. Now."
+		The warmth leaves your chest. The betrayal doesn't make you angry; it just makes you cold.
+		
+		You step back from the cot. The distance between you isn't just physical anymore. It is an unbridgeable chasm. ${sol_big_pron} is the Crown. 
+		You are [i]the dirt[/i] beneath it.
+		
+		"The Queen is here," you say. Your voice is completely flat. "The village is locked down."
+		
+		Solian looks at you, ${sol_pronpp} brow furrowing. ${sol_big_pron} reaches out a hand, wincing as the movement pulls ${sol_pronpp} stitches. "Wait—"
+		
+		*if (love_meter_sol)
+			"No," you cut ${sol_pronp} off. You don't look at ${sol_pronp} as a lover anymore. 
+		*else
+			"No," you cut ${sol_pronp} off. You don't look at ${sol_pronp} as a friend anymore. 
+		You look at ${sol_pronp} as a liability. "You aren't Solian. You are the Heir. And you are a [i]danger[/i] to me and mine."
+		
+		You point toward the heavy coat resting on the chair.
+		
+		"You need to get up. You need to leave. Now."
+		
+		The rejection hits ${sol_pronp} harder than the arrow did. 
+		Solian lowers ${sol_pronpp} hand, the realization washing over ${sol_pronp} that the illusion is permanently broken. 
+		${sol_big_pron} isn't welcome in this house anymore.
+		*set love_meter_sol false
+		*set sol_rel -20
+		*goto sol_conf
+
+	#"You were running from her, weren't you?"
+		You look at ${sol_pronp}.
+		
+		You look past the fine linen and the royal blood. You look at the dark circles under ${sol_pronpp} eyes. 
+		
+		You think of the rumors of the Queen of [i]The Vesperian Empire[/i], the woman made of frost and steel, who looks at her own people like assets to be managed.
+		
+		You know what it feels like to be hunted. To be trapped by a fate you didn't ask for.
+		
+		Your anger softens, leaving behind a heavy, aching pity.
+		
+		"You were running from her, weren't you?" you ask quietly.
+		
+		Solian freezes. ${sol_big_pron} looks up at you, ${sol_pronpp} breath catching in ${sol_pronpp} throat. 
+		${sol_big_pron} expects anger. ${sol_big_pron} expects demands for gold or favor. ${sol_big_pron} doesn't expect to be completely, utterly [i]understood[/i].
+		
+		${sol_big_pron} lets out a long, shuddering breath, the tension draining out of ${sol_pronpp} shoulders.
+		
+		"Every day of my life," ${sol_pron} whispers. "She looks at me and sees a piece on a board. 
+		The Church looks at me and sees a threat to their power." ${sol_big_pron} looks up at you, ${sol_pronpp} eyes shining with unshed tears. 
+		"You were the only one who looked at me and just saw... me."
+		*set sol_rel +10
+		*goto sol_conf
+
+*label sol_conf
+The room is dead silent. Your eyes glisten with sadness from Solian's betrayal. Although this does not last long.
+
+The front door doesn't rattle. There is no knock. There is only the swift, terrifyingly silent click of the iron latch.
+
+The heavy wood [i]swings[/i] open, letting in a swirl of violently cold wind.
+
+Laemir gasps, scrambling backward, her hand dropping to the knife on the table. 
+You spin around, putting yourself between the stairs and the front room, your pulse skyrocketing.
+*page_break A shadow fills the doorway
+
+${elden_big_pron} has to duck to clear the frame. ${elden_big_pron} steps into the dim light of the dying fire, bringing the freezing night in with ${elden_pronp}.
+
+Elden.
+
+${elden_big_pron} is a mountain of a ${elden_worm}. 
+The kid you used to chase through the autumn woods is gone, buried beneath layers of dark, heavy leather and the suffocating, imposing aura of the King’s Guard. 
+${elden_big_pron} moves with a terrifying, silent grace that a ${elden_worm} of ${elden_pronpp} size should not possess.
+
+${elden_big_pron} shuts the door behind ${elden_pronp}, sealing the cold inside.
+
+${elden_big_pron} looks at Laemir. ${elden_big_pron} looks at you.
+
+There is a flicker of something in ${elden_pronpp} eyes—a brief, unspoken acknowledgment of the dirt-smudged kids you both used to be. 
+But ${elden_pronpp} face is carved from stone. ${elden_big_pron} doesn't smile. 
+${elden_big_pron} rarely speaks, and when ${elden_pron} does, it is only because the world is about to end.
+
+"They are moving," Elden says.
+*page_break Next
+
+${elden_big_pronpp} voice is a deep, resonant rumble that vibrates in the floorboards.
+
+Solian shifts behind you, pushing you aside with a wince. ${sol_big_pron} leans heavily against the doorframe, ${sol_pronpp} hand pressing against ${sol_pronpp} bloody bandages.
+
+"Who?" Solian asks, ${sol_pronpp} voice tight. "My mother's Vanguard?"
+
+Elden shakes ${elden_pronpp} huge head. ${elden_big_pron} steps further into the room, 
+${elden_pronpp} hand resting casually on the hilt of a broadsword that is nearly as tall as Laemir.
+
+"No. The Queen is furious you left, but she is keeping her hounds on a leash until dawn." Elden looks directly at you. [i]"It’s the Church."[/i]
+
+The blood drains from your face. You think of Cassariel trembling in the dark. You think of the Inquisitor’s voice behind the altar. Find the villager. [i]Burn them.[/i]
+
+"The Inquisitors aren't waiting for the sun," Elden continues, ${elden_pronpp} imposing presence filling the small room, making it hard to breathe. 
+"They crossed the square ten minutes ago. They have torches, and they have [i]the Devoted Blade[/i] leading them."
+*page_break Cassariel
+
+${cass_big_pron} told you to run. ${cass_big_pron} told you to wash the smell of Draegan off your skin. And now ${cass_pron} is marching directly toward your house.
+
+"They are dragging people into the street," Elden says to Solian. "They are looking for the one who saved you. 
+If they find you here, bleeding in a [i]peasant's bed[/i]... they will finish what the arrow started. And they will burn this house to the ground to cover the evidence."
+
+Solian curses, a sharp, bitter sound. ${sol_big_pron} tries to stand up straight, ${sol_pronpp} face twisting in agony as the wound pulls.
+
+"I won't let them touch this house," Solian grits out. ${sol_big_pron} looks at Elden. "Get my coat. We are leaving."
+
+"Highness, you can barely walk," Elden rumbles, taking a step toward ${elden_pronpp} prince.
+
+"I said get my coat, Elden." Solian’s voice snaps like a whip—the voice of an Heir, [i]commanding[/i] absolute obedience.
+
+Elden doesn't argue. ${elden_big_pron} moves to the chair, snatching up the fur coat.
+
+Outside, the wind carries a new sound.
+
+Not the howling of the storm.
+
+The heavy, rhythmic crunch of armored boots marching in unison. And the crackle of fire.
+*page_break Next
+
+The light through the cracks in the window shutters turns a sickly, violent orange. They are on your street.
+
+"Too late," Elden breathes, ${elden_pronpp} hand drawing ${elden_pronpp} broadsword an inch from its scabbard. The steel hisses in the quiet room.
+
+Laemir grips your arm, her fingers digging into your skin. "There is the root cellar," she whispers frantically. "Under the floorboards."
+
+Solian looks at you, ${sol_pronpp} chest heaving, ${sol_pronpp} calm mask slipping to reveal the terrified ${sol_worm} underneath.
+
+The heavy boots stop right outside your front door.
+
+And then, a fist pounds against the wood, loud enough to wake the dead.
+
+[b]"By order of the Light of Valtessa,"[/b] a voice rings out—cold, familiar, and utterly uncompromising. Cassariel. [b]"Open this door."[/b]
+*page_break The End... For Now...
+
+[i]That’s all for now.[/i]
+
+The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
+and pulling threads that will take you further into Ashwood and everything it hides.
+
+If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
+Your feedback means the world and helps shape where the path leads next!
+
+Thank you for playing.
+Thank you for reading.
+And thank you for walking with me into the dark.
+
+Until soon.
+
+[i]Your Audrine[/i]

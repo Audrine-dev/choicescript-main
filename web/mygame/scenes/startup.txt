@@ -60,6 +60,7 @@
 *create sol_pronpp ""
 *create sol_worm ""
 *create sol_him ""
+*create sol_king ""
 *create elden_pron ""
 *create elden_big_pron ""
 *create elden_pronp ""

@@ -1405,14 +1405,14 @@ Sol’s breath is steady, but there’s a tightness in ${sol_pronpp} jaw, a trem
 You feel ${sol_pronp} trembling in your arms—just enough to make your breath catch. Sol’s weight is solid against your chest, but ${sol_pron}’s not fragile.
 ${sol_big_pron}’s battle-worn, older than you in ways that have nothing to do with years, but in this moment, ${sol_pron}’s all raw edges and unspoken need.
 
-${sol_big_pronpp} arms are tight around your ribs, as if ${sol_pron}’s trying to press himself into the shape of your bones. 
+${sol_big_pronpp} arms are tight around your ribs, as if ${sol_pron}’s trying to press ${sol_him} into the shape of your bones. 
 You can feel ${sol_pronpp} heartbeat through your sleeve, quick and unsteady.
 
 “You—” ${sol_big_pronpp} voice catches like it’s snagged on something sharp. ${sol_big_pron} tries again, quieter, but it’s no steadier. 
 “I thought—maybe you’d gone. Like the others. Like the ones who promised they’d stay.”
 
 Your breath hitches. You hold ${sol_pronp} tighter, not because ${sol_pron}’s breaking, 
-but because ${sol_pron}’s holding himself together so fiercely you can almost feel the strain in ${sol_pronpp} spine.
+but because ${sol_pron}’s holding ${sol_him} together so fiercely you can almost feel the strain in ${sol_pronpp} spine.
 
 “Sol,” you murmur. Just ${sol_pronpp} name, like an anchor.
 

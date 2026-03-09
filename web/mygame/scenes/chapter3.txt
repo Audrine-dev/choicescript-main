@@ -85,7 +85,7 @@ And still—you don’t look away.
 
 [b]Sol’s POV[/b]
 
-Heat clings to ${sol_pron}. It lives beneath ${sol_pronpp} skin, eats at ${sol_pronpp} breath, curls like smoke in ${sol_pronpp} lungs.
+Heat clings to ${sol_pronp}. It lives beneath ${sol_pronpp} skin, eats at ${sol_pronpp} breath, curls like smoke in ${sol_pronpp} lungs.
 
 ${sol_big_pron} drifts.
 

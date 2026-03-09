@@ -1477,20 +1477,5 @@ It is a slow, knowing thing. A weapon wrapped in velvet. It promises danger. It 
 The snow falls harder now, burying the world in white silence. But you don’t feel the cold anymore.
 
 You only feel him.	
-*page_break The End... For Now...
-
-[i]That’s all for now.[/i]
-
-The story pauses here, but only for a breath. I'm already deep in the next chapter—unraveling secrets, shaping choices, 
-and pulling threads that will take you further into Ashwood and everything it hides.
-
-If something lingered with you—whether a moment, a line, or just the feel of the forest under your skin—I’d love to hear it. 
-Your feedback means the world and helps shape where the path leads next!
-
-Thank you for playing.
-Thank you for reading.
-And thank you for walking with me into the dark.
-
-Until soon.
-
-[i]Your Audrine[/i]
+*page_break Next Chapter
+*goto_scene chapter10

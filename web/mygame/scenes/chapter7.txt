@@ -917,7 +917,7 @@ What will you do when the choice comes?
 
 		To stand and fight means to face the world’s cruelty head-on — the whispers of fear, the flash of steel, the weight of lives hanging by a thread. 
 		It means embracing pain, sacrifice, and the terrible beauty of resistance. 
-		You will gather allies, kindle rebellion, and spark a light that even the deepest darkness [i]cannot/i] swallow. 
+		You will gather allies, kindle rebellion, and spark a light that even the deepest darkness [i]cannot[/i] swallow. 
 		The road will be brutal and lonely, but you will walk it with fire in your eyes and unyielding will in your heart.
 		*set willpower +1
 		*set stoneveil +1
