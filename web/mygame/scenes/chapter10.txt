@@ -240,7 +240,7 @@ What do you say?
 		
 		*if mother_rel >= 80
 			"We need to bar the door, mum. We need to hide." It’s a good distraction. [i]A valid fear.[/i] But it doesn't explain the heat in the room. Or the way your heart is trying to beat its way out of your chest.
-		*if if mother_rel <= 79
+		*if mother_rel <= 79
 			"We need to bar the door, Laemir. We need to hide." It’s a good distraction. [i]A valid fear.[/i] But it doesn't explain the heat in the room. Or the way your heart is trying to beat its way out of your chest.
 		*set mother_rel -10
 		*goto mom_con
@@ -857,10 +857,12 @@ But ${cass_pron} only feels a terrifying, unfamiliar hunger.
 
 ${cass_big_pron} picks up ${cass_pronpp} sword. The steel sings softly as it leaves the stone.
 
-*if (el_pr)
+*if (gender = "el_pr")
 	If they are a witch, ${cass_pron} must hunt them. If they are the enemy, ${cass_pron} must destroy them. [i]Only through fire can the world be reborn whole.[/i]
-*else
+*if (gender = "female")
 	If ${pronouns} is a witch, ${cass_pron} must hunt ${possessive_pronouns}. If ${pronouns} is the enemy, ${cass_pron} must destroy ${possessive_pronouns}. [i]Only through fire can the world be reborn whole.[/i]
+*if (gender = "male")
+	If ${pronouns} is a witcher, ${cass_pron} must hunt ${possessive_pronouns}. If ${pronouns} is the enemy, ${cass_pron} must destroy ${possessive_pronouns}. [i]Only through fire can the world be reborn whole.[/i]
 
 But as Cassariel walks down the aisle of the empty church, the shadows wrapping around ${cass_pronpp} white hair, ${cass_pron} knows the truth ${cass_pron} refuses to speak aloud.
 *page_break Next
